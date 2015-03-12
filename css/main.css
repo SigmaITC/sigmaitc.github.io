@@ -1,0 +1,26 @@
+body {
+	color: #666;
+	margin: 0;
+}
+
+
+.audible {
+	overflow: hidden;
+	position: absolute; top: auto; left: -10000px;
+	width: 1px; height: 1px;
+}
+
+
+.logo-image {
+	max-width: 230px;
+}
+
+.page-header {
+	background-color: #EEE;
+	padding: 1em;
+}
+
+.page-footer {
+	background-color: #222;
+	padding: 2em 1em 20em;
+}
