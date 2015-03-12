@@ -3,6 +3,12 @@ body {
 	margin: 0;
 }
 
+a { color: #468cbc; }
+a:hover { color: #222; }
+
+.block { display: block !important; }
+.inline-block { display: inline-block !important; }
+.inline { display: inline !important; }
 
 .audible {
 	overflow: hidden;
