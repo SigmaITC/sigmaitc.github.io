@@ -1389,6 +1389,12 @@ img, img.wp-post-image[style] { max-width: 100%; }
 	margin: 0; padding: 0;
 }
 
+.list-inline > li {
+	display: inline-block;
+	list-style-type: none;
+	margin-right: 0.5em;
+}
+
 .bg-white { background-color: #FFF; }
 
 .m0 { margin: 0; }
