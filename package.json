@@ -1,0 +1,23 @@
+{
+  "name": "sigmaitc.github.io",
+  "version": "1.0.0",
+  "description": "Main site for Sigma IT Consulting open source project",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SigmaITM/sigmaitm.github.io.git"
+  },
+  "author": "Chris Sundberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SigmaITM/sigmaitm.github.io/issues"
+  },
+  "homepage": "https://github.com/SigmaITM/sigmaitm.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  }
+}
