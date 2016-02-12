@@ -4933,30 +4933,6 @@ img, img.wp-post-image[style] {
 .mb3 {
   margin-bottom: 3em; }
 
-/* SMACSS Modules */
-.button {
-  background-color: #63cbca;
-  border-radius: 3px;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
-  color: white;
-  display: -moz-inline-stack;
-  display: inline-block;
-  font-weight: bold;
-  font-size: 12px;
-  padding: 6px 18px;
-  text-decoration: none !important;
-  -webkit-appearance: none;
-  -webkit-transition: background-color 0.2s ease-in-out;
-  -moz-transition: background-color 0.2s ease-in-out;
-  -o-transition: background-color 0.2s ease-in-out;
-  transition: background-color 0.2s ease-in-out;
-  vertical-align: middle;
-  zoom: 1; }
-
-.button:hover {
-  background-color: #49b2b1;
-  color: #FFF !important; }
-
 .logo-image {
   max-width: 230px; }
 
