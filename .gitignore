@@ -1,2 +1,24 @@
-bower_components/*
+# IDE/Editors
+.idea/*
+*.iml
+tmp/*
+
+# Bower
+bower_components/
+
+# Node.js
 node_modules/*
+npm-debug.log
+
+# Generated output
+build/*
+!build/index.html
+coverage/
+docs/
+report/
+**/*.min.js
+
+# Other
+.DS_Store
+config.codekit
+**/*.suo
