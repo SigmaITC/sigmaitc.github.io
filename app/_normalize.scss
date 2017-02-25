@@ -12,14 +12,6 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
-/**
- * Remove default margin.
- */
-
-body {
-  margin: 0;
-}
-
 /* HTML5 display definitions
    ========================================================================== */
 
@@ -57,16 +49,6 @@ progress,
 video {
   display: inline-block; /* 1 */
   vertical-align: baseline; /* 2 */
-}
-
-/**
- * Prevent modern browsers from displaying `audio` without controls.
- * Remove excess height in iOS 5 devices.
- */
-
-audio:not([controls]) {
-  display: none;
-  height: 0;
 }
 
 /**

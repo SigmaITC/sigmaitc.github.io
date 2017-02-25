@@ -1,0 +1,44 @@
+.btn {
+    border: $button-border;
+    border-radius: $button-radius;
+    display: inline-block;
+    height: $button-height;
+    line-height: $button-height;
+    outline: 0;
+    padding: $button-padding;
+    // Gets rid of tap active state
+    -webkit-tap-highlight-color: transparent;
+    text-transform: uppercase;
+    vertical-align: middle;
+
+    text-decoration: none;
+    color: $button-raised-color;
+    background-color: $button-raised-background;
+    text-align: center;
+    letter-spacing: .5px;
+    @extend .z-depth-1;
+    transition: .2s ease-out;
+    cursor: pointer;
+
+    &:hover {
+        background-color: $button-raised-background-hover;
+        @extend .z-depth-1-half;
+    }
+
+    &:focus {
+        background-color: darken($button-raised-background, 10%);
+    }
+
+    &.disabled, &:disabled, &[disabled] {
+        background-color: $button-disabled-background;
+        box-shadow: none;
+        color: $button-disabled-color;
+        cursor: default;
+        pointer-events: none;
+
+        &:hover {
+            background-color: $button-disabled-background;
+            color: $button-disabled-color;
+        }
+    }
+}

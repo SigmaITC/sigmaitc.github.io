@@ -33,45 +33,79 @@
 
         <title>Sigma IT Consulting</title>
 
-        <link href="css/main.css" rel="stylesheet" media="all"/>
+        <link href="assets/app.css" rel="stylesheet" media="all"/>
     </head>
-    <body>
+    <body class="page">
         <header class="page-header" role="banner">
-            <div class="row">
-                <div class="small-12 columns">
-                    <a href="https://sigmaitc.github.io/">
-                      <img src="img/sigma-logo.png" alt="Sigma expect a better tomorrow" class="logo-image" width="215" height="60" />
-                    </a>
-                    <h1 class="audible">Sigma IT &amp; Management</h1>
-                </div>
+            <div class="page-header__content">
+                <a href="https://sigmaitc.github.io/">
+                    <img src="img/sigma-logo.png" alt="Sigma expect a better tomorrow" class="logo-image" width="215" height="60" />
+                </a>
+                <h1 class="audible">Sigma IT &amp; Management</h1>
             </div>
         </header>
 
         <div class="navigation-container container">
         	<nav class="nav-container">
-		        <div class="row">
-		            <div class="nine columns">
-                        <ul class="nav-menu">
-                            <li class="nav-menu-item"><a class="nav-link" href="https://sigmaitc.github.io/front-end-by-sigma">Front End</a></li>
-                            <li class="nav-menu-item"><a class="nav-link" href="https://sigmaitc.github.io/java-by-sigma">Java</a></li>
-                            <li class="nav-menu-item"><a class="nav-link" href="https://sigmaitc.github.io/net-by-sigma">.NET</a></li>
-                            <li class="nav-menu-item"><a class="nav-link" href="https://sigmaitc.github.io/rnd-by-sigma">RnD</a></li>
-                        </ul>
-                    </div>
-                </div>
-      		</nav>
+                <ul class="nav-menu">
+                    <li class="nav-menu-item"><a class="nav-link" href="https://sigmaitc.github.io/front-end-by-sigma">Front End</a></li>
+                    <li class="nav-menu-item"><a class="nav-link" href="https://sigmaitc.github.io/java-by-sigma">Java</a></li>
+                    <li class="nav-menu-item"><a class="nav-link" href="https://sigmaitc.github.io/net-by-sigma">.NET</a></li>
+                    <li class="nav-menu-item"><a class="nav-link" href="https://sigmaitc.github.io/rnd-by-sigma">RnD</a></li>
+                </ul>
+  		    </nav>
       	</div>
 
-        <main id="main-content" class="bg-white" role="main" style="min-height: 36em;">
-            <div class="row">
-                <div class="small-12 columns mt3 mb3">
-                    <h1>Open Source by Sigma</h1>
-                    <p>Start learning front end the Sigma way at <a href="http://sigmaitc.github.io/front-end-by-sigma/">Front End By Sigma</a></p>
-                    <p>Start learning Java the Sigma way at <a href="http://sigmaitc.github.io/java-by-sigma/">Java By Sigma</a></p>
-                    <p>Start learning .NET the Sigma way at <a href="http://sigmaitc.github.io/net-by-sigma/">.Net By Sigma</a></p>
-                    <p>Start learning RnD the Sigma way at <a href="http://sigmaitc.github.io/rnd-by-sigma/">RnD By Sigma</a></p>
-                </div>
-            </div>
+        <main id="main-content" class="page-body" role="main">
+            <section class="page-section">
+                <h1>Open Source by Sigma</h1>
+                <p>Start learning front end the Sigma way at <a href="http://sigmaitc.github.io/front-end-by-sigma/">Front End By Sigma</a></p>
+                <p>Start learning Java the Sigma way at <a href="http://sigmaitc.github.io/java-by-sigma/">Java By Sigma</a></p>
+                <p>Start learning .NET the Sigma way at <a href="http://sigmaitc.github.io/net-by-sigma/">.Net By Sigma</a></p>
+                <p>Start learning RnD the Sigma way at <a href="http://sigmaitc.github.io/rnd-by-sigma/">RnD By Sigma</a></p>
+
+                <a href="https://github.com/SigmaITC/front-end-by-sigma/" id="view-on-github" class="waves-effect waves-light btn"><span>View on GitHub</span></a>
+
+                <ul class="collapsible popout mb2" data-collapsible="accordion">
+                    <li>
+                        <div class="collapsible-header">
+                                    <img src="images/html5.jpg" alt="HTML5" class="" style="margin: .5em; vertical-align: middle;" width="40" height="40" />
+                            HTML5
+
+                            <small style="display: inline-block; float: right; clear: both;">Level 1</small>
+                        </div>
+                        <div class="collapsible-body" style="">
+                            <div style="padding: 2em;">
+                                <p style="margin-bottom: 1em; padding: 0;">Vid den här nivån bör man förstå grundläggande semantik. Hur man använder &lt;header&gt;, &lt;footer&gt;, &lt;main&gt;, &lt;article&gt;, &lt;section&gt;, &lt;aside&gt; på korrekt sätt. Vad &lt;table&gt; ska användas till och vad man absolut inte ska göra med den. Strukturera rubriknivåer korrekt. Använda &lt;form&gt; och &lt;input&gt; samt alla fälttyper och valideringsegenskaper. Kunna avgöra när man använder &lt;a&gt; eller &lt;button&gt;. Använda &lt;div&gt; och &lt;span&gt; ansvarsfullt. <br> Read more: <a href="https://www.w3.org/TR/html5/">HTML5</a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="collapsible-header">
+                                    <img src="images/html5.jpg" alt="Microdata" class="" style="margin: .5em; vertical-align: middle;" width="40" height="40">
+                            Microdata
+                            <small style="display: inline-block; float: right; clear: both;">Level 2</small>
+                        </div>
+                        <div class="collapsible-body" style="">
+                            <div style="padding: 2em;">
+                                <p style="margin-bottom: 1em; padding: 0;"> <br> Read more: <a href="https://www.w3.org/TR/microdata/">Microdata</a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="collapsible-header">
+                                    <img src="images/html5.jpg" alt="Accessibility" class="" style="margin: .5em; vertical-align: middle;" width="40" height="40">
+                            Accessibility
+                            <small style="display: inline-block; float: right; clear: both;">Level 2</small>
+                        </div>
+                        <div class="collapsible-body" style="">
+                            <div style="padding: 2em;">
+                                <p style="margin-bottom: 1em; padding: 0;"> <br> Read more: <a href="https://www.w3.org/WAI/">Accessibility</a></p>
+                            </div>
+                        </div>
+                    </li>
+                  </ul>
+            </section>
         </main>
 
         <footer class="page-footer" role="contentinfo">
@@ -95,7 +129,6 @@
           }
         </script>
 
-        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-        <script type="text/javascript" src="js/materialize.min.js"></script>
+        <script type="text/javascript" src="assets/app.js" defer></script>
     </body>
 </html>
