@@ -1,0 +1,13 @@
+/**
+ * Document
+ */
+.document {
+    /* Set default font family to sans-serif. */
+    font-family: sans-serif;
+    font-size: 62.5%;
+    height: 100%;
+
+    /* Prevent iOS and IE text size adjust after device orientation change, without disabling user zoom. */
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}

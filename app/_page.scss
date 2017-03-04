@@ -1,0 +1,51 @@
+/**
+ * Page
+ */
+.page {
+    background-color: var(--black);
+    color: var(--gray);
+    font-size: 1.4rem;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.4;
+    margin: 0;
+}
+
+.page-header {
+    background-color: white;
+    display: block;
+    font-size: 1.4rem;
+    padding: 1.2rem;
+
+    &__content {
+        margin: 0 auto;
+        max-width: 67.14em;
+        width: 100%;
+    }
+}
+
+.page-body {
+    background-color: white;
+    display: block;
+    font-size: 1.4rem;
+    min-height: 36em;
+    padding: 0 1.2rem;
+}
+
+.page-section {
+    display: block;
+    font-size: 1.4rem;
+    margin: 0 auto;
+    max-width: 67.14em;
+    padding: 1.2rem 0;
+    width: 100%;
+}
+
+.page-footer {
+    background-color: var(--black);
+    display: block;
+    font-size: 1.4rem;
+    margin: 0 auto;
+    max-width: 67.14em;
+    padding: 3.6rem 1.2rem 4.8rem;
+    width: 100%;
+}

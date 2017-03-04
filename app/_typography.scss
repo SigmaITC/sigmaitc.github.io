@@ -1,0 +1,103 @@
+/**
+ * Typography
+ */
+
+.heading {
+    font-family: "UniversLTW01-59UltraCn", arial, sans-serif;
+    margin: 0.25em 0;
+    text-transform: uppercase;
+}
+
+.heading--xl {
+    color: var(--teal);
+    font-size: 5.6rem;
+}
+
+.heading--l, .heading--m, .heading--s {
+    color: #002f47;
+}
+
+.heading--l {
+    font-size: 4.2rem;
+}
+
+.heading--m {
+    font-size: 2.1rem;
+}
+
+.heading--s {
+    font-size: 1.5rem;
+}
+
+/**
+ * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
+ */
+.abbr[title] {
+    border-bottom: 1px dotted;
+}
+
+/**
+ * Address styling not present in Safari and Chrome.
+ */
+.dfn {
+    font-style: italic;
+}
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+.mark {
+    background: yellow;
+    color: black;
+}
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+.small {
+    font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+.sub, .sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+.sup {
+    top: -0.5em;
+}
+
+.sub {
+    bottom: -0.25em;
+}
+
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
+ */
+.b, .strong {
+    font-weight: 700;
+}
+
+/**
+ * Contain overflow in all browsers.
+ */
+.pre {
+    overflow: auto;
+}
+
+/**
+ * Address odd `em`-unit font size rendering in all browsers.
+ */
+.code, .kbd, .pre, .samp {
+    font-family: monospace;
+    font-size: 1em;
+}
+
+.preamble {
+    font-size: 1.8rem;
+}

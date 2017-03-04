@@ -1,44 +1,47 @@
 .btn {
-    border: $button-border;
-    border-radius: $button-radius;
+    background-color: transparent;
+    border: 1px solid var(--teal);
+    box-sizing: border-box;
+    color: var(--teal);
+    cursor: pointer;
     display: inline-block;
-    height: $button-height;
-    line-height: $button-height;
+    font-size: 2.4rem;
+    font-weight: 700;
+    height: 3.6rem;
+    letter-spacing: 0.5px;
+    line-height: 1.25;
     outline: 0;
-    padding: $button-padding;
+    /* Address `overflow` set to `hidden` in IE 8/9/10/11. */
+    overflow: visible;
+    padding: 0.4rem 4.2rem;
     // Gets rid of tap active state
     -webkit-tap-highlight-color: transparent;
+    text-align: center;
+    text-decoration: none;
     text-transform: uppercase;
+    transition: 0.2s ease-out;
     vertical-align: middle;
 
-    text-decoration: none;
-    color: $button-raised-color;
-    background-color: $button-raised-background;
-    text-align: center;
-    letter-spacing: .5px;
-    @extend .z-depth-1;
-    transition: .2s ease-out;
-    cursor: pointer;
-
-    &:hover {
-        background-color: $button-raised-background-hover;
-        @extend .z-depth-1-half;
+    &::-moz-focus-inner {
+        border: 0;
+        padding: 0;
     }
 
-    &:focus {
-        background-color: darken($button-raised-background, 10%);
+    &:hover, &:focus {
+        background-color: var(--teal);
+        color: white;
+        text-decoration: none;
     }
 
     &.disabled, &:disabled, &[disabled] {
-        background-color: $button-disabled-background;
-        box-shadow: none;
-        color: $button-disabled-color;
+        background-color: transparent;
+        color: var(--gray);
         cursor: default;
         pointer-events: none;
 
         &:hover {
-            background-color: $button-disabled-background;
-            color: $button-disabled-color;
+            background-color: transparent;
+            color: var(--gray);
         }
     }
 }

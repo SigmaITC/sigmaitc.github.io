@@ -1,0 +1,36 @@
+/**
+ * Level Badge
+ */
+.level-badge {
+    background-color: var(--teal);
+    border-radius: 50%;
+    color: white;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 2.5;
+    margin-bottom: 0.6em;
+    text-align: center;
+    width: 4em;
+
+    &__text {
+        font-size: 1.2rem;
+    }
+
+    &__number {
+        font-size: 1.6em;
+    }
+}
+
+.category-title, .category-body {
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.contributors-list {
+    margin: 0 24px;
+
+    > li {
+        line-height: 3;
+    }
+}

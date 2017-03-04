@@ -1,0 +1,38 @@
+.primary-navigation {
+    background-color: var(--black);
+    display: block;
+}
+
+.nav-menu {
+    font-size: 1.4rem;
+    margin: 0 auto;
+    max-width: 67.14em;
+    width: 100%;
+}
+
+.nav-menu-item {
+    display: block;
+    position: relative;
+
+    @media (min-width: 361px) {
+        display: inline-block;
+    }
+}
+
+.nav-link {
+    background-color: var(--black);
+    color: white;
+    display: block;
+    font-weight: 700;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 1.2rem;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    &:hover, &:focus {
+        background-color: white;
+        color: var(--black);
+        text-decoration: none;
+    }
+}

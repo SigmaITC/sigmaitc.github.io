@@ -1,29 +1,3 @@
-// ==========================================================================
-// Materialize variables
-// ==========================================================================
-
-$secondary-color: #26a69a;
-
-// 3. Buttons
-// ==========================================================================
-
-// Shared styles
-$button-border: none !default;
-$button-background-focus: lighten($secondary-color, 4%) !default;
-$button-font-size: 1.3rem !default;
-$button-height: 36px !default;
-$button-padding: 0 2rem !default;
-$button-radius: 2px !default;
-
-// Disabled styles
-$button-disabled-background: #DFDFDF !default;
-$button-disabled-color: #9F9F9F !default;
-
-// Raised buttons
-$button-raised-background: $secondary-color !default;
-$button-raised-background-hover: lighten($button-raised-background, 5%) !default;
-$button-raised-color: #fff !default;
-
 // 5. Collapsible
 // ==========================================================================
 
@@ -56,21 +30,3 @@ $num-cols: 12 !default;
 $gutter-width: 1.5rem !default;
 $element-top-margin: $gutter-width/3 !default;
 $element-bottom-margin: ($gutter-width*2)/3 !default;
-
-// 18. Tables
-// ==========================================================================
-
-$table-border-color: #d0d0d0 !default;
-$table-striped-color: #f2f2f2 !default;
-
-// 20. Typography
-// ==========================================================================
-
-$off-black: rgba(0, 0, 0, 0.87) !default;
-// Header Styles
-$h1-fontsize: 4.2rem !default;
-$h2-fontsize: 3.56rem !default;
-$h3-fontsize: 2.92rem !default;
-$h4-fontsize: 2.28rem !default;
-$h5-fontsize: 1.64rem !default;
-$h6-fontsize: 1rem !default;
