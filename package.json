@@ -22,7 +22,7 @@
     "build": "webpack -p",
     "commit": "commit-wizard",
     "lint:css": "stylelint sass/**/*.scss",
-    "lint:js": "eslint . --ext .js --ext .json --ignore-path .gitignore",
+    "lint:js": "eslint . --ext .js --ext .json --ignore-path .eslintignore",
     "lint:yaml": "yamllint .travis.yml **/*.yml **/**/*.yml",
     "test": "run-s lint:js",
     "upgrade": "updtr --save-exact"
