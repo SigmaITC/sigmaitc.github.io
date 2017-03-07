@@ -3,7 +3,6 @@
     border-right: 1px solid $collapsible-border-color;
     border-top: 1px solid $collapsible-border-color;
     margin: $element-top-margin 0 $element-bottom-margin 0;
-    @extend .z-depth-1;
 }
 
 .collapsible-header {
@@ -13,16 +12,6 @@
     display: block;
     line-height: $collapsible-height;
     min-height: $collapsible-height;
-
-    i {
-        display: block;
-        float: left;
-        font-size: 1.6rem;
-        line-height: $collapsible-height;
-        margin-right: 1rem;
-        text-align: center;
-        width: 2rem;
-    }
 }
 
 .collapsible-body {
@@ -30,11 +19,6 @@
     box-sizing: border-box;
     display: none;
     padding: 1.2rem 0;
-
-    p {
-        margin: 0;
-        padding: 2rem;
-    }
 }
 
 // Popout Collapsible
