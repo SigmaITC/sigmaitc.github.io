@@ -14,7 +14,7 @@ npm-debug.log
 build/*
 !build/index.html
 coverage/
-docs/
+_site
 report/
 **/*.min.js
 

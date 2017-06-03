@@ -1,0 +1,125 @@
+##
+# This file contains the categories that can be listed.
+#
+# Each category has the following properties:
+#
+# title {String} - The name of the category e.g. Programming, Architecture.
+# description {String} (optional) - The main description for the category. This can be used for categories where skill levels don't apply.
+# levels {Array} - A list of levels for the category.
+##
+
+-
+    title: "Markup"
+    levels:
+        -
+        -
+            description: "Vid den här nivån bör man förstå grundläggande semantik. Hur man använder <header>, <footer>, <main>, <article>, <section>, <aside> på korrekt sätt. Vad <table> ska användas till och vad man absolut inte ska göra med den. Strukturera rubriknivåer korrekt. Använda <form> och <input> samt alla fälttyper och valideringsegenskaper. Kunna avgöra när man använder <a> eller <button>. Använda <div> och <span> ansvarsfullt."
+        -
+            description: ""
+-
+    title: "Styling - General"
+    description: ""
+-
+    title: "Styling - Frameworks/Libs"
+    description: ""
+-
+    title: "Styling - Architecture"
+    description: ""
+-
+    title: "Styling - Preprocessors"
+    description: "CSS preprocessors has long been the solution to creating DRY CSS, handle browser prefixing and more. Among the alternatives Sass has been the most popular and community supported. However with recent developments of CSS a lot of the features that made preprocessors useful are now landing natively in CSS. Wheter you are working on an existing project or starting a new one you should instead focus on CSS postprocessors. Using PostCSS together with plugins such as cssnext and cssnano you will be able to write future proof CSS with automatic browser fallbacks and optimizations."
+-
+    title: "Styling - Postprocessors"
+    description: "CSS postprocessors is the current way forward. Using PostCSS together with plugins such as cssnext and cssnano you will be able to write future proof CSS with automatic browser fallbacks and optimizations."
+-
+    title: "Programming - General"
+    description: ""
+-
+    title: "Programming - Frameworks/Libs"
+    description: ""
+-
+    title: "Programming - Functional Programming"
+    description: ""
+-
+    title: "Programming - Logging"
+    description: ""
+-
+    title: "Data Formats"
+    description: "When it comes to front end there are mainly three popular data formats JSON, YAML and XML. XML used to be the most widely used, but has succumbed in favor of the lighter and less verbose formats. You are likely to see these data formats being used in varying situations e.g. configuration, data transactions and persistance."
+-
+    title: "Templating Engines"
+    description: ""
+-
+    title: "Architecture"
+    description: ""
+-
+    title: "Quality Assurance - General"
+    description: ""
+-
+    title: "Quality Assurance - Unit Testing"
+    description: ""
+-
+    title: "Quality Assurance - End-to-end"
+    description: ""
+-
+    title: "Quality Assurance - Visual Regression Testing"
+    description: ""
+-
+    title: "Quality Assurance - Continous Integration"
+    description: ""
+-
+    title: "Security"
+    description: ""
+-
+    title: "Methodology"
+    description: ""
+-
+    title: "Analytics"
+    description: ""
+-
+    title: "CMS"
+    description: ""
+-
+    title: "Cross Platform Applications"
+    description: ""
+-
+    title: "Tooling - General"
+    description: ""
+-
+    title: "Tooling - Building"
+    description: ""
+-
+    title: "Tooling - Documentation"
+    description: ""
+-
+    title: "Tooling - Editors/IDE"
+    description: ""
+-
+    title: "Tooling - Linting"
+    description: "Linting is a form of static code analysis that aims to find syntax errors and enfore best practices. It has been adopted in other languages such as Java and C# for quite some time, while front end has caught on in recent years. It started with JSLint which was very opinionated which led to the creation of JSHint which was more flexible. Since these tools focused on best practices there was also JSCS for checking code style and format. All of these tools have now been succeeded by ESLint which is a plugin based and extendable ruleset. For CSS (and preprocessor languages) we have the equivalent which is stylelint."
+-
+    title: "Tooling - Package Management"
+    description: ""
+# -
+#    title: "Tooling - Quality Assurance"
+#    description: ""
+-
+    title: "Tooling - Sandboxes"
+    description: ""
+-
+    title: "Tooling - Scaffolding"
+    description: ""
+-
+    title: "Tooling - Version Control"
+    description: ""
+-
+    title: "Twitter"
+-
+    title: "Blogs"
+-
+    title: "Newsletters"
+-
+    title: "Online Courses"
+    description: ""
+-
+    title: "Youtube"

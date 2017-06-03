@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+
+bundle exec jekyll build -s docs -d docs/_site
+bundle exec htmlproofer docs/_site --url-ignore "/www.vagrantup.com/"

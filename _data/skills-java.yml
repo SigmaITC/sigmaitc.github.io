@@ -1,0 +1,325 @@
+##
+# This file contains the skills that can be listed.
+#
+# Each skill has the following properties:
+#
+# title {String} - The name of the skill e.g. CSS, JavaScript.
+# link {String} - A URL to a webpage with more detailed information.
+# description {String} - A shorter description of the skill.
+# recommended {Boolean} (optional) - Flags that the contributors recommend this skill above similar alternatives.
+# image {String} (optional) - An image (preferably the logo) related to the skill.
+# level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
+# tags {String} - The tags are used to link the skill to a category in the categories.yml file.
+# related {Array} (optional) - A list of related resources.
+#
+# The related list item have the following properties:
+# title {String} - Link text for the resource.
+# link {String} - The URL to the resource.
+# description {String} - A brief description of the resource.
+# level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
+##
+
+# Programming
+-
+    title: "Java Standard Edition"
+    link: "http://www.oracle.com/technetwork/java/javase/overview/"
+    description: ""
+    image: "java.png"
+    level: 1
+    tags: "Programming"
+    related:
+        -
+            title: "Lambda"
+            link: "http://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html"
+            level: 2
+-
+    title: "Java Enterprise Edition"
+    link: "http://www.oracle.com/technetwork/java/javaee/overview/"
+    description: ""
+    image: "java.png"
+    level: 2
+    tags: "Programming"
+    related:
+        -
+            title: "Java EE Overview"
+            link: "https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition"
+            level: 1
+        -
+            title: "Java EE 6 Tutorial"
+            link: "http://docs.oracle.com/javaee/6/tutorial/doc/"
+            level: 2
+        -
+            title: "Java EE 7 Tutorial"
+            link: "http://docs.oracle.com/javaee/7/tutorial/"
+            level: 2
+        -
+            title: "JMS"
+            link: "http://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html"
+            level: 2
+-
+    title: "Scala"
+    link: "https://www.scala-lang.org/"
+    description: ""
+    image: "scala.png"
+    level: 3
+    tags: "Programming"
+
+# Application Servers
+-
+    title: "WildFly"
+    link: "http://wildfly.org/"
+    description: ""
+    image: "wildfly.png"
+    level: 2
+    tags: "Application Servers"
+-
+    title: "JBoss EAP"
+    link: "https://developers.redhat.com/products/eap/overview/"
+    description: ""
+    image: "jboss.jpg"
+    level: 2
+    tags: "Application Servers"
+-
+    title: "WebSphere"
+    link: "http://www-03.ibm.com/software/products/en/appserv-was"
+    description: ""
+    image: "websphere.png"
+    level: 2
+    tags: "Application Servers"
+-
+    title: "Tomcat"
+    link: "https://tomcat.apache.org/"
+    description: ""
+    image: "tomcat.jpg"
+    level: 2
+    tags: "Application Servers"
+
+# Big Data
+-
+    title: "Hadoop"
+    link: "https://hadoop.apache.org/"
+    description: ""
+    image: "hadoop.jpeg"
+    level: 3
+    tags: "Big Data"
+-
+    title: "MongoDB"
+    link: "https://www.mongodb.org/"
+    description: ""
+    image: "mongodb.png"
+    level: 3
+    tags: "Big Data"
+
+# CMS
+-
+    title: "Magnolia"
+    link: "https://www.magnolia-cms.com/"
+    description: ""
+    image: "magnolia.png"
+    level: 3
+    tags: "CMS"
+
+# Integration
+-
+    title: "Enterprise Integration Patterns"
+    link: "http://www.enterpriseintegrationpatterns.com/"
+    description: ""
+    image: ""
+    level: 3
+    tags: "Integration"
+-
+    title: "Mule"
+    link: "https://developer.mulesoft.com/"
+    description: ""
+    image: "mulesoft.png"
+    level: 3
+    tags: "Integration"
+-
+    title: "Camel"
+    link: "https://camel.apache.org/"
+    description: ""
+    image: "camel.jpg"
+    level: 3
+    tags: "Integration"
+
+# Java in the Cloud
+-
+    title: "Amazon Web Services (AWS)"
+    link: "https://aws.amazon.com/java/"
+    description: ""
+    image: "aws.png"
+    level: 3
+    tags: "Java in the Cloud"
+-
+    title: "Google Cloud Platform"
+    link: "https://cloud.google.com/appengine/docs/java/gettingstarted/creating-guestbook"
+    description: ""
+    image: "google-cloud.png"
+    level: 3
+    tags: "Java in the Cloud"
+
+# OSGi
+-
+    title: "OSGi"
+    link: "https://www.osgi.org/"
+    description: ""
+    image: "osgi.png"
+    level: 3
+    tags: "OSGi"
+
+# Quality Assurance
+-
+    title: "jUnit"
+    link: "http://junit.org/"
+    description: ""
+    image: "junit.png"
+    level: 1
+    tags: "Quality Assurance"
+-
+    title: "Cucumber"
+    link: "https://cucumber.io/"
+    description: ""
+    image: "cucumber.png"
+    level: 1
+    tags: "Quality Assurance"
+    related:
+        -
+            title: "Cucumber (Java)"
+            link: "https://cucumber.io/docs/reference/jvm#java"
+            level: 1
+-
+    title: "TestNG"
+    link: "http://testng.org/doc/"
+    description: ""
+    image: ""
+    level: 1
+    tags: "Quality Assurance"
+-
+    title: "Mockito"
+    link: "http://mockito.org/"
+    description: ""
+    image: "mockito.jpg"
+    level: 1
+    tags: "Quality Assurance"
+
+# Threading, Concurrency
+-
+    title: "Java Concurrency"
+    link: "http://docs.oracle.com/javase/tutorial/essential/concurrency/"
+    description: ""
+    image: "java.png"
+    level: 3
+    tags: "Threading, Concurrency"
+-
+    title: "ReactiveX"
+    link: "http://reactivex.io/"
+    description: ""
+    image: "rx.png"
+    level: 3
+    tags: "Threading, Concurrency"
+-
+    title: "Akka"
+    link: "http://akka.io/"
+    description: ""
+    image: "akka.png"
+    level: 3
+    tags: "Threading, Concurrency"
+
+# Tooling
+-
+    title: "Docker"
+    link: "https://www.docker.com/"
+    description: ""
+    image: "docker.png"
+    level: 2
+    tags: "Tooling"
+-
+    title: "Git"
+    link: "https://git-scm.com/"
+    description: ""
+    image: "git.png"
+    level: 1
+    tags: "Tooling, DVCS"
+-
+    title: "GitHub"
+    link: "https://github.com/"
+    description: ""
+    image: "github.png"
+    level: 1
+    tags: "Tooling"
+-
+    title: "GitLab"
+    link: "https://gitlab.com/"
+    description: ""
+    image: "gitlab.png"
+    level: 1
+    tags: "Tooling"
+-
+    title: "Bitbucket"
+    link: "https://bitbucket.org/"
+    description: ""
+    image: "bitbucket.png"
+    level: 1
+    tags: "Tooling"
+-
+    title: "Mercurial"
+    link: "https://www.mercurial-scm.org/"
+    description: ""
+    image: "mercurial.png"
+    level: 1
+    tags: "Tooling, DVCS"
+-
+    title: "Maven"
+    link: "https://maven.apache.org/"
+    description: ""
+    image: "maven.png"
+    level: 1
+    tags: "Tooling, Build Tools"
+    related:
+        -
+            title: "Maven - Getting started"
+            link: "https://maven.apache.org/guides/getting-started/"
+            level: 1
+-
+    title: "Gradle"
+    link: "https://gradle.org/"
+    description: ""
+    image: "gradle.png"
+    level: 1
+    tags: "Tooling, Build Tools"
+    related:
+        -
+            title: "Gradle - Getting started"
+            link: "http://gradle.org/getting-started-gradle-java/"
+            level: 1
+-
+    title: "Jenkins"
+    link: "https://jenkins.io/"
+    description: ""
+    image: "jenkins.png"
+    level: 1
+    tags: "Tooling"
+-
+    title: "Eclipse"
+    link: "https://www.eclipse.org/"
+    description: ""
+    image: "eclipse.png"
+    level: 1
+    tags: "Tooling, IDE"
+-
+    title: "IntelliJ"
+    link: "https://www.jetbrains.com/idea/"
+    description: ""
+    image: "intellij.png"
+    level: 1
+    tags: "Tooling, IDE"
+
+# Twitter
+#-
+#    title: "Brad Frost"
+#    link: "https://twitter.com/brad_frost/"
+#    description: ""
+#    image: "https://twitter.com/brad_frost/profile_image?size=original"
+#    tags: "Twitter"
+
+# Youtube

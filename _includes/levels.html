@@ -1,0 +1,11 @@
+{% for level in site.data.levels %}
+    {% assign levelSkills = site.data.skills | where: "level", forloop.index0 | size %}
+    <section class="mb3">
+        <h2>Nivå {{ forloop.index0 }}</h2>
+        <p>{{ level.description }}</p>
+
+        {% if levelSkills > 0 %}
+            {% include categories.html level=forloop.index0 %}
+        {% endif %}
+    </section>
+{% endfor %}

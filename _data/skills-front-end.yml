@@ -1,0 +1,1740 @@
+##
+# This file contains the skills that can be listed.
+#
+# Each skill has the following properties:
+#
+# title {String} - The name of the skill e.g. CSS, JavaScript.
+# link {String} - A URL to a webpage with more detailed information.
+# description {String} - A shorter description of the skill.
+# recommended {Boolean} (optional) - Flags that the contributors recommend this skill above similar alternatives.
+# image {String} (optional) - An image (preferably the logo) related to the skill.
+# level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
+# tags {String} - The tags are used to link the skill to a category in the categories.yml file.
+# related {Array} (optional) - A list of related resources.
+#
+# The related list item have the following properties:
+# title {String} - Link text for the resource.
+# link {String} - The URL to the resource.
+# description {String} - A brief description of the resource.
+# level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
+##
+
+# Markup
+-
+    title: "HTML5"
+    link: "https://www.w3.org/TR/html5/"
+    description: "Vid den här nivån bör man förstå grundläggande semantik. Hur man använder &lt;header&gt;, &lt;footer&gt;, &lt;main&gt;, &lt;article&gt;, &lt;section&gt;, &lt;aside&gt; på korrekt sätt. Vad &lt;table&gt; ska användas till och vad man absolut inte ska göra med den. Strukturera rubriknivåer korrekt. Använda &lt;form&gt; och &lt;input&gt; samt alla fälttyper och valideringsegenskaper. Kunna avgöra när man använder &lt;a&gt; eller &lt;button&gt;. Använda &lt;div&gt; och &lt;span&gt; ansvarsfullt."
+    required: true
+    image: "html5.jpg"
+    level: 1
+    tags: "HTML, Markup"
+    related:
+        -
+            title: "HTML5 Doctor"
+            link: "http://html5doctor.com/"
+            description: ""
+            level: 2
+        -
+            title: "Let's Talk About Semantics"
+            link: "http://html5doctor.com/lets-talk-about-semantics/"
+            description: ""
+            level: 2
+        -
+            title: "Avoiding Common HTML5 Mistakes"
+            link: "http://html5doctor.com/avoiding-common-html5-mistakes/"
+            description: ""
+            level: 2
+        -
+            title: "MDN - HTML"
+            link: "https://developer.mozilla.org/en-US/docs/Web/HTML"
+            description: ""
+            level: 1
+-
+    title: "Microdata"
+    link: "https://www.w3.org/TR/microdata/"
+    description: ""
+    recommended: true
+    image: "html5.jpg"
+    level: 2
+    tags: "HTML, Markup"
+    related:
+        -
+            title: "HTML5 Doctor - Microdata"
+            link: "http://html5doctor.com/microdata/"
+            description: ""
+            level: 2
+        -
+            title: "Google Webmasters"
+            link: "https://support.google.com/webmasters/answer/176035?hl=en"
+            description: ""
+            level: 2
+        -
+            title: "Dive into HTML5 - Extensibility"
+            link: "http://diveintohtml5.info/extensibility.html"
+            description: ""
+            level: 2
+        -
+            title: "Schema.org"
+            link: "https://schema.org/"
+            description: ""
+            level: 2
+-
+    title: "Accessibility"
+    link: "https://www.w3.org/WAI/"
+    description: ""
+    required: true
+    image: "html5.jpg"
+    level: 2
+    tags: "HTML, Markup"
+    related:
+        -
+            title: "W3C - WCAG 2.0"
+            link: "https://www.w3.org/Translations/WCAG20-sv/"
+            description: ""
+            level: 2
+        -
+            title: "W3C - WAI-ARIA"
+            link: "https://www.w3.org/WAI/intro/aria.php"
+            description: ""
+            level: 2
+        -
+            title: "WebAIM"
+            link: "http://webaim.org/"
+            description: ""
+            level: 2
+        -
+            title: "Pro HTML5 Accessibility, Joshue O Connor, ISBN:978-1430241942"
+            link: "https://www.amazon.com/Pro-HTML5-Accessibility-Joshue-Connor/dp/1430241942"
+            description: ""
+            level: 2
+
+# Styling - General
+-
+    title: "CSS3"
+    link: "https://www.w3.org/Style/CSS/"
+    description: ""
+    required: true
+    image: "css3.jpg"
+    level: 1
+    tags: "Styling - General"
+    related:
+        -
+            title: "MDN - CSS"
+            link: "https://developer.mozilla.org/en-US/docs/Web/CSS"
+            description: ""
+            level: 1
+        -
+            title: "CSS-Tricks"
+            link: "https://css-tricks.com/"
+            description: ""
+            level: 1
+        -
+            title: "The 30 CSS Selectors You Must Memorize"
+            link: "http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048"
+            description: ""
+            level: 1
+-
+    title: "CSS Animations"
+    link: "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations"
+    description: "Identifiera och rätta paint storms, Identifiera och rätta layout thrashing, Hantera composite layers, Debouncing"
+    recommended: true
+    image: "css3.jpg"
+    level: 2
+    tags: "Styling - General"
+    related:
+        -
+            title: "Jank Free"
+            link: "http://jankfree.org/"
+            description: ""
+            level: 3
+
+# Styling - Frameworks/Libs
+-
+    title: "Bootstrap"
+    link: "http://getbootstrap.com/"
+    description: ""
+    image: "bootstrap.png"
+    level: 2
+    tags: "Styling - Frameworks/Libs"
+-
+    title: "Foundation"
+    link: "http://foundation.zurb.com/"
+    description: ""
+    image: "zurb-foundation.jpg"
+    level: 2
+    tags: "Styling - Frameworks/Libs"
+-
+    title: "inuitcss"
+    link: "http://inuitcss.com/"
+    description: ""
+    image: "inuitcss.png"
+    level: 2
+    tags: "Styling - Frameworks/Libs"
+-
+    title: "Materialize"
+    link: "http://materializecss.com/"
+    description: ""
+    image: "materialize.png"
+    level: 2
+    tags: "Styling - Frameworks/Libs"
+-
+    title: "Tachyons"
+    link: "http://tachyons.io/"
+    description: ""
+    image: "github.png"
+    level: 2
+    tags: "Styling - Frameworks/Libs"
+
+# Styling - Architecture
+-
+    title: "Atomic Design"
+    link: "http://bradfrost.com/blog/post/atomic-web-design/"
+    description: ""
+    recommended: true
+    image: "atomicdesign.svg"
+    level: 2
+    tags: "Styling - Architecture"
+-
+    title: "Atomic CSS"
+    link: "https://acss.io/"
+    description: ""
+    image: "atomic-css.png"
+    level: 2
+    tags: "Styling - Architecture"
+-
+    title: "BEM"
+    link: "https://en.bem.info/"
+    description: ""
+    required: true
+    image: "bem.png"
+    level: 2
+    tags: "Styling - Architecture"
+-
+    title: "ITCSS"
+    link: "http://itcss.io/"
+    description: ""
+    image: "itcss.png"
+    level: 2
+    tags: "Styling - Architecture"
+    related:
+        -
+            title: "TCSS: SCALABLE AND MAINTAINABLE CSS ARCHITECTURE"
+            link: "https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/"
+-
+    title: "SMACSS"
+    link: "https://smacss.com/"
+    description: ""
+    image: "smacss.jpg"
+    level: 2
+    tags: "Styling - Architecture"
+-
+    title: "SUIT CSS"
+    link: "https://suitcss.github.io/"
+    description: ""
+    image: "suitcss.png"
+    level: 2
+    tags: "Styling - Architecture"
+
+# Styling - Preprocessors
+-
+    title: "Less"
+    link: "http://lesscss.org/"
+    description: ""
+    cold: true
+    image: "less.jpeg"
+    level: 2
+    tags: "Styling - Preprocessors"
+-
+    title: "Sass"
+    link: "http://sass-lang.com/"
+    description: ""
+    cold: true
+    image: "sass.jpg"
+    level: 2
+    tags: "Styling - Preprocessors"
+-
+    title: "Stylus"
+    link: "http://learnboost.github.io/stylus/"
+    description: ""
+    cold: true
+    image: "stylus.png"
+    level: 2
+    tags: "Styling - Preprocessors"
+
+# Styling - Postprocessors
+-
+    title: "cssnano"
+    link: "http://cssnano.co/"
+    description: ""
+    required: true
+    image: "cssnano.jpg"
+    level: 2
+    tags: "Styling - Postprocessors"
+-
+    title: "cssnext"
+    link: "http://cssnext.io//"
+    description: ""
+    hot: true
+    required: true
+    image: "cssnext.png"
+    level: 2
+    tags: "Styling - Postprocessors"
+-
+    title: "PostCSS"
+    link: "http://postcss.org/"
+    description: ""
+    hot: true
+    required: true
+    image: "postcss.svg"
+    level: 2
+    tags: "Styling - Postprocessors"
+
+# Programming
+-
+    title: "JavaScript (EcmaScript)"
+    link: "http://www.ecma-international.org/publications/standards/Ecma-262.htm"
+    description: ""
+    required: true
+    image: "js.png"
+    level: 1
+    tags: "Programming - General"
+    related:
+        -
+            title: "MDN - JavaScript"
+            link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            description: ""
+            level: 1
+        -
+            title: "MDN - Strict Mode"
+            link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode"
+            description: ""
+            level: 1
+        -
+            title: "MDN - Inheritance and the Prototype Chain"
+            link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain"
+            description: ""
+            level: 1
+        -
+            title: "MDN - Closures"
+            link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+            description: ""
+            level: 1
+        -
+            title: "HTML5 Rocks - Promises"
+            link: "http://www.html5rocks.com/en/tutorials/es6/promises/"
+            description: ""
+            level: 2
+        -
+            title: "Promise Anti Patterns"
+            link: "http://taoofcode.net/promise-anti-patterns/"
+            description: ""
+            level: 2
+        -
+            title: "JS Objects: Inherited a Mess"
+            link: "https://davidwalsh.name/javascript-objects"
+            description: "There is a huge misconception about how objects and the prototype chain actually work. This article makes it clear about the semantics and why the new class syntax (ES2015) makes things worse."
+            level: 2
+-
+    title: "ES2015 (formerly ES6 or EcmaScript 6)"
+    link: "https://babeljs.io/learn-es2015/"
+    description: ""
+    required: true
+    image: "js.png"
+    level: 2
+    tags: "Programming - General"
+-
+    title: "TypeScript"
+    link: "https://www.typescriptlang.org/"
+    description: ""
+    hot: true
+    image: "typescript.png"
+    level: 2
+    tags: "Programming - General"
+-
+    title: "Babel"
+    link: "https://babeljs.io/"
+    description: ""
+    required: true
+    image: "babel.png"
+    level: 2
+    tags: "Programming - General"
+
+# Programming - Architecture
+-
+    title: "Flux"
+    link: "https://facebook.github.io/flux/"
+    description: ""
+    required: true
+    image: "flux.png"
+    level: 2
+    tags: "Programming - Architecture"
+
+# Programming - Frameworks/Libs
+-
+    title: "Ampersand"
+    link: "https://ampersandjs.com/"
+    description: ""
+    image: "ampersand.png"
+    level: 3
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "AngularJS"
+    link: "https://angularjs.org/"
+    description: ""
+    cold: true
+    image: "angularjs.png"
+    level: 3
+    tags: "Programming - Frameworks/Libs"
+    related:
+        -
+            title: "Angular Styleguide"
+            link: "https://github.com/johnpapa/angular-styleguide"
+            description: ""
+            level: 3
+-
+    title: "Angular 2"
+    link: "https://angular.io/"
+    description: ""
+    hot: true
+    image: "angularjs.png"
+    level: 3
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Aurelia"
+    link: "http://aurelia.io/"
+    description: ""
+    hot: true
+    image: "aurelia.png"
+    level: 3
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Backbone"
+    link: "http://backbonejs.org/"
+    description: ""
+    cold: true
+    image: "backbone.png"
+    level: 3
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Cycle"
+    link: "https://cycle.js.org/"
+    description: ""
+    hot: true
+    image: "cyclejs.svg"
+    level: 3
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Ember"
+    link: "http://emberjs.com/"
+    description: ""
+    image: "emberjs.jpeg"
+    level: 3
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Inferno"
+    link: "https://infernojs.org/"
+    description: ""
+    image: "inferno.png"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "jQuery"
+    link: "http://jquery.com/"
+    description: ""
+    cold: true
+    image: "jquery.gif"
+    level: 1
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Lodash"
+    link: "https://lodash.com/"
+    description: ""
+    recommended: true
+    image: "lodash.png"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "mobX"
+    link: "https://mobx.js.org/"
+    description: ""
+    image: "mobx.png"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Preact"
+    link: "https://preactjs.com/"
+    description: ""
+    image: "preact.jpg"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "React"
+    link: "https://facebook.github.io/react/"
+    description: ""
+    hot: true
+    recommended: true
+    image: "react.jpg"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "ReactiveX"
+    link: "http://reactivex.io/"
+    description: ""
+    hot: true
+    recommended: true
+    image: "rx.png"
+    level: 3
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Redux"
+    link: "http://redux.js.org/"
+    description: ""
+    hot: true
+    recommended: true
+    image: "redux.png"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Redux Observable"
+    link: "https://redux-observable.js.org/"
+    description: ""
+    hot: true
+    image: "redux-observable.gif"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Riot"
+    link: "http://riotjs.com/"
+    description: ""
+    image: "riot.jpg"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "snabbdom"
+    link: "https://github.com/snabbdom/snabbdom"
+    description: ""
+    image: "github.png"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Vue"
+    link: "https://vuejs.org/"
+    description: ""
+    hot: true
+    image: "vue.png"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "xstream"
+    link: "https://github.com/staltz/xstream"
+    description: ""
+    image: "github.png"
+    level: 3
+    tags: "Programming - Frameworks/Libs"
+
+# Programming - Functional Programming
+-
+    title: "elm"
+    link: "http://elm-lang.org/"
+    description: ""
+    hot: true
+    image: "elm.png"
+    level: 3
+    tags: "Programming - Functional Programming"
+-
+    title: "Folktale"
+    link: "https://github.com/folktale"
+    description: ""
+    image: "folktale.png"
+    level: 3
+    tags: "Programming - Functional Programming"
+-
+    title: "Immutable"
+    link: "https://facebook.github.io/immutable-js/"
+    description: ""
+    hot: true
+    image: "immutable.png"
+    level: 2
+    tags: "Programming - Functional Programming"
+-
+    title: "Ramda"
+    link: "http://ramdajs.com/"
+    description: ""
+    hot: true
+    recommended: true
+    image: "ramda.png"
+    level: 2
+    tags: "Programming - Functional Programming"
+-
+    title: "PureScript"
+    link: "http://www.purescript.org/"
+    description: ""
+    hot: true
+    image: "purescript.png"
+    level: 3
+    tags: "Programming - Functional Programming"
+-
+    title: "Sanctuary"
+    link: "https://github.com/sanctuary-js/sanctuary"
+    description: ""
+    hot: true
+    image: "sanctuary.png"
+    level: 2
+    tags: "Programming - Functional Programming"
+
+# Programming - Logging
+-
+    title: "StackTrace.JS"
+    link: "https://www.stacktracejs.com/"
+    description: ""
+    image: "stacktracejs.png"
+    level: 2
+    tags: "Programming - Logging"
+
+# Data Formats
+-
+    title: "JSON"
+    link: "http://www.json.org/"
+    description: ""
+    required: true
+    image: "json.png"
+    level: 1
+    tags: "Data Formats"
+-
+    title: "XML"
+    link: "https://www.w3.org/XML/"
+    description: ""
+    required: true
+    image: "xml.png"
+    level: 1
+    tags: "Data Formats"
+-
+    title: "YAML"
+    link: "http://yaml.org/"
+    description: ""
+    required: true
+    image: "yaml.gif"
+    level: 1
+    tags: "Data Formats"
+
+# Templating Engines
+-
+    title: "Freemarker"
+    link: "http://freemarker.org/"
+    description: ""
+    image: ""
+    level: 2
+    tags: "Templating Engines"
+-
+    title: "Handlebars"
+    link: "http://handlebarsjs.com/"
+    description: ""
+    image: "handlebars.png"
+    level: 2
+    tags: "Templating Engines"
+-
+    title: "Liquid"
+    link: "https://shopify.github.io/liquid/"
+    description: ""
+    image: ""
+    level: 2
+    tags: "Templating Engines"
+-
+    title: "Markdown"
+    link: "https://daringfireball.net/projects/markdown/"
+    description: ""
+    required: true
+    image: "markdown.png"
+    level: 2
+    tags: "Templating Engines"
+    related:
+        -
+            title: "Markdown Cheatsheet"
+            link: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+            description: "Examples of markdown syntax and what it renders."
+            level: 2
+        -
+            title: "Dillinger"
+            link: "http://dillinger.io/"
+            description: "An online markdown editor with a side by side preview."
+            level: 2
+-
+    title: "Mustache"
+    link: "http://mustache.github.io/"
+    description: ""
+    image: "mustache.png"
+    level: 2
+    tags: "Templating Engines"
+-
+    title: "Pug"
+    link: "https://pugjs.org/"
+    description: ""
+    image: "pug.svg"
+    level: 2
+    tags: "Templating Engines"
+-
+    title: "Razor"
+    link: "https://github.com/Antaris/RazorEngine"
+    description: ""
+    image: ""
+    level: 2
+    tags: "Templating Engines"
+
+# Quality Assurance - Unit Testing
+-
+    title: "AVA"
+    link: "https://github.com/avajs/ava"
+    description: ""
+    image: "ava.png"
+    level: 2
+    tags: "Quality Assurance - Unit Testing"
+-
+    title: "Chai"
+    link: "http://chaijs.com/"
+    description: ""
+    image: "chai.png"
+    level: 2
+    tags: "Quality Assurance - Unit Testing"
+-
+    title: "Jasmine"
+    link: "http://jasmine.github.io/"
+    description: ""
+    required: true
+    image: "jasmine.png"
+    level: 2
+    tags: "Quality Assurance - Unit Testing"
+-
+    title: "Jest"
+    link: "https://facebook.github.io/jest/"
+    description: ""
+    hot: true
+    image: "jest.png"
+    level: 2
+    tags: "Quality Assurance - Unit Testing"
+-
+    title: "Karma"
+    link: "http://karma-runner.github.io/"
+    description: ""
+    recommended: true
+    image: "karma.png"
+    level: 2
+    tags: "Quality Assurance - Unit Testing"
+-
+    title: "Mocha"
+    link: "http://mochajs.org/"
+    description: ""
+    image: "mocha.png"
+    level: 2
+    tags: "Quality Assurance - Unit Testing"
+-
+    title: "qUnit"
+    link: "http://qunitjs.com/"
+    description: ""
+    cold: true
+    image: "qunit.png"
+    level: 2
+    tags: "Quality Assurance - Unit Testing"
+-
+    title: "Sinon"
+    link: "http://sinonjs.org/"
+    description: ""
+    recommended: true
+    image: "sinon.png"
+    level: 2
+    tags: "Quality Assurance - Unit Testing"
+-
+    title: "Tape"
+    link: "https://github.com/substack/tape"
+    description: ""
+    recommended: true
+    image: "github.png"
+    level: 2
+    tags: "Quality Assurance - Unit Testing"
+-
+    title: "Wallaby"
+    link: "https://wallabyjs.com/"
+    description: ""
+    recommended: true
+    image: "wallaby.png"
+    level: 2
+    tags: "Quality Assurance - Unit Testing"
+
+# Quality Assurance - End-to-end
+-
+    title: "Protractor"
+    link: "https://angular.github.io/protractor/"
+    description: ""
+    image: "protractor.png"
+    level: 2
+    tags: "Quality Assurance - End-to-end"
+-
+    title: "WebdriverIO"
+    link: "http://webdriver.io/"
+    description: ""
+    required: true
+    image: "webdriverio.png"
+    level: 2
+    tags: "Quality Assurance - End-to-end"
+
+# Quality Assurance - Visual Regression Testing
+-
+    title: "PhantomCSS"
+    link: "https://github.com/Huddle/PhantomCSS"
+    description: ""
+    image: "github.png"
+    level: 2
+    tags: "Quality Assurance - Visual Regression Testing"
+-
+    title: "Wraith"
+    link: "https://github.com/BBC-News/wraith"
+    description: ""
+    image: "wraith.png"
+    level: 3
+    tags: "Quality Assurance - Visual Regression Testing"
+
+# Quality Assurance - Continous Integration
+-
+    title: "BrowserStack"
+    link: "https://www.browserstack.com/"
+    description: ""
+    image: "browserstack.png"
+    level: 2
+    tags: "Quality Assurance - Continous Integration"
+-
+    title: "Buddy"
+    link: "https://buddy.works/"
+    description: ""
+    image: "buddy.png"
+    level: 2
+    tags: "Quality Assurance - Continous Integration"
+-
+    title: "Circle CI"
+    link: "https://circleci.com/"
+    description: ""
+    image: "circleci.svg"
+    level: 2
+    tags: "Quality Assurance - Continous Integration"
+-
+    title: "Code Climate"
+    link: "https://codeclimate.com/"
+    description: ""
+    image: "codeclimate.png"
+    level: 2
+    tags: "Quality Assurance - Continous Integration"
+-
+    title: "David."
+    link: "https://david-dm.org/"
+    description: ""
+    image: "david-dm.png"
+    level: 2
+    tags: "Quality Assurance - Continous Integration"
+-
+    title: "Sauce Labs"
+    link: "https://saucelabs.com/"
+    description: ""
+    image: "saucelabs.jpg"
+    level: 2
+    tags: "Quality Assurance - Continous Integration"
+-
+    title: "Travis CI"
+    link: "https://travis-ci.com/"
+    description: ""
+    image: "travis.png"
+    level: 2
+    tags: "Quality Assurance - Continous Integration"
+
+# Security
+-
+    title: "Coverity"
+    link: "https://www.synopsys.com/software-integrity/products/static-code-analysis.html#"
+    description: ""
+    image: "coverity.png"
+    level: 2
+    tags: "Security"
+-
+    title: "Retire"
+    link: "http://retirejs.github.io/retire.js/"
+    description: ""
+    image: "retire.png"
+    level: 2
+    tags: "Security"
+-
+    title: "ScanJS"
+    link: "https://github.com/pauljt/scanjs"
+    description: ""
+    image: ""
+    level: 2
+    tags: "Security"
+
+# Methodology
+-
+    title: "Content First"
+    link: ""
+    description: ""
+    recommended: true
+    image: ""
+    level: 1
+    tags: "Methodology"
+-
+    title: "Mobile First"
+    link: ""
+    description: ""
+    required: true
+    image: ""
+    level: 1
+    tags: "Methodology"
+-
+    title: "Offline First"
+    link: ""
+    description: ""
+    recommended: true
+    image: "offline-first.png"
+    level: 1
+    tags: "Methodology"
+-
+    title: "Responsive Web Design"
+    link: ""
+    description: ""
+    required: true
+    image: ""
+    level: 1
+    tags: "Methodology"
+-
+    title: "Progressive Enhancement"
+    link: ""
+    description: ""
+    recommended: true
+    image: ""
+    level: 2
+    tags: "Methodology"
+    related:
+        -
+            title: "Progressive Enhancement is Not About JavaScript Availability"
+            link: "http://christianheilmann.com/2015/02/18/progressive-enhancement-is-not-about-javascript-availability/"
+            description: ""
+            level: 2
+-
+    title: "Progressive Web Apps"
+    link: "https://developers.google.com/web/progressive-web-apps/"
+    description: ""
+    required: true
+    image: ""
+    level: 2
+    tags: "Methodology"
+-
+    title: "Single Page Applicstions"
+    link: ""
+    description: ""
+    required: true
+    image: ""
+    level: 2
+    tags: "Methodology"
+
+# Analytics
+-
+    title: "Crazy Egg"
+    link: "https://www.crazyegg.com/"
+    description: ""
+    image: "crazy-egg.png"
+    level: 2
+    tags: "Analytics"
+-
+    title: "Google Analytics"
+    link: "https://www.google.com/analytics/"
+    description: ""
+    image: "google-analytics.png"
+    level: 2
+    tags: "Analytics"
+-
+    title: "Piwik"
+    link: "http://piwik.org/"
+    description: ""
+    recommended: true
+    image: "piwik.png"
+    level: 2
+    tags: "Analytics"
+
+# CMS
+-
+    title: "contentful"
+    link: "https://www.contentful.com/"
+    description: ""
+    image: "contentful.png"
+    level: 2
+    tags: "CMS"
+-
+    title: "Episerver"
+    link: "http://www.episerver.se/"
+    description: ""
+    image: "episerver.jpg"
+    level: 2
+    tags: "CMS"
+-
+    title: "Jekyll"
+    link: "https://jekyllrb.com/"
+    description: ""
+    image: "jekyll.jpg"
+    level: 2
+    tags: "CMS"
+-
+    title: "KeystoneJS"
+    link: "http://keystonejs.com/"
+    description: ""
+    image: "keystonejs.png"
+    level: 2
+    tags: "CMS"
+-
+    title: "Magnolia"
+    link: "https://www.magnolia-cms.com/"
+    description: ""
+    image: "magnolia.png"
+    level: 2
+    tags: "CMS"
+-
+    title: "Orchard"
+    link: "http://www.orchardproject.net/"
+    description: ""
+    image: "orchard.png"
+    level: 2
+    tags: "CMS"
+-
+    title: "WordPress"
+    link: "https://wordpress.org/"
+    description: ""
+    image: "wordpress.png"
+    level: 2
+    tags: "CMS"
+
+# Cross Plattform Applications
+-
+    title: "Cordova"
+    link: "https://cordova.apache.org/"
+    description: ""
+    image: "cordova.png"
+    level: 3
+    tags: "Cross Platform Applications"
+-
+    title: "Electron"
+    link: "http://electron.atom.io/"
+    description: ""
+    image: "electron.svg"
+    level: 3
+    tags: "Cross Platform Applications"
+-
+    title: "Ionic"
+    link: "http://ionicframework.com/"
+    description: ""
+    image: "ionic.png"
+    level: 3
+    tags: "Cross Platform Applications"
+-
+    title: "PhoneGap"
+    link: "http://phonegap.com/"
+    description: ""
+    image: "phonegap.png"
+    level: 3
+    tags: "Cross Platform Applications"
+-
+    title: "React Native"
+    link: "https://facebook.github.io/react-native/"
+    description: ""
+    image: "react.jpg"
+    level: 3
+    tags: "Cross Platform Applications"
+
+# Tooling - General
+-
+    title: "Node.js"
+    link: "https://nodejs.org/"
+    description: ""
+    required: true
+    image: "nodejs.png"
+    level: 1
+    tags: "Tooling - General"
+-
+    title: "Docker"
+    link: "https://www.docker.com/"
+    description: ""
+    recommended: true
+    image: "docker.png"
+    level: 2
+    tags: "Tooling - General"
+-
+    title: "Vagrant"
+    link: "https://www.vagrantup.com/"
+    description: ""
+    cold: true
+    image: "vagrant.png"
+    level: 2
+    tags: "Tooling - General"
+-
+    title: "Emmet"
+    link: "http://emmet.io/"
+    description: ""
+    recommended: true
+    image: "emmet.png"
+    level: 2
+    tags: "Tooling - General"
+
+# Tooling - Building
+-
+    title: "Browserify"
+    link: "http://browserify.org/"
+    description: ""
+    image: "browserify.png"
+    level: 2
+    tags: "Tooling - Building"
+-
+    title: "Grunt"
+    link: "http://gruntjs.com/"
+    description: ""
+    cold: true
+    image: "grunt.png"
+    level: 1
+    tags: "Tooling - Building"
+    related:
+        -
+            title: "Why We Should Stop Using Grunt"
+            link: "https://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/"
+            description: ""
+            level: 1
+-
+    title: "Gulp"
+    link: "http://gulpjs.com/"
+    description: ""
+    cold: true
+    image: "gulp.png"
+    level: 1
+    tags: "Tooling - Building"
+-
+    title: "RequireJS"
+    link: "http://requirejs.org/"
+    description: ""
+    cold: true
+    image: "requirejs.png"
+    level: 2
+    tags: "Tooling - Building"
+-
+    title: "Rollup"
+    link: "http://rollupjs.org/"
+    description: ""
+    hot: true
+    image: "rollup.jpg"
+    level: 2
+    tags: "Tooling - Building"
+-
+    title: "webpack"
+    link: "https://webpack.github.io/"
+    description: ""
+    hot: true
+    recommended: true
+    image: "webpack.svg"
+    level: 2
+    tags: "Tooling - Building"
+
+# Tooling - Documentation
+-
+    title: "ESDoc"
+    link: "https://esdoc.org/"
+    description: ""
+    hot: true
+    recommended: true
+    image: "esdoc.png"
+    level: 2
+    tags: "Tooling - Documentation"
+-
+    title: "JSDoc"
+    link: "http://usejsdoc.org/"
+    description: ""
+    required: true
+    image: ""
+    level: 2
+    tags: "Tooling - Documentation"
+-
+    title: "Fractal"
+    link: "http://fractal.build//"
+    description: ""
+    image: "fractal.png"
+    level: 2
+    tags: "Tooling - Documentation"
+-
+    title: "KSS (Knyle Style Sheets)"
+    link: "http://warpspire.com/kss/"
+    description: ""
+    image: ""
+    level: 2
+    tags: "Tooling - Documentation"
+-
+    title: "Pattern lab"
+    link: "http://patternlab.io/"
+    description: ""
+    image: "atomicdesign.svg"
+    level: 2
+    tags: "Tooling - Documentation"
+
+# Tooling - Editors/IDE
+-
+    title: "EditorConfig"
+    link: "http://editorconfig.org/"
+    description: "EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems."
+    required: true
+    image: "editorconfig.png"
+    level: 1
+    tags: "Tooling - Editors/IDE"
+-
+    title: "Atom"
+    link: "https://atom.io/"
+    description: ""
+    recommended: true
+    image: "atom-editor.png"
+    level: 1
+    tags: "Tooling - Editors/IDE"
+    related:
+        -
+            title: "Supercharge JavaScript development in Atom"
+            link: "https://medium.com/@satya164/supercharged-javascript-development-in-atom-ea034e22eabc#.pqxgmnmt7"
+            description: "One of many good setups for Atom."
+            level: 1
+-
+    title: "Codekit (OSX)"
+    link: "https://codekitapp.com"
+    description: ""
+    image: "codekit.png"
+    level: 1
+    tags: "Tooling - Editors/IDE"
+-
+    title: "Sublime Text"
+    link: "http://www.sublimetext.com/"
+    description: ""
+    image: "sublime-text.png"
+    level: 1
+    tags: "Tooling - Editors/IDE"
+-
+    title: "Textmate (OSX)"
+    link: "https://macromates.com/"
+    description: ""
+    image: "textmate.png"
+    level: 1
+    tags: "Tooling - Editors/IDE"
+-
+    title: "Visual Studio"
+    link: "https://www.visualstudio.com/"
+    description: ""
+    image: "visual-studio.jpg"
+    level: 2
+    tags: "Tooling - Editors/IDE"
+-
+    title: "Visual Studio Code"
+    link: "https://code.visualstudio.com/"
+    description: ""
+    recommended: true
+    image: "vs-code.png"
+    level: 2
+    tags: "Tooling - Editors/IDE"
+-
+    title: "WebStorm"
+    link: "http://www.jetbrains.com/webstorm/"
+    description: ""
+    recommended: true
+    image: "webstorm.png"
+    level: 2
+    tags: "Tooling - Editors/IDE"
+
+# Tooling - Linting
+-
+    title: "ESLint"
+    link: "http://eslint.org/"
+    twitter: geteslint
+    description: "ESLint is by far the best linter for JavaScript, being plugin-based means that it can be extended to meet all future needs. There is already a good ecosystem of plugins that contain presets and best practises for specific frameworks (e.g. Angular and React). If you are working with bleeding edge EcmaScript features then there is a chance that ESLint might fail sometimes. Luckaly the tool is so flexibel so that you can even swap the parser with a different one (e.g. babel-eslint)."
+    required: true
+    image: "eslint.svg"
+    level: 2
+    tags: "Tooling - Linting"
+    related:
+        -
+            title: "Awesome ESLint"
+            link: "https://github.com/dustinspecker/awesome-eslint"
+            description: "A currated list of ESLint configs, plugins, etc."
+            level: 2
+-
+    title: "stylelint"
+    link: "http://stylelint.io/"
+    description: "Historically when it comes to linting CSS there hasn't been many options, until recently that is. stylelint takes a lot of inspiration from the JavaScript linting tool ESLint, in that way that it allows for extensibility through plugins."
+    required: true
+    image: "stylelint.png"
+    level: 2
+    tags: "Tooling - Linting"
+    related:
+        -
+            title: "stylelint-scss"
+            link: "https://github.com/kristerkari/stylelint-scss"
+            description: "If you are working with Sass, then this plugin is great for enforcing coding conventions and best practices that are specific to Sass."
+            level: 2
+        -
+            title: "stylelint-selector-bem-pattern"
+            link: "https://github.com/davidtheclark/stylelint-selector-bem-pattern"
+            description: "If you have adopted BEM as your CSS architecture, then this plugin helps you ensure that selectors are written accoring to the BEM patterns."
+            level: 2
+
+# Tooling - Package Management
+-
+    title: "Bower"
+    link: "http://bower.io/"
+    description: "Bower was created as the npm for the front end. However, since then a lot of front end packages have moved on to npm and those that are still Bower exclusive can be fetched using a git URL. It is recommended to avoid using Bower since it really just duplicates what npm already does."
+    cold: true
+    image: "bower.jpg"
+    level: 1
+    tags: "Tooling - Package Management"
+-
+    title: "jspm"
+    link: "http://jspm.io/"
+    description: ""
+    image: "jspm.png"
+    level: 2
+    tags: "Tooling - Package Management"
+-
+    title: "npm"
+    link: "https://www.npmjs.com/"
+    description: "npm is the de facto package manager for JavaScript. Otherwise, yarn is a great alternative with better security features and faster installations. Although you might use yarn for package management it is still recommended to use npm's script feature to create and execute build commands."
+    required: true
+    image: "npm.png"
+    level: 1
+    tags: "Tooling - Package Management"
+    related:
+        -
+            title: "How to Use npm as a Build Tool"
+            link: "https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/"
+            description: ""
+            level: 2
+-
+    title: "yarn"
+    link: "https://yarnpkg.com/"
+    description: "yarn is an alternative package manager to npm. It promises added security and faster installation of dependencies. It works well in parallel to npm so there is no problem using both on a larger team."
+    hot: true
+    recommended: true
+    image: "yarn.png"
+    level: 1
+    tags: "Tooling - Package Management"
+
+# Tooling - Sandboxes
+-
+    title: "Codepen"
+    link: "https://codepen.io/"
+    description: ""
+    image: "codepen.png"
+    level: 1
+    tags: "Tooling - Sandboxes"
+-
+    title: "Dabblet"
+    link: "http://dabblet.com/"
+    description: ""
+    image: "dabblet.png"
+    level: 1
+    tags: "Tooling - Sandboxes"
+-
+    title: "JSFiddle"
+    link: "https://jsfiddle.net/"
+    description: ""
+    image: "jsfiddle.png"
+    level: 1
+    tags: "Tooling - Sandboxes"
+-
+    title: "Plunker"
+    link: "https://plnkr.co/"
+    description: ""
+    image: "plunker.png"
+    level: 1
+    tags: "Tooling - Sandboxes"
+-
+    title: "Sass Meister"
+    link: "http://sassmeister.com/"
+    description: ""
+    image: "sassmeister.jpg"
+    level: 1
+    tags: "Tooling - Sandboxes"
+
+# Tooling - Scaffolding
+-
+    title: "Yeoman"
+    link: "http://yeoman.io/"
+    description: ""
+    image: "yeoman.png"
+    level: 2
+    tags: "Tooling - Scaffolding"
+
+# Tooling - Version Control
+-
+    title: "Bitbucket"
+    link: "https://bitbucket.org/"
+    description: ""
+    image: "bitbucket.png"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "Git"
+    link: "https://git-scm.com/"
+    description: ""
+    image: "git.png"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "GitHub"
+    link: "https://github.com/"
+    description: ""
+    image: "github.png"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "GitHub Desktop"
+    link: "https://desktop.github.com/"
+    description: ""
+    image: "github.png"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "GitKraken"
+    link: "https://www.gitkraken.com/"
+    description: ""
+    recommended: true
+    image: "gitkraken.jpg"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "GitLab"
+    link: "https://gitlab.com/"
+    description: ""
+    image: "gitlab.png"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "Gogs"
+    link: "https://gogs.io/"
+    description: ""
+    image: "gogs.jpg"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "SourceTree"
+    link: "https://www.sourcetreeapp.com/"
+    description: ""
+    image: "source-tree.png"
+    level: 1
+    tags: "Tooling - Version Control"
+
+# Twitter
+-
+    title: "Aaron Gustafson"
+    link: "https://twitter.com/AaronGustafson/"
+    description: ""
+    image: "https://twitter.com/AaronGustafson/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Addy Osmani"
+    link: "https://twitter.com/addyosmani/"
+    description: ""
+    image: "https://twitter.com/addyosmani/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "André Staltz"
+    link: "https://twitter.com/andrestaltz"
+    description: ""
+    image: "https://twitter.com/andrestaltz/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Ashley Williams"
+    link: "https://twitter.com/ag_dubs/"
+    description: ""
+    image: "https://twitter.com/ag_dubs/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Brad Frost"
+    link: "https://twitter.com/brad_frost/"
+    description: ""
+    image: "https://twitter.com/brad_frost/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Brian Lonsdorf"
+    link: "https://twitter.com/drboolean/"
+    description: ""
+    image: "https://twitter.com/drboolean/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Bruce Lawson"
+    link: "https://twitter.com/brucel/"
+    description: ""
+    image: "https://twitter.com/brucel/profile_image?size=original"
+    tags: "Twitter"
+# -
+#    title: "Chris Sundberg"
+#    link: "https://twitter.com/chrisXkevin/"
+#    description: ""
+#    image: "https://twitter.com/chrisXkevin/profile_image?size=original"
+#    tags: "Twitter"
+-
+    title: "Christian Heilmann"
+    link: "https://twitter.com/codepo8/"
+    description: ""
+    image: "https://twitter.com/codepo8/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Dan Abramov"
+    link: "https://twitter.com/dan_abramov/"
+    description: ""
+    image: "https://twitter.com/dan_abramov/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "David Walsh"
+    link: "https://twitter.com/davidwalshblog/"
+    description: ""
+    image: "https://twitter.com/davidwalshblog/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Eric Elliott"
+    link: "https://twitter.com/_ericelliott/"
+    description: ""
+    image: "https://twitter.com/_ericelliott/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Ethan Marcotte"
+    link: "https://twitter.com/beep/"
+    description: ""
+    image: "https://twitter.com/beep/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Jafar Husain"
+    link: "https://twitter.com/jhusain/"
+    description: ""
+    image: "https://twitter.com/jhusain/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Jason Grigsby"
+    link: "https://twitter.com/grigs/"
+    description: ""
+    image: "https://twitter.com/grigs/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Jeffrey Zeldman"
+    link: "https://twitter.com/zeldman/"
+    description: ""
+    image: "https://twitter.com/zeldman/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Jeremy Keith"
+    link: "https://twitter.com/adactio/"
+    description: ""
+    image: "https://twitter.com/adactio/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "John Papa"
+    link: "https://twitter.com/John_Papa/"
+    description: ""
+    image: "https://twitter.com/John_Papa/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Karen McGrane"
+    link: "https://twitter.com/karenmcgrane/"
+    description: ""
+    image: "https://twitter.com/karenmcgrane/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Kent C. Dodds"
+    link: "https://twitter.com/kentcdodds/"
+    description: ""
+    image: "https://twitter.com/kentcdodds/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Kristina Halvorson"
+    link: "https://twitter.com/halvorson/"
+    description: ""
+    image: "https://twitter.com/halvorson/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Kyle Simpson"
+    link: "https://twitter.com/getify/"
+    description: ""
+    image: "https://twitter.com/getify/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Lara Hogan"
+    link: "https://twitter.com/lara_hogan/"
+    description: ""
+    image: "https://twitter.com/lara_hogan/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Luke Wroblewski"
+    link: "https://twitter.com/lukew/"
+    description: ""
+    image: "https://twitter.com/lukew/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Marcy Sutton"
+    link: "https://twitter.com/marcysutton/"
+    description: ""
+    image: "https://twitter.com/marcysutton/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Mattias P Johansson"
+    link: "https://twitter.com/mpjme/"
+    description: ""
+    image: "https://twitter.com/mpjme/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Orde Saunders"
+    link: "https://twitter.com/decadecity/"
+    description: ""
+    image: "https://twitter.com/decadecity/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Paul Irish"
+    link: "https://twitter.com/paul_irish/"
+    description: ""
+    image: "https://twitter.com/paul_irish/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Scott Jehl"
+    link: "https://twitter.com/scottjehl/"
+    description: ""
+    image: "https://twitter.com/scottjehl/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Steve Faulkner"
+    link: "https://twitter.com/stevefaulkner/"
+    description: ""
+    image: "https://twitter.com/stevefaulkner/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Tammy Everts"
+    link: "https://twitter.com/tameverts/"
+    description: ""
+    image: "https://twitter.com/tameverts/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Tim Kadlec"
+    link: "https://twitter.com/tkadlec/"
+    description: ""
+    image: "https://twitter.com/tkadlec/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Wes Bos"
+    link: "https://twitter.com/wesbos/"
+    description: ""
+    image: "https://twitter.com/wesbos/profile_image?size=original"
+    tags: "Twitter"
+-
+    title: "Yehuda Katz"
+    link: "https://twitter.com/wycats/"
+    description: ""
+    image: "https://twitter.com/wycats/profile_image?size=original"
+    tags: "Twitter"
+
+# Blogs
+-
+    title: "Addy Osmani"
+    link: "https://addyosmani.com/blog/"
+    description: ""
+    image: "addy-osmani.jpg"
+    tags: "Blogs"
+-
+    title: "Brad Frost"
+    link: "http://bradfrost.com/"
+    description: ""
+    image: "brad-frost.jpg"
+    tags: "Blogs"
+-
+    title: "Christian Heilmann"
+    link: "https://christianheilmann.com/"
+    description: ""
+    image: "christian-heilmann.jpg"
+    tags: "Blogs"
+-
+    title: "Jeremy Keith"
+    link: "https://adactio.com/"
+    description: ""
+    image: "jeremy-keith.jpg"
+    tags: "Blogs"
+-
+    title: "Luke Wroblewski"
+    link: "http://www.lukew.com/"
+    description: ""
+    image: "luke-wroblewski.jpg"
+    tags: "Blogs"
+-
+    title: "Orde Saunders"
+    link: "https://decadecity.net/"
+    description: ""
+    image: "orde-sauders.png"
+    tags: "Blogs"
+
+# Newsletters
+-
+    title: "Front end Newsletter"
+    link: "http://frontendnewsletter.com/"
+    description: ""
+    image: "fe-news.png"
+    tags: "Newsletters"
+-
+    title: "Responsive Design Newsletter"
+    link: "http://responsivedesignweekly.com/"
+    description: ""
+    image: "rd-news.png"
+    tags: "Newsletters"
+
+# Online Courses
+-
+    title: "Egghead"
+    link: "https://egghead.io/"
+    description: ""
+    recommended: true
+    image: "egghead.png"
+    tags: "Online Courses"
+-
+    title: "Frontend Masters"
+    link: "https://frontendmasters.com/"
+    description: ""
+    recommended: true
+    image: "frontend-masters.jpg"
+    tags: "Online Courses"
+-
+    title: "Learn JavaScript with Eric Elliott"
+    link: "https://ericelliottjs.com/"
+    description: ""
+    image: "eric-elliott.jpeg"
+    tags: "Online Courses"
+-
+    title: "Treehouse"
+    link: "https://teamtreehouse.com/"
+    description: ""
+    image: "treehouse.png"
+    tags: "Online Courses"
+
+# Youtube
+-
+    title: "AngularJS"
+    link: "https://www.youtube.com/channel/UCbn1OgGei-DV7aSRo_HaAiw"
+    description: ""
+    image: "youtube.jpg"
+    tags: "Youtube"
+-
+    title: "funfunfunction"
+    link: "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q"
+    description: ""
+    image: "youtube.jpg"
+    tags: "Youtube"
+-
+    title: "Google Developers"
+    link: "https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw"
+    description: ""
+    image: "youtube.jpg"
+    tags: "Youtube"
+-
+    title: "JSConf"
+    link: "https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA"
+    description: ""
+    image: "youtube.jpg"
+    tags: "Youtube"
+-
+    title: "SassBites"
+    link: "https://www.youtube.com/channel/UCOFsG9Tbs7Aga9n7Smify0A"
+    description: ""
+    image: "youtube.jpg"
+    tags: "Youtube"

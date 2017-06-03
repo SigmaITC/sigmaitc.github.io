@@ -1,0 +1,153 @@
+---
+title: Front End by Sigma by Sigma IT Consulting
+pageUrl: https://sigmaitc.github.io/front-end-by-sigma/
+---
+
+<!doctype html>
+<html class="document no-js" lang="sv">
+    {% include head.html title=page.title pageUrl=page.pageUrl %}
+
+    <body class="page">
+        {% include header.html %}
+        {% include primary-navigation.html %}
+
+        <main id="main-content" class="page-body" role="main">
+            <section class="page-section">
+                <h1 class="heading heading--xl">Front End by Sigma</h1>
+
+                <section>
+                    <h2 class="heading heading--l" style="margin-top: 1em;">Introduction</h2>
+                    <p>It is usually a daunting task to know what to learn next, especially if you are beginning your journey. This guide aims to help you find relevant competence areas to focus on and suggest what to prioritize first to speed up the learning process.</p>
+
+                    <h2 class="heading heading--l">Contribute</h2>
+                    <p>If you have any opinions or suggestions then feel free to create an issue and make sure to tag it with <strong>improvement</strong> for any new suggestions or <strong>invalid</strong> if any existing information is incorrect.</p>
+
+                    <h2 class="heading heading--l">Levels</h2>
+                    <p>Feel free to learn whatever you want regardless of level. However be aware that a higher level suggests that you will have a harder time if you lack fundamental knowledge.</p>
+                    <table class="table">
+                        <tbody>
+                            <tr>
+                                <td><small class="level-badge"><abbr class="level-badge__text" title="Level">Lv.</abbr><span class="level-badge__number">0</span></small></td>
+                                <td>You might be familiar with some concepts but lack professional experience.</td>
+                            </tr>
+                            <tr>
+                                <td><small class="level-badge"><abbr class="level-badge__text" title="Level">Lv.</abbr><span class="level-badge__number">1</span></small></td>
+                                <td>You should comprehend the basics of HTML, CSS and JavaScript. You should also be aware of the essential tools and platforms and be able to use them assuming they are setup and configured beforehand.</td>
+                            </tr>
+                            <tr>
+                                <td><small class="level-badge"><abbr class="level-badge__text" title="Level">Lv.</abbr><span class="level-badge__number">2</span></small></td>
+                                <td>You should know most features of HTML, CSS, JavaScript and be accustomed to commonly used libraries and frameworks. You are aware of multiple programming paradigms and know basic functional programming. You should also be better versed with different tools and able to setup and configure some from scratch.</td>
+                            </tr>
+                            <tr>
+                                <td><small class="level-badge"><abbr class="level-badge__text" title="Level">Lv.</abbr><span class="level-badge__number">3</span></small></td>
+                                <td>You should be proficient with advanced concepts and be able to combine the right technologies and tools from an architectural perspective.</td>
+                            </tr>
+                            <tr>
+                                <td><small class="level-badge"><abbr class="level-badge__text" title="Level">Lv.</abbr><span class="level-badge__number">4</span></small></td>
+                                <td>You are a master in one or more areas and an active contributor to standards and the open source community.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    {% include remarks.html %}
+                </section>
+
+                <!--
+                <section>
+                    <h3>Javascript</h3>
+                    <p>Vid den här nivån bör man känna till window och document objecten, kunna utföra DOM manipulering, använda events och göra AJAX-anrop.</p>
+
+                    <h3>Javascript Ramverk</h3>
+                    <p>Best practice är att undvika Javascript-ramverk så långt som möjligt. Men självklart medför de flera fördelar och om det innebär bättre prestanda eller mindre kod så kan det övervägas. Det kanske vanligaste ramverket är jQuery och många open source komponenter är byggda som jQuery plugins. En av anledningarna att det blivit så stort är att det hanterar variationer i Javascript API:erna mellan webbläsare (IE7-IE9 mot de andra), vilket nu är avgränsat till jQuery 1.x. Medan 2.x är en nerbantad version som bara stödjer moderna webbläsare. Det bästa är att bygga utifrån progressive enhancement och cut the mustard principerna och hålla sig till jQuery 2.x om det verkligen medför några vinster.</p>
+
+                    <h3>Responsive Web Design</h3>
+                    <ul>
+                        <li>Responsive Web Design, Ethan Marcotte, ISBN:978-0984442577</li>
+                        <li>Responsible Responsive Design, Scott Jehl, ISBN:978-1-937557-16-4</li>
+                        <li><a href="http://bradfrost.github.io/this-is-responsive/resources.html">This is Responsive</a></li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Nivå 2</h2>
+                    <p>Bygger vidare på tidigare kunskap och utvecklar ett helhetstänk kring kvalitet och arkitektur.</p>
+
+                    <h4>Cut the mustard</h4>
+                    <ul>
+                        <li><a href="http://responsivenews.co.uk/post/18948466399/cutting-the-mustard">Cutting the Mustard</a></li>
+                    </ul>
+
+                    <h4>Feature detection</h4>
+                    <ul>
+                        <li><a href="http://modernizr.com/">Modernizr</a></li>
+                    </ul>
+
+                    <h3>Processes</h3>
+                    <h4>Content first</h4>
+                    <ul>
+                        <li><a href="http://www.smashingmagazine.com/2015/02/20/design-last/">Design Last</a></li>
+                    </ul>
+
+                    <h4>Mobile first</h4>
+                    <ul>
+                        <li>Mobile First, Luke Wroblewski, ISBN:9781937557027</li>
+                    </ul>
+
+                    <h3>Javascript Ramverk</h3>
+                    <p>Om du lär dig ett eller flera ramverk är upp till dig och utifrån var efterfrågan är störst.</p>
+
+                    <h3>Prestanda</h3>
+                    <ul>
+                        <li><a href="https://developers.google.com/web/fundamentals/performance/">Google Developers - Optimizing Performance</a></li>
+                        <li>
+                            Ta fram och följa en prestandabudget.
+                            <ul>
+                                <li><a href="http://timkadlec.com/2013/01/setting-a-performance-budget/">Setting a Performance Budget</a></li>
+                                <li><a href="http://danielmall.com/articles/how-to-make-a-performance-budget/">How to Make a Performance Budget</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            Reducera render blocking
+                        </li>
+                        <li>
+                            Reducera antal requests
+                        </li>
+                        <li>
+                            Lazy loading
+                        </li>
+                        <li>
+                            Responsive images
+                            <ul>
+                                <li><a href="http://davidwalsh.name/responsive-images">Responsive Images: The Ultimate Guide</a></li>
+                                <li><a href="http://blog.cloudfour.com/dont-use-picture-most-of-the-time/">Don't Use &lt;Picture&gt; Most of the Time</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Nivå 3</h2>
+                    <p>Specialiserar sig på flera områden och fokuserar på kvalitet, prestanda och effektivisering av arbetsflöden.</p>
+                </section>
+
+                <section>
+                    <h2>Nivå 4</h2>
+                    <p>Din expertis är i en klass för sig och du engagerar dig och driver på utvecklingen inom ett eller flera områden.</p>
+                </section>-->
+
+                <section>
+                    {% include categories.html categories=site.data.categories-front-end skills=site.data.skills-front-end %}
+                </section>
+
+                <section>
+                    <h2 class="heading heading--l">Contributors</h2>
+                    {% include contributors.html %}
+                </section>
+            </section>
+        </main>
+
+        {% include footer.html %}
+
+        <script type="text/javascript" src="assets/app.js"></script>
+    </body>
+</html>

@@ -1,0 +1,22 @@
+{% for resource in site.data.resources %}
+    {% assign mod = forloop.index | modulo: 2 %}
+    {% if mod == 0 %}
+        <div class="row">
+    {% endif %}
+            <section class="small-12 medium-6 columns">
+                <h3>{{ resource.group }}</h3>
+                {% if resource.description and resource.description != '' %}
+                    <p>{{ resource.description }}</p>
+                {% endif %}
+                <ul>
+                    {% for link in resource.links %}
+                        <li>
+                            <a href="{{ link.url }}">{{ link.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </section>
+    {% if mod == 0 %}
+        </div>
+    {% endif %}
+{% endfor %}

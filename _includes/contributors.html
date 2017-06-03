@@ -1,0 +1,8 @@
+<ul class="list-reset contributors-list">
+    {% for contributor in site.github.contributors %}
+        <li>
+            <img class="circle" src="{{ contributor.avatar_url }}" alt="{{ contributor.login }}" width="40" height="40" style="margin-right: .5em; vertical-align: middle;" />
+            <a class="link" href="{{ contributor.html_url }}">{{ contributor.login }}</a>
+        </li>
+    {% endfor %}
+</ul>

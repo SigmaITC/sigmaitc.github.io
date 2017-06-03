@@ -8,22 +8,18 @@
     "> 1%",
     "last 2 versions"
   ],
-  "config": {
-    "pre-git": {
-      "commit-msg": "",
-      "pre-commit": [],
-      "pre-push": "npm test",
-      "post-commit": "git status",
-      "post-checkout": [],
-      "post-merge": "yarn"
-    }
-  },
+  "config": {},
   "scripts": {
-    "build": "webpack -p",
+    "build": "webpack -p && bundle exec jekyll build -s . -d ./_site",
     "commit": "commit-wizard",
     "lint:css": "stylelint sass/**/*.scss",
     "lint:js": "eslint . --ext .js --ext .json --ignore-path .eslintignore",
     "lint:yaml": "yamllint .travis.yml **/*.yml **/**/*.yml",
+    "postcheckout": "yarn --ignore-option",
+    "postcommit": "git status",
+    "postmerge": "yarn --ignore-option",
+    "prepush": "npm test",
+    "start": "bundler exec jekyll serve -s . -d ./_site",
     "test": "run-s lint:js",
     "upgrade": "updtr --save-exact"
   },
@@ -48,19 +44,22 @@
   "devDependencies": {
     "babel-core": "6.23.1",
     "babel-loader": "6.3.2",
+    "babel-preset-env": "1.5.1",
     "babel-preset-es2015": "6.22.0",
     "css-loader": "0.26.2",
     "cssnano": "3.10.0",
     "eslint": "3.16.1",
     "eslint-plugin-json": "1.2.0",
     "extract-text-webpack-plugin": "2.0.0",
+    "husky": "0.13.4",
     "node-sass": "4.5.0",
     "npm-run-all": "4.0.2",
     "postcss": "5.2.15",
     "postcss-cssnext": "2.9.0",
+    "postcss-custom-media": "6.0.0",
+    "postcss-import-url": "2.2.0",
     "postcss-loader": "1.3.2",
     "postcss-reporter": "3.0.0",
-    "pre-git": "3.14.0",
     "sass-loader": "6.0.2",
     "style-loader": "0.13.2",
     "stylelint": "7.9.0",

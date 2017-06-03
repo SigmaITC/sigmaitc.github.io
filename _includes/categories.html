@@ -1,0 +1,6 @@
+{% for category in include.categories %}
+    <h2 class="heading heading--l" style="margin-top: 1em">{{ category.title }}</h2>
+    <p>{{ category.description }}</p>
+
+    {% include skills.html categories=category.title skills=include.skills %}
+{% endfor %}

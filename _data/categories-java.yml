@@ -1,0 +1,50 @@
+##
+# This file contains the categories that can be listed.
+#
+# Each category has the following properties:
+#
+# title {String} - The name of the category e.g. Programming, Architecture.
+# description {String} (optional) - The main description for the category. This can be used for categories where skill levels don't apply.
+# levels {Array} - A list of levels for the category.
+##
+
+-
+    title: "Programming"
+    description: ""
+-
+    title: "Architecture"
+    description: ""
+-
+    title: "Application Servers"
+    description: ""
+-
+    title: "Big Data"
+    description: ""
+-
+    title: "CMS"
+    description: ""
+-
+    title: "Integration"
+    description: ""
+-
+    title: "Java in the Cloud"
+    description: ""
+-
+    title: "OSGi"
+    description: ""
+-
+    title: "Quality Assurance"
+    description: ""
+#-
+#    title: "Methodology"
+#    description: ""
+-
+    title: "Threading, Concurrency"
+    description: ""
+-
+    title: "Tooling"
+    description: ""
+#-
+#    title: "Twitter"
+#-
+#    title: "Youtube"
