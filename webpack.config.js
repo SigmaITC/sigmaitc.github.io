@@ -3,9 +3,9 @@ const webpack = require('webpack');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = {
-    entry: './app/index.js',
+    entry: './src/index.js',
     output: {
-        filename: 'app.js',
+        filename: 'assets/app.js',
         path: path.resolve(__dirname, 'assets')
     },
     module: {
@@ -33,6 +33,8 @@ module.exports = {
                             loader: 'postcss-loader',
                             options: {
                                 plugins: () => [
+                                    require('postcss-import-url'),
+                                    require('postcss-custom-media'),
                                     require('postcss-cssnext'),
                                     require('postcss-reporter')
                                 ]
@@ -53,6 +55,6 @@ module.exports = {
             jQuery: 'jquery',
             'window.jQuery': 'jquery'
         }),
-        new ExtractTextPlugin('app.css')
+        new ExtractTextPlugin('assets/app.css')
     ]
 };
