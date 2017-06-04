@@ -12,7 +12,7 @@
   "scripts": {
     "build": "webpack -p && bundle exec jekyll build -s . -d ./_site",
     "commit": "commit-wizard",
-    "lint:css": "stylelint sass/**/*.scss",
+    "lint:css": "stylelint 'src/**/*.scss'",
     "lint:js": "eslint . --ext .js --ext .json --ignore-path .eslintignore",
     "lint:yaml": "yamllint .travis.yml **/*.yml **/**/*.yml",
     "postcheckout": "yarn --ignore-option",
@@ -20,7 +20,7 @@
     "postmerge": "yarn --ignore-option",
     "prepush": "npm test",
     "start": "bundler exec jekyll serve -s . -d ./_site",
-    "test": "run-s lint:js",
+    "test": "run-s lint:*",
     "upgrade": "updtr --save-exact"
   },
   "repository": {
