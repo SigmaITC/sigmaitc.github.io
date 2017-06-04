@@ -1,0 +1,412 @@
+##
+# This file contains the skills that can be listed.
+#
+# Each skill has the following properties:
+#
+# title {String} - The name of the skill e.g. CSS, JavaScript.
+# link {String} - A URL to a webpage with more detailed information.
+# description {String} - A shorter description of the skill.
+# recommended {Boolean} (optional) - Flags that the contributors recommend this skill above similar alternatives.
+# image {String} (optional) - An image (preferably the logo) related to the skill.
+# level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
+# tags {String} - The tags are used to link the skill to a category in the categories.yml file.
+# related {Array} (optional) - A list of related resources.
+#
+# The related list item have the following properties:
+# title {String} - Link text for the resource.
+# link {String} - The URL to the resource.
+# description {String} - A brief description of the resource.
+# level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
+##
+
+# Programming Languages
+-
+    title: "C++"
+    link: "http://www.cplusplus.com/doc/tutorial/"
+    description: ""
+    required: true
+    image: "cplusplus.png"
+    level: 1
+    tags: "Programming Languages"
+-
+    title: "Java"
+    link: "http://www.oracle.com/technetwork/java/javase/overview/index.html"
+    description: ""
+    image: "java.png"
+    level: 1
+    tags: "Programming Languages"
+-
+    title: "Python"
+    link: "https://www.python.org/"
+    description: ""
+    image: "python.jpg"
+    level: 1
+    tags: "Programming Languages"
+-
+    title: "Scripting"
+    link: "https://en.wikipedia.org/wiki/Scripting_language"
+    description: ""
+    image: "scripting.png"
+    level: 1
+    tags: "Programming Languages"
+    related:
+        -
+            title: "Bash"
+            link: "http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html"
+            description: ""
+            level: 1
+
+# Telecom
+-
+    title: "Telecom"
+    link: ""
+    description: ""
+    image: "telecom.png"
+    level: 1
+    tags: "Telecom"
+    related:
+        -
+            title: "3gpp"
+            link: "http://www.3gpp.org/technologies"
+            description: ""
+            level: 1
+        -
+            title: "Ericsson"
+            link: "http://www.ericsson.com/ourportfolio/products/radio-system"
+            description: ""
+            level: 1
+
+# Operating System
+-
+    title: "Linux/Unix"
+    link: "http://www.ee.surrey.ac.uk/Teaching/Unix/"
+    description: ""
+    required: true
+    image: "linux.png"
+    level: 1
+    tags: "Operating System"
+    related:
+        -
+            title: "Embedded Linux Primer"
+            link: ""
+            description: "Embedded Linux Primer (ISBN 978-0-13-701783-6)"
+            level: 2
+-
+    title: "Windows"
+    link: "https://en.wikipedia.org/wiki/Microsoft_Windows"
+    description: ""
+    image: "windows.png"
+    level: 1
+    tags: "Operating System"
+-
+    title: "OSE"
+    link: "https://sv.wikipedia.org/wiki/Operating_System_Embedded"
+    description: ""
+    image: "embedded_os.jpg"
+    level: 2
+    tags: "Operating System"
+
+# Unit Testing
+-
+    title: "Unit testing"
+    link: "https://en.wikipedia.org/wiki/Unit_testing"
+    description: ""
+    image: "unittest.png"
+    level: 1
+    tags: "Unit Testing"
+-
+    title: "JUnit för Java"
+    link: "http://junit.org/"
+    description: ""
+    image: "junit.png"
+    level: 1
+    tags: "Unit Testing"
+-
+    title: "Google Test för C++"
+    link: "http://junit.org/"
+    description: ""
+    image: "googletest.png"
+    level: 1
+    tags: "Unit Testing"
+-
+    title: "Mockning "
+    link: ""
+    description: ""
+    image: "mocking.png"
+    level: 1
+    tags: "Unit Testing"
+    related:
+        -
+            title: "Mockito för Java"
+            link: "http://mockito.org/"
+            description: ""
+            level: 1
+        -
+            title: "Google Mock för C++"
+            link: ""
+            description: "Del av Google Test"
+            level: 1
+
+# Development
+-
+    title: "Test-Driven Development (TDD)"
+    link: "https://en.wikipedia.org/wiki/Test-driven_development"
+    description: ""
+    image: "testdrivendevelopment.jpg"
+    level: 1
+    tags: "Development"
+-
+    title: "Behavior-driven Development (BDD)"
+    link: "https://en.wikipedia.org/wiki/Behavior-driven_development"
+    description: ""
+    image: "behaviordrivendevelopment.png"
+    level: 1
+    tags: "Development"
+-
+    title: "Object-oriented programming"
+    link: "https://en.wikipedia.org/wiki/Object-oriented_programming"
+    description: ""
+    image: "objectorientedprogramming.jpg"
+    level: 1
+    tags: "Development"
+-
+    title: "Real Time programming concept"
+    link: "https://en.wikipedia.org/wiki/Real-time_computing"
+    description: ""
+    image: "realtimeprogramming.jpg"
+    level: 1
+    tags: "Development"
+-
+    title: "Continuous Integration (CI)"
+    link: "https://en.wikipedia.org/wiki/Continuous_integration"
+    description: ""
+    image: "continousintegration.png"
+    level: 1
+    tags: "Development"
+-
+    title: "Software Craftmanship / Clean code "
+    link: "http://ricardogeek.com/docs/clean_code.pdf"
+    description: ""
+    image: "cleancode.png"
+    level: 1
+    tags: "Development"
+
+# Agile Methodologies
+-
+    title: "Scrum"
+    link: "https://www.scrum.org/"
+    description: ""
+    required: true
+    image: "scrum.png"
+    level: 1
+    tags: "Agile Methodologies"
+    related:
+        -
+            title: "Scrum Alliance"
+            link: "https://www.scrumalliance.org/"
+            description: ""
+            level: 1
+-
+    title: "Kanban"
+    link: "https://en.wikipedia.org/wiki/Kanban"
+    description: ""
+    image: "kanban.jpg"
+    level: 1
+    tags: "Agile Methodologies"
+
+# Tools
+-
+    title: "Eclipse "
+    link: "https://eclipse.org/"
+    description: ""
+    image: "eclipse.jpg"
+    level: 1
+    tags: "Tools"
+-
+    title: "CDT (Eclipse C/C++ development tooling)"
+    link: "https://projects.eclipse.org/projects/tools.cdt"
+    description: ""
+    image: "c++developmenttooling.png"
+    level: 1
+    tags: "Tools"
+-
+    title: "TDD tools"
+    link: ""
+    description: ""
+    image: "testdrivendevelopment.jpg"
+    level: 1
+    tags: "Tools"
+    related:
+        -
+            title: "Jcat"
+            link: ""
+            description: ""
+            level: 1
+        -
+            title: "Gtest"
+            link: ""
+            description: ""
+            level: 1
+-
+    title: "Code review"
+    link: ""
+    description: ""
+    image: "codereview.png"
+    level: 1
+    tags: "Tools"
+    related:
+    -
+            title: "Gerrit"
+            link: "https://www.gerritcodereview.com/"
+            description: ""
+            level: 1
+-
+    title: "Jenkins "
+    link: "https://jenkins-ci.org/"
+    description: ""
+    image: "jenkins.jpg"
+    level: 1
+    tags: "Tools"
+-
+    title: "Modelling tools"
+    link: ""
+    description: ""
+    image: "uml.png"
+    level: 2
+    tags: "Tools"
+    related:
+        -
+            title: "Rhapsody"
+            link: ""
+            description: ""
+            level: 2
+        -
+            title: "Rational Rose"
+            link: ""
+            description: ""
+            level: 2
+
+# Version handling
+-
+    title: "Distribuerade versionskontrollsystem (DVCS)"
+    link: "https://en.wikipedia.org/wiki/Distributed_version_control"
+    description: ""
+    image: "dvcs.jpg"
+    level: 1
+    tags: "Version handling"
+-
+    title: "Git"
+    link: ""
+    description: ""
+    required: true
+    image: "git.png"
+    level: 1
+    tags: "Version handling"
+    related:
+    -
+            title: "Git SCM"
+            link: "http://git-scm.com/"
+            description: ""
+            level: 1
+    -
+            title: "Git guys"
+            link: "http://www.gitguys.com/"
+            description: ""
+            level: 1
+-
+    title: "Clearcase (basics)"
+    link: "https://en.wikipedia.org/wiki/Rational_ClearCase"
+    description: ""
+    image: "clearcase.png"
+    level: 1
+    tags: "Version handling"
+
+# level 2
+# Modelling
+-
+    title: "UML (Unified Modeling Language)"
+    link: "http://www.uml.org/#Links-Tutorials"
+    description: ""
+    image: "uml.png"
+    level: 2
+    tags: "Modelling"
+
+# Programming Techniques
+-
+    title: "Design patterns / designregler"
+    link: "http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8"
+    description: ""
+    image: "designpatterns.jpg"
+    level: 2
+    tags: "Programming Techniques"
+-
+    title: "C++ Multithreading"
+    link: "http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8"
+    description: ""
+    image: "cplusplusmultithreading.png"
+    level: 2
+    tags: "Programming Techniques"
+-
+    title: "SOLID principles"
+    link: "https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)"
+    description: ""
+    image: "solid.jpg"
+    level: 2
+    tags: "Programming Techniques"
+
+# level 3
+# Project Management
+-
+    title: "Project Management"
+    link: "https://en.wikipedia.org/wiki/Project_management"
+    description: ""
+    image: "projectmanagement.jpg"
+    level: 3
+    tags: "Project Management"
+
+# Architecture
+-
+    title: "Architecture"
+    link: "https://en.wikipedia.org/wiki/Software_architecture"
+    description: ""
+    image: "softwarearchitecture.jpg"
+    level: 3
+    tags: "Architecture"
+
+# Web Courses
+-
+    title: "Coursera"
+    link: "http://www.coursera.org/"
+    description: "En av de första och största mooc resurserna. Det är många stora universitet från hela värden som skapar specifika kurser för Coursera. Kurser finns inom ett brett spektra av ämnen, och de håller generellt en mycket hög kvalitet. Det går att läsa enstaka kurser gratis. Vill man ha en verifikation på att man har läst kursen kostar det pengar, ca $50 per kurs. Det finns dessutom specialiseringar där ett universitet sätter ihop flera kurser inom ett ämne som man kan läsa i ett paket. Dessa avslutas sedan med ett capstone projekt. För att läsa en specialisering så måste man verifiera sig, alltså betala för kurserna. De flesta kurserna är tidsbundna, dvs. de har ett specifikt start- och slut-datum, med inlämningsuppgifter varje vecka."
+    image: "coursera.png"
+    tags: "Web Courses"
+-
+    title: "EDX"
+    link: "http://www.edx.org/"
+    description: "Är väldigt lik Coursera med liknande utbud på kurser. Man kan även här köpa en verifikation för de kurser man läser, men de har inga specialiseringar. Även här är kvaliteten på kurserna generellt mycket hög. De flesta kurser är även här tidsbundna."
+    image: "edx.jpg"
+    tags: "Web Courses"
+-
+    title: "Udemy"
+    link: "http://www.udemy.org/"
+    description: "Lite annorlunda upplägg än de två tidigare. Här kan vem som helst skapa en kurs, så kvaliteten på kurserna kan variera ganska mycket. De flesta kurserna kostar pengar, från någon hundralapp och uppåt, men det går även att hitta en del bra kurser gratis. Alla kurser är ”self paced”, man läser dem alltså i sin egen takt."
+    image: "udemy.png"
+    tags: "Web Courses"
+-
+    title: "Codeacademy"
+    link: "http://www.codecademy.com/"
+    description: "Codecademy har en ganska liten uppsättning interaktiva kurser rörande mjukvaruutveckling. De är bra om man vill ha en snabb introduktion i ett ämne, men är det djupare och avancerade kunskaper man är ute efter så är detta inte riktigt rätt tjänst."
+    image: "codeacademy.png"
+    tags: "Web Courses"
+-
+    title: "Udacity"
+    link: "http://www.udacity.com/"
+    description: "Udacity har kurser inom framför allt Datavetenskap och mjukvaruutveckling. Bakom kurserna står både universitet och olika företag. Alla kurser är tillgängliga gratis och alla är ”self paced”. En bra detalj med Udacitys kurser är att de är indelade i svårighetsgrad: beginner, intermediate och advanced."
+    image: "udacity.png"
+    tags: "Web Courses"
+-
+    title: "MIT Open Course Ware"
+    link: "http://www.ocw.mit.edu/"
+    description: "MIT Open Courseware, är lite annorlunda än de övriga då den inte innehåller kurser som är anpassade för webben. Det är istället MITs vanliga kurser som de lägger ut allt material för på sin webbplats. De flesta kurser innehåller därför bara textdokument, men det förekommer kurser med videomaterial, antingen filmade live-föreläsningar eller specialgjorda för webben."
+    image: "mitocw.png"
+    tags: "Web Courses"

@@ -1,0 +1,49 @@
+##
+# This file contains the categories that can be listed.
+#
+# Each category has the following properties:
+#
+# title {String} - The name of the category e.g. Programming, Architecture.
+# description {String} (optional) - The main description for the category. This can be used for categories where skill levels don't apply.
+# levels {Array} - A list of levels for the category.
+##
+
+-
+    title: "Programming Languages"
+    description: ""
+-
+    title: "Telecom"
+    description: ""
+-
+    title: "Operating System"
+    description: "Det är viktigt att ha vanan att kunna hantera både grafiska gränssnitt och kommandoradsbaserade gränssnitt. Man förväntas inte kunna agera som administratör men skall kunna arbeta i respektive system på daglig basis."
+-
+    title: "Unit Testing"
+    description: ""
+-
+    title: "Development"
+    description: ""
+-
+    title: "Agile Methodologies"
+    description: ""
+-
+    title: "Tools"
+    description: ""
+-
+    title: "Version handling"
+    description: ""
+-
+    title: "Modelling"
+    description: ""
+-
+    title: "Programming Techniques"
+    description: ""
+-
+    title: "Project Management"
+    description: ""
+-
+    title: "Architecture"
+    description: ""
+-
+    title: "Web Courses"
+    description: "På senare år har konceptet mooc (Massive Online Open Courses) blivit väldigt populärt. Det finns en uppsjö av olika webb-universitet och kurssamlingar att tillgå, alla med skiftande kvalitet. Här följer en liten lista med resurser och en kommentar om vad varje tjänst erbjuder"

@@ -1,0 +1,252 @@
+##
+# This file contains the skills that can be listed.
+#
+# Each skill has the following properties:
+#
+# title {String} - The name of the skill e.g. CSS, JavaScript.
+# link {String} - A URL to a webpage with more detailed information.
+# description {String} - A shorter description of the skill.
+# recommended {Boolean} (optional) - Flags that the contributors recommend this skill above similar alternatives.
+# image {String} (optional) - An image (preferably the logo) related to the skill.
+# level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
+# tags {String} - The tags are used to link the skill to a category in the categories.yml file.
+# related {Array} (optional) - A list of related resources.
+#
+# The related list item have the following properties:
+# title {String} - Link text for the resource.
+# link {String} - The URL to the resource.
+# description {String} - A brief description of the resource.
+# level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
+##
+
+
+# Programming
+-
+    title: "C#"
+    link: "https://msdn.microsoft.com/en-us/library/kx37x362.aspx"
+    description: ""
+    image: "csharp.png"
+    level: 1
+    tags: "Programming"
+    related:
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 1
+
+# Architecture
+
+
+# Programming - Frameworks/Libs
+
+
+# Programming - Functional Programming
+
+# Data Formats
+-
+    title: "JSON"
+    link: "http://www.json.org/"
+    description: ""
+    image: "json.png"
+    level: 1
+    tags: "Data Formats"
+-
+    title: "XML"
+    link: "https://www.w3.org/XML/"
+    description: ""
+    image: "xml.png"
+    level: 1
+    tags: "Data Formats"
+-
+    title: "YAML"
+    link: "http://yaml.org/"
+    description: ""
+    image: "yaml.gif"
+    level: 1
+    tags: "Data Formats"
+
+# Templating Engines
+-
+    title: "Markdown"
+    link: "https://daringfireball.net/projects/markdown/"
+    description: ""
+    image: "markdown.png"
+    level: 2
+    tags: "Templating Engines"
+    related:
+        -
+            title: "Markdown Cheatsheet"
+            link: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+            description: "Examples of markdown syntax and what it renders."
+            level: 2
+        -
+            title: "Dillinger"
+            link: "http://dillinger.io/"
+            description: "An online markdown editor with a side by side preview."
+            level: 2
+-
+    title: "Razor"
+    link: "https://github.com/Antaris/RazorEngine"
+    description: ""
+    image: ""
+    level: 2
+    tags: "Templating Engines"
+
+# Quality Assurance - Unit Testing
+
+# Quality Assurance - Continous Integration
+-
+    title: "AppVeyor"
+    link: "https://www.appveyor.com/"
+    description: ""
+    image: "appveyor.png"
+    level: 2
+    tags: "Quality Assurance - Continous Integration"
+
+# Security
+
+# Cloud
+-
+    title: "Azure"
+    link: "https://azure.microsoft.com/"
+    description: ""
+    image: "azure.png"
+    level: 2
+    tags: "Cloud"
+
+# CMS
+-
+    title: "Episerver"
+    link: "http://www.episerver.se/"
+    description: ""
+    image: "episerver.jpg"
+    level: 2
+    tags: "CMS"
+-
+    title: "Orchard"
+    link: "http://www.orchardproject.net/"
+    description: ""
+    image: "orchard.png"
+    level: 2
+    tags: "CMS"
+
+# Cross Plattform Applications
+-
+    title: "Xamarin"
+    link: "https://www.xamarin.com/"
+    description: ""
+    image: "xamarin.png"
+    level: 3
+    tags: "Cross Platform Applications"
+
+# Tooling - General
+-
+    title: "Docker"
+    link: "https://www.docker.com/"
+    description: ""
+    image: "docker.png"
+    level: 2
+    tags: "Tooling - General"
+-
+    title: "Vagrant"
+    link: "https://www.vagrantup.com/"
+    description: ""
+    image: "vagrant.png"
+    level: 2
+    tags: "Tooling - General"
+
+# Tooling - Building
+
+# Tooling - Documentation
+
+# Tooling - Editors/IDE
+-
+    title: "EditorConfig"
+    link: "http://editorconfig.org/"
+    description: "EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems."
+    image: "editorconfig.png"
+    level: 1
+    tags: "Tooling - Editors/IDE"
+-
+    title: "Visual Studio"
+    link: "https://www.visualstudio.com/"
+    description: ""
+    image: "visual-studio.jpg"
+    level: 2
+    tags: "Tooling - Editors/IDE"
+-
+    title: "Visual Studio Code"
+    link: "https://code.visualstudio.com/"
+    description: ""
+    image: "vs-code.png"
+    level: 2
+    tags: "Tooling - Editors/IDE"
+
+# Tooling - Package Management
+-
+    title: "nuget"
+    link: "https://www.nuget.org/"
+    description: ""
+    image: "nuget.png"
+    level: 1
+    tags: "Tooling - Package Management"
+
+# Tooling - Version Control
+-
+    title: "Bitbucket"
+    link: "https://bitbucket.org/"
+    description: ""
+    image: "bitbucket.png"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "Git"
+    link: "https://git-scm.com/"
+    description: ""
+    image: "git.png"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "GitHub"
+    link: "https://github.com/"
+    description: ""
+    image: "github.png"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "GitHub Desktop"
+    link: "https://desktop.github.com/"
+    description: ""
+    image: "github.png"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "GitKraken"
+    link: "https://www.gitkraken.com/"
+    description: ""
+    image: "gitkraken.jpg"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "GitLab"
+    link: "https://gitlab.com/"
+    description: ""
+    image: "gitlab.png"
+    level: 1
+    tags: "Tooling - Version Control"
+-
+    title: "Gogs"
+    link: "https://gogs.io/"
+    description: ""
+    image: "gogs.jpg"
+    level: 1
+    tags: "Tooling - Version Control"
+
+# Twitter
+
+# Newsletters
+
+# Online Courses
+
+# Youtube

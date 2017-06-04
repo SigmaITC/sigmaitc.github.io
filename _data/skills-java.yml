@@ -280,6 +280,10 @@
             title: "Maven - Getting started"
             link: "https://maven.apache.org/guides/getting-started/"
             level: 1
+        -
+            title: "Understanding Maven Version Numbers"
+            link: "https://docs.oracle.com/middleware/1212/core/MAVEN/maven_version.htm#MAVEN8855"
+            level: 1
 -
     title: "Gradle"
     link: "https://gradle.org/"

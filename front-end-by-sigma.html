@@ -16,40 +16,9 @@ pageUrl: https://sigmaitc.github.io/front-end-by-sigma/
                 <h1 class="heading heading--xl">Front End by Sigma</h1>
 
                 <section>
-                    <h2 class="heading heading--l" style="margin-top: 1em;">Introduction</h2>
-                    <p>It is usually a daunting task to know what to learn next, especially if you are beginning your journey. This guide aims to help you find relevant competence areas to focus on and suggest what to prioritize first to speed up the learning process.</p>
-
-                    <h2 class="heading heading--l">Contribute</h2>
-                    <p>If you have any opinions or suggestions then feel free to create an issue and make sure to tag it with <strong>improvement</strong> for any new suggestions or <strong>invalid</strong> if any existing information is incorrect.</p>
-
-                    <h2 class="heading heading--l">Levels</h2>
-                    <p>Feel free to learn whatever you want regardless of level. However be aware that a higher level suggests that you will have a harder time if you lack fundamental knowledge.</p>
-                    <table class="table">
-                        <tbody>
-                            <tr>
-                                <td><small class="level-badge"><abbr class="level-badge__text" title="Level">Lv.</abbr><span class="level-badge__number">0</span></small></td>
-                                <td>You might be familiar with some concepts but lack professional experience.</td>
-                            </tr>
-                            <tr>
-                                <td><small class="level-badge"><abbr class="level-badge__text" title="Level">Lv.</abbr><span class="level-badge__number">1</span></small></td>
-                                <td>You should comprehend the basics of HTML, CSS and JavaScript. You should also be aware of the essential tools and platforms and be able to use them assuming they are setup and configured beforehand.</td>
-                            </tr>
-                            <tr>
-                                <td><small class="level-badge"><abbr class="level-badge__text" title="Level">Lv.</abbr><span class="level-badge__number">2</span></small></td>
-                                <td>You should know most features of HTML, CSS, JavaScript and be accustomed to commonly used libraries and frameworks. You are aware of multiple programming paradigms and know basic functional programming. You should also be better versed with different tools and able to setup and configure some from scratch.</td>
-                            </tr>
-                            <tr>
-                                <td><small class="level-badge"><abbr class="level-badge__text" title="Level">Lv.</abbr><span class="level-badge__number">3</span></small></td>
-                                <td>You should be proficient with advanced concepts and be able to combine the right technologies and tools from an architectural perspective.</td>
-                            </tr>
-                            <tr>
-                                <td><small class="level-badge"><abbr class="level-badge__text" title="Level">Lv.</abbr><span class="level-badge__number">4</span></small></td>
-                                <td>You are a master in one or more areas and an active contributor to standards and the open source community.</td>
-                            </tr>
-                        </tbody>
-                    </table>
-
-                    {% include remarks.html %}
+                    {% include description-intro.html %}
+                    {% include description-levels.html levels=site.data.levels-front-end %}
+                    {% include description-remarks.html %}
                 </section>
 
                 <!--
@@ -140,7 +109,6 @@ pageUrl: https://sigmaitc.github.io/front-end-by-sigma/
                 </section>
 
                 <section>
-                    <h2 class="heading heading--l">Contributors</h2>
                     {% include contributors.html %}
                 </section>
             </section>

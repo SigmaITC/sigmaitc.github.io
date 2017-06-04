@@ -1,0 +1,12 @@
+<h2 class="heading heading--l">Levels</h2>
+<p>Feel free to learn whatever you want regardless of level. However be aware that a higher level suggests that you will have a harder time if you lack fundamental knowledge.</p>
+<table class="table">
+    <tbody>
+        {% for level in include.levels %}
+        <tr>
+            <td><small class="level-badge"><abbr class="level-badge__text" title="Level">Lv.</abbr><span class="level-badge__number">{{ forloop.index0 }}</span></small></td>
+            <td>{{ level.description }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

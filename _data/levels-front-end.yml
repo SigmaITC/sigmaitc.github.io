@@ -1,15 +1,10 @@
 -
-    description: "Ingen yrkesmässig erfarenhet."
-    categories: ""
+    description: "You might be familiar with some concepts but lack professional experience."
 -
-    description: "Behärskar det mest grundläggande för att klara de flesta arbetssituationerna."
-    categories: ""
+    description: "You should comprehend the basics of HTML, CSS and JavaScript. You should also be aware of the essential tools and platforms and be able to use them assuming they are setup and configured beforehand."
 -
-    description: "Bygger vidare på tidigare kunskap och utvecklar ett helhetstänk kring kvalitet och arkitektur."
-    categories: ""
+    description: "You should know most features of HTML, CSS, JavaScript and be accustomed to commonly used libraries and frameworks. You are aware of multiple programming paradigms and know basic functional programming. You should also be better versed with different tools and able to setup and configure some from scratch."
 -
-    description: "Specialiserar sig på flera områden och fokuserar på kvalitet, prestanda och effektivisering av arbetsflöden."
-    categories: ""
+    description: "You should be proficient with advanced concepts and be able to combine the right technologies and tools from an architectural perspective."
 -
-    description: "Din expertis är i en klass för sig och du engagerar dig och driver på utvecklingen inom ett eller flera områden."
-    categories: ""
+    description: "You are a master in one or more areas and an active contributor to standards and the open source community."

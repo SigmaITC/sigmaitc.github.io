@@ -1,0 +1,75 @@
+##
+# This file contains the categories that can be listed.
+#
+# Each category has the following properties:
+#
+# title {String} - The name of the category e.g. Programming, Architecture.
+# description {String} (optional) - The main description for the category. This can be used for categories where skill levels don't apply.
+# levels {Array} - A list of levels for the category.
+##
+
+-
+    title: "Programming"
+    description: ""
+-
+    title: "Programming - Frameworks/Libs"
+    description: ""
+-
+    title: "Programming - Functional Programming"
+    description: ""
+-
+    title: "Data Formats"
+    description: "When it comes to front end there are mainly three popular data formats JSON, YAML and XML. XML used to be the most widely used, but has succumbed in favor of the lighter and less verbose formats. You are likely to see these data formats being used in varying situations e.g. configuration, data transactions and persistance."
+-
+    title: "Templating Engines"
+    description: ""
+-
+    title: "Architecture"
+    description: ""
+-
+    title: "Quality Assurance - Unit Testing"
+    description: ""
+-
+    title: "Quality Assurance - Continous Integration"
+    description: ""
+-
+    title: "Security"
+    description: ""
+-
+    title: "Cloud"
+    description: ""
+-
+    title: "CMS"
+    description: ""
+-
+    title: "Cross Platform Applications"
+    description: ""
+-
+    title: "Tooling - General"
+    description: ""
+-
+    title: "Tooling - Building"
+    description: ""
+-
+    title: "Tooling - Documentation"
+    description: ""
+-
+    title: "Tooling - Editors/IDE"
+    description: ""
+-
+    title: "Tooling - Package Management"
+    description: ""
+-
+    title: "Tooling - Version Control"
+    description: ""
+-
+    title: "Twitter"
+-
+    title: "Blogs"
+-
+    title: "Newsletters"
+-
+    title: "Online Courses"
+    description: ""
+-
+    title: "Youtube"

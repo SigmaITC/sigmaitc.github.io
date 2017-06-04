@@ -345,7 +345,7 @@
 -
     title: "TypeScript"
     link: "https://www.typescriptlang.org/"
-    description: ""
+    description: "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript."
     hot: true
     image: "typescript.png"
     level: 2
@@ -353,7 +353,7 @@
 -
     title: "Babel"
     link: "https://babeljs.io/"
-    description: ""
+    description: "Babel is a JavaScript compiler that let's you use the next generation of JavaScript, today."
     required: true
     image: "babel.png"
     level: 2
@@ -536,22 +536,22 @@
 -
     title: "elm"
     link: "http://elm-lang.org/"
-    description: ""
+    description: "A delightful language for reliable webapps. Generate JavaScript with great performance and no runtime exceptions."
     hot: true
     image: "elm.png"
     level: 3
     tags: "Programming - Functional Programming"
 -
     title: "Folktale"
-    link: "https://github.com/folktale"
-    description: ""
+    link: "http://folktalejs.org/"
+    description: "Folktale is a suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse."
     image: "folktale.png"
     level: 3
     tags: "Programming - Functional Programming"
 -
     title: "Immutable"
     link: "https://facebook.github.io/immutable-js/"
-    description: ""
+    description: "Immutable collections for JavaScript."
     hot: true
     image: "immutable.png"
     level: 2
@@ -559,7 +559,7 @@
 -
     title: "Ramda"
     link: "http://ramdajs.com/"
-    description: ""
+    description: "A practical functional library for JavaScript programmers."
     hot: true
     recommended: true
     image: "ramda.png"
@@ -568,19 +568,36 @@
 -
     title: "PureScript"
     link: "http://www.purescript.org/"
-    description: ""
+    description: "PureScript is a small strongly typed programming language that compiles to JavaScript."
     hot: true
     image: "purescript.png"
     level: 3
     tags: "Programming - Functional Programming"
 -
     title: "Sanctuary"
-    link: "https://github.com/sanctuary-js/sanctuary"
-    description: ""
+    link: "https://sanctuary.js.org/"
+    description: "
+        Sanctuary is a JavaScript functional programming library inspired by Haskell and PureScript. It's stricter than Ramda, and provides a similar suite of functions.
+        <br/><br/>
+        Sanctuary promotes programs composed of simple, pure functions. Such programs are easier to comprehend, test, and maintain – they are also a pleasure to write.
+        <br/><br/>
+        Sanctuary provides two data types, Maybe and Either, both of which are compatible with Fantasy Land. Thanks to these data types even Sanctuary functions which may fail, such as head, are composable.
+        <br/><br/>
+        Sanctuary makes it possible to write safe code without null checks. In JavaScript it's trivial to introduce a possible run-time type error.
+    "
     hot: true
     image: "sanctuary.png"
     level: 2
     tags: "Programming - Functional Programming"
+
+# Programming - Polyfills
+-
+    title: "Polyfill Service"
+    link: "https://polyfill.io/"
+    description: "Just the polyfills you need for your site, tailored to each browser. Polyfill.io reads the User-Agent header of each request and returns polyfills that are suitable for the requesting browser."
+    image: "polyfill.jpg"
+    level: 2
+    tags: "Programming - Polyfills"
 
 # Programming - Logging
 -
@@ -709,6 +726,14 @@
     description: ""
     hot: true
     image: "jest.png"
+    level: 2
+    tags: "Quality Assurance - Unit Testing"
+-
+    title: "JSDom"
+    link: "https://github.com/tmpvar/jsdom"
+    description: ""
+    recommended: true
+    image: "github.png"
     level: 2
     tags: "Quality Assurance - Unit Testing"
 -
