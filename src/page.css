@@ -11,20 +11,20 @@
 }
 
 .page-header {
-    background-color: white;
+    background-color: #fff;
     display: block;
     font-size: 1.4rem;
     padding: 1.2rem;
+}
 
-    &__content {
-        margin: 0 auto;
-        max-width: 67.14em;
-        width: 100%;
-    }
+.page-header__content {
+    margin: 0 auto;
+    max-width: 67.14em;
+    width: 100%;
 }
 
 .page-body {
-    background-color: white;
+    background-color: #fff;
     display: block;
     font-size: 1.4rem;
     min-height: 36em;

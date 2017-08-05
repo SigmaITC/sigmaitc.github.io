@@ -8,6 +8,5 @@
     height: 100%;
 
     /* Prevent iOS and IE text size adjust after device orientation change, without disabling user zoom. */
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
 }

@@ -1,0 +1,23 @@
+/**
+ * Link
+ */
+.link {
+    /* Remove the gray background color from active links in IE 10. */
+    background-color: transparent;
+    color: var(--blue);
+    text-decoration: none;
+}
+
+/* Improve readability of focused elements when they are also in an active/hover state. */
+.link:active, .link:hover {
+    outline: 0;
+}
+
+.link:hover, .link:focus {
+    color: var(--black);
+    text-decoration: underline;
+}
+
+.link--inline-block {
+    display: inline-block;
+}

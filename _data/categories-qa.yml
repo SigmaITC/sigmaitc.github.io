@@ -7,3 +7,22 @@
 # description {String} (optional) - The main description for the category. This can be used for categories where skill levels don't apply.
 # levels {Array} - A list of levels for the category.
 ##
+
+-
+    title: "Test Techniques"
+    description: ""
+-
+    title: "Processes"
+    description: ""
+-
+    title: "Project Methodologies"
+    description: ""
+-
+    title: "Programming for Testers"
+    description: ""
+-
+    title: "Tools"
+    description: ""
+-
+    title: "Web Courses"
+    description: ""

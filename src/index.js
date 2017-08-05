@@ -1,4 +1,4 @@
-require('jquery');
-require('../node_modules/materialize-css/js/jquery.easing.1.3');
-require('../node_modules/materialize-css/js/collapsible');
-require('./main.scss');
+import 'jquery';
+import '../node_modules/materialize-css/js/jquery.easing.1.4';
+import '../node_modules/materialize-css/js/collapsible';
+import './app.css';

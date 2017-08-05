@@ -1,7 +1,7 @@
 <ul class="collapsible popout" data-collapsible="accordion">
     {% for skill in include.skills %}
         {% if skill.tags contains include.categories %}
-            <li>
+            <li class="collapsible__list-item">
                 <div class="collapsible-header skill-section__header">
                     {% if skill.image and skill.image != "" %}
                         {% if skill.tags contains "Twitter" %}

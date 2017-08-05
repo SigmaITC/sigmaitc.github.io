@@ -24,7 +24,7 @@ module.exports = {
                 }
             },
             {
-                test: /\.scss$/,
+                test: /\.css$/,
                 use: ExtractTextPlugin.extract({
                     fallback: 'style-loader',
                     use: [
@@ -36,11 +36,11 @@ module.exports = {
                                     require('postcss-import-url'),
                                     require('postcss-custom-media'),
                                     require('postcss-cssnext'),
+                                    require('cssnano'),
                                     require('postcss-reporter')
                                 ]
                             }
-                        },
-                        'sass-loader'
+                        }
                     ]
                 })
             }
