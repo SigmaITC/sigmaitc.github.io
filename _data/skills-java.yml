@@ -73,6 +73,13 @@
     level: 2
     tags: "Application Servers"
 -
+    title: "Weblogic"
+    link: "http://www.oracle.com/technetwork/middleware/weblogic/overview/index.html"
+    description: ""
+    image: "weblogic.gif"
+    level: 2
+    tags: "Application Servers"
+-
     title: "JBoss EAP"
     link: "https://developers.redhat.com/products/eap/overview/"
     description: ""
