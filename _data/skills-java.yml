@@ -330,7 +330,7 @@
     title: "Linux / Unix"
     link: "http://engr.uconn.edu/~xinyuz/unixtut/index.html"
     description: ""
-    image: "linus.png"
+    image: "linux.png"
     level: 1
     tags: "Operating Systems"
 -
@@ -364,7 +364,7 @@
     title: "Clean Code"
     link: "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=la_B000APG87E_1_2?s=books&ie=UTF8&qid=1427103529&sr=1-2"
     description: ""
-    image: "sql.png"
+    image: ""
     level: 1
     tags: "Books"
 
