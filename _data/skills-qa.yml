@@ -18,3 +18,314 @@
 # description {String} - A brief description of the resource.
 # level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
 ##
+
+# Test Techniques - Functional Testing
+-
+    title: "Functional Testing"
+    link: "https://en.wikipedia.org/wiki/Functional_testing/"
+    description: "Functional testing is a type of black box testing, where functionality of the system is verified and validated against functional requirements. Functional testing is conducted to verify how well the system executes its functions."
+    required: true
+    image: ""
+    level: 1
+    tags: "Test Techniques - Functional Testing"
+
+# Test Techniques - Non-Functional Testing
+-
+    title: "Non-Functional Testing"
+    link: "https://en.wikipedia.org/wiki/Non-functional_testing/"
+    description: "Tests are conducted to see how well the system works, rather than what it does. The tests verify that the non-functional requirements are met, e.g. requirements regarding response times and load."
+    required: true
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "Unit testing (conducted by the programmer)"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "Smoke Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "Integration Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "Interface Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "System Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "Regression Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "User Acceptance Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+
+# Processes
+-
+    title: "Sigma Agile Testing Model"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Processes"
+-
+    title: "Session Based Test Management"
+    link: "https://en.wikipedia.org/wiki/Session-based_testing"
+    description: "An effective way to add structure and measurability to exploratory testing. Read more."
+    image: ""
+    level: 1
+    tags: "Processes"
+
+# Project Methodologies
+-
+    title: "Agile Methodologies"
+    link: ""
+    description: ""
+    required: true
+    image: ""
+    level: 1
+    tags: "Project Methodologies"
+    related:
+        -
+            title: "SCRUM"
+            link: "https://www.scrum.org/resources/what-is-scrum"
+            description: ""
+            level: 1
+        -
+            title: "Kanban"
+            link: "https://en.wikipedia.org/wiki/Kanban_(development)"
+            description: ""
+            level: 1
+-
+    title: "Traditional Approach"
+    link: ""
+    description: ""
+    cold: true
+    image: ""
+    level: 1
+    tags: "Project Methodologies"
+    related:
+        -
+            title: "Waterfall Model"
+            link: "https://www.tutorialspoint.com/sdlc/sdlc_v_model.htm"
+            description: ""
+            level: 1
+
+# Programming for Testers
+-
+    title: "Java"
+    link: "java-by-sigma.html"
+    description: "Commonly used in automated tests."
+    image: "java.png"
+    level: 1
+    tags: "Programming for Testers"
+    related:
+        -
+            title: "Java fundamentals course on Pluralsight"
+            link: "https://www.pluralsight.com/courses/java-fundamentals-language"
+            description: ""
+            level: 1
+-
+    title: "C#"
+    link: ""
+    description: ""
+    image: "csharp.png"
+    level: 1
+    tags: "Programming for Testers"
+    related:
+        -
+            title: "C# beginners course on Pluralsight"
+            link: "https://app.pluralsight.com/library/courses/csharp-6-from-scratch/description"
+            description: ""
+            level: 1
+        -
+            title: "Course on automated web testing with Selenium and C# on Pluralsight"
+            link: "https://app.pluralsight.com/library/courses/selenium/table-of-contents"
+            description: ""
+            level: 1
+-
+    title: "Database"
+    link: ""
+    description: "SQL: Common database technology that is useful to have knowledge of in many situations, e.g. when creating test data or verifying changes and integrations. <a href='https://www.pluralsight.com/courses/introduction-to-sql'>Course on Pluralsight</a>, <a href='https://www.codecademy.com/learn/learn-sql'>Interactive course on Codeacademy</a>"
+    image: ""
+    level: 1
+    tags: "Programming for Testers"
+-
+    title: "Formats"
+    link: ""
+    description: "There are mainly three popular data formats - JSON, YAML and XML. XML used to be the most widely used, but has succumbed in favor of the lighter and less verbose formats. You are likely to see these data formats being used in varying situations e.g. configuration, data transactions and persistence."
+    image: ""
+    level: 1
+    tags: "Programming for Testers"
+    related:
+        -
+            title: "XML tutorial on W3Schools"
+            link: "https://www.w3schools.com/xml/"
+            description: ""
+            level: 1
+        -
+            title: "JSON tutorial on W3Schools"
+            link: "https://www.w3schools.com/js/js_json_intro.asp"
+            description: ""
+            level: 1
+
+# Tools - Manual Testing
+-
+    title: "HP Qualtiy Center"
+    link: ""
+    description: ""
+    image: "hp.png"
+    level: 1
+    tags: "Tools - Manual Testing"
+-
+    title: "Jira"
+    link: "https://www.atlassian.com/software/jira"
+    description: ""
+    recommended: true
+    image: "jira.jpg"
+    level: 1
+    tags: "Tools - Manual Testing"
+-
+    title: "ReQtest"
+    link: "http://reqtest.com/"
+    description: ""
+    image: "reqtest.png"
+    level: 1
+    tags: "Tools - Manual Testing"
+
+# Tools - Test Automation (Web)
+-
+    title: "TestCafé"
+    link: "https://testcafe.devexpress.com/"
+    description: "Web based easy to use web page automation tool"
+    image: "testcafe.jpg"
+    level: 1
+    tags: "Tools - Test Automation (Web)"
+-
+    title: "Selenium"
+    link: ""
+    description: "Basic open source tool for automating webpages and to generate automation scripts. Both “record & play” and coding alternatives."
+    recommended: true
+    image: "selenium.png"
+    level: 1
+    tags: "Tools - Test Automation (Web)"
+-
+    title: "Selenide"
+    link: "http://selenide.org/"
+    description: ""
+    image: "selenide.png"
+    level: 1
+    tags: "Tools - Test Automation (Web)"
+-
+    title: "Webdriver"
+    link: ""
+    description: "Advanced framework for web page automation."
+    image: "selenium.png"
+    level: 1
+    tags: "Tools - Test Automation (Web)"
+
+# Tools - Test Automation (Desktop)
+-
+    title: "AutoKey"
+    link: "https://autohotkey.com/"
+    description: "Useful open source hands on tool for automating desktop applications."
+    image: "autohotkey.jpg"
+    level: 1
+    tags: "Tools - Test Automation (Desktop)"
+-
+    title: "EyeAutomate"
+    link: "http://eyeautomate.com/"
+    description: "Commercial automation tool using intelligent image recognition. Builds on former jAutomate and part of an automation tools suite."
+    image: "eyeautomate.png"
+    level: 1
+    tags: "Tools - Test Automation (Desktop)"
+
+# Tools - API Test
+-
+    title: "Insomnia"
+    link: "https://insomnia.rest/"
+    description: "Useful API development and testing tool."
+    image: "insomnia.jpg"
+    level: 1
+    tags: "Tools - API Test"
+-
+    title: "Postman"
+    link: "http://www.getpostman.com/"
+    description: "Useful API development and testing tool. Free and paid versions."
+    image: "postman.jpg"
+    level: 1
+    tags: "Tools - API Test"
+-
+    title: "SoapUI"
+    link: "https://www.soapui.org/"
+    description: "Powerful commercial tool for API testing."
+    image: "soapui.png"
+    level: 1
+    tags: "Tools - API Test"
+
+# Tools - Performance Test
+-
+    title: "HP ALM Performance Center"
+    link: "http://alm-help.saas.hpe.com/en/12.50/online_help/Content/PC/c_PC_intro.htm"
+    description: "(free trial with 50 virtual users)"
+    image: "hp.png"
+    level: 1
+    tags: "Tools - Performance Test"
+-
+    title: "Apache JMeter"
+    link: "http://jmeter.apache.org/"
+    description: ""
+    image: "apachejmeter.jpg"
+    level: 1
+    tags: "Tools - Performance Test"
+
+# Web Courses
+-
+    title: "Udacity"
+    link: "https://www.udacity.com/"
+    description: ""
+    image: "udacity.jpg"
+    level: 1
+    tags: "Web Courses"
+-
+    title: "Codeacademy"
+    link: "https://www.codecademy.com/"
+    description: ""
+    image: "codecademy.png"
+    level: 1
+    tags: "Web Courses"
+-
+    title: "Pluralsight"
+    link: "https://www.pluralsight.com/"
+    description: ""
+    image: "pluralsight.jpg"
+    level: 1
+    tags: "Web Courses"

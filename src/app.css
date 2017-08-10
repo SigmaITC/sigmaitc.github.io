@@ -1,9 +1,5 @@
 @charset "UTF-8";
 
-// Variables
-@import "variables";
-
-// components
 @import "global";
 @import "document";
 @import "page";

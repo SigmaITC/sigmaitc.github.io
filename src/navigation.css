@@ -13,15 +13,17 @@
 .nav-menu-item {
     display: block;
     position: relative;
+}
 
-    @media (min-width: 361px) {
+@media (min-width: 361px) {
+    .nav-menu-item {
         display: inline-block;
     }
 }
 
 .nav-link {
     background-color: var(--black);
-    color: white;
+    color: #fff;
     display: block;
     font-weight: 700;
     height: 50px;
@@ -29,10 +31,10 @@
     padding: 0 1.2rem;
     text-decoration: none;
     text-transform: uppercase;
+}
 
-    &:hover, &:focus {
-        background-color: white;
-        color: var(--black);
-        text-decoration: none;
-    }
+.nav-link:hover, .nav-link:focus {
+    background-color: #fff;
+    color: var(--black);
+    text-decoration: none;
 }

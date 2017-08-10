@@ -7,3 +7,41 @@
 # description {String} (optional) - The main description for the category. This can be used for categories where skill levels don't apply.
 # levels {Array} - A list of levels for the category.
 ##
+
+-
+    title: "Test Techniques - Functional Testing"
+    description: ""
+-
+    title: "Test Techniques - Non-Functional Testing"
+    description: ""
+-
+    title: "Processes"
+    description: ""
+-
+    title: "Project Methodologies"
+    description: ""
+-
+    title: "Programming for Testers"
+    description: ""
+-
+    title: "Tools - Manual Testing"
+    description: ""
+
+-
+    title: "Tools - Test Automation (Web)"
+    description: ""
+
+-
+    title: "Tools - Test Automation (Desktop)"
+    description: ""
+
+-
+    title: "Tools - API Test"
+    description: ""
+
+-
+    title: "Tools - Performance Test"
+    description: ""
+-
+    title: "Web Courses"
+    description: ""

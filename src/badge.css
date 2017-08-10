@@ -13,16 +13,16 @@
     margin-bottom: 0.5em;
     padding: 0 0.8em;
     text-align: center;
+}
 
-    &--blue {
-        background-color: var(--blue-lighter);
-    }
+.badge--blue {
+    background-color: var(--blue-lighter);
+}
 
-    &--red {
-        background-color: var(--red);
-    }
+.badge--red {
+    background-color: var(--red);
+}
 
-    &--green {
-        background-color: var(--green);
-    }
+.badge--green {
+    background-color: var(--green);
 }

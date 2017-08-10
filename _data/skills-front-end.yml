@@ -1067,7 +1067,7 @@
     level: 3
     tags: "Cross Platform Applications"
 
-# Tooling - General
+# Tools - General
 -
     title: "Node.js"
     link: "https://nodejs.org/"
@@ -1075,7 +1075,7 @@
     required: true
     image: "nodejs.png"
     level: 1
-    tags: "Tooling - General"
+    tags: "Tools - General"
 -
     title: "Docker"
     link: "https://www.docker.com/"
@@ -1083,7 +1083,7 @@
     recommended: true
     image: "docker.png"
     level: 2
-    tags: "Tooling - General"
+    tags: "Tools - General"
 -
     title: "Vagrant"
     link: "https://www.vagrantup.com/"
@@ -1091,7 +1091,7 @@
     cold: true
     image: "vagrant.png"
     level: 2
-    tags: "Tooling - General"
+    tags: "Tools - General"
 -
     title: "Emmet"
     link: "http://emmet.io/"
@@ -1099,16 +1099,16 @@
     recommended: true
     image: "emmet.png"
     level: 2
-    tags: "Tooling - General"
+    tags: "Tools - General"
 
-# Tooling - Building
+# Tools - Building
 -
     title: "Browserify"
     link: "http://browserify.org/"
     description: ""
     image: "browserify.png"
     level: 2
-    tags: "Tooling - Building"
+    tags: "Tools - Building"
 -
     title: "Grunt"
     link: "http://gruntjs.com/"
@@ -1116,7 +1116,7 @@
     cold: true
     image: "grunt.png"
     level: 1
-    tags: "Tooling - Building"
+    tags: "Tools - Building"
     related:
         -
             title: "Why We Should Stop Using Grunt"
@@ -1130,7 +1130,7 @@
     cold: true
     image: "gulp.png"
     level: 1
-    tags: "Tooling - Building"
+    tags: "Tools - Building"
 -
     title: "RequireJS"
     link: "http://requirejs.org/"
@@ -1138,7 +1138,7 @@
     cold: true
     image: "requirejs.png"
     level: 2
-    tags: "Tooling - Building"
+    tags: "Tools - Building"
 -
     title: "Rollup"
     link: "http://rollupjs.org/"
@@ -1146,7 +1146,7 @@
     hot: true
     image: "rollup.jpg"
     level: 2
-    tags: "Tooling - Building"
+    tags: "Tools - Building"
 -
     title: "webpack"
     link: "https://webpack.github.io/"
@@ -1155,9 +1155,9 @@
     recommended: true
     image: "webpack.svg"
     level: 2
-    tags: "Tooling - Building"
+    tags: "Tools - Building"
 
-# Tooling - Documentation
+# Tools - Documentation
 -
     title: "ESDoc"
     link: "https://esdoc.org/"
@@ -1166,7 +1166,7 @@
     recommended: true
     image: "esdoc.png"
     level: 2
-    tags: "Tooling - Documentation"
+    tags: "Tools - Documentation"
 -
     title: "JSDoc"
     link: "http://usejsdoc.org/"
@@ -1174,30 +1174,30 @@
     required: true
     image: ""
     level: 2
-    tags: "Tooling - Documentation"
+    tags: "Tools - Documentation"
 -
     title: "Fractal"
     link: "http://fractal.build//"
     description: ""
     image: "fractal.png"
     level: 2
-    tags: "Tooling - Documentation"
+    tags: "Tools - Documentation"
 -
     title: "KSS (Knyle Style Sheets)"
     link: "http://warpspire.com/kss/"
     description: ""
     image: ""
     level: 2
-    tags: "Tooling - Documentation"
+    tags: "Tools - Documentation"
 -
     title: "Pattern lab"
     link: "http://patternlab.io/"
     description: ""
     image: "atomicdesign.svg"
     level: 2
-    tags: "Tooling - Documentation"
+    tags: "Tools - Documentation"
 
-# Tooling - Editors/IDE
+# Tools - Editors/IDE
 -
     title: "EditorConfig"
     link: "http://editorconfig.org/"
@@ -1205,7 +1205,7 @@
     required: true
     image: "editorconfig.png"
     level: 1
-    tags: "Tooling - Editors/IDE"
+    tags: "Tools - Editors/IDE"
 -
     title: "Atom"
     link: "https://atom.io/"
@@ -1213,7 +1213,7 @@
     recommended: true
     image: "atom-editor.png"
     level: 1
-    tags: "Tooling - Editors/IDE"
+    tags: "Tools - Editors/IDE"
     related:
         -
             title: "Supercharge JavaScript development in Atom"
@@ -1226,28 +1226,28 @@
     description: ""
     image: "codekit.png"
     level: 1
-    tags: "Tooling - Editors/IDE"
+    tags: "Tools - Editors/IDE"
 -
     title: "Sublime Text"
     link: "http://www.sublimetext.com/"
     description: ""
     image: "sublime-text.png"
     level: 1
-    tags: "Tooling - Editors/IDE"
+    tags: "Tools - Editors/IDE"
 -
     title: "Textmate (OSX)"
     link: "https://macromates.com/"
     description: ""
     image: "textmate.png"
     level: 1
-    tags: "Tooling - Editors/IDE"
+    tags: "Tools - Editors/IDE"
 -
     title: "Visual Studio"
     link: "https://www.visualstudio.com/"
     description: ""
     image: "visual-studio.jpg"
     level: 2
-    tags: "Tooling - Editors/IDE"
+    tags: "Tools - Editors/IDE"
 -
     title: "Visual Studio Code"
     link: "https://code.visualstudio.com/"
@@ -1255,7 +1255,7 @@
     recommended: true
     image: "vs-code.png"
     level: 2
-    tags: "Tooling - Editors/IDE"
+    tags: "Tools - Editors/IDE"
 -
     title: "WebStorm"
     link: "http://www.jetbrains.com/webstorm/"
@@ -1263,9 +1263,9 @@
     recommended: true
     image: "webstorm.png"
     level: 2
-    tags: "Tooling - Editors/IDE"
+    tags: "Tools - Editors/IDE"
 
-# Tooling - Linting
+# Tools - Linting
 -
     title: "ESLint"
     link: "http://eslint.org/"
@@ -1274,7 +1274,7 @@
     required: true
     image: "eslint.svg"
     level: 2
-    tags: "Tooling - Linting"
+    tags: "Tools - Linting"
     related:
         -
             title: "Awesome ESLint"
@@ -1288,7 +1288,7 @@
     required: true
     image: "stylelint.png"
     level: 2
-    tags: "Tooling - Linting"
+    tags: "Tools - Linting"
     related:
         -
             title: "stylelint-scss"
@@ -1301,7 +1301,7 @@
             description: "If you have adopted BEM as your CSS architecture, then this plugin helps you ensure that selectors are written accoring to the BEM patterns."
             level: 2
 
-# Tooling - Package Management
+# Tools - Package Management
 -
     title: "Bower"
     link: "http://bower.io/"
@@ -1309,14 +1309,14 @@
     cold: true
     image: "bower.jpg"
     level: 1
-    tags: "Tooling - Package Management"
+    tags: "Tools - Package Management"
 -
     title: "jspm"
     link: "http://jspm.io/"
     description: ""
     image: "jspm.png"
     level: 2
-    tags: "Tooling - Package Management"
+    tags: "Tools - Package Management"
 -
     title: "npm"
     link: "https://www.npmjs.com/"
@@ -1324,7 +1324,7 @@
     required: true
     image: "npm.png"
     level: 1
-    tags: "Tooling - Package Management"
+    tags: "Tools - Package Management"
     related:
         -
             title: "How to Use npm as a Build Tool"
@@ -1339,83 +1339,83 @@
     recommended: true
     image: "yarn.png"
     level: 1
-    tags: "Tooling - Package Management"
+    tags: "Tools - Package Management"
 
-# Tooling - Sandboxes
+# Tools - Sandboxes
 -
     title: "Codepen"
     link: "https://codepen.io/"
     description: ""
     image: "codepen.png"
     level: 1
-    tags: "Tooling - Sandboxes"
+    tags: "Tools - Sandboxes"
 -
     title: "Dabblet"
     link: "http://dabblet.com/"
     description: ""
     image: "dabblet.png"
     level: 1
-    tags: "Tooling - Sandboxes"
+    tags: "Tools - Sandboxes"
 -
     title: "JSFiddle"
     link: "https://jsfiddle.net/"
     description: ""
     image: "jsfiddle.png"
     level: 1
-    tags: "Tooling - Sandboxes"
+    tags: "Tools - Sandboxes"
 -
     title: "Plunker"
     link: "https://plnkr.co/"
     description: ""
     image: "plunker.png"
     level: 1
-    tags: "Tooling - Sandboxes"
+    tags: "Tools - Sandboxes"
 -
     title: "Sass Meister"
     link: "http://sassmeister.com/"
     description: ""
     image: "sassmeister.jpg"
     level: 1
-    tags: "Tooling - Sandboxes"
+    tags: "Tools - Sandboxes"
 
-# Tooling - Scaffolding
+# Tools - Scaffolding
 -
     title: "Yeoman"
     link: "http://yeoman.io/"
     description: ""
     image: "yeoman.png"
     level: 2
-    tags: "Tooling - Scaffolding"
+    tags: "Tools - Scaffolding"
 
-# Tooling - Version Control
+# Tools - Version Control
 -
     title: "Bitbucket"
     link: "https://bitbucket.org/"
     description: ""
     image: "bitbucket.png"
     level: 1
-    tags: "Tooling - Version Control"
+    tags: "Tools - Version Control"
 -
     title: "Git"
     link: "https://git-scm.com/"
     description: ""
     image: "git.png"
     level: 1
-    tags: "Tooling - Version Control"
+    tags: "Tools - Version Control"
 -
     title: "GitHub"
     link: "https://github.com/"
     description: ""
     image: "github.png"
     level: 1
-    tags: "Tooling - Version Control"
+    tags: "Tools - Version Control"
 -
     title: "GitHub Desktop"
     link: "https://desktop.github.com/"
     description: ""
     image: "github.png"
     level: 1
-    tags: "Tooling - Version Control"
+    tags: "Tools - Version Control"
 -
     title: "GitKraken"
     link: "https://www.gitkraken.com/"
@@ -1423,28 +1423,28 @@
     recommended: true
     image: "gitkraken.jpg"
     level: 1
-    tags: "Tooling - Version Control"
+    tags: "Tools - Version Control"
 -
     title: "GitLab"
     link: "https://gitlab.com/"
     description: ""
     image: "gitlab.png"
     level: 1
-    tags: "Tooling - Version Control"
+    tags: "Tools - Version Control"
 -
     title: "Gogs"
     link: "https://gogs.io/"
     description: ""
     image: "gogs.jpg"
     level: 1
-    tags: "Tooling - Version Control"
+    tags: "Tools - Version Control"
 -
     title: "SourceTree"
     link: "https://www.sourcetreeapp.com/"
     description: ""
     image: "source-tree.png"
     level: 1
-    tags: "Tooling - Version Control"
+    tags: "Tools - Version Control"
 
 # Twitter
 -
