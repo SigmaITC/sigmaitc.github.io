@@ -86,34 +86,34 @@
     title: "Cross Platform Applications"
     description: ""
 -
-    title: "Tooling - General"
+    title: "Tools - General"
     description: ""
 -
-    title: "Tooling - Building"
+    title: "Tools - Building"
     description: ""
 -
-    title: "Tooling - Documentation"
+    title: "Tools - Documentation"
     description: ""
 -
-    title: "Tooling - Editors/IDE"
+    title: "Tools - Editors/IDE"
     description: ""
 -
-    title: "Tooling - Linting"
+    title: "Tools - Linting"
     description: "Linting is a form of static code analysis that aims to find syntax errors and enfore best practices. It has been adopted in other languages such as Java and C# for quite some time, while front end has caught on in recent years. It started with JSLint which was very opinionated which led to the creation of JSHint which was more flexible. Since these tools focused on best practices there was also JSCS for checking code style and format. All of these tools have now been succeeded by ESLint which is a plugin based and extendable ruleset. For CSS (and preprocessor languages) we have the equivalent which is stylelint."
 -
-    title: "Tooling - Package Management"
+    title: "Tools - Package Management"
     description: ""
 # -
-#    title: "Tooling - Quality Assurance"
+#    title: "Tools - Quality Assurance"
 #    description: ""
 -
-    title: "Tooling - Sandboxes"
+    title: "Tools - Sandboxes"
     description: ""
 -
-    title: "Tooling - Scaffolding"
+    title: "Tools - Scaffolding"
     description: ""
 -
-    title: "Tooling - Version Control"
+    title: "Tools - Version Control"
     description: ""
 -
     title: "Twitter"

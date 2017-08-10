@@ -19,7 +19,7 @@
 # level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
 ##
 
-# Test Techniques
+# Test Techniques - Functional Testing
 -
     title: "Functional Testing"
     link: "https://en.wikipedia.org/wiki/Functional_testing/"
@@ -27,7 +27,9 @@
     required: true
     image: ""
     level: 1
-    tags: "Test Techniques"
+    tags: "Test Techniques - Functional Testing"
+
+# Test Techniques - Non-Functional Testing
 -
     title: "Non-Functional Testing"
     link: "https://en.wikipedia.org/wiki/Non-functional_testing/"
@@ -35,43 +37,56 @@
     required: true
     image: ""
     level: 1
-    tags: "Test Techniques"
-    related:
-        -
-            title: "Unit testing (conducted by the programmer)"
-            link: ""
-            description: ""
-            level: 1
-        -
-            title: "Smoke Testing"
-            link: ""
-            description: ""
-            level: 1
-        -
-            title: "Integration Testing"
-            link: ""
-            description: ""
-            level: 1
-        -
-            title: "Interface Testing"
-            link: ""
-            description: ""
-            level: 1
-        -
-            title: "System Testing"
-            link: ""
-            description: ""
-            level: 1
-        -
-            title: "Regression Testing"
-            link: ""
-            description: ""
-            level: 1
-        -
-            title: "User Acceptance Testing"
-            link: ""
-            description: ""
-            level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "Unit testing (conducted by the programmer)"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "Smoke Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "Integration Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "Interface Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "System Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "Regression Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
+-
+    title: "User Acceptance Testing"
+    link: ""
+    description: ""
+    image: ""
+    level: 1
+    tags: "Test Techniques - Non-Functional Testing"
 
 # Processes
 -
@@ -182,7 +197,115 @@
             description: ""
             level: 1
 
-# Tools
+# Tools - Manual Testing
+-
+    title: "HP Qualtiy Center"
+    link: ""
+    description: ""
+    image: "hp.png"
+    level: 1
+    tags: "Tools - Manual Testing"
+-
+    title: "Jira"
+    link: "https://www.atlassian.com/software/jira"
+    description: ""
+    recommended: true
+    image: "jira.jpg"
+    level: 1
+    tags: "Tools - Manual Testing"
+-
+    title: "ReQtest"
+    link: "http://reqtest.com/"
+    description: ""
+    image: "reqtest.png"
+    level: 1
+    tags: "Tools - Manual Testing"
+
+# Tools - Test Automation (Web)
+-
+    title: "TestCafé"
+    link: "https://testcafe.devexpress.com/"
+    description: "Web based easy to use web page automation tool"
+    image: "testcafe.jpg"
+    level: 1
+    tags: "Tools - Test Automation (Web)"
+-
+    title: "Selenium"
+    link: ""
+    description: "Basic open source tool for automating webpages and to generate automation scripts. Both “record & play” and coding alternatives."
+    recommended: true
+    image: "selenium.png"
+    level: 1
+    tags: "Tools - Test Automation (Web)"
+-
+    title: "Selenide"
+    link: "http://selenide.org/"
+    description: ""
+    image: "selenide.png"
+    level: 1
+    tags: "Tools - Test Automation (Web)"
+-
+    title: "Webdriver"
+    link: ""
+    description: "Advanced framework for web page automation."
+    image: "selenium.png"
+    level: 1
+    tags: "Tools - Test Automation (Web)"
+
+# Tools - Test Automation (Desktop)
+-
+    title: "AutoKey"
+    link: "https://autohotkey.com/"
+    description: "Useful open source hands on tool for automating desktop applications."
+    image: "autohotkey.jpg"
+    level: 1
+    tags: "Tools - Test Automation (Desktop)"
+-
+    title: "EyeAutomate"
+    link: "http://eyeautomate.com/"
+    description: "Commercial automation tool using intelligent image recognition. Builds on former jAutomate and part of an automation tools suite."
+    image: "eyeautomate.png"
+    level: 1
+    tags: "Tools - Test Automation (Desktop)"
+
+# Tools - API Test
+-
+    title: "Insomnia"
+    link: "https://insomnia.rest/"
+    description: "Useful API development and testing tool."
+    image: "insomnia.jpg"
+    level: 1
+    tags: "Tools - API Test"
+-
+    title: "Postman"
+    link: "http://www.getpostman.com/"
+    description: "Useful API development and testing tool. Free and paid versions."
+    image: "postman.jpg"
+    level: 1
+    tags: "Tools - API Test"
+-
+    title: "SoapUI"
+    link: "https://www.soapui.org/"
+    description: "Powerful commercial tool for API testing."
+    image: "soapui.png"
+    level: 1
+    tags: "Tools - API Test"
+
+# Tools - Performance Test
+-
+    title: "HP ALM Performance Center"
+    link: "http://alm-help.saas.hpe.com/en/12.50/online_help/Content/PC/c_PC_intro.htm"
+    description: "(free trial with 50 virtual users)"
+    image: "hp.png"
+    level: 1
+    tags: "Tools - Performance Test"
+-
+    title: "Apache JMeter"
+    link: "http://jmeter.apache.org/"
+    description: ""
+    image: "apachejmeter.jpg"
+    level: 1
+    tags: "Tools - Performance Test"
 
 # Web Courses
 -

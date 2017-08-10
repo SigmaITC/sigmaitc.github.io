@@ -9,7 +9,10 @@
 ##
 
 -
-    title: "Test Techniques"
+    title: "Test Techniques - Functional Testing"
+    description: ""
+-
+    title: "Test Techniques - Non-Functional Testing"
     description: ""
 -
     title: "Processes"
@@ -21,7 +24,23 @@
     title: "Programming for Testers"
     description: ""
 -
-    title: "Tools"
+    title: "Tools - Manual Testing"
+    description: ""
+
+-
+    title: "Tools - Test Automation (Web)"
+    description: ""
+
+-
+    title: "Tools - Test Automation (Desktop)"
+    description: ""
+
+-
+    title: "Tools - API Test"
+    description: ""
+
+-
+    title: "Tools - Performance Test"
     description: ""
 -
     title: "Web Courses"
