@@ -9,7 +9,7 @@
 ##
 
 -
-    title: "Programming"
+    title: "Languages"
     description: ""
 -
     title: "Frameworks"
@@ -34,9 +34,6 @@
     description: ""
 -
     title: "Java in the Cloud"
-    description: ""
--
-    title: "OSGi"
     description: ""
 -
     title: "Quality Assurance"

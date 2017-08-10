@@ -19,14 +19,14 @@
 # level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
 ##
 
-# Programming
+# Languages
 -
     title: "Java Standard Edition"
     link: "http://www.oracle.com/technetwork/java/javase/overview/"
     description: ""
     image: "java.png"
     level: 1
-    tags: "Programming"
+    tags: "Languages"
     related:
         -
             title: "Lambda"
@@ -38,7 +38,7 @@
     description: ""
     image: "java.png"
     level: 2
-    tags: "Programming"
+    tags: "Languages"
     related:
         -
             title: "Java EE Overview"
@@ -78,7 +78,14 @@
     description: ""
     image: "scala.png"
     level: 3
-    tags: "Programming"
+    tags: "Languages"
+-
+    title: "XML Schema"
+    link: "http://www.w3schools.com/schema/"
+    description: ""
+    image: ""
+    level: 3
+    tags: "Languages"
 
 # Application Servers
 -
@@ -180,15 +187,6 @@
     image: "google-cloud.png"
     level: 3
     tags: "Java in the Cloud"
-
-# OSGi
--
-    title: "OSGi"
-    link: "https://www.osgi.org/"
-    description: ""
-    image: "osgi.png"
-    level: 3
-    tags: "OSGi"
 
 # Quality Assurance
 -
@@ -372,7 +370,14 @@
     image: "spring.png"
     level: 2
     tags: "Frameworks"
-
+-
+    title: "OSGi"
+    link: "https://www.osgi.org/"
+    description: ""
+    image: "osgi.png"
+    level: 3
+    tags: "Frameworks"
+    
 # Databases
 -
     title: "SQL"
@@ -415,7 +420,7 @@
     image: ""
     level: 1
     tags: "Patterns"
-    
+
 # Modelling
 -
     title: "UML"
