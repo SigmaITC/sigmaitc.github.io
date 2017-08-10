@@ -12,6 +12,9 @@
     title: "Programming"
     description: ""
 -
+    title: "Frameworks"
+    description: ""
+-
     title: "Architecture"
     description: ""
 -
@@ -19,6 +22,9 @@
     description: ""
 -
     title: "Big Data"
+    description: ""
+-
+    title: "Databases"
     description: ""
 -
     title: "CMS"
@@ -46,6 +52,12 @@
     description: ""
 -
     title: "Operating Systems"
+    description: ""
+-
+    title: "Books"
+    description: ""
+-
+    title: "Patterns"
     description: ""
 #-
 #    title: "Twitter"

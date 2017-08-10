@@ -340,6 +340,42 @@
     image: "windows.png"
     level: 1
     tags: "Operating Systems"
+
+# Frameworks
+-
+    title: "Spring Framework"
+    link: "http://projects.spring.io/spring-framework/"
+    description: ""
+    image: "spring.png"
+    level: 1
+    tags: "Frameworks"
+
+# Databases
+-
+    title: "SQL"
+    link: "http://www.w3schools.com/sql/"
+    description: ""
+    image: "sql.png"
+    level: 1
+    tags: "Databases"
+
+# Books
+-
+    title: "Clean Code"
+    link: "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=la_B000APG87E_1_2?s=books&ie=UTF8&qid=1427103529&sr=1-2"
+    description: ""
+    image: "sql.png"
+    level: 1
+    tags: "Books"
+
+# Patterns
+-
+    title: "MVC-pattern"
+    link: "http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller"
+    description: ""
+    image: ""
+    level: 1
+    tags: "Patterns"     
 # Twitter
 #-
 #    title: "Brad Frost"
