@@ -1,0 +1,8 @@
+.contributors-list {
+    margin: 0;
+}
+
+.contributors-list__item {
+    line-height: 3;
+    padding: 0.6rem 0;
+}
