@@ -56,6 +56,22 @@
             title: "JMS"
             link: "http://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html"
             level: 2
+        -
+            title: "JPA"
+            link: "http://en.wikipedia.org/wiki/Java_Persistence_API"
+            level: 2
+        -
+            title: "Hibernate"
+            link: "http://hibernate.org/"
+            level: 2
+        -
+            title: "Webservices (SOAP)"
+            link: "http://docs.oracle.com/javaee/7/tutorial/jaxws.htm#BNAYL"
+            level: 2
+        -
+            title: "Webservices (REST)"
+            link: "http://docs.oracle.com/javaee/7/tutorial/jaxrs.htm#GIEPU"
+            level: 2
 -
     title: "Scala"
     link: "https://www.scala-lang.org/"
@@ -349,6 +365,13 @@
     image: "spring.png"
     level: 1
     tags: "Frameworks"
+-
+    title: "Spring Web MVC"
+    link: "http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html"
+    description: ""
+    image: "spring.png"
+    level: 2
+    tags: "Frameworks"
 
 # Databases
 -
@@ -367,6 +390,22 @@
     image: ""
     level: 1
     tags: "Books"
+-
+    title: "Design Patterns (GOF)"
+    link: "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8"
+    description: ""
+    image: ""
+    level: 2
+    tags: "Books"
+
+# Mobile
+-
+    title: "Android"
+    link: "https://developer.android.com/training/index.html"
+    description: ""
+    image: ""
+    level: 2
+    tags: "Mobile"
 
 # Patterns
 -
@@ -375,7 +414,16 @@
     description: ""
     image: ""
     level: 1
-    tags: "Patterns"     
+    tags: "Patterns"
+    
+# Modelling
+-
+    title: "UML"
+    link: "http://www.uml.org/#Links-Tutorials"
+    description: ""
+    image: ""
+    level: 2
+    tags: "Modelling"      
 # Twitter
 #-
 #    title: "Brad Frost"
