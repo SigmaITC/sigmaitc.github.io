@@ -24,6 +24,7 @@
     title: "Java Standard Edition"
     link: "http://www.oracle.com/technetwork/java/javase/overview/"
     description: ""
+    required: true
     image: "java.png"
     level: 1
     tags: "Languages"
@@ -36,6 +37,7 @@
     title: "Java Enterprise Edition"
     link: "http://www.oracle.com/technetwork/java/javaee/overview/"
     description: ""
+    recommended: true
     image: "java.png"
     level: 2
     tags: "Languages"
@@ -106,6 +108,7 @@
     title: "JBoss EAP"
     link: "https://developers.redhat.com/products/eap/overview/"
     description: ""
+    recommended: true
     image: "jboss.jpg"
     level: 2
     tags: "Application Servers"
@@ -120,6 +123,7 @@
     title: "Tomcat"
     link: "https://tomcat.apache.org/"
     description: ""
+    recommended: true
     image: "tomcat.jpg"
     level: 2
     tags: "Application Servers"
@@ -186,6 +190,7 @@
     title: "jUnit"
     link: "http://junit.org/"
     description: ""
+    required: true
     image: "junit.png"
     level: 1
     tags: "Quality Assurance"
@@ -212,6 +217,7 @@
     title: "Mockito"
     link: "http://mockito.org/"
     description: ""
+    recommended: true
     image: "mockito.jpg"
     level: 1
     tags: "Quality Assurance"
@@ -244,6 +250,7 @@
     title: "Docker"
     link: "https://www.docker.com/"
     description: ""
+    recommended: true
     image: "docker.png"
     level: 2
     tags: "Tooling"
@@ -251,6 +258,7 @@
     title: "Git"
     link: "https://git-scm.com/"
     description: ""
+    recommended: true
     image: "git.png"
     level: 1
     tags: "Tooling, DVCS"
@@ -286,6 +294,7 @@
     title: "Maven"
     link: "https://maven.apache.org/"
     description: ""
+    recommended: true
     image: "maven.png"
     level: 1
     tags: "Tooling, Build Tools"
@@ -302,6 +311,7 @@
     title: "Gradle"
     link: "https://gradle.org/"
     description: ""
+    recommended: true
     image: "gradle.png"
     level: 1
     tags: "Tooling, Build Tools"
@@ -353,6 +363,7 @@
     title: "Spring Framework"
     link: "http://projects.spring.io/spring-framework/"
     description: ""
+    recommended: true
     image: "spring.png"
     level: 1
     tags: "Frameworks"
@@ -376,6 +387,7 @@
     title: "SQL"
     link: "http://www.w3schools.com/sql/"
     description: ""
+    recommended: true
     image: "sql.png"
     level: 1
     tags: "Databases"
@@ -386,12 +398,13 @@
     image: "mongodb.png"
     level: 3
     tags: "Databases"
-    
+
 # Books
 -
     title: "Clean Code"
     link: "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=la_B000APG87E_1_2?s=books&ie=UTF8&qid=1427103529&sr=1-2"
     description: ""
+    recommended: true
     image: ""
     level: 1
     tags: "Books"
@@ -399,6 +412,7 @@
     title: "Design Patterns (GOF)"
     link: "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8"
     description: ""
+    recommended: true
     image: ""
     level: 2
     tags: "Books"
