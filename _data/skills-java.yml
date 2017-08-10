@@ -132,13 +132,6 @@
     image: "hadoop.jpeg"
     level: 3
     tags: "Big Data"
--
-    title: "MongoDB"
-    link: "https://www.mongodb.org/"
-    description: ""
-    image: "mongodb.png"
-    level: 3
-    tags: "Big Data"
 
 # CMS
 -
@@ -377,7 +370,7 @@
     image: "osgi.png"
     level: 3
     tags: "Frameworks"
-    
+
 # Databases
 -
     title: "SQL"
@@ -386,7 +379,14 @@
     image: "sql.png"
     level: 1
     tags: "Databases"
-
+-
+    title: "MongoDB"
+    link: "https://www.mongodb.org/"
+    description: ""
+    image: "mongodb.png"
+    level: 3
+    tags: "Databases"
+    
 # Books
 -
     title: "Clean Code"
