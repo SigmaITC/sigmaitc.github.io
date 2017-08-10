@@ -325,6 +325,21 @@
     level: 1
     tags: "Tooling, IDE"
 
+# Operating Systems
+-
+    title: "Linux / Unix"
+    link: "http://engr.uconn.edu/~xinyuz/unixtut/index.html"
+    description: ""
+    image: "linus.png"
+    level: 1
+    tags: "Operating Systems"
+-
+    title: "Windows"
+    link: "https://www.microsoft.com/sv-se/windows/"
+    description: ""
+    image: "windows.png"
+    level: 1
+    tags: "Operating Systems"
 # Twitter
 #-
 #    title: "Brad Frost"
