@@ -56,19 +56,16 @@
     title: "Architecture"
     description: ""
 -
-    title: "Quality Assurance - General"
+    title: "Quality & Test - Unit Testing"
     description: ""
 -
-    title: "Quality Assurance - Unit Testing"
+    title: "Quality & Test - End-to-end"
     description: ""
 -
-    title: "Quality Assurance - End-to-end"
+    title: "Quality & Test - Visual Regression Testing"
     description: ""
 -
-    title: "Quality Assurance - Visual Regression Testing"
-    description: ""
--
-    title: "Quality Assurance - Continous Integration"
+    title: "Quality & Test - Continous Integration"
     description: ""
 -
     title: "Security"
@@ -103,9 +100,9 @@
 -
     title: "Tools - Package Management"
     description: ""
-# -
-#    title: "Tools - Quality Assurance"
-#    description: ""
+-
+    title: "Tools - Performance"
+    description: ""
 -
     title: "Tools - Sandboxes"
     description: ""

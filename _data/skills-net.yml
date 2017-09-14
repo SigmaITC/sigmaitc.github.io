@@ -93,16 +93,16 @@
     level: 2
     tags: "Templating Engines"
 
-# Quality Assurance - Unit Testing
+# Quality & Test - Unit Testing
 
-# Quality Assurance - Continous Integration
+# Quality & Test - Continous Integration
 -
     title: "AppVeyor"
     link: "https://www.appveyor.com/"
     description: ""
     image: "appveyor.png"
     level: 2
-    tags: "Quality Assurance - Continous Integration"
+    tags: "Quality & Test - Continous Integration"
 
 # Security
 

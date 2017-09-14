@@ -12,6 +12,9 @@
     title: "Programming"
     description: ""
 -
+    title: "Functional Paradigm"
+    description: ""
+-
     title: "Architecture"
     description: ""
 -
@@ -33,7 +36,7 @@
     title: "OSGi"
     description: ""
 -
-    title: "Quality Assurance"
+    title: "Quality & Test"
     description: ""
 #-
 #    title: "Methodology"

@@ -343,6 +343,14 @@
     level: 2
     tags: "Programming - General"
 -
+    title: "Flow"
+    link: "https://flow.org/"
+    description: "Flow is a static type checker for JavaScript."
+    hot: true
+    image: "flow-typed.jpg"
+    level: 2
+    tags: "Programming - General"
+-
     title: "TypeScript"
     link: "https://www.typescriptlang.org/"
     description: "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript."
@@ -427,7 +435,7 @@
     title: "Ember"
     link: "http://emberjs.com/"
     description: ""
-    image: "emberjs.jpeg"
+    image: "emberjs.png"
     level: 3
     tags: "Programming - Frameworks/Libs"
 -
@@ -458,6 +466,13 @@
     link: "https://mobx.js.org/"
     description: ""
     image: "mobx.png"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "normalizr"
+    link: "https://github.com/paularmstrong/normalizr"
+    description: "Normalizes nested JSON according to a schema."
+    image: "github.png"
     level: 2
     tags: "Programming - Frameworks/Libs"
 -
@@ -495,11 +510,29 @@
     level: 2
     tags: "Programming - Frameworks/Libs"
 -
+    title: "Redux Saga"
+    link: "https://redux-saga.js.org/"
+    description: "redux-saga is a library that aims to make side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) in React/Redux applications easier and better."
+    hot: true
+    recommended: true
+    image: "redux-saga.png"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
     title: "Redux Observable"
     link: "https://redux-observable.js.org/"
     description: ""
     hot: true
-    image: "redux-observable.gif"
+    recommended: true
+    image: "redux-observable.png"
+    level: 2
+    tags: "Programming - Frameworks/Libs"
+-
+    title: "Reselect"
+    link: "https://github.com/reactjs/reselect"
+    description: "Simple “selector” library for Redux inspired by getters in NuclearJS, subscriptions in re-frame and this proposal from speedskater."
+    recommended: true
+    image: "github.png"
     level: 2
     tags: "Programming - Frameworks/Libs"
 -
@@ -697,21 +730,21 @@
     level: 2
     tags: "Templating Engines"
 
-# Quality Assurance - Unit Testing
+# Quality & Test - Unit Testing
 -
     title: "AVA"
     link: "https://github.com/avajs/ava"
     description: ""
     image: "ava.png"
     level: 2
-    tags: "Quality Assurance - Unit Testing"
+    tags: "Quality & Test - Unit Testing"
 -
     title: "Chai"
     link: "http://chaijs.com/"
     description: ""
     image: "chai.png"
     level: 2
-    tags: "Quality Assurance - Unit Testing"
+    tags: "Quality & Test - Unit Testing"
 -
     title: "Jasmine"
     link: "http://jasmine.github.io/"
@@ -719,7 +752,7 @@
     required: true
     image: "jasmine.png"
     level: 2
-    tags: "Quality Assurance - Unit Testing"
+    tags: "Quality & Test - Unit Testing"
 -
     title: "Jest"
     link: "https://facebook.github.io/jest/"
@@ -727,7 +760,7 @@
     hot: true
     image: "jest.png"
     level: 2
-    tags: "Quality Assurance - Unit Testing"
+    tags: "Quality & Test - Unit Testing"
 -
     title: "JSDom"
     link: "https://github.com/tmpvar/jsdom"
@@ -735,7 +768,7 @@
     recommended: true
     image: "github.png"
     level: 2
-    tags: "Quality Assurance - Unit Testing"
+    tags: "Quality & Test - Unit Testing"
 -
     title: "Karma"
     link: "http://karma-runner.github.io/"
@@ -743,14 +776,14 @@
     recommended: true
     image: "karma.png"
     level: 2
-    tags: "Quality Assurance - Unit Testing"
+    tags: "Quality & Test - Unit Testing"
 -
     title: "Mocha"
     link: "http://mochajs.org/"
     description: ""
     image: "mocha.png"
     level: 2
-    tags: "Quality Assurance - Unit Testing"
+    tags: "Quality & Test - Unit Testing"
 -
     title: "qUnit"
     link: "http://qunitjs.com/"
@@ -758,7 +791,7 @@
     cold: true
     image: "qunit.png"
     level: 2
-    tags: "Quality Assurance - Unit Testing"
+    tags: "Quality & Test - Unit Testing"
 -
     title: "Sinon"
     link: "http://sinonjs.org/"
@@ -766,7 +799,7 @@
     recommended: true
     image: "sinon.png"
     level: 2
-    tags: "Quality Assurance - Unit Testing"
+    tags: "Quality & Test - Unit Testing"
 -
     title: "Tape"
     link: "https://github.com/substack/tape"
@@ -774,7 +807,7 @@
     recommended: true
     image: "github.png"
     level: 2
-    tags: "Quality Assurance - Unit Testing"
+    tags: "Quality & Test - Unit Testing"
 -
     title: "Wallaby"
     link: "https://wallabyjs.com/"
@@ -782,16 +815,16 @@
     recommended: true
     image: "wallaby.png"
     level: 2
-    tags: "Quality Assurance - Unit Testing"
+    tags: "Quality & Test - Unit Testing"
 
-# Quality Assurance - End-to-end
+# Quality & Test - End-to-end
 -
     title: "Protractor"
     link: "https://angular.github.io/protractor/"
     description: ""
     image: "protractor.png"
     level: 2
-    tags: "Quality Assurance - End-to-end"
+    tags: "Quality & Test - End-to-end"
 -
     title: "WebdriverIO"
     link: "http://webdriver.io/"
@@ -799,74 +832,88 @@
     required: true
     image: "webdriverio.png"
     level: 2
-    tags: "Quality Assurance - End-to-end"
+    tags: "Quality & Test - End-to-end"
 
-# Quality Assurance - Visual Regression Testing
+# Quality & Test - Visual Regression Testing
+-
+    title: "Galen Framework"
+    link: "http://galenframework.com/"
+    description: "Automated testing of look and feel for your responsive websites."
+    image: "galen-framework.png"
+    level: 2
+    tags: "Quality & Test - Visual Regression Testing"
 -
     title: "PhantomCSS"
     link: "https://github.com/Huddle/PhantomCSS"
     description: ""
     image: "github.png"
     level: 2
-    tags: "Quality Assurance - Visual Regression Testing"
+    tags: "Quality & Test - Visual Regression Testing"
 -
     title: "Wraith"
     link: "https://github.com/BBC-News/wraith"
     description: ""
     image: "wraith.png"
     level: 3
-    tags: "Quality Assurance - Visual Regression Testing"
+    tags: "Quality & Test - Visual Regression Testing"
 
-# Quality Assurance - Continous Integration
+# Quality & Test - Continous Integration
 -
     title: "BrowserStack"
     link: "https://www.browserstack.com/"
     description: ""
     image: "browserstack.png"
     level: 2
-    tags: "Quality Assurance - Continous Integration"
+    tags: "Quality & Test - Continous Integration"
 -
     title: "Buddy"
     link: "https://buddy.works/"
     description: ""
     image: "buddy.png"
     level: 2
-    tags: "Quality Assurance - Continous Integration"
+    tags: "Quality & Test - Continous Integration"
 -
     title: "Circle CI"
     link: "https://circleci.com/"
     description: ""
     image: "circleci.svg"
     level: 2
-    tags: "Quality Assurance - Continous Integration"
+    tags: "Quality & Test - Continous Integration"
 -
     title: "Code Climate"
     link: "https://codeclimate.com/"
     description: ""
     image: "codeclimate.png"
     level: 2
-    tags: "Quality Assurance - Continous Integration"
+    tags: "Quality & Test - Continous Integration"
 -
     title: "David."
     link: "https://david-dm.org/"
     description: ""
     image: "david-dm.png"
     level: 2
-    tags: "Quality Assurance - Continous Integration"
+    tags: "Quality & Test - Continous Integration"
+-
+    title: "Greenkeeper"
+    link: "https://greenkeeper.io/"
+    description: "Real-time monitoring and automatic updates for npm dependencies."
+    image: "greenkeeper.png"
+    level: 2
+    tags: "Quality & Test - Continous Integration"
 -
     title: "Sauce Labs"
     link: "https://saucelabs.com/"
     description: ""
     image: "saucelabs.jpg"
     level: 2
-    tags: "Quality Assurance - Continous Integration"
+    tags: "Quality & Test - Continous Integration"
 -
     title: "Travis CI"
     link: "https://travis-ci.com/"
     description: ""
     image: "travis.png"
     level: 2
-    tags: "Quality Assurance - Continous Integration"
+    tags: "Quality & Test - Continous Integration"
 
 # Security
 -
@@ -943,7 +990,7 @@
     link: "https://developers.google.com/web/progressive-web-apps/"
     description: ""
     required: true
-    image: ""
+    image: "pwa.svg"
     level: 2
     tags: "Methodology"
 -
@@ -1267,9 +1314,18 @@
 
 # Tools - Linting
 -
+    title: "Standard JS"
+    link: "https://standardjs.com/"
+    description: "JavaScript Standard Style, One JavaScript Style to Rule Them All"
+    required: true
+    recommended: true
+    hot: true
+    image: "standardjs.jpg"
+    level: 2
+    tags: "Tools - Linting"
+-
     title: "ESLint"
     link: "http://eslint.org/"
-    twitter: geteslint
     description: "ESLint is by far the best linter for JavaScript, being plugin-based means that it can be extended to meet all future needs. There is already a good ecosystem of plugins that contain presets and best practises for specific frameworks (e.g. Angular and React). If you are working with bleeding edge EcmaScript features then there is a chance that ESLint might fail sometimes. Luckaly the tool is so flexibel so that you can even swap the parser with a different one (e.g. babel-eslint)."
     required: true
     image: "eslint.svg"
@@ -1281,6 +1337,14 @@
             link: "https://github.com/dustinspecker/awesome-eslint"
             description: "A currated list of ESLint configs, plugins, etc."
             level: 2
+-
+    title: "TSLint"
+    link: "https://palantir.github.io/tslint/"
+    description: "An extensible linter for the TypeScript language."
+    required: true
+    image: "tslint.png"
+    level: 2
+    tags: "Tools - Linting"
 -
     title: "stylelint"
     link: "http://stylelint.io/"
@@ -1340,6 +1404,36 @@
     image: "yarn.png"
     level: 1
     tags: "Tools - Package Management"
+
+# Tools - Performance
+-
+    title: "Calibre"
+    link: "https://calibreapp.com/"
+    description: "A fully-automated tool suite for auditing and improving performance, so you can deliver content to your customers faster."
+    image: "calibre.png"
+    level: 2
+    tags: "Tools - Performance"
+-
+    title: "Lighthouse"
+    link: "https://developers.google.com/web/tools/lighthouse/"
+    description: "Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more."
+    image: "lighthouse.jpg"
+    level: 2
+    tags: "Tools - Performance"
+-
+    title: "Babel Minify"
+    link: "https://github.com/babel/minify"
+    description: "An ES6+ aware minifier based on the Babel toolchain."
+    image: "github.png"
+    level: 1
+    tags: "Tools - Performance"
+-
+    title: "UglifyJS"
+    link: "https://github.com/mishoo/UglifyJS2"
+    description: "UglifyJS is a JavaScript parser, minifier, compressor and beautifier toolkit."
+    image: "github.png"
+    level: 1
+    tags: "Tools - Performance"
 
 # Tools - Sandboxes
 -

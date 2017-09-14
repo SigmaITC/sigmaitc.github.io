@@ -32,6 +32,10 @@
             title: "Lambda"
             link: "http://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html"
             level: 2
+        -
+            title: "What's wrong with Java 8"
+            link: "https://binkley.blogspot.se/2015/10/pierre-yves-saumont-wrote-series-of.html"
+            level: 2
 -
     title: "Java Enterprise Edition"
     link: "http://www.oracle.com/technetwork/java/javaee/overview/"
@@ -57,12 +61,35 @@
             link: "http://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html"
             level: 2
 -
+    title: "Guava"
+    link: "https://github.com/google/guava"
+    description: "Google Core Libraries for Java."
+    image: "google-guava.jpg"
+    level: 2
+    tags: "Programming"
+
+# Functional Paradigm
+-
+    title: "cyclops-react"
+    link: "http://cyclops-react.io/"
+    description: "A comprehensive functional reactive platform for Java 8."
+    image: "cyclops-react.png"
+    level: 3
+    tags: "Functional Paradigm"
+-
+    title: "vavr"
+    link: "http://www.vavr.io/"
+    description: "Vavr core is a functional library for Java 8+. It helps to reduce the amount of code and to increase the robustness."
+    image: "vavr.png"
+    level: 3
+    tags: "Functional Paradigm"
+-
     title: "Scala"
     link: "https://www.scala-lang.org/"
     description: ""
     image: "scala.png"
     level: 3
-    tags: "Programming"
+    tags: "Functional Paradigm"
 
 # Application Servers
 -
@@ -167,21 +194,21 @@
     level: 3
     tags: "OSGi"
 
-# Quality Assurance
+# Quality & Test
 -
     title: "jUnit"
     link: "http://junit.org/"
     description: ""
     image: "junit.png"
     level: 1
-    tags: "Quality Assurance"
+    tags: "Quality & Test"
 -
     title: "Cucumber"
     link: "https://cucumber.io/"
     description: ""
     image: "cucumber.png"
     level: 1
-    tags: "Quality Assurance"
+    tags: "Quality & Test"
     related:
         -
             title: "Cucumber (Java)"
@@ -193,14 +220,14 @@
     description: ""
     image: ""
     level: 1
-    tags: "Quality Assurance"
+    tags: "Quality & Test"
 -
     title: "Mockito"
     link: "http://mockito.org/"
     description: ""
     image: "mockito.jpg"
     level: 1
-    tags: "Quality Assurance"
+    tags: "Quality & Test"
 
 # Threading, Concurrency
 -
