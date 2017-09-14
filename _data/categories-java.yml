@@ -9,19 +9,25 @@
 ##
 
 -
-    title: "Programming"
+    title: "Languages"
     description: ""
 -
-    title: "Functional Paradigm"
+    title: "Functional Programming"
     description: ""
 -
     title: "Architecture"
+    description: ""
+-
+    title: "Frameworks"
     description: ""
 -
     title: "Application Servers"
     description: ""
 -
     title: "Big Data"
+    description: ""
+-
+    title: "Databases"
     description: ""
 -
     title: "CMS"
@@ -31,9 +37,6 @@
     description: ""
 -
     title: "Java in the Cloud"
-    description: ""
--
-    title: "OSGi"
     description: ""
 -
     title: "Quality & Test"
@@ -46,6 +49,21 @@
     description: ""
 -
     title: "Tooling"
+    description: ""
+-
+    title: "Operating Systems"
+    description: ""
+-
+    title: "Books"
+    description: ""
+-
+    title: "Patterns"
+    description: ""
+-
+    title: "Modelling"
+    description: ""
+-
+    title: "Mobile"
     description: ""
 #-
 #    title: "Twitter"

@@ -26,11 +26,3 @@
     margin-left: 24px;
     margin-right: 24px;
 }
-
-.contributors-list {
-    margin: 0 24px;
-}
-
-.contributors-list > li {
-    line-height: 3;
-}

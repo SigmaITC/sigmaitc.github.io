@@ -19,14 +19,15 @@
 # level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
 ##
 
-# Programming
+# Languages
 -
     title: "Java Standard Edition"
     link: "http://www.oracle.com/technetwork/java/javase/overview/"
     description: ""
+    required: true
     image: "java.png"
     level: 1
-    tags: "Programming"
+    tags: "Languages"
     related:
         -
             title: "Lambda"
@@ -40,9 +41,10 @@
     title: "Java Enterprise Edition"
     link: "http://www.oracle.com/technetwork/java/javaee/overview/"
     description: ""
+    recommended: true
     image: "java.png"
     level: 2
-    tags: "Programming"
+    tags: "Languages"
     related:
         -
             title: "Java EE Overview"
@@ -60,36 +62,52 @@
             title: "JMS"
             link: "http://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html"
             level: 2
--
-    title: "Guava"
-    link: "https://github.com/google/guava"
-    description: "Google Core Libraries for Java."
-    image: "google-guava.jpg"
-    level: 2
-    tags: "Programming"
-
-# Functional Paradigm
--
-    title: "cyclops-react"
-    link: "http://cyclops-react.io/"
-    description: "A comprehensive functional reactive platform for Java 8."
-    image: "cyclops-react.png"
-    level: 3
-    tags: "Functional Paradigm"
--
-    title: "vavr"
-    link: "http://www.vavr.io/"
-    description: "Vavr core is a functional library for Java 8+. It helps to reduce the amount of code and to increase the robustness."
-    image: "vavr.png"
-    level: 3
-    tags: "Functional Paradigm"
+        -
+            title: "JPA"
+            link: "http://en.wikipedia.org/wiki/Java_Persistence_API"
+            level: 2
+        -
+            title: "Hibernate"
+            link: "http://hibernate.org/"
+            level: 2
+        -
+            title: "Webservices (SOAP)"
+            link: "http://docs.oracle.com/javaee/7/tutorial/jaxws.htm#BNAYL"
+            level: 2
+        -
+            title: "Webservices (REST)"
+            link: "http://docs.oracle.com/javaee/7/tutorial/jaxrs.htm#GIEPU"
+            level: 2
 -
     title: "Scala"
     link: "https://www.scala-lang.org/"
     description: ""
     image: "scala.png"
     level: 3
-    tags: "Functional Paradigm"
+    tags: "Languages"
+-
+    title: "XML Schema"
+    link: "http://www.w3schools.com/schema/"
+    description: ""
+    image: ""
+    level: 3
+    tags: "Languages"
+
+# Functional Programming
+-
+    title: "cyclops-react"
+    link: "http://cyclops-react.io/"
+    description: "A comprehensive functional reactive platform for Java 8."
+    image: "cyclops-react.png"
+    level: 3
+    tags: "Functional Programming"
+-
+    title: "vavr"
+    link: "http://www.vavr.io/"
+    description: "Vavr core is a functional library for Java 8+. It helps to reduce the amount of code and to increase the robustness."
+    image: "vavr.png"
+    level: 3
+    tags: "Functional Programming"
 
 # Application Servers
 -
@@ -100,9 +118,17 @@
     level: 2
     tags: "Application Servers"
 -
+    title: "Weblogic"
+    link: "http://www.oracle.com/technetwork/middleware/weblogic/overview/index.html"
+    description: ""
+    image: "weblogic.gif"
+    level: 2
+    tags: "Application Servers"
+-
     title: "JBoss EAP"
     link: "https://developers.redhat.com/products/eap/overview/"
     description: ""
+    recommended: true
     image: "jboss.jpg"
     level: 2
     tags: "Application Servers"
@@ -117,6 +143,7 @@
     title: "Tomcat"
     link: "https://tomcat.apache.org/"
     description: ""
+    recommended: true
     image: "tomcat.jpg"
     level: 2
     tags: "Application Servers"
@@ -127,13 +154,6 @@
     link: "https://hadoop.apache.org/"
     description: ""
     image: "hadoop.jpeg"
-    level: 3
-    tags: "Big Data"
--
-    title: "MongoDB"
-    link: "https://www.mongodb.org/"
-    description: ""
-    image: "mongodb.png"
     level: 3
     tags: "Big Data"
 
@@ -185,20 +205,12 @@
     level: 3
     tags: "Java in the Cloud"
 
-# OSGi
--
-    title: "OSGi"
-    link: "https://www.osgi.org/"
-    description: ""
-    image: "osgi.png"
-    level: 3
-    tags: "OSGi"
-
 # Quality & Test
 -
     title: "jUnit"
     link: "http://junit.org/"
     description: ""
+    required: true
     image: "junit.png"
     level: 1
     tags: "Quality & Test"
@@ -225,6 +237,7 @@
     title: "Mockito"
     link: "http://mockito.org/"
     description: ""
+    recommended: true
     image: "mockito.jpg"
     level: 1
     tags: "Quality & Test"
@@ -257,6 +270,7 @@
     title: "Docker"
     link: "https://www.docker.com/"
     description: ""
+    recommended: true
     image: "docker.png"
     level: 2
     tags: "Tooling"
@@ -264,6 +278,7 @@
     title: "Git"
     link: "https://git-scm.com/"
     description: ""
+    recommended: true
     image: "git.png"
     level: 1
     tags: "Tooling, DVCS"
@@ -299,6 +314,7 @@
     title: "Maven"
     link: "https://maven.apache.org/"
     description: ""
+    recommended: true
     image: "maven.png"
     level: 1
     tags: "Tooling, Build Tools"
@@ -315,6 +331,7 @@
     title: "Gradle"
     link: "https://gradle.org/"
     description: ""
+    recommended: true
     image: "gradle.png"
     level: 1
     tags: "Tooling, Build Tools"
@@ -345,6 +362,114 @@
     level: 1
     tags: "Tooling, IDE"
 
+# Operating Systems
+-
+    title: "Linux / Unix"
+    link: "http://engr.uconn.edu/~xinyuz/unixtut/index.html"
+    description: ""
+    image: "linux.png"
+    level: 1
+    tags: "Operating Systems"
+-
+    title: "Windows"
+    link: "https://www.microsoft.com/sv-se/windows/"
+    description: ""
+    image: "windows.png"
+    level: 1
+    tags: "Operating Systems"
+
+# Frameworks
+-
+    title: "Guava"
+    link: "https://github.com/google/guava"
+    description: "Google Core Libraries for Java."
+    image: "google-guava.jpg"
+    level: 2
+    tags: "Frameworks"
+-
+    title: "Spring Framework"
+    link: "http://projects.spring.io/spring-framework/"
+    description: ""
+    recommended: true
+    image: "spring.png"
+    level: 1
+    tags: "Frameworks"
+-
+    title: "Spring Web MVC"
+    link: "http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html"
+    description: ""
+    image: "spring.png"
+    level: 2
+    tags: "Frameworks"
+-
+    title: "OSGi"
+    link: "https://www.osgi.org/"
+    description: ""
+    image: "osgi.png"
+    level: 3
+    tags: "Frameworks"
+
+# Databases
+-
+    title: "SQL"
+    link: "http://www.w3schools.com/sql/"
+    description: ""
+    recommended: true
+    image: "sql.png"
+    level: 1
+    tags: "Databases"
+-
+    title: "MongoDB"
+    link: "https://www.mongodb.org/"
+    description: ""
+    image: "mongodb.png"
+    level: 3
+    tags: "Databases"
+
+# Books
+-
+    title: "Clean Code"
+    link: "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=la_B000APG87E_1_2?s=books&ie=UTF8&qid=1427103529&sr=1-2"
+    description: ""
+    recommended: true
+    image: ""
+    level: 1
+    tags: "Books"
+-
+    title: "Design Patterns (GOF)"
+    link: "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8"
+    description: ""
+    recommended: true
+    image: ""
+    level: 2
+    tags: "Books"
+
+# Mobile
+-
+    title: "Android"
+    link: "https://developer.android.com/training/index.html"
+    description: ""
+    image: ""
+    level: 2
+    tags: "Mobile"
+
+# Patterns
+-
+    title: "MVC-pattern"
+    link: "http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller"
+    description: ""
+    image: ""
+    level: 1
+    tags: "Patterns"
+
+# Modelling
+-
+    title: "UML"
+    link: "http://www.uml.org/#Links-Tutorials"
+    description: ""
+    image: ""
+    level: 2
+    tags: "Modelling"
 # Twitter
 #-
 #    title: "Brad Frost"
