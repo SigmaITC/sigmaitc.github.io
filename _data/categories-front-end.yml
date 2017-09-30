@@ -36,13 +36,23 @@
     description: ""
 -
     title: "Programming - Frameworks/Libs"
-    description: ""
+    description: "
+        JavaScript is widely know for having a pletora frameworks and libraries. The platform is rapidly evolving and the open source ecosystem is boiling with innovative solutions that will hopefully make it into the standard.
+    "
 -
     title: "Programming - Functional Programming"
-    description: ""
+    description: "
+        Mastering functional programming is a huge undertaking. However learning a few basic concepts will produce code with several qualities such as compact, simple, predictable, powerful, flexible and reuseable.
+        Initially you should focus on learning about first class functions, higher order functions, currying, partial application, point free and composition.
+        When you have a good understanding of these concepts proceed with exploring functors and monads. Primarily Identity, Maybe, Either, IO and Task.
+        From here on you will have a solid foundation and be ready to go further down the rabbit hole.
+    "
 -
     title: "Programming - Polyfills"
-    description: ""
+    description: "
+        In front end you never know what browser your code will run in and sometimes you may be dependent on native features that may or may not be available for a specific version.
+        This is where polyfills come in, polyfills are third party libraries that have the single purpose of emulating a native browser feature.
+    "
 -
     title: "Programming - Logging"
     description: ""

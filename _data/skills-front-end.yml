@@ -23,12 +23,17 @@
 -
     title: "HTML5"
     link: "https://www.w3.org/TR/html5/"
-    description: "Vid den här nivån bör man förstå grundläggande semantik. Hur man använder &lt;header&gt;, &lt;footer&gt;, &lt;main&gt;, &lt;article&gt;, &lt;section&gt;, &lt;aside&gt; på korrekt sätt. Vad &lt;table&gt; ska användas till och vad man absolut inte ska göra med den. Strukturera rubriknivåer korrekt. Använda &lt;form&gt; och &lt;input&gt; samt alla fälttyper och valideringsegenskaper. Kunna avgöra när man använder &lt;a&gt; eller &lt;button&gt;. Använda &lt;div&gt; och &lt;span&gt; ansvarsfullt."
+    description: "The key to writing good HTML is a fundamental understanding of semantics. It is essential to know how to properly use &lt;header&gt;, &lt;footer&gt;, &lt;main&gt;, &lt;article&gt;, &lt;section&gt;, &lt;aside&gt;. How &lt;table&gt; is intended to be used and how it is usally abused. How to correctly structure headings. Using &lt;form&gt; and &lt;input&gt; as well as all input field types and validation rules. Make good valid decisions wether to use &lt;a&gt; or &lt;button&gt;. Lastly, avoiding to go overboard with &lt;div&gt; and &lt;span&gt;."
     required: true
     image: "html5.jpg"
     level: 1
     tags: "HTML, Markup"
     related:
+        -
+            title: "Awesome HTML"
+            link: "https://github.com/diegocard/awesome-html5"
+            description: "A curated list of awesome HTML5 resources."
+            level: 1
         -
             title: "HTML5 Doctor"
             link: "http://html5doctor.com/"
@@ -119,6 +124,11 @@
     tags: "Styling - General"
     related:
         -
+            title: "Awesome CSS"
+            link: "https://github.com/sotayamashita/awesome-css"
+            description: "A curated contents of amazing CSS."
+            level: 1
+        -
             title: "MDN - CSS"
             link: "https://developer.mozilla.org/en-US/docs/Web/CSS"
             description: ""
@@ -136,7 +146,7 @@
 -
     title: "CSS Animations"
     link: "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations"
-    description: "Identifiera och rätta paint storms, Identifiera och rätta layout thrashing, Hantera composite layers, Debouncing"
+    description: "Identify and fix paint storms, layout thrashing, utilizing composite layers and debouncing"
     recommended: true
     image: "css3.jpg"
     level: 2
@@ -358,6 +368,12 @@
     image: "typescript.png"
     level: 2
     tags: "Programming - General"
+    related:
+        -
+            title: "Awesome TypeScript"
+            link: "https://github.com/dzharii/awesome-typescript"
+            description: "A collection of awesome TypeScript resources for client-side and server-side development."
+            level: 1
 -
     title: "Babel"
     link: "https://babeljs.io/"
@@ -400,13 +416,19 @@
             description: ""
             level: 3
 -
-    title: "Angular 2"
+    title: "Angular"
     link: "https://angular.io/"
     description: ""
     hot: true
     image: "angularjs.png"
     level: 3
     tags: "Programming - Frameworks/Libs"
+    related:
+        -
+            title: "Awesome Angular"
+            link: "https://github.com/AngularClass/awesome-angular"
+            description: "Awesome list of Angular 2 and Angular 4 seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem."
+            level: 1
 -
     title: "Aurelia"
     link: "http://aurelia.io/"
@@ -415,6 +437,12 @@
     image: "aurelia.png"
     level: 3
     tags: "Programming - Frameworks/Libs"
+    related:
+        -
+            title: "Awesome Aurelia"
+            link: "https://github.com/behzad888/awesome-aurelia"
+            description: "A curated list of amazingly awesome Aurelia libraries."
+            level: 1
 -
     title: "Backbone"
     link: "http://backbonejs.org/"
@@ -429,8 +457,14 @@
     description: ""
     hot: true
     image: "cyclejs.svg"
-    level: 3
+    level: 2
     tags: "Programming - Frameworks/Libs"
+    related:
+        -
+            title: "Awesome Cycle.js"
+            link: "https://github.com/cyclejs-community/awesome-cyclejs"
+            description: "A curated list of awesome Cycle.js resources."
+            level: 1
 -
     title: "Ember"
     link: "http://emberjs.com/"
@@ -491,6 +525,17 @@
     image: "react.jpg"
     level: 2
     tags: "Programming - Frameworks/Libs"
+    related:
+        -
+            title: "Awesome React"
+            link: "https://github.com/enaqx/awesome-react"
+            description: "A collection of awesome things regarding React ecosystem."
+            level: 1
+        -
+            title: "Awesome React Components"
+            link: "https://github.com/brillout/awesome-react-components"
+            description: "Catalog of React Components & Libraries."
+            level: 1
 -
     title: "ReactiveX"
     link: "http://reactivex.io/"
@@ -500,6 +545,12 @@
     image: "rx.png"
     level: 3
     tags: "Programming - Frameworks/Libs"
+    related:
+        -
+            title: "Awesome RxJS"
+            link: "https://github.com/ichpuchtli/awesome-rxjs"
+            description: "A collection of awesome RxJS resources."
+            level: 1
 -
     title: "Redux"
     link: "http://redux.js.org/"
@@ -509,6 +560,12 @@
     image: "redux.png"
     level: 2
     tags: "Programming - Frameworks/Libs"
+    related:
+        -
+            title: "Awesome Redux"
+            link: "https://github.com/brillout/awesome-redux"
+            description: "Catalog of Redux Libraries & Learning Material."
+            level: 1
 -
     title: "Redux Saga"
     link: "https://redux-saga.js.org/"
@@ -557,6 +614,12 @@
     image: "vue.png"
     level: 2
     tags: "Programming - Frameworks/Libs"
+    related:
+        -
+            title: "Awesome Vue"
+            link: "https://github.com/vuejs/awesome-vue"
+            description: "A curated list of awesome things related to Vue.js."
+            level: 1
 -
     title: "xstream"
     link: "https://github.com/staltz/xstream"
@@ -574,6 +637,12 @@
     image: "elm.png"
     level: 3
     tags: "Programming - Functional Programming"
+    related:
+        -
+            title: "Awesome Elm"
+            link: "https://github.com/isRuslan/awesome-elm"
+            description: "A community driven list of useful Elm tutorials, libraries and software."
+            level: 1
 -
     title: "Folktale"
     link: "http://folktalejs.org/"
@@ -592,7 +661,7 @@
 -
     title: "Ramda"
     link: "http://ramdajs.com/"
-    description: "A practical functional library for JavaScript programmers."
+    description: "A practical functional library for JavaScript programmers that is a great starting point for the novice functional programmer. With it's optimized currying it is easy to utilize in both an imperative an functional fashion."
     hot: true
     recommended: true
     image: "ramda.png"
@@ -606,6 +675,12 @@
     image: "purescript.png"
     level: 3
     tags: "Programming - Functional Programming"
+    related:
+        -
+            title: "Awesome PureScript"
+            link: "https://github.com/passy/awesome-purescript"
+            description: "A curation of awesome PureScript libraries, resources and shiny things."
+            level: 1
 -
     title: "Sanctuary"
     link: "https://sanctuary.js.org/"
@@ -622,6 +697,13 @@
     image: "sanctuary.png"
     level: 2
     tags: "Programming - Functional Programming"
+-
+    title: "Ramtuary"
+    link: "http://davidchase.github.io/ramtuary/"
+    description: "Ramda + Ramda Fantasy + Sanctuary REPL. A useful tool for getting comfortable with functional programming and some of the most popular libraries."
+    image: "github.png"
+    level: 2
+    tags: "Programming - Functional Programming"
 
 # Programming - Polyfills
 -
@@ -636,7 +718,7 @@
 -
     title: "StackTrace.JS"
     link: "https://www.stacktracejs.com/"
-    description: ""
+    description: "Generate, parse, and enhance JavaScript stack traces in all web browsers."
     image: "stacktracejs.png"
     level: 2
     tags: "Programming - Logging"
@@ -819,16 +901,44 @@
 
 # Quality & Test - End-to-end
 -
+    title: "CasperJS"
+    link: "http://casperjs.org"
+    description: "Navigation scripting & testing for PhantomJS and SlimerJS"
+    image: "casperjs.png"
+    level: 2
+    tags: "Quality & Test - End-to-end"
+-
+    title: "Nightmare"
+    link: "http://www.nightmarejs.org/"
+    description: "A high-level browser automation library."
+    image: "nightmarejs.svg"
+    level: 2
+    tags: "Quality & Test - End-to-end"
+-
+    title: "PhantomJS"
+    link: "http://phantomjs.org/"
+    description: "PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG."
+    image: "phantomjs.png"
+    level: 2
+    tags: "Quality & Test - End-to-end"
+-
     title: "Protractor"
     link: "https://angular.github.io/protractor/"
-    description: ""
+    description: "Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would."
     image: "protractor.png"
+    level: 2
+    tags: "Quality & Test - End-to-end"
+-
+    title: "SlimerJS"
+    link: "https://slimerjs.org/"
+    description: "A scriptable browser for Web developers"
+    image: "slimerjs.png"
     level: 2
     tags: "Quality & Test - End-to-end"
 -
     title: "WebdriverIO"
     link: "http://webdriver.io/"
-    description: ""
+    description: "WebDriver bindings for Node.js"
     required: true
     image: "webdriverio.png"
     level: 2
@@ -846,7 +956,7 @@
     title: "PhantomCSS"
     link: "https://github.com/Huddle/PhantomCSS"
     description: ""
-    image: "github.png"
+    image: "phantomcss.png"
     level: 2
     tags: "Quality & Test - Visual Regression Testing"
 -
@@ -1147,6 +1257,21 @@
     image: "emmet.png"
     level: 2
     tags: "Tools - General"
+-
+    title: "Quokka"
+    link: "https://quokkajs.com/"
+    description: "Quokka.js is a rapid prototyping playground for JavaScript and TypeScript. It runs your code immediately as you type and displays various execution results in your code editor."
+    recommended: true
+    image: "quokka.png"
+    level: 1
+    tags: "Tools - General"
+-
+    title: "npm Trends"
+    link: "http://www.npmtrends.com/"
+    description: "Compare package download counts over time"
+    image: "npm-trends.png"
+    level: 1
+    tags: "Tools - General"
 
 # Tools - Building
 -
@@ -1203,6 +1328,12 @@
     image: "webpack.svg"
     level: 2
     tags: "Tools - Building"
+    related:
+        -
+            title: "Awesome Webpack"
+            link: "https://github.com/webpack-contrib/awesome-webpack"
+            description: "A curated list of awesome Webpack resources, libraries and tools."
+            level: 1
 
 # Tools - Documentation
 -
@@ -1219,7 +1350,7 @@
     link: "http://usejsdoc.org/"
     description: ""
     required: true
-    image: ""
+    image: "jsdoc.png"
     level: 2
     tags: "Tools - Documentation"
 -
@@ -1263,6 +1394,11 @@
     tags: "Tools - Editors/IDE"
     related:
         -
+            title: "Awesome Atom"
+            link: "https://github.com/mehcode/awesome-atom"
+            description: "A curated list of delightful Atom packages and resources."
+            level: 1
+        -
             title: "Supercharge JavaScript development in Atom"
             link: "https://medium.com/@satya164/supercharged-javascript-development-in-atom-ea034e22eabc#.pqxgmnmt7"
             description: "One of many good setups for Atom."
@@ -1303,7 +1439,12 @@
     image: "vs-code.png"
     level: 2
     tags: "Tools - Editors/IDE"
--
+    -related:
+        -
+            title: "Awesome VSCode"
+            link: "https://github.com/viatsko/awesome-vscode"
+            description: "A curated list of delightful VS Code packages and resources."
+            level: 1
     title: "WebStorm"
     link: "http://www.jetbrains.com/webstorm/"
     description: ""
@@ -1476,7 +1617,7 @@
 -
     title: "Yeoman"
     link: "http://yeoman.io/"
-    description: ""
+    description: "Yeoman helps you to kickstart new projects, prescribing best practices and tools to help you stay productive."
     image: "yeoman.png"
     level: 2
     tags: "Tools - Scaffolding"
@@ -1507,7 +1648,7 @@
     title: "GitHub Desktop"
     link: "https://desktop.github.com/"
     description: ""
-    image: "github.png"
+    image: "github-desktop.svg"
     level: 1
     tags: "Tools - Version Control"
 -
