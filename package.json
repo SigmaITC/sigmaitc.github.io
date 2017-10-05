@@ -20,7 +20,7 @@
     "postmerge": "yarn --ignore-optional",
     "prepush": "npm test",
     "start": "bundler exec jekyll serve -s . -d ./_site",
-    "test": "run-s lint:*",
+    "test": "run-p lint:*",
     "upgrade": "updtr --save-exact"
   },
   "repository": {

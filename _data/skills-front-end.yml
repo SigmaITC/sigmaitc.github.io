@@ -1439,12 +1439,13 @@
     image: "vs-code.png"
     level: 2
     tags: "Tools - Editors/IDE"
-    -related:
+    related:
         -
             title: "Awesome VSCode"
             link: "https://github.com/viatsko/awesome-vscode"
             description: "A curated list of delightful VS Code packages and resources."
             level: 1
+-
     title: "WebStorm"
     link: "http://www.jetbrains.com/webstorm/"
     description: ""
