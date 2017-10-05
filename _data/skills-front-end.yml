@@ -903,8 +903,16 @@
 -
     title: "CasperJS"
     link: "http://casperjs.org"
-    description: "Navigation scripting & testing for PhantomJS and SlimerJS"
+    description: "Navigation scripting & testing for PhantomJS and SlimerJS."
     image: "casperjs.png"
+    level: 2
+    tags: "Quality & Test - End-to-end"
+-
+    title: "Browsersynk"
+    link: "https://www.browsersync.io/"
+    description: "Time-saving synchronised browser testing."
+    recommended: true
+    image: "browsersync.png"
     level: 2
     tags: "Quality & Test - End-to-end"
 -
@@ -1363,8 +1371,8 @@
 -
     title: "KSS (Knyle Style Sheets)"
     link: "http://warpspire.com/kss/"
-    description: ""
-    image: ""
+    description: "Documentation for any flavor of CSS that you’ll love to write. Human readable, machine parsable, and easy to remember."
+    image: "kss.png"
     level: 2
     tags: "Tools - Documentation"
 -
@@ -1563,10 +1571,24 @@
     level: 2
     tags: "Tools - Performance"
 -
+    title: "Yellow Lab Tools"
+    link: "http://yellowlab.tools/"
+    description: "Online test to help speeding up heavy web pages."
+    image: "yellow-lab-tools.png"
+    level: 2
+    tags: "Tools - Performance"
+-
+    title: "Sitespeed.io"
+    link: "https://www.sitespeed.io/"
+    description: "Sitespeed.io is a set of Open Source tools that helps make your web pages faster."
+    image: "sitespeed.io.png"
+    level: 2
+    tags: "Tools - Performance"
+-
     title: "Babel Minify"
     link: "https://github.com/babel/minify"
     description: "An ES6+ aware minifier based on the Babel toolchain."
-    image: "github.png"
+    image: "babel.png"
     level: 1
     tags: "Tools - Performance"
 -

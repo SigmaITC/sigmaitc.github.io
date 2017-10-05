@@ -95,6 +95,84 @@
 
 # Functional Programming
 -
+    title: "Functional Programming In Java"
+    link: "#"
+    description: ""
+    image: "java.png"
+    level: 3
+    tags: "Functional Programming"
+    related:
+        -
+            title: "What's Wrong with Java 8: Currying vs Closures"
+            link: "https://dzone.com/articles/whats-wrong-java-8-currying-vs"
+            description: ""
+            level: 3
+        -
+            title: "What's Wrong in Java 8, Part II: Functions & Primitives"
+            link: "https://dzone.com/articles/whats-wrong-java-8-part-ii"
+            description: ""
+            level: 3
+        -
+            title: "What's Wrong in Java 8, Part III: Streams and Parallel Streams"
+            link: "https://dzone.com/articles/whats-wrong-java-8-part-iii"
+            description: ""
+            level: 3
+        -
+            title: "What's Wrong in Java 8, Part IV: Monads"
+            link: "https://dzone.com/articles/whats-wrong-java-8-part-iv"
+            description: ""
+            level: 3
+        -
+            title: "What's Wrong in Java 8, Part V: Tuples"
+            link: "https://dzone.com/articles/whats-wrong-java-8-part-v"
+            description: ""
+            level: 3
+        -
+            title: "What's wrong in Java 8, part VI: Strictness"
+            link: "https://dzone.com/articles/whats-wrong-java-8-part-vi"
+            description: ""
+            level: 3
+        -
+            title: "What's wrong in Java 8, part VII: Streams again"
+            link: "https://dzone.com/articles/whats-wrong-java-8-part-vii"
+            description: ""
+            level: 3
+        -
+            title: "Do it in Java 8: Automatic memoization"
+            link: "https://dzone.com/articles/java-8-automatic-memoization"
+            description: ""
+            level: 3
+        -
+            title: "Folding the Universe Part I: Functional Java"
+            link: "https://dzone.com/articles/folding-the-universe-part-i"
+            description: ""
+            level: 3
+        -
+            title: "Folding the Universe, Part II: Abstracting Recursion"
+            link: "https://dzone.com/articles/folding-the-universe-part-ii-abstracting-recursion"
+            description: ""
+            level: 3
+        -
+            title: "Folding the Universe, Part III: Java 8 List and Stream"
+            link: "https://dzone.com/articles/folding-the-universe-part-iii-java-8-list-and-stre"
+            description: ""
+            level: 3
+        -
+            title: "Functional Programming with Java 8 by Venkat Subramaniam"
+            link: "https://www.youtube.com/watch?v=15X0qFtBqiQ&feature=youtu.be"
+            description: ""
+            level: 3
+        -
+            title: "Design Patterns in the Light of Lambda Expressions by Subramaniam"
+            link: "https://www.youtube.com/watch?v=e4MT_OguDKg&feature=youtu.be"
+            description: ""
+            level: 3
+        -
+            title: "Functional architecture - The pits of success - Mark Seemann"
+            link: "https://www.youtube.com/watch?v=US8QG9I1XW0"
+            description: ""
+            level: 3
+-
     title: "cyclops-react"
     link: "http://cyclops-react.io/"
     description: "A comprehensive functional reactive platform for Java 8."
