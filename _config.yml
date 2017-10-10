@@ -5,3 +5,18 @@ defaults:
             path: "" # an empty string here means all files in the project
         values:
             layout: null
+author: "Sigma ITC"
+description: "Sigma ITC Open Source"
+logo: "images/sigma-logo.png"
+social:
+    name: "Sigma ITC"
+    links:
+        - "https://twitter.com/sigma_itc"
+        - "https://www.facebook.com/SigmaAB/"
+        - "https://se.linkedin.com/company/sigma-it-consulting"
+        - "https://github.com/SigmaITC/"
+twitter:
+    username: "Sigma_ITC"
+plugins:
+    - jekyll-seo-tag
+    - jekyll-sitemap
