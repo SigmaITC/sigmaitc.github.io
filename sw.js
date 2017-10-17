@@ -48,7 +48,7 @@ const fileManifest = [
   },
   {
     "url": "assets/app.css",
-    "revision": "0b4f42a1b0554329ed07f8cfa5ab0cd4"
+    "revision": "cb2a5c1fa34297e636a03786e2a07b7f"
   },
   {
     "url": "assets/app.js",
