@@ -1,6 +1,7 @@
 const path = require('path');
 const webpack = require('webpack');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
+const workboxPlugin = require('workbox-webpack-plugin');
 
 module.exports = {
     entry: './src/index.js',
@@ -55,6 +56,16 @@ module.exports = {
             jQuery: 'jquery',
             'window.jQuery': 'jquery'
         }),
-        new ExtractTextPlugin('app.css')
+        new ExtractTextPlugin('app.css'),
+        new workboxPlugin({
+            globDirectory: '.',
+            globPatterns: [
+                'manifest.json',
+                '*.html',
+                'assets/*.{js,css}',
+                'images/*.{gif,jpg,jpeg,png,svg}'
+            ],
+            swDest: path.join('.', 'sw.js'),
+        })
     ]
 };
