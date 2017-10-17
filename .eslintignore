@@ -3,3 +3,5 @@ bower_components/
 node_modules/
 coverage/
 **/*.min.js
+sw.js
+workbox-sw.*
