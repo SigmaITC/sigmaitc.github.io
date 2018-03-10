@@ -180,7 +180,7 @@
     title: "Continuous Integration (CI)"
     link: "https://en.wikipedia.org/wiki/Continuous_integration"
     description: ""
-    image: "continousintegration.png"
+    image: "continuousintegration.png"
     level: 1
     tags: "Development"
 -

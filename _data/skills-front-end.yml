@@ -975,63 +975,63 @@
     level: 3
     tags: "Quality & Test - Visual Regression Testing"
 
-# Quality & Test - Continous Integration
+# Quality & Test - Continuous Integration
 -
     title: "BrowserStack"
     link: "https://www.browserstack.com/"
     description: ""
     image: "browserstack.png"
     level: 2
-    tags: "Quality & Test - Continous Integration"
+    tags: "Quality & Test - Continuous Integration"
 -
     title: "Buddy"
     link: "https://buddy.works/"
     description: ""
     image: "buddy.png"
     level: 2
-    tags: "Quality & Test - Continous Integration"
+    tags: "Quality & Test - Continuous Integration"
 -
     title: "Circle CI"
     link: "https://circleci.com/"
     description: ""
     image: "circleci.svg"
     level: 2
-    tags: "Quality & Test - Continous Integration"
+    tags: "Quality & Test - Continuous Integration"
 -
     title: "Code Climate"
     link: "https://codeclimate.com/"
     description: ""
     image: "codeclimate.png"
     level: 2
-    tags: "Quality & Test - Continous Integration"
+    tags: "Quality & Test - Continuous Integration"
 -
     title: "David."
     link: "https://david-dm.org/"
     description: ""
     image: "david-dm.png"
     level: 2
-    tags: "Quality & Test - Continous Integration"
+    tags: "Quality & Test - Continuous Integration"
 -
     title: "Greenkeeper"
     link: "https://greenkeeper.io/"
     description: "Real-time monitoring and automatic updates for npm dependencies."
     image: "greenkeeper.png"
     level: 2
-    tags: "Quality & Test - Continous Integration"
+    tags: "Quality & Test - Continuous Integration"
 -
     title: "Sauce Labs"
     link: "https://saucelabs.com/"
     description: ""
     image: "saucelabs.jpg"
     level: 2
-    tags: "Quality & Test - Continous Integration"
+    tags: "Quality & Test - Continuous Integration"
 -
     title: "Travis CI"
     link: "https://travis-ci.com/"
     description: ""
     image: "travis.png"
     level: 2
-    tags: "Quality & Test - Continous Integration"
+    tags: "Quality & Test - Continuous Integration"
 
 # Security
 -

@@ -95,14 +95,14 @@
 
 # Quality & Test - Unit Testing
 
-# Quality & Test - Continous Integration
+# Quality & Test - Continuous Integration
 -
     title: "AppVeyor"
     link: "https://www.appveyor.com/"
     description: ""
     image: "appveyor.png"
     level: 2
-    tags: "Quality & Test - Continous Integration"
+    tags: "Quality & Test - Continuous Integration"
 
 # Security
 

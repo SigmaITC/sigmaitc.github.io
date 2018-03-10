@@ -227,7 +227,7 @@ const fileManifest = [
     "revision": "918b875f34755820725e6fc4e683e0dc"
   },
   {
-    "url": "images/continousintegration.png",
+    "url": "images/continuousintegration.png",
     "revision": "f80e58b0cca299af5dcafe3b438d9666"
   },
   {
