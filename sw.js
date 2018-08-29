@@ -27,8 +27,12 @@ const fileManifest = [
     "revision": "84042f2f1245c9140e5a385f584c69ea"
   },
   {
+    "url": "iam-by-sigma.html",
+    "revision": "f95f92b1157cb439a4a29f882d6da55d"
+  },
+  {
     "url": "index.html",
-    "revision": "0c5cca17b203c3710c7c5ff687b43c51"
+    "revision": "5152e09980d4e209bf950624ba945119"
   },
   {
     "url": "java-by-sigma.html",
