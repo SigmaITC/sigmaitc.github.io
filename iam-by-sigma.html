@@ -1,0 +1,39 @@
+---
+title: IAM by Sigma ITC
+pageUrl: https://sigmaitc.github.io/iam-by-sigma/
+description: Learn IAM the Sigma way
+---
+
+<!doctype html>
+<html class="document no-js" lang="en">
+    {% include head.html title=page.title pageUrl=page.pageUrl %}
+
+    <body class="page">
+        {% include header.html %}
+        {% include primary-navigation.html %}
+
+        <main id="main-content" class="page-body" role="main">
+            <section class="page-section">
+                <h1 class="heading heading--xl">IAM by Sigma</h1>
+
+                <section>
+                    {% include description-intro.html %}
+                    {% include description-levels.html levels=site.data.levels-iam %}
+                    {% include description-remarks.html %}
+                </section>
+
+                <section>
+                    {% include categories.html categories=site.data.categories-iam skills=site.data.skills-iam %}
+                </section>
+
+                <section>
+                    {% include contributors.html %}
+                </section>
+            </section>
+        </main>
+
+        {% include footer.html %}
+
+        <script type="text/javascript" src="./assets/app.js"></script>
+    </body>
+</html>
