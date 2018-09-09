@@ -1,7 +1,7 @@
 const path = require('path');
 const webpack = require('webpack');
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
-const workboxPlugin = require('workbox-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const {GenerateSW} = require('workbox-webpack-plugin');
 
 module.exports = {
     entry: './src/index.js',
@@ -26,24 +26,24 @@ module.exports = {
             },
             {
                 test: /\.css$/,
-                use: ExtractTextPlugin.extract({
-                    fallback: 'style-loader',
-                    use: [
-                        'css-loader',
-                        {
-                            loader: 'postcss-loader',
-                            options: {
-                                plugins: () => [
-                                    require('postcss-import-url'),
-                                    require('postcss-custom-media'),
-                                    require('postcss-cssnext'),
-                                    require('cssnano'),
-                                    require('postcss-reporter')
-                                ]
-                            }
+                use: [
+                    {
+                        loader: MiniCssExtractPlugin.loader
+                    },
+                    'css-loader',
+                    {
+                        loader: 'postcss-loader',
+                        options: {
+                            plugins: () => [
+                                require('postcss-import-url'),
+                                require('postcss-custom-media'),
+                                require('postcss-cssnext'),
+                                require('cssnano'),
+                                require('postcss-reporter')
+                            ]
                         }
-                    ]
-                })
+                    }
+                ]
             }
         ]
     },
@@ -56,8 +56,8 @@ module.exports = {
             jQuery: 'jquery',
             'window.jQuery': 'jquery'
         }),
-        new ExtractTextPlugin('app.css'),
-        new workboxPlugin({
+        new MiniCssExtractPlugin('app.css'),
+        new GenerateSW({
             globDirectory: '.',
             globPatterns: [
                 'manifest.json',
