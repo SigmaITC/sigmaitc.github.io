@@ -1,23 +1,28 @@
-importScripts('workbox-sw.prod.v2.1.0.js');
+/**
+ * Welcome to your Workbox-powered service worker!
+ *
+ * You'll need to register this file in your web app and you should
+ * disable HTTP caching for this file too.
+ * See https://goo.gl/nhQhGp
+ *
+ * The rest of the code is auto-generated. Please don't update this file
+ * directly; instead, make changes to your Workbox build configuration
+ * and re-run your build process.
+ * See https://goo.gl/2aRDsh
+ */
+
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
+
+importScripts(
+  "precache-manifest.86e830838c6f323a72e85be0d4241bcc.js"
+);
 
 /**
- * DO NOT EDIT THE FILE MANIFEST ENTRY
- *
- * The method precache() does the following:
- * 1. Cache URLs in the manifest to a local cache.
- * 2. When a network request is made for any of these URLs the response
- *    will ALWAYS comes from the cache, NEVER the network.
- * 3. When the service worker changes ONLY assets with a revision change are
- *    updated, old cache entries are left as is.
- *
- * By changing the file manifest manually, your users may end up not receiving
- * new versions of files because the revision hasn't changed.
- *
- * Please use workbox-build or some other tool / approach to generate the file
- * manifest which accounts for changes to local files and update the revision
- * accordingly.
+ * The workboxSW.precacheAndRoute() method efficiently caches and responds to
+ * requests for URLs in the manifest.
+ * See https://goo.gl/S9QRab
  */
-const fileManifest = [
+self.__precacheManifest = [
   {
     "url": "manifest.json",
     "revision": "b7c83a519d1ed4a895bf54b052f3f203"
@@ -56,7 +61,19 @@ const fileManifest = [
   },
   {
     "url": "assets/app.js",
-    "revision": "31960165ac3c8c10e57fcd40d937c916"
+    "revision": "bce039b22ee3c60ac8dfca6ebea271ad"
+  },
+  {
+    "url": "assets/main.css",
+    "revision": "97e1737b63c185675f82db1df27ccc04"
+  },
+  {
+    "url": "assets/precache-manifest.86e830838c6f323a72e85be0d4241bcc.js",
+    "revision": "86e830838c6f323a72e85be0d4241bcc"
+  },
+  {
+    "url": "assets/sw.js",
+    "revision": "6ff3ce3bfbb24846fefc72f89bf48118"
   },
   {
     "url": "images/addy-osmani.jpg",
@@ -1126,7 +1143,6 @@ const fileManifest = [
     "url": "images/zurb-foundation.jpg",
     "revision": "6303984afedc19cef1518456a8c587df"
   }
-];
-
-const workboxSW = new self.WorkboxSW();
-workboxSW.precache(fileManifest);
+].concat(self.__precacheManifest || []);
+workbox.precaching.suppressWarnings();
+workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
