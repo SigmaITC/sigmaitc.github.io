@@ -283,12 +283,15 @@
 -
     title: "cssnext"
     link: "http://cssnext.io//"
-    description: ""
-    hot: true
-    required: true
+    description: "Enables you to use the latest CSS features and automatically transpile for backwards compatibility. Now replaced by postcss-preset-env."
+    cold: true
     image: "cssnext.png"
     level: 2
     tags: "Styling - Postprocessors"
+    related:
+        -
+            title: "postcss-preset-env"
+            link: "https://preset-env.cssdb.org/"
 -
     title: "PostCSS"
     link: "http://postcss.org/"
