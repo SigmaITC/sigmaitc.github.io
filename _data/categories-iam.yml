@@ -8,3 +8,24 @@
 # levels {Array} - A list of levels for the category.
 ##
 
+-
+    title: "Computer Hardware"
+    description: ""
+-
+    title: "Operative System Platforms"
+    description: ""
+-
+    title: "Software Applications"
+    description: ""
+-
+    title: "Data Management, Storage & Data Center"
+    description: ""
+-
+    title: "Networking / Telecomunication Platforms"
+    description: ""
+-
+    title: "Internet Platforms"
+    description: ""
+-
+    title: "Consulting and System Integration Services"
+    description: ""
