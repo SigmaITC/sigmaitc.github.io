@@ -19,3 +19,39 @@
 # level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
 ##
 
+# Computer Hardware
+-
+    title: "Amazon"
+    link: "https://aws.amazon.com"
+    description: ""
+    image: "aws.png"
+    level: 1
+    tags: "Programming"
+    related:
+        -
+            title: "Operation"
+            link: "https://aws.amazon.com"
+            description: "Description"
+            level: 2
+        -
+            title: "Installation"
+            link: "https://aws.amazon.com"
+            description: "Description"
+            level: 2
+        -
+            title: "Implementation"
+            link: "https://aws.amazon.com"
+            description: "Description"
+            level: 3
+        -
+            title: "Auditing"
+            link: "https://aws.amazon.com"
+            description: "Description"
+            level: 3
+        -
+            title: "Design"
+            link: "https://aws.amazon.com"
+            description: "Description"
+            level: 3
+
+
