@@ -9,23 +9,84 @@
 ##
 
 -
-    title: "Computer Hardware"
+    title: "Computer Hardware - Cloud Computing"
     description: ""
 -
-    title: "Operative System Platforms"
+    title: "Computer Hardware - Mainframe / Servers"
     description: ""
 -
-    title: "Software Applications"
+    title: "Computer Hardware - Workstations"
     description: ""
 -
-    title: "Data Management, Storage & Data Center"
+    title: "Computer Hardware - Laptops"
     description: ""
 -
-    title: "Networking / Telecomunication Platforms"
+    title: "Computer Hardware - Bring your own device (BYOD)"
     description: ""
 -
-    title: "Internet Platforms"
+    title: "Operative System Platforms - Server Platforms"
     description: ""
 -
-    title: "Consulting and System Integration Services"
+    title: "Operative System Platforms - Client Platforms"
     description: ""
+-
+    title: "Software Applications - MS Office"
+    description: ""
+-
+    title: "Software Applications - Mail"
+    description: ""
+-
+    title: "Software Applications - Web Application"
+    description: ""
+-
+    title: "Software Applications - Mobile Application"
+    description: ""
+-
+    title: "Software Applications - Various Business Applications"
+    description: ""
+-
+    title: "Data Management - Data Management Platforms"
+    description: ""
+-
+    title: "Data Management - Storage / Data Center "
+    description: ""
+-
+    title: "Networking - Switch / Router / Loadbalancer"
+    description: ""
+-
+    title: "Networking - Firewall / Security Solutions "
+    description: ""
+-
+    title: "Networking - Network Access Control / Directory Services"
+    description: ""
+-
+    title: "Networking - Transmission Medium"
+    description: ""
+-
+    title: "Networking - Network Management Systems"
+    description: ""
+-
+    title: "Internet Platforms - Internet Hardware Server"
+    description: ""
+-
+    title: "Internet Platforms - Web Servers Cloud (Web Hosting)"
+    description: ""
+-
+    title: "Internet Platforms - Web Servers"
+    description: ""
+-
+    title: "Internet Platforms - "
+    description: ""
+-
+    title: "Internet Platforms - DNS Servers"
+    description: ""
+-
+    title: "Internet Platforms - Internet Network Components"
+    description: ""
+-
+    title: "Consulting Services - Consulting"
+    description: ""
+-
+    title: "Consulting Services - System Integration Services"
+    description: ""
+
