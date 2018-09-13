@@ -87,12 +87,12 @@
             description: "Description"
             level: 3
 
-title: "Data Management Platforms"
+title: "SAP HANA"
     link: "https://www.sap.com/products/hana.html"
     description: ""
     image: "SAP-Hana.png" ;
     level: 1
-    tags: "SAP HANA"
+    tags: "Data Management - Data Management Platforms"
     related:
         -
             title: "Operation"
