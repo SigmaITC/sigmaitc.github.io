@@ -90,7 +90,7 @@
 title: "SAP HANA"
     link: "https://www.sap.com/products/hana.html"
     description: ""
-    image: "SAP-Hana.png" ;
+    image: "SAP-Hana.png"
     level: 1
     tags: "Data Management - Data Management Platforms"
     related:
