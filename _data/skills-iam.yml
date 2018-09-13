@@ -87,35 +87,36 @@
             description: "Description"
             level: 3
 
-title: "SAP HANA"
+-
+    title: "SAP HANA"
     link: "https://www.sap.com/products/hana.html"
     description: ""
-    image: "SAP-Hana.png"
+    image: "azure.png"
     level: 1
     tags: "Data Management - Data Management Platforms"
     related:
         -
             title: "Operation"
-            link: "https://aws.amazon.com"
+            link: ""
             description: "Description"
             level: 2
         -
             title: "Installation"
-            link: "https://aws.amazon.com"
+            link: ""
             description: "Description"
             level: 2
         -
             title: "Implementation"
-            link: "https://aws.amazon.com"
+            link: ""
             description: "Description"
             level: 3
         -
             title: "Auditing"
-            link: "https://aws.amazon.com"
+            link: ""
             description: "Description"
             level: 3
         -
             title: "Design"
-            link: "https://aws.amazon.com"
+            link: ""
             description: "Description"
             level: 3
