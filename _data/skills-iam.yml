@@ -30,28 +30,60 @@
     related:
         -
             title: "Operation"
-            link: "https://aws.amazon.com"
+            link: ""
             description: "Description"
             level: 2
         -
             title: "Installation"
-            link: "https://aws.amazon.com"
+            link: ""
             description: "Description"
             level: 2
         -
             title: "Implementation"
-            link: "https://aws.amazon.com"
+            link: ""
             description: "Description"
             level: 3
         -
             title: "Auditing"
-            link: "https://aws.amazon.com"
+            link: ""
             description: "Description"
             level: 3
         -
             title: "Design"
-            link: "https://aws.amazon.com"
+            link: ""
             description: "Description"
             level: 3
-
+-
+    title: "Microsoft Azure"
+    link: "https://azure.microsoft.com/en-us/overview/types-of-cloud-computing/"
+    description: ""
+    image: "azure.png"
+    level: 1
+    tags: "Computer Hardware - Cloud Computing"
+    related:
+        -
+            title: "Operation"
+            link: ""
+            description: "Description"
+            level: 2
+        -
+            title: "Installation"
+            link: ""
+            description: "Description"
+            level: 2
+        -
+            title: "Implementation"
+            link: ""
+            description: "Description"
+            level: 3
+        -
+            title: "Auditing"
+            link: ""
+            description: "Description"
+            level: 3
+        -
+            title: "Design"
+            link: ""
+            description: "Description"
+            level: 3
 
