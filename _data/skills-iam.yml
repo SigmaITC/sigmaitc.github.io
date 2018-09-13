@@ -26,7 +26,7 @@
     description: ""
     image: "aws.png"
     level: 1
-    tags: "Computer Hardware"
+    tags: "Computer Hardware - Cloud Computing"
     related:
         -
             title: "Operation"
