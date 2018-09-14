@@ -86,3 +86,26 @@
             link: ""
             description: "Description"
             level: 3
+-
+    title: "SAP HANA"
+    link: "https://www.sap.com/products/hana.html"
+    description: ""
+    image: "SAP-HANA.png"
+    level: 1
+    tags: "Data Management - Data Management Platforms"
+    related:
+        -
+            title: "Business Professionals"
+            link: "https://open.sap.com/courses/hanaintro1"
+            description: "Big Data Management"
+            level: 2
+        -
+            title: "IT Experts"
+            link: "https://training.sap.com/course/ha200-sap-hana---operations--administration-remoteclassroom-098-se-en/"
+            description: "Installation / Operation / Data Management"
+            level: 3
+        -
+            title: "Developers"
+            link: "https://open.sap.com/course/hana1"
+            description: "Software Development"
+            level: 3
