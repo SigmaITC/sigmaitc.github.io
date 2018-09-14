@@ -251,3 +251,36 @@
             link: ""
             description: "Description"
             level: 3
+-
+    title: "IBM"
+    link: "https://www.ibm.com/se-sv/it-infrastructure/z"
+    description: ""
+    image: "ibm.png"
+    level: 1
+    tags: "Computer Hardware - Mainframe / Servers"
+    related:
+        -
+            title: "Operation"
+            link: ""
+            description: "Description"
+            level: 2
+        -
+            title: "Installation"
+            link: ""
+            description: "Description"
+            level: 2
+        -
+            title: "Implementation"
+            link: ""
+            description: "Description"
+            level: 3
+        -
+            title: "Auditing"
+            link: ""
+            description: "Description"
+            level: 3
+        -
+            title: "Design"
+            link: ""
+            description: "Description"
+            level: 3   
