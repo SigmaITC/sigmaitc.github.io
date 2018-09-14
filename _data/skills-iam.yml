@@ -321,12 +321,12 @@
             description: "Big Data Management / BI"
             level: 2
         -
-            -            title: "MDM Architecture"
+            -            title: "Architecture"
             link: "https://www-03.ibm.com/services/learning/ites.wss/zz/en?pageType=page&c=H714101D04079V43"
             description: "MDM Architecture / Operation / Data Management"
             level: 3
         -
-            title: "MDM Data Steward"
+            title: "Data Steward"
             link: "https://www-03.ibm.com/services/learning/ites.wss/zz/en?pageType=page&c=Q739957H58634L90"
             description: "Software Development"
-            level: 3
+            level: 2
