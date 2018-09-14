@@ -343,3 +343,54 @@
             link: ""
             description: ""
             level: 2
+-
+    title: "DELL EMC (Enterprise Storage)"
+    link: "https://www.dellemc.com/sv-se/storage/data-storage.htm?CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&VEN1=s[uniq_id]~280572684432~901j8l13531&VEN2=b~+dell%20+san%20+storage&ST=+dell%20+san%20+storage&CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&dgc=st&dgseg=bsd&cid=234678&lid=2056&acd=2407234678205614&VEN3=411804563872470950#scroll=off"
+    description: ""
+    image: "DELL-EMC1.png"
+    level: 1
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Storage Networking Design"
+            link: "https://www.koenig-solutions.com/emc-networking-designing-training-course.aspx"
+            description: "Data center Architecture"
+            level: 2
+        -
+            title: "Cloud Storage"
+            link: "https://education.emc.com/content/emc/en-us/store/home/search/course-details.html?courseID=MR-1WN-ECSDDCT&l=ALL"
+            description: "Configuration of Cloud Storage and Data Domain"
+            level: 2
+        -
+            title: "Implementation"
+            link: "https://education.emc.com/content/emc/en-us/store/home/search/course-details.html?courseID=MR-1LP-SRM4IM&l=ALL"
+            description: "Installation / Integration / Administration"
+            level: 2
+-
+    title: "HPE (Enterprise Storage)"
+    link: "https://www.dellemc.com/sv-se/storage/data-storage.htm?CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&VEN1=s[uniq_id]~280572684432~901j8l13531&VEN2=b~+dell%20+san%20+storage&ST=+dell%20+san%20+storage&CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&dgc=st&dgseg=bsd&cid=234678&lid=2056&acd=2407234678205614&VEN3=411804563872470950#scroll=off"
+    description: ""
+    image: "hewlett-packard-enterprise.png"
+    level: 1
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "HPE Storage solution"
+            link: "https://education.hpe.com/ww/en/training/docs/cds/h9th0s.pdf"
+            description: "Data center professionals / Enterprise Architects / Solutions Engineers"
+            level: 3
+        -
+            title: "HPE Storage networking"
+            link: "https://education.hpe.com/ww/en/training/docs/cds/hk910s.pdf"
+            description: "Data center Architecture"
+            level: 3
+        -
+            title: "HPE Storage Architect"
+            link: "https://education.hpe.com/ww/en/training/docs/cds/h9th3s.pdf"
+            description: "Data center Design"
+            level: 3
+        -
+            title: "HPE Storage integrator"
+            link: "https://education.hpe.com/ww/en/training/docs/cds/h9th3s.pdf"
+            description: "Data center support & sales representatives"
+            level: 3
