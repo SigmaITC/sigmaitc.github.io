@@ -29,30 +29,30 @@
     tags: "Computer Hardware - Cloud Computing"
     related:
         -
-            title: "Operation"
-            link: ""
-            description: "Description"
+            title: "Cloud Practitioner"
+            link: "https://aws.amazon.com/training/path-cloudpractitioner/"
+            description: "This path is useful for individuals in technical, managerial, sales, purchasing, or financial roles who work with the AWS Cloud."
             level: 2
         -
-            title: "Installation"
-            link: ""
-            description: "Description"
-            level: 2
-        -
-            title: "Implementation"
-            link: ""
-            description: "Description"
+            title: "Architect"
+            link: "https://aws.amazon.com/training/path-architecting/"
+            description: "These paths are designed for solutions architects, solution design engineers, and anyone who wants to learn how to design applications and systems on AWS."
             level: 3
         -
-            title: "Auditing"
-            link: ""
-            description: "Description"
+            title: "Developer"
+            link: "https://aws.amazon.com/training/path-developing/"
+            description: "These certification paths are designed for software developers who want to learn how to develop cloud applications on AWS."
             level: 3
         -
-            title: "Design"
-            link: ""
-            description: "Description"
+            title: "Operations"
+            link: "https://aws.amazon.com/training/path-operations/"
+            description: "These paths are designed for sysops administrators, systems administrators and those in a DevOps role."
             level: 3
+        -
+            title: "Speciality AWS Certifications"
+            link: "https://aws.amazon.com/training/paths-specialty/"
+            description: "Specialty certification paths with focuses on Advanced Networking, Big Data, and Security. These paths are designed to build and validate advanced skills in specific technical areas."
+            level: 4
 -
     title: "Microsoft Azure"
     link: "https://azure.microsoft.com/en-us/overview/types-of-cloud-computing/"
