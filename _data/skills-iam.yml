@@ -62,29 +62,24 @@
     tags: "Computer Hardware - Cloud Computing"
     related:
         -
-            title: "Operation"
-            link: ""
-            description: "Description"
-            level: 2
-        -
-            title: "Installation"
-            link: ""
-            description: "Description"
-            level: 2
-        -
-            title: "Implementation"
-            link: ""
-            description: "Description"
+            title: "Technology Associate"
+            link: "https://www.microsoft.com/en-ph/learning/mta-summary-certification.aspx"
+            description: "MTA Certification: Database, Developer, IT Infrastructure"
             level: 3
         -
-            title: "Auditing"
-            link: ""
-            description: "Description"
+            title: "Design and Administrator"
+            link: "https://www.microsoft.com/en-ph/learning/mcsa-cloud-platform-certification.aspx"
+            description: "MCSA Cloud Platform: Microsoft Azure"
             level: 3
         -
-            title: "Design"
-            link: ""
-            description: "Description"
+            title: "Design, Architect, Implement"
+            link: "https://www.microsoft.com/en-ph/learning/mcsa-linux-azure-certification.aspx"
+            description: "MCSA Linux on Azure"
+            level: 3
+        -
+            title: "Solutions Expert, Cloud Platform and Infrastructure"
+            link: "https://www.microsoft.com/en-ph/learning/mcse-cloud-platform-infrastructure.aspx"
+            description: "MCSE Cloud Platform and Infrastructure: Microsoft Azure, Windows Server Virtualization
             level: 3
 -
     title: "VmWare"
