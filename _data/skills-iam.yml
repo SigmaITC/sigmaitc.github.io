@@ -283,4 +283,50 @@
             title: "Design"
             link: ""
             description: "Description"
-            level: 3   
+            level: 3
+-
+    title: "SAP HANA"
+    link: "https://www.sap.com/products/hana.html"
+    description: ""
+    image: "SAP-HANA.png"
+    level: 1
+    tags: "Data Management - Data Management Platforms"
+    related:
+        -
+            title: "Business Professionals"
+            link: "https://open.sap.com/courses/hanaintro1"
+            description: "Big Data Management / BI"
+            level: 2
+        -
+            -            title: "IT Experts"
+            link: "https://training.sap.com/course/ha200-sap-hana---operations--administration-remoteclassroom-098-se-en/"
+            description: "Installation / Operation / Data Management"
+            level: 3
+        -
+            title: "Developers"
+            link: "https://open.sap.com/course/hana1"
+            description: "Software Development"
+            level: 
+-
+    title: "IBM MDM"
+    link: "https://www.ibm.com/products/mdm-express?adgroup=3&S_PKG=AW&cm_mmc=Search_Google-_-Hybrid+Cloud_Unified+Governance+And+Integration-_-EP_SE-_-ibm+mdm_Exact_AW&cm_mmca1=000032NW&cm_mmca2=10000667+WW+APS+Trusted+Data+-+Master+Data+Management&cm_mmca7=1012442&cm_mmca8=kwd-302644976319&cm_mmca9=2c7daf02-eccb-4008-9d0b-0d6a37fdce81&cm_mmca10=286264988154&cm_mmca11=e&mkwid=2c7daf02-eccb-4008-9d0b-0d6a37fdce81|1526|3660&cvosrc=ppc.google.ibm%20mdm&cvo_campaign=000032NW&cvo_crid=286264988154&Matchtype=e"
+    description: ""
+    image: "ibm-data-management.png"
+    level: 1
+    tags: "Data Management - Data Management Platforms"
+    related:
+        -
+            title: "Data Science & Business Analytics"
+            link: "https://www.ibm.com/uk-en/analytics/business-intelligence?S_PKG=AW&cm_mmc=Search_Google-_-Hybrid+Cloud_Business+Analytics-_-EP_SE-_-+data++analytics_Broad_AW&cm_mmca1=000026DO&cm_mmca2=10000844&cm_mmca7=1012442&cm_mmca8=kwd-296230124120&cm_mmca9=2c7daf02-eccb-4008-9d0b-0d6a37fdce81&cm_mmca10=275525123195&cm_mmca11=b&mkwid=2c7daf02-eccb-4008-9d0b-0d6a37fdce81|542|156302&cvosrc=ppc.google.%2Bdata%20%2Banalytics&cvo_campaign=000026DO&cvo_crid=275525123195&Matchtype=b&gclid=EAIaIQobChMIvcPhupe63QIVCc-yCh0k2A2YEAAYASAAEgJEBvD_BwE"
+            description: "Big Data Management / BI"
+            level: 2
+        -
+            -            title: "MDM Architecture"
+            link: "https://www-03.ibm.com/services/learning/ites.wss/zz/en?pageType=page&c=H714101D04079V43"
+            description: "MDM Architecture / Operation / Data Management"
+            level: 3
+        -
+            title: "MDM Data Steward"
+            link: "https://www-03.ibm.com/services/learning/ites.wss/zz/en?pageType=page&c=Q739957H58634L90"
+            description: "Software Development"
+            level: 3
