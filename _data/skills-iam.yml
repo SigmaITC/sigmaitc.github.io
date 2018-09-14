@@ -87,25 +87,35 @@
             description: "Description"
             level: 3
 -
-    title: "SAP HANA"
-    link: "https://www.sap.com/products/hana.html"
+    title: "VmWare"
+    link: "https://cloud.vmware.com/"
     description: ""
-    image: "SAP-HANA.png"
+    image: "vmware.png"
     level: 1
-    tags: "Data Management - Data Management Platforms"
+    tags: "Computer Hardware - Cloud Computing"
     related:
         -
-            title: "Business Professionals"
-            link: "https://open.sap.com/courses/hanaintro1"
-            description: "Big Data Management"
+            title: "Operation"
+            link: ""
+            description: "Description"
             level: 2
         -
-            title: "IT Experts"
-            link: "https://training.sap.com/course/ha200-sap-hana---operations--administration-remoteclassroom-098-se-en/"
-            description: "Installation / Operation / Data Management"
+            title: "Installation"
+            link: ""
+            description: "Description"
+            level: 2
+        -
+            title: "Implementation"
+            link: ""
+            description: "Description"
             level: 3
         -
-            title: "Developers"
-            link: "https://open.sap.com/course/hana1"
-            description: "Software Development"
+            title: "Auditing"
+            link: ""
+            description: "Description"
+            level: 3
+        -
+            title: "Design"
+            link: ""
+            description: "Description"
             level: 3
