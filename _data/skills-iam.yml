@@ -321,29 +321,6 @@
             description: "Software Development"
             level: 2
 -
-    title: "DELL EMC (NAS Enterprise Storage)"
-    link: "https://www.dellemc.com/sv-se/storage/data-storage.htm?CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&VEN1=s[uniq_id]~280572684432~901j8l13531&VEN2=b~+dell%20+san%20+storage&ST=+dell%20+san%20+storage&CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&dgc=st&dgseg=bsd&cid=234678&lid=2056&acd=2407234678205614&VEN3=411804563872470950#scroll=off"
-    description: ""
-    image: "DELL-EMC.png"
-    level: 1
-    tags: "Data Management - Storage / Data Center "
-    related:
-        -
-            title: "Data center engineer"
-            link: ""
-            description: "Data center engineer"
-            level: 2
-        -
-            title: "Data center Architecture"
-            link: ""
-            description: "Data center Architecture"
-            level: 3
-        -
-            title: "Data Manager"
-            link: ""
-            description: ""
-            level: 2
--
     title: "DELL EMC (Enterprise Storage)"
     link: "https://www.dellemc.com/sv-se/storage/data-storage.htm?CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&VEN1=s[uniq_id]~280572684432~901j8l13531&VEN2=b~+dell%20+san%20+storage&ST=+dell%20+san%20+storage&CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&dgc=st&dgseg=bsd&cid=234678&lid=2056&acd=2407234678205614&VEN3=411804563872470950#scroll=off"
     description: ""
@@ -370,7 +347,7 @@
     title: "HPE (Enterprise Storage)"
     link: "https://www.dellemc.com/sv-se/storage/data-storage.htm?CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&VEN1=s[uniq_id]~280572684432~901j8l13531&VEN2=b~+dell%20+san%20+storage&ST=+dell%20+san%20+storage&CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&dgc=st&dgseg=bsd&cid=234678&lid=2056&acd=2407234678205614&VEN3=411804563872470950#scroll=off"
     description: ""
-    image: "hewlett-packard-enterprise.png"
+    image: "hewlett-packard-enterprise.jpg"
     level: 1
     tags: "Data Management - Storage / Data Center "
     related:
@@ -394,3 +371,4 @@
             link: "https://education.hpe.com/ww/en/training/docs/cds/h9th3s.pdf"
             description: "Data center support & sales representatives"
             level: 3
+
