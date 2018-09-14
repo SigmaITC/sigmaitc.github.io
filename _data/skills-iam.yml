@@ -124,33 +124,33 @@
     link: "https://www.dellemc.com/sr-me/storage/mainframe.htm#scroll=off"
     description: ""
     image: "dell.jpg"
-    level: 1
+    level: 3
     tags: "Computer Hardware - Mainframe / Servers"
     related:
         -
-            title: "Operation"
-            link: ""
-            description: "Description"
-            level: 2
-        -
-            title: "Installation"
-            link: ""
-            description: "Description"
-            level: 2
-        -
-            title: "Implementation"
-            link: ""
-            description: "Description"
-            level: 3
-        -
-            title: "Auditing"
-            link: ""
-            description: "Description"
+            title: "Technology / Associate"
+            link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#technology"
+            description: "Associate, Data Scientist"
             level: 3
         -
             title: "Design"
-            link: ""
-            description: "Description"
+            link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#design"
+            description: "Cloud Architect, Enterprise Architect, Technology Architect"
+            level: 3
+        -
+            title: "Deployment"
+            link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#deploy"
+            description: "Implementation Engineer, Product / Technology, Dell EMC Certified Professional"
+            level: 3
+        -
+            title: "Manage"
+            link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#manage"
+            description: "Enterprise Architect, System Administrator, Product / Technology, Dell EMC Certified Professional"
+            level: 3
+        -
+            title: "Support"
+            link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#support"
+            description: "Platform Engineer, Dell EMC Certified Professional"
             level: 3
 -
     title: "HP"
