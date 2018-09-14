@@ -58,7 +58,7 @@
     link: "https://azure.microsoft.com/en-us/overview/types-of-cloud-computing/"
     description: ""
     image: "azure.png"
-    level: 1
+    level: 3
     tags: "Computer Hardware - Cloud Computing"
     related:
         -
@@ -85,34 +85,29 @@
     title: "VmWare"
     link: "https://cloud.vmware.com/"
     description: ""
-    image: "vmware1.png"
-    level: 1
+    image: "vmware.jpg"
+    level: 3
     tags: "Computer Hardware - Cloud Computing"
     related:
         -
-            title: "Operation"
-            link: ""
-            description: "Description"
+            title: "Certified Associate"
+            link: "https://www.vmware.com/education-services/certification/vcp6-dcv.html"
+            description: "VCA: For Administrators, Architects & Executives"
             level: 2
         -
-            title: "Installation"
-            link: ""
-            description: "Description"
-            level: 2
-        -
-            title: "Implementation"
-            link: ""
-            description: "Description"
+            title: "Certified Professional"
+            link: "https://www.vmware.com/education-services/certification/vcp6-dcv-exam.html"
+            description: "VCP: For Administrators & Engineers"
             level: 3
         -
-            title: "Auditing"
-            link: ""
-            description: "Description"
+            title: "Certified Advanced Professional"
+            link: "https://mylearn.vmware.com/mgrreg/plan.cfm?plan=89133&ui=www_cert"
+            description: "VCAP: Administrators. Architects & Engineers"
             level: 3
         -
-            title: "Design"
-            link: ""
-            description: "Description"
+            title: "Certified Design Expert"
+            link: "https://www.vmware.com/education-services/certification/vcdx6-dcv.html"
+            description: "VCDX: For Architects"
             level: 3
 -
     title: "Dell"
