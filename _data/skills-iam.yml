@@ -90,7 +90,7 @@
     title: "VmWare"
     link: "https://cloud.vmware.com/"
     description: ""
-    image: "VMware.png"
+    image: "vmware.png"
     level: 1
     tags: "Computer Hardware - Cloud Computing"
     related:
