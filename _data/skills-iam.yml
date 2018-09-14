@@ -25,7 +25,7 @@
     link: "https://aws.amazon.com"
     description: ""
     image: "aws.png"
-    level: 1
+    level: 3
     tags: "Computer Hardware - Cloud Computing"
     related:
         -
