@@ -147,7 +147,7 @@
     link: "https://www.hpe.com/us/en/servers.html#"
     description: ""
     image: "hp.png"
-    level: 1
+    level: 3
     tags: "Computer Hardware - Mainframe / Servers"
     related:
         -
@@ -228,7 +228,7 @@
     link: "http://www.fujitsu.com/global/products/computing/servers/mainframe/globalserver/"
     description: ""
     image: "fujitsu1.jpg"
-    level: 1
+    level: 3
     tags: "Computer Hardware - Mainframe / Servers"
     related:
         -
@@ -261,7 +261,7 @@
     link: "https://www.ibm.com/se-sv/it-infrastructure/z"
     description: ""
     image: "ibm.png"
-    level: 1
+    level: 3
     tags: "Computer Hardware - Mainframe / Servers"
     related:
         -
