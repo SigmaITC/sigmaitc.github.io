@@ -526,3 +526,26 @@
             link: "https://www.microsoft.com/en-us/learning/mcse-certification.aspx"
             description: "Microsoft Certified Solutions Expert"
             level: 4
+-
+    title: "Microsoft Client OS"
+    link: "https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions#Personal_computer_versions"
+    description: ""
+    image: "microsoft.png"
+    level: 3
+    tags: "Operative System Platforms - Client Platforms"
+    related:
+        -
+            title: "MTA: Certification"
+            link: "https://www.microsoft.com/en-us/learning/mta-summary-certification.aspx"
+            description: "Validate the fundamental knowledge needed to begin building a career in technology."
+            level: 2
+        -
+            title: "MCSA: Windows 10"
+            link: "https://www.microsoft.com/en-us/learning/mcsa-windows-10-certifications.aspx"
+            description: "Prove you have the expertise to configure, manage, and maintain a Windows 10 enterprise system."
+            level: 3
+        -
+            title: "MCSE Certifications"
+            link: "https://www.microsoft.com/en-us/learning/mcse-certification.aspx"
+            description: "Microsoft Certified Solutions Expert."
+            level: 4
