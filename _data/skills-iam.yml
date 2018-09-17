@@ -903,7 +903,7 @@
             title: "JBCAA"
             link: "https://www.redhat.com/en/services/training/ex248-red-hat-certified-specialist-enterprise-application-server-administration-exam"
             description: "JBCAA is a certification that focuses on managing the JBoss Enterprise Application Platform."
-            level: 3
+            level: 
 -
     title: "SUSE Linux Enterprise"
     link: "https://www.suse.com/"
@@ -971,4 +971,3 @@
     level: 3
     tags: "Operative System Platforms - Server Platforms"
     related:
-
