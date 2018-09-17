@@ -211,17 +211,17 @@
         -
             title: "Implementation and Integration, Expert"
             link: "https://www.hitachivantara.com/en-us/services/training-certification.html"
-            description: "This credential validates that the candidate has a very high level of technical knowledge"
+            description: "This credential validates that the candidate has a very high level of technical knowledge."
             level: 4
         -
             title: "Architect, Specialist"
             link: "https://www.hitachivantara.com/en-us/services/training-certification.html"
             description: "Certified specialists have multilayer technical skills, can handle complex solutions, and are usually specialized in one or more areas."
             level: 3
- 	    -
+        -
             title: "Architect, Expert"
             link: "https://www.hitachivantara.com/en-us/services/training-certification.html"
-            description: "This credential validates that the candidate has a very high level of technical knowledge"
+            description: "This credential validates that the candidate has a very high level of technical knowledge."
             level: 4
 -
     title: "Fujitsu"
@@ -386,4 +386,5 @@
             link: "https://education.hpe.com/ww/en/training/docs/cds/h9th3s.pdf"
             description: "Data center support & sales representatives"
             level: 3
+
 
