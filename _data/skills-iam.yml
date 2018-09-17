@@ -498,3 +498,31 @@
             link: "https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx#cp-section3-head"
             description: "Moving to Cloud / reduction of data loss / improve data security"
             level: 3
+ -
+    title: "Microsoft Server OS"
+    link: "https://en.wikipedia.org/wiki/Windows_Server"
+    description: ""
+    image: "microsoft.png"
+    level: 3
+    tags: "Operative System Platforms - Server Platforms"
+    related:
+        -
+            title: "MTA: Certification"
+            link: "https://www.microsoft.com/en-us/learning/mta-summary-certification.aspx"
+            description: "Validate the fundamental knowledge needed to begin building a career in technology."
+            level: 2
+        -
+            title: "MCSA: Windows Server 2012"
+            link: "https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx"
+            description: "The certification qualifies you for a position as a network of computer systems administrator or as a computer network specialist."
+            level: 3
+        -
+            title: "MCSA: Windows Server 2016"
+            link: "https://www.microsoft.com/en-us/learning/mcsa-windows-server-2016-certification.aspx"
+            description: "The certification qualifies you for a position as a network of computer systems administrator or as a computer network specialist."
+            level: 3
+        -
+            title: "MCSE Certifications"
+            link: "https://www.microsoft.com/en-us/learning/mcse-certification.aspx"
+            description: "Microsoft Certified Solutions Expert"
+            level: 4
