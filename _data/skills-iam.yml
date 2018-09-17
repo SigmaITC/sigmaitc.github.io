@@ -175,39 +175,54 @@
             link: ""
             description: "Description"
             level: 3
--
+-            
     title: "Hitachi"
     link: "https://www.hitachivantara.com/en-us/products/storage/mainframe-storage.html"
     description: ""
     image: "hitachi.png"
-    level: 1
+    level: 3
     tags: "Computer Hardware - Mainframe / Servers"
     related:
         -
-            title: "Operation"
-            link: ""
-            description: "Description"
+            title: "Basics and Fundamentals"
+            link: "https://www.hitachivantara.com/en-us/pdf/training/hitachi-qualified-associate-storage-concepts-hqt-0050-exam.pdf"
+            description: "Entry-Level, Storage Concepts (HQT-0050)"
+            level: 1
+        -
+            title: "Installation and Support, Professional"
+            link: "https://www.hitachivantara.com/en-us/pdf/training/content-platform-administration-hqt-6420-exam.pdf"
+            description: "This credential confirms general and foundational knowledge for a given subject area."
             level: 2
         -
-            title: "Installation"
-            link: ""
-            description: "Description"
+            title: "Administration, Professional"
+            link: "https://www.hitachivantara.com/en-us/pdf/training/hitachi-qualified-professional-content-platform-installation-hqt-4420-exam.pdf"
+            description: "This credential confirms general and foundational knowledge for a given subject area."
             level: 2
         -
-            title: "Implementation"
-            link: ""
-            description: "Description"
+            title: "Installation and Support, Specialist"
+            link: "https://www.hitachivantara.com/en-us/services/training-certification.html"
+            description: "Certified specialists have multilayer technical skills, can handle complex solutions, and are usually specialized in one or more areas."
             level: 3
         -
-            title: "Auditing"
-            link: ""
-            description: "Description"
+            title: "Implementation and Integration, Specialist"
+            link: "https://www.hitachivantara.com/en-us/pdf/training/hitachi-certified-specialist-hcp-implementation-hce-5420-exam.pdf"
+            description: "Certified specialists have multilayer technical skills, can handle complex solutions, and are usually specialized in one or more areas."
             level: 3
         -
-            title: "Design"
-            link: ""
-            description: "Description"
+            title: "Implementation and Integration, Expert"
+            link: "https://www.hitachivantara.com/en-us/services/training-certification.html"
+            description: "This credential validates that the candidate has a very high level of technical knowledge"
+            level: 4
+        -
+            title: "Architect, Specialist"
+            link: "https://www.hitachivantara.com/en-us/services/training-certification.html"
+            description: "Certified specialists have multilayer technical skills, can handle complex solutions, and are usually specialized in one or more areas."
             level: 3
+ 	-
+            title: "Architect, Expert"
+            link: "https://www.hitachivantara.com/en-us/services/training-certification.html"
+            description: "This credential validates that the candidate has a very high level of technical knowledge"
+            level: 4
 -
     title: "Fujitsu"
     link: "http://www.fujitsu.com/global/products/computing/servers/mainframe/globalserver/"
