@@ -889,17 +889,17 @@
             link: "https://www.redhat.com/en/services/certification/rhce"
             description: ""
             level: 3
-	    -
+        -
             title: "RHCA"
             link: "https://www.redhat.com/en/services/certification/rhca"
             description: ""
-            level: 3
-	    -
+            level: 
+        -
             title: "RHCVA"
             link: "https://www.redhat.com/en/services/certification/rhcs-virtualization"
             description: "RHCVA is a certification that focuses on Virtualization administration."
             level: 3
-	    -
+        -
             title: "JBCAA"
             link: "https://www.redhat.com/en/services/training/ex248-red-hat-certified-specialist-enterprise-application-server-administration-exam"
             description: "JBCAA is a certification that focuses on managing the JBoss Enterprise Application Platform."
@@ -922,7 +922,7 @@
             link: "https://training.suse.com/certification/sce-linux/"
             description: "SUSE Certified Engineer SCE"
             level: 3
-	    -
+        -
             title: "Architect"
             link: "https://training.suse.com/certification/sea/"
             description: "SUSE Enterprise Architect SEA"
@@ -945,7 +945,7 @@
             link: "https://education.oracle.com/oracle-certified-professional-oracle-linux-6-system-administrator/trackp_252"
             description: "OCP has a command of a specific area of Oracle technology and demonstrates a high level of knowledge and skills."
             level: 3
-	    -
+        -
             title: "Oracle Certified Specialist"
             link: "https://education.oracle.com/oracle-linux-6-certified-implementation-specialist/trackp_88"
             description: "These certifications are built on very focused products or skillsets and provide a solid measure of a candidate's level of expertise in a particular area."
