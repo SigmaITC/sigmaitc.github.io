@@ -680,27 +680,27 @@
     level: 2
     tags: "Computer Hardware - Bring your own device (BYOD)"
     related:
--
+        -
             title: "Apple"
             link: "https://www.apple.com/iphone/"
             description: ""
             level: 2
-	-
+        -
             title: "Samsung"
             link: "https://www.samsung.com/se/mobile/"
             description: ""
             level: 2
-	-
+        -
             title: "Huawei"
             link: "https://consumer.huawei.com/en/phones/"
             description: ""
             level: 2
-	-
+        -
             title: "Sonymobile"
             link: "https://www.sonymobile.com/global-en/#gref"
             description: ""
             level: 2
-	-
+        -
             title: "HTC"
             link: "https://www.htc.com/se/smartphones/"
             description: ""
@@ -713,27 +713,27 @@
     level: 2
     tags: "Computer Hardware - Bring your own device (BYOD)"
     related:
- 	-
+ 	    -
             title: "Apple"
             link: "https://www.apple.com/ipad/"
             description: ""
             level: 2
-	-
+	    -
             title: "Samsung"
             link: "https://www.samsung.com/se/tablets/"
             description: ""
             level: 2
-	-
+	    -
             title: "Huawei"
             link: "https://consumer.huawei.com/en/tablets/"
             description: ""
             level: 2
-	-
+	    -
             title: "HTC"
             link: "https://www.htc.com/se/tablets/"
             description: ""
             level: 2
-	-
+	    -
             title: "Lenovo"
             link: "https://www.lenovo.com/gb/en/tablets/android-tablets/c/android-tablets"
             description: ""
