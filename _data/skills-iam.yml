@@ -563,9 +563,9 @@
             description: "Validate the fundamental knowledge needed to begin building a career in technology."
             level: 2
         -
-            title: "MCSA: Office 365"
+            title: "MCSA: Certification"
             link: "https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx"
-            description: "This certification demonstrates your skills in transitioning to and administering cloud-hosted business applications with Microsoft Office 365."
+            description: "This certification demonstrates your skills in transitioning to and administering cloud-hosted business applications."
             level: 3
         -
             title: "MCSE Certifications"
@@ -583,7 +583,7 @@
         -
             title: "MOS Expert 2013"
             link: "https://www.microsoft.com/en-us/learning/microsoft-office-specialist-expert-certification-2013.aspx"
-            description: "This certification demonstrates that you have advanced skills in key Office programs by earning a Microsoft Office Specialist Expert certification."
+            description: "This certification demonstrates that you have advanced skills in key Office programs by earning a MOS Expert certification."
             level: 3
         -
             title: "MOS Master 2013"
@@ -601,5 +601,5 @@
         -
             title: "MOS Expert 2016 "
             link: "https://www.microsoft.com/en-us/learning/microsoft-office-specialist-expert-certification-2016.aspx"
-            description: "This certification demonstrates that you have advanced skills in key Office programs by earning a Microsoft Office Specialist Expert certification."
+            description: "This certification demonstrates that you have advanced skills in key Office programs by earning a MOS Expert certification."
             level: 3
