@@ -499,6 +499,139 @@
             description: "Moving to Cloud / reduction of data loss / improve data security"
             level: 3
 -
+    title: "Checkpoint"
+    link: "https://www.checkpoint.com/"
+    description: ""
+    image: "checkpoint.png"
+    level: 3
+    tags: "Networking - Firewall / Security Solutions "
+    related:
+        -
+            title: "Security Administrator"
+            link: "https://store.checkpoint.com/training-certification/#/courses/Check-Point-Certified-Admin-(CCSA)-R80.10"
+            description: "Installation / configuration / operations"
+            level: 2
+        -
+            title: "Security Expert"
+            link: "https://store.checkpoint.com/training-certification/#/courses/Check-Point-Certified-Expert-(CCSE)-R80.10"
+            description: "build / modify / deploy / troubleshoot"
+            level: 3
+        -
+            title: "Security Master"
+            link: "https://community.checkpoint.com/thread/7986-check-point-certified-security-master-ccsm-r80-exam-available-now"
+            description: "managing virtualized security in high-end networks / advanced security optimization"
+            level: 3
+-
+    title: "Cisco NGFW"
+    link: "https://www.checkpoint.com/"
+    description: ""
+    image: "Cisco.png"
+    level: 3
+    tags: "Networking - Firewall / Security Solutions "
+    related:
+        -
+            title: "Network Associate Security"
+            link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-security.html?dtid=osscdc000283"
+            description: "Security Specialist /Administrator/ Security Support Engineer"
+            level: 2
+        -
+            title: "Network Professional Security"
+            link: "https://learningnetwork.cisco.com/community/certifications/ccnpsecurity"
+            description: "Deploying / Operations / troubleshooting"
+            level: 3
+        -
+            title: "Internetwork Expert Security"
+            link: "https://community.checkpoint.com/thread/7986-check-point-certified-security-master-ccsm-r80-exam-available-now"
+            description: "Design / implement / operate / troubleshoot complex security technologies"
+            level: 3
+-
+    title: "Pulse Secure / Juniper"
+    link: "https://www.juniper.net/us/en/pulsesecure/"
+    description: ""
+    image: "pulse-secure.jpg"
+    level: 3
+    tags: "Networking - Firewall / Security Solutions "
+    related:
+        -
+            title: "Associate"
+            link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jnciajunos"
+            description: "Installation / operations / troubleshooting / sales engineers"
+            level: 2
+        -
+            title: "Security Specialist"
+            link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jncisec"
+            description: "Deploying / Operations / troubleshooting"
+            level: 3
+        -
+            title: "Security Professional"
+            link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jncip-sec"
+            description: "Infrastructure security expert"
+            level: 3
+        -
+            title: "Security Expert"
+            link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jnciesec"
+            description: "Install complex policies / attack prevention / HA / IPS"
+            level: 3
+-
+    title: "Cisco ISE"
+    link: "https://www.cisco.com/c/en/us/products/security/identity-services-engine/index.html"
+    description: ""
+    image: "Cisco-ISE1.png"
+    level: 3
+    tags: "Networking - Network Access Control / Directory Services"
+    related:
+        -
+            title: "Implementing and Configuring"
+            link: "https://www.cisco.com/c/en/us/training-events/resources/training-services/course-overviews/implementing-and-configuring-cisco-identity-services-engine.html"
+            description: "Installation / operations / troubleshooting / sales engineers"
+            level: 2
+        -
+            title: "Identity management / Access control"
+            link: "https://www.ciscolive.com/global/on-demand-library/?search.event=ciscoliveus2018&search=ISE#/session/1509501633570001PwRS"
+            description: "Deploying / Operations / troubleshooting"
+            level: 3
+-
+    title: "Juniper NAC / Juniper UAC"
+    link: "https://www.juniper.net/documentation/en_US/junos/topics/concept/uac-and-ex-series.html"
+    description: ""
+    image: "juniper.png"
+    level: 3
+    tags: "Networking - Network Access Control / Directory Services"
+    related:
+        -
+            title: "Associate"
+            link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jnciajunos"
+            description: "Installation / operations / troubleshooting / sales engineers"
+            level: 2
+        -
+            title: "Security Specialist"
+            link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jncisec"
+            description: "Deploying / Operations / troubleshooting"
+            level: 3
+        -
+            title: "Security Professional"
+            link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jncip-sec"
+            description: "Infrastructure security expert"
+            level: 3
+        -
+            title: "Security Expert"
+            link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jnciesec"
+            description: "Install complex policies / attack prevention / HA / IPS"
+            level: 3
+-
+    title: "Microsoft AD"
+    link: "https://www.cisco.com/c/en/us/products/security/identity-services-engine/index.html"
+    description: ""
+    image: "microsoft-AD.png"
+    level: 3
+    tags: "Networking - Network Access Control / Directory Services"
+    related:
+        -
+            title: "Configuring Advanced Windows Server"
+            link: "https://www.microsoft.com/en-us/learning/exam-70-412.aspx"
+            description: "Implement / deploy / Replication"
+            level: 3
+-
     title: "Microsoft Server OS"
     link: "https://en.wikipedia.org/wiki/Windows_Server"
     description: ""
