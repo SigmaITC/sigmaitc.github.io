@@ -549,3 +549,57 @@
             link: "https://www.microsoft.com/en-us/learning/mcse-certification.aspx"
             description: "Microsoft Certified Solutions Expert."
             level: 4
+-
+    title: "Office 365"
+    link: "https://products.office.com/sv-SE/?ms.url=office365com"
+    description: ""
+    image: "office365.png"
+    level: 3
+    tags: "Software Applications - MS Office"
+    related:
+        -
+            title: "MTA: Certification"
+            link: "https://www.microsoft.com/en-us/learning/mta-summary-certification.aspx"
+            description: "Validate the fundamental knowledge needed to begin building a career in technology."
+            level: 2
+        -
+            title: "MCSA: Office 365"
+            link: "https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx"
+            description: "This certification demonstrates your skills in transitioning to and administering cloud-hosted business applications with Microsoft Office 365."
+            level: 3
+        -
+            title: "MCSE Certifications"
+            link: "https://www.microsoft.com/en-us/learning/mcse-certification.aspx"
+            description: "Microsoft Certified Solutions Expert."
+            level: 4
+-
+    title: "Office 2013"
+    link: "https://products.office.com/sv-se/professional"
+    description: ""
+    image: "office2016.png"
+    level: 3
+    tags: "Software Applications - MS Office"
+    related:
+        -
+            title: "MOS Expert 2013"
+            link: "https://www.microsoft.com/en-us/learning/microsoft-office-specialist-expert-certification-2013.aspx"
+            description: "This certification demonstrates that you have advanced skills in key Office programs by earning a Microsoft Office Specialist Expert certification."
+            level: 3
+        -
+            title: "MOS Master 2013"
+            link: "https://www.microsoft.com/en-us/learning/microsoft-office-specialist-master-certification-2013.aspx"
+            description: "This certification demonstrates that you have the deepest level of skills needed to proficiently use Office programs."
+            level: 4
+-
+    title: "Office 2016"
+    link: "https://products.office.com/sv-se/professional"
+    description: ""
+    image: "office2016.png"
+    level: 3
+    tags: "Software Applications - MS Office"
+    related:
+        -
+            title: "MOS Expert 2016 "
+            link: "https://www.microsoft.com/en-us/learning/microsoft-office-specialist-expert-certification-2016.aspx"
+            description: "This certification demonstrates that you have advanced skills in key Office programs by earning a Microsoft Office Specialist Expert certification."
+            level: 3
