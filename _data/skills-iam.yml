@@ -583,7 +583,7 @@
         -
             title: "MOS Expert 2013"
             link: "https://www.microsoft.com/en-us/learning/microsoft-office-specialist-expert-certification-2013.aspx"
-            description: "This certification demonstrates that you have advanced skills in key Office programs by earning a MOS Expert certification."
+            description: "This certification demonstrates that you have advanced skills in key Office programs."
             level: 3
         -
             title: "MOS Master 2013"
@@ -601,5 +601,10 @@
         -
             title: "MOS Expert 2016 "
             link: "https://www.microsoft.com/en-us/learning/microsoft-office-specialist-expert-certification-2016.aspx"
-            description: "This certification demonstrates that you have advanced skills in key Office programs by earning a MOS Expert certification."
+            description: "This certification demonstrates that you have advanced skills in key Office programs."
             level: 3
+        -
+            title: "MOS Master 2016"
+            link: "https://www.microsoft.com/en-us/learning/microsoft-office-specialist-master-certification-2016.aspx"
+            description: "This certification demonstrates that you have the deepest level of skills needed to proficiently use Office programs."
+            level: 4
