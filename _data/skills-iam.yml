@@ -888,7 +888,7 @@
             title: "RHCE"
             link: "https://www.redhat.com/en/services/certification/rhce"
             description: ""
-            level: 3  
+            level: 3
 	    -
             title: "RHCA"
             link: "https://www.redhat.com/en/services/certification/rhca"
