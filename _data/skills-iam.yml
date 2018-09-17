@@ -885,7 +885,7 @@
             description: "Entry-level certification that focuses on actual competencies at system administration, including installation and configuration."
             level: 2
         -
-            title: "RHCE"
+            title: "RHCA"
             link: "https://www.redhat.com/en/services/certification/rhce"
             description: "Self-titled "the capstone certificate", RHCA is the most complete certificate in the program, adding an enterprise-level focus."
             level: 3
@@ -903,7 +903,7 @@
             title: "JBCAA"
             link: "https://www.redhat.com/en/services/training/ex248-red-hat-certified-specialist-enterprise-application-server-administration-exam"
             description: "JBCAA is a certification that focuses on managing the JBoss Enterprise Application Platform."
-            level: 
+            level: 3
 -
     title: "SUSE Linux Enterprise"
     link: "https://www.suse.com/"
