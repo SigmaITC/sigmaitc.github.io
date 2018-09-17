@@ -884,7 +884,7 @@
             link: "https://www.redhat.com/en/services/certification/rhcsa"
             description: "Entry-level certification that focuses on actual competencies at system administration, including installation and configuration."
             level: 2
-        -	    -
+        -
             title: "RHCE"
             link: "https://www.redhat.com/en/services/certification/rhce"
             description: ""
