@@ -660,7 +660,7 @@
     title: "MacBook"
     link: "https://www.apple.com/se/macbook/"
     description: ""
-    image: "apple.jpg"
+    image: "apple.png"
     level: 2
     tags: "Computer Hardware - Laptops"
     related:
@@ -668,7 +668,7 @@
     title: "EliteBook"
     link: "https://store.hp.com/us/en/mlp/laptops/elite-352503--1"
     description: ""
-    image: "hp.jpg"
+    image: "hp.png"
     level: 2
     tags: "Computer Hardware - Laptops"
     related:
