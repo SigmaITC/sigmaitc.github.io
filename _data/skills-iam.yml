@@ -871,3 +871,104 @@
             link: "https://www.lenovo.com/gb/en/tablets/android-tablets/c/android-tablets"
             description: ""
             level: 2
+-
+    title: "Red Hat Enterprise Linux"
+    link: "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"
+    description: ""
+    image: "redhat.png"
+    level: 3
+    tags: "Operative System Platforms - Server Platforms"
+    related:
+        -
+            title: "RHCSA"
+            link: "https://www.redhat.com/en/services/certification/rhcsa"
+            description: "Entry-level certification that focuses on actual competencies at system administration, including installation and configuration."
+            level: 2
+        -
+            title: "RHCE"
+            link: "https://www.redhat.com/en/services/certification/rhce"
+            description: "Self-titled "the capstone certificate", RHCA is the most complete certificate in the program, adding an enterprise-level focus."
+            level: 3
+	    -
+            title: "RHCA"
+            link: "https://www.redhat.com/en/services/certification/rhca"
+            description: "Self-titled "the flagship" certification, RHCE is a mid to advanced-level certification."
+            level: 3
+	    -
+            title: "RHCVA"
+            link: "https://www.redhat.com/en/services/certification/rhcs-virtualization"
+            description: "RHCVA is a certification that focuses on Virtualization administration."
+            level: 3
+	    -
+            title: "JBCAA"
+            link: "https://www.redhat.com/en/services/training/ex248-red-hat-certified-specialist-enterprise-application-server-administration-exam"
+            description: "JBCAA is a certification that focuses on managing the JBoss Enterprise Application Platform."
+            level: 3
+-
+    title: "SUSE Linux Enterprise"
+    link: "https://www.suse.com/"
+    description: ""
+    image: "suse.png"
+    level: 3
+    tags: "Operative System Platforms - Server Platforms"
+    related:
+        -
+            title: "Administrator"
+            link: "https://training.suse.com/certification/sca-linux/"
+            description: "SUSE Certified Administrator, SCA & SCA+"
+            level: 2
+        -
+            title: "Engineer"
+            link: "https://training.suse.com/certification/sce-linux/"
+            description: "SUSE Certified Engineer SCE"
+            level: 3
+	    -
+            title: "Architect"
+            link: "https://training.suse.com/certification/sea/"
+            description: "SUSE Enterprise Architect SEA"
+            level: 4
+-
+    title: "Oracle Linux"
+    link: "https://www.oracle.com/linux/"
+    description: ""
+    image: "oraclelinux.png"
+    level: 3
+    tags: "Operative System Platforms - Server Platforms"
+    related:
+        -
+            title: "Oracle Certified Associate"
+            link: "https://education.oracle.com/oracle-certified-associate-oracle-linux-5-and-6-system-administrator/trackp_251"
+            description: "OCA credential is the first step toward achieving an Oracle Certified Professional certification."
+            level: 2
+        -
+            title: "Oracle Certified Professional"
+            link: "https://education.oracle.com/oracle-certified-professional-oracle-linux-6-system-administrator/trackp_252"
+            description: "OCP has a command of a specific area of Oracle technology and demonstrates a high level of knowledge and skills."
+            level: 3
+	    -
+            title: "Oracle Certified Specialist"
+            link: "https://education.oracle.com/oracle-linux-6-certified-implementation-specialist/trackp_88"
+            description: "These certifications are built on very focused products or skillsets and provide a solid measure of a candidate's level of expertise in a particular area."
+            level: 3
+        -
+            title: "Oracle Certified Expert"
+            link: ""
+            description: "Competencies falling under the umbrella of the Expert program range from foundational skills to mastery of advanced technologies."
+            level: 4
+-
+    title: "Ubuntu LTS"
+    link: "https://training.linuxfoundation.org/certification/"
+    description: ""
+    image: "ubuntu.png"
+    level: 3
+    tags: "Operative System Platforms - Server Platforms"
+    related:
+-
+    title: "Debian"
+    link: "https://training.linuxfoundation.org/certification/"
+    description: ""
+    image: "debian.png"
+    level: 3
+    tags: "Operative System Platforms - Server Platforms"
+    related:
+
