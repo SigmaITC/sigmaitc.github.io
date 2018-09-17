@@ -85,7 +85,7 @@
     title: "VmWare"
     link: "https://cloud.vmware.com/"
     description: ""
-    image: "vmware.jpg"
+    image: "vmware.png"
     level: 3
     tags: "Computer Hardware - Cloud Computing"
     related:
@@ -608,3 +608,133 @@
             link: "https://www.microsoft.com/en-us/learning/microsoft-office-specialist-master-certification-2016.aspx"
             description: "This certification demonstrates that you have the deepest level of skills needed to proficiently use Office programs."
             level: 4
+-
+    title: "Acer"
+    link: "https://www.acer.com/ac/en/AU/content/professional-group/workstations"
+    description: ""
+    image: "acer.png"
+    level: 2
+    tags: "Computer Hardware - Workstations"
+    related:
+-
+    title: "MacPro"
+    link: "https://www.apple.com/mac-pro/"
+    description: ""
+    image: "apple.png"
+    level: 2
+    tags: "Computer Hardware - Workstations"
+    related:
+-
+    title: "Dell"
+    link: "https://www.dell.com/sv-se/work/shop/scc/sc/desktops-n-workstations?~ck=mn"
+    description: ""
+    image: "dell.png"
+    level: 2
+    tags: "Computer Hardware - Workstations"
+    related:
+-
+    title: "Lenovo"
+    link: "https://www.lenovo.com/se/sv/desktops-and-all-in-ones/thinkcentre/c/ThinkCentre?menu-id=Professional"
+    description: ""
+    image: "lenovo.png"
+    level: 2
+    tags: "Computer Hardware - Workstations"
+    related:
+-
+    title: "HP"
+    link: "https://store.hp.com/SwedenStore/Merch/List.aspx?sel=WKS&gclid=CjwKCAjwoMPcBRAWEiwAiAqZhzM--z7XvaPYU6OwEXsm2f3A_uLQIuSzZPOlYuMOizY4g2lL6-c53hoC8AYQAvD_BwE&gclsrc=aw.ds"
+    description: ""
+    image: "hp.png"
+    level: 2
+    tags: "Computer Hardware - Workstations"
+    related:
+-
+    title: "Chromebook"
+    link: "https://www.google.com/intl/sv_se/chromebook/"
+    description: ""
+    image: "chromebook.png"
+    level: 2
+    tags: "Computer Hardware - Laptops"
+    related:
+-
+    title: "MacBook"
+    link: "https://www.apple.com/se/macbook/"
+    description: ""
+    image: "apple.jpg"
+    level: 2
+    tags: "Computer Hardware - Laptops"
+    related:
+-
+    title: "EliteBook"
+    link: "https://store.hp.com/us/en/mlp/laptops/elite-352503--1"
+    description: ""
+    image: "hp.jpg"
+    level: 2
+    tags: "Computer Hardware - Laptops"
+    related:
+-
+    title: "Smartphones"
+    link: ""
+    description: ""
+    image: "smartphone.png"
+    level: 2
+    tags: "Computer Hardware - Bring your own device (BYOD)"
+    related:
+ 	-
+            title: "Apple"
+            link: "https://www.apple.com/iphone/"
+            description: ""
+            level: 2
+	-
+            title: "Samsung"
+            link: "https://www.samsung.com/se/mobile/"
+            description: ""
+            level: 2
+	-
+            title: "Huawei"
+            link: "https://consumer.huawei.com/en/phones/"
+            description: ""
+            level: 2
+	-
+            title: "Sonymobile"
+            link: "https://www.sonymobile.com/global-en/#gref"
+            description: ""
+            level: 2
+	-
+            title: "HTC"
+            link: "https://www.htc.com/se/smartphones/"
+            description: ""
+            level: 2
+-
+    title: "Tablets"
+    link: ""
+    description: ""
+    image: "tablet.png"
+    level: 2
+    tags: "Computer Hardware - Bring your own device (BYOD)"
+    related:
+ 	-
+            title: "Apple"
+            link: "https://www.apple.com/ipad/"
+            description: ""
+            level: 2
+	-
+            title: "Samsung"
+            link: "https://www.samsung.com/se/tablets/"
+            description: ""
+            level: 2
+	-
+            title: "Huawei"
+            link: "https://consumer.huawei.com/en/tablets/"
+            description: ""
+            level: 2
+	-
+            title: "HTC"
+            link: "https://www.htc.com/se/tablets/"
+            description: ""
+            level: 2
+	-
+            title: "Lenovo"
+            link: "https://www.lenovo.com/gb/en/tablets/android-tablets/c/android-tablets"
+            description: ""
+            level: 2
