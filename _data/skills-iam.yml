@@ -294,7 +294,7 @@
     link: "https://www.sap.com/products/hana.html"
     description: ""
     image: "SAP-HANA.png"
-    level: 1
+    level: 3
     tags: "Data Management - Data Management Platforms"
     related:
         -
@@ -317,7 +317,7 @@
     link: "https://www.ibm.com/products/mdm-express?adgroup=3&S_PKG=AW&cm_mmc=Search_Google-_-Hybrid+Cloud_Unified+Governance+And+Integration-_-EP_SE-_-ibm+mdm_Exact_AW&cm_mmca1=000032NW&cm_mmca2=10000667+WW+APS+Trusted+Data+-+Master+Data+Management&cm_mmca7=1012442&cm_mmca8=kwd-302644976319&cm_mmca9=2c7daf02-eccb-4008-9d0b-0d6a37fdce81&cm_mmca10=286264988154&cm_mmca11=e&mkwid=2c7daf02-eccb-4008-9d0b-0d6a37fdce81|1526|3660&cvosrc=ppc.google.ibm%20mdm&cvo_campaign=000032NW&cvo_crid=286264988154&Matchtype=e"
     description: ""
     image: "ibm-data-management.png"
-    level: 1
+    level: 3
     tags: "Data Management - Data Management Platforms"
     related:
         -
@@ -340,7 +340,7 @@
     link: "https://www.dellemc.com/sv-se/storage/data-storage.htm?CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&VEN1=s[uniq_id]~280572684432~901j8l13531&VEN2=b~+dell%20+san%20+storage&ST=+dell%20+san%20+storage&CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&dgc=st&dgseg=bsd&cid=234678&lid=2056&acd=2407234678205614&VEN3=411804563872470950#scroll=off"
     description: ""
     image: "DELL-EMC1.png"
-    level: 1
+    level: 3
     tags: "Data Management - Storage / Data Center "
     related:
         -
@@ -363,7 +363,7 @@
     link: "https://www.dellemc.com/sv-se/storage/data-storage.htm?CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&VEN1=s[uniq_id]~280572684432~901j8l13531&VEN2=b~+dell%20+san%20+storage&ST=+dell%20+san%20+storage&CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&dgc=st&dgseg=bsd&cid=234678&lid=2056&acd=2407234678205614&VEN3=411804563872470950#scroll=off"
     description: ""
     image: "hewlett-packard-enterprise.jpg"
-    level: 1
+    level: 3
     tags: "Data Management - Storage / Data Center "
     related:
         -
@@ -631,6 +631,110 @@
             link: "https://www.microsoft.com/en-us/learning/exam-70-412.aspx"
             description: "Implement / deploy / Replication"
             level: 3
+-
+    title: "Ericsson"
+    link: "https://www.ericsson.com/ourportfolio/mobile-transport-1"
+    description: ""
+    image: "ericsson.png"
+    level: 3
+    tags: "Networking - Transport Systems"
+    related:
+        -
+            title: "Optical Transport"
+            link: "https://archive.ericsson.net/service/internet/picov/get?DocNo=493/03819-FAP130506&Lang=AE&HighestFree=Y"
+            description: "Operations / Administration / Maintenance"
+            level: 2
+        -
+            title: "Microwave Transport"
+            link: "https://archive.ericsson.net/service/internet/picov/get?DocNo=467/03819-FAP130506&Lang=AE&HighestFree=Y"
+            description: "Operations / Administration / Maintenance"
+            level: 3
+-
+    title: "Huawei"
+    link: "https://e.huawei.com/en/products/fixed-network/transport/mstp/e-mstp"
+    description: ""
+    image: "huawei.png"
+    level: 3
+    tags: "Networking - Transport Systems"
+    related:
+        -
+            title: "Optical Transport Associate"
+            link: "http://e-learning.huawei.com/zone/pub/lsportal/en/HuaweiCertifiedNetworkAssociateTransmissionCertificationTraining.html"
+            description: "Operations / Administration / Maintenance"
+            level: 2
+        -
+            title: "Microwave Transport Associate"
+            link: "http://e-learning.huawei.com/zone/pub/lsportal/en/HuaweiCertifiedNetworkAssociateMicrowaveProductCertificationTraining.html"
+            description: "Operations / Administration / Maintenance"
+            level: 3
+-
+    title: "Ericsson"
+    link: "https://www.ericsson.com/ourportfolio/mobile-transport-1"
+    description: ""
+    image: "ericsson.png"
+    level: 3
+    tags: "Networking - Mobile Broadband Systems"
+    related:
+        -
+            title: "5G"
+            link: "https://archive.ericsson.net/service/internet/picov/get?DocNo=496/03819-FAP130506&Lang=AE&HighestFree=Y"
+            description: "Solution Architects / Service Engineers / Support Engineers and Instructors"
+            level: 2
+        -
+            title: "WIFI"
+            link: "https://archive.ericsson.net/service/internet/picov/get?DocNo=434/03819-FAP130506&Lang=AE&HighestFree=Y"
+            description: "Operations / Administration / Maintenance"
+            level: 3
+-
+    title: "Huawei"
+    link: "https://www.ericsson.com/ourportfolio/mobile-transport-1"
+    description: ""
+    image: "huawei.png"
+    level: 3
+    tags: "Networking - Mobile Broadband Systems"
+    related:
+        -
+            title: "5G Network Associate"
+            link: "http://e-learning.huawei.com/zone/pub/lsportal/en/HuaweiCertifiedNetworkAssociateLTECertificationTraining.html"
+            description: "Solution Architects / Service Engineers / Support Engineers"
+            level: 2
+        -
+            title: "4G / LTE Network Associate"
+            link: "http://e-learning.huawei.com/zone/pub/lsportal/en/HuaweiCertifiedNetworkAssociateLTECertificationTraining.html"
+            description: "Solution Architects / Service Engineers / Support Engineers"
+            level: 2
+        -
+            title: "4G / LTE Network Professional"
+            link: "http://e-learning.huawei.com/zone/pub/lsportal/en/HuaweiCertifiedNetworkProfessionalLTECertificationTraining.html"
+            description: "Operations / Administration / Maintenance"
+            level: 3
+-
+    title: "Cisco Prime Infrastructure"
+    link: "https://www.cisco.com/c/en/us/support/cloud-systems-management/prime-infrastructure/tsd-products-support-series-home.html"
+    description: ""
+    image: "ciscoprime.png"
+    level: 3
+    tags: "Networking - Network Management Systems"
+    related:
+        -
+            title: "Associate"
+            link: "http://e-learning.huawei.com/zone/pub/lsportal/en/HuaweiCertifiedNetworkAssociateLTECertificationTraining.html"
+            description: "Network operators / administrators"
+            level: 2
+        -
+-
+    title: "Cisco Security Manager"
+    link: "https://www.cisco.com/c/en/us/products/security/security-manager/index.html"
+    description: ""
+    image: "cisco.png"
+    level: 3
+    tags: "Networking - Network Management Systems"
+    related:
+        -
+            title: "Associate"
+            link: "https://learninglocator.cloudapps.cisco.com/courseDetails.do?actionType=executeCourseDetail&courseID=5696"
+            description: "Network security operators / administrators"
+            level: 2
 -
     title: "Microsoft Server OS"
     link: "https://en.wikipedia.org/wiki/Windows_Server"
