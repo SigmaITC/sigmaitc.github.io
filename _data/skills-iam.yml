@@ -735,6 +735,106 @@
             link: "https://learninglocator.cloudapps.cisco.com/courseDetails.do?actionType=executeCourseDetail&courseID=5696"
             description: "Network security operators / administrators"
             level: 2
+
+    title: "AWS web hosting"
+    link: "https://aws.amazon.com/websites/?nc1=f_dr"
+    description: ""
+    image: "aws.png"
+    level: 3
+    tags: "Internet Platforms - Web Servers Cloud (Web Hosting)"
+    related:
+        -
+            title: "Cloud Practitioner"
+            link: "https://aws.amazon.com/certification/certified-cloud-practitioner/"
+            description: "overall understanding of the AWS Cloud"
+            level: 2
+        -
+            title: "Developer"
+            link: "https://aws.amazon.com/certification/certified-developer-associate/"
+            description: "Developing / deploying / debugging cloud-based applications"
+            level: 3
+        -
+            title: "Solution Architecture"
+            link: "https://aws.amazon.com/certification/certified-solutions-architect-professional/"
+            description: "Designing distributed applications and systems"
+            level: 3
+        -
+            title: "DevOps"
+            link: "https://www.juniper.net/us/en/training/certification/certification-tracks/ent-routing-switching-track?tab=jncieent"
+            description: "Design / implementation of infrastructure / Fine-tuning of applications"
+            level: 3
+-
+    title: "Google Cloud"
+    link: "https://cloud.google.com/solutions/websites/"
+    description: ""
+    image: "google-cloud.png"
+    level: 3
+    tags: "Internet Platforms - Web Servers Cloud (Web Hosting)"
+    related:
+        -
+            title: "Architecting"
+            link: "https://cloud.google.com/training/courses/architecting-infrastructure"
+            description: "Cloud Solutions Architects, DevOps Engineers"
+            level: 2
+        -
+            title: "Application Development"
+            link: "https://cloud.google.com/training/courses/developing-applications"
+            description: "Application developers"
+            level: 3
+        -
+            title: "Professional Cloud Architect"
+            link: "https://cloud.google.com/training/courses/preparing-pro-cloud-architect-exam"
+            description: "Professional Cloud Architect"
+            level: 3
+-
+    title: "Microsoft cloud"
+    link: "https://www.microsoft.com/en-us/cloudandhosting"
+    description: ""
+    image: "ms-azure.png"
+    level: 3
+    tags: "Internet Platforms - Web Servers Cloud (Web Hosting)"
+    related:
+        -
+            title: "Intermediate: Introduction to Microsoft Azure"
+            link: "https://mva.microsoft.com/en-US/training-courses/microsoft-azure-for-it-pros-content-series-introduction-to-microsoft-azure-16744?l=1WUlKXSwC_3006218965"
+            description: "Application developers"
+            level: 2
+        -
+            title: "Advanced: Architecting"
+            link: "https://cloud.google.com/training/courses/architecting-infrastructure"
+            description: "Cloud Development / Networking / Monitoring"
+            level: 3
+-
+    title: "Apache web server"
+    link: "https://httpd.apache.org/"
+    description: ""
+    image: "apache.png"
+    level: 3
+    tags: "Internet Platforms - Web Servers"
+    related:
+        -
+            title: "Intermediate: Apache HTTP Server"
+            link: "https://www.udemy.com/apache-web-server-administration/"
+            description: "Installation / Administration / Troubleshooting"
+            level: 2
+        -
+            title: "Advanced: Administation / security"
+            link: "https://www.udemy.com/apache-web-server-administration-hands-on-training/"
+            description: "Essesntial server administration"
+            level: 3
+-
+    title: "Microsoft IIS"
+    link: "https://www.iis.net/"
+    description: ""
+    image: "microsoft.png"
+    level: 3
+    tags: "Internet Platforms - Web Servers"
+    related:
+        -
+            title: "Advanced: Administation"
+            link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=10972"
+            description: "Essesntial server administration"
+            level: 3
 -
     title: "Microsoft Server OS"
     link: "https://en.wikipedia.org/wiki/Windows_Server"
