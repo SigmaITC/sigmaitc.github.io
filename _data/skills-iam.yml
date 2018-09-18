@@ -1125,7 +1125,7 @@
 -
     title: "Google"
     link: "https://get.google.com/apptips/apps/?utm_source=googlemobile&utm_campaign=redirect#!/all"
-    description: "Mobile Application"
+    description: "Example of Mobile Application"
     image: "googleapps.png"
     level: 2
     tags: "Software Applications - Mobile Application"
