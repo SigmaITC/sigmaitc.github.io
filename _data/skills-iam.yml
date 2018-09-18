@@ -1075,3 +1075,130 @@
     level: 3
     tags: "Operative System Platforms - Server Platforms"
     related:
+-
+    title: "Outlook"
+    link: "https://products.office.com/sv-se/outlook/email-and-calendar-software-microsoft-outlook?tab=tabs-1"
+    description: ""
+    image: "outlook.png"
+    level: 2
+    tags: "Software Applications - Mail"
+    related:
+        -
+            title: "Microsoft Outlook 2016"
+            link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
+            description: "MOS Certification, Required exam 731"
+            level: 2
+        -
+            title: "Microsoft Outlook 2013"
+            link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
+            description: "MOS Certification, Required exam 423"
+            level: 2
+        -
+            title: "Microsoft Outlook 2010"
+            link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
+            description: "MOS Certification, Required exam 884"
+            level: 2
+-
+    title: "Zimbra"
+    link: "https://www.zimbra.com/"
+    description: ""
+    image: "zimbra.png"
+    level: 3
+    tags: ""
+    related: "Software Applications - Mail"
+-         
+    title: "Mailspring"
+    link: "https://getmailspring.com"
+    description: ""
+    image: mailspring.png"
+    level: 3
+    tags: ""
+    related: "Software Applications - Mail"
+-   
+    title: "Visma"
+    link: "https://www.visma.com/trust-centre/"
+    description: "Example of Web Application"
+    image: "visma.png"
+    level: 2
+    tags: ""
+    related: "Software Applications - Web Application"
+-
+    title: "Google"
+    link: "https://get.google.com/apptips/apps/?utm_source=googlemobile&utm_campaign=redirect#!/all"
+    description: "Mobile Application"
+    image: "googleapps.png"
+    level: 2
+    tags: ""
+    related: "Software Applications - Mobile Application"
+-   
+    title: "Tipalti"
+    link: "https://tipalti.com/"
+    description: "Finance System Application"
+    image: "tipalti.png"
+    level: 3
+    tags: ""
+    related: "Software Applications - Various Business Applications"
+-   
+    title: "Nexor ONE"
+    link: "https://nexorone.com/?channel=capterra"
+    description: "Finance System Application"
+    image: "nexorone.png"
+    level: 3
+    tags: ""
+    related: "Software Applications - Various Business Applications"
+-   
+    title: "Temenos T24"
+    link: "https://www.temenos.com/en/"
+    description: "Finance System Application"
+    image: "temenos.png"
+    level: 3
+    tags: ""
+    related: "Software Applications - Various Business Applications"
+-
+    title: "Pipedrive"
+    link: "https://www.pipedrive.com/en/gettingstarted?utm_medium=cpc&utm_content=crm_sa&utm_campaign=listing&utm_source=capterra"
+    description: "Customer Relation Management Application (CRM)"
+    image: "pipedrive.jpg"
+    level: 3
+    tags: ""
+    related: "Software Applications - Various Business Applications"
+-
+    title: "Super Office"
+    link: "https://www.superoffice.com/crm/all-in-one-crm/"
+    description: "Customer Relation Management Application (CRM)"
+    image: "superoffice.png"
+    level: 3
+    tags: ""
+    related: "Software Applications - Various Business Applications"
+-
+    title: "Zoho"
+    link: "https://www.zoho.com/crm/?utm_medium=cpc&utm_campaign=Z-CRM&utm_source=capterra"
+    description: "Customer Relation Management Application (CRM)"
+    image: "zoho.png"
+    level: 3
+    tags: ""
+    related: "Software Applications - Various Business Applications"
+-   
+    title: "Epicor"
+    link: "https://www.epicor.com/default.aspx?ignoreip=true"
+    description: "Supply Chain Management Application (SCM)"
+    image: "epicor.png"
+    level: 3
+    tags: ""
+    related: "Software Applications - Various Business Applications"
+-
+    title: "Oracle Net Suite"
+    link: "https://forms.netsuite.com/app/site/crm/externalleadpage.nl/compid.NLCORP/.f?formid=8390&h=AACffht_N0q-ZnK3nkfJXLzf4TTXtdVoq1M&leadsource&Online_EMEA_Capterra_SCM_2019&redirect_count=1&did_javascript_redirect=T"
+    description: "Supply Chain Management Application (SCM)"
+    image: "oraclenetsuite.png"
+    level: 3
+    tags: ""
+    related: "Software Applications - Various Business Applications"
+-   
+    title: "SAP Business ByDesign"
+    link: "https://www.sap.com/sweden/products/business-bydesign.html?campaigncode=CRM-NO18-PPC-NSE_ER1FC1&source=ppc-SE-Google-SMB-BYD-Brand-Standard&gclid=CMj6p4yHxN0CFRxPGQod6IgI5Q&gclsrc=ds"
+    description: "Supply Chain Management Application (SCM)"
+    image: "sap_bbd.jpg"
+    level: 3
+    tags: ""
+    related: "Software Applications - Various Business Applications"
