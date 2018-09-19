@@ -1080,12 +1080,12 @@
         -
             title: "RHCVA"
             link: "https://www.redhat.com/en/services/certification/rhcs-virtualization"
-            description: "RHCVA is a certification that focuses on Virtualization administration."
+            description: "Is a certification that focuses on Virtualization administration."
             level: 3
         -
             title: "JBCAA"
             link: "https://www.redhat.com/en/services/training/ex248-red-hat-certified-specialist-enterprise-application-server-administration-exam"
-            description: "JBCAA is a certification that focuses on managing the JBoss Enterprise Application Platform."
+            description: "Is a certification that focuses on managing the JBoss Enterprise Application Platform."
             level: 3
 -
     title: "SUSE Linux Enterprise"
