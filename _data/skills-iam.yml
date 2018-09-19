@@ -158,7 +158,7 @@
         -
             title: "Professional level - HPE ATP"
             link: ""
-            description: "Means you can recognize and recommend appropriate HPE products and solutions at a high level, based on customer needs."
+            description: "Means you can recognize and recommend appropriate HPE products and solutions at a high level."
             level: 3
         -
             title: "Expert level - HPE ASE"
@@ -262,7 +262,7 @@
         -
             title: "IBM Certified System Administrator - AIX V1"
             link: "https://www.ibm.com/certify/cert?id=03005009"
-            description: "The AIX administrator has strong problem determination, networking, storage, and device management skills."
+            description: "Shows strong problem determination, networking, storage, and device management skills."
             level: 3
         -
             title: "IBM Certified System Administrator"
@@ -830,12 +830,12 @@
         -
             title: "MCSA: Windows Server 2012"
             link: "https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx"
-            description: "The certification qualifies you for a position as a network of computer systems administrator or as a computer network specialist."
+            description: "Qualifies you for a position as a network of computer systems administrator or as a computer network specialist."
             level: 3
         -
             title: "MCSA: Windows Server 2016"
             link: "https://www.microsoft.com/en-us/learning/mcsa-windows-server-2016-certification.aspx"
-            description: "The certification qualifies you for a position as a network of computer systems administrator or as a computer network specialist."
+            description: "Qualifies you for a position as a network of computer systems administrator or as a computer network specialist."
             level: 3
         -
             title: "MCSE Certifications"
@@ -1131,12 +1131,12 @@
         -
             title: "Oracle Certified Specialist"
             link: "https://education.oracle.com/oracle-linux-6-certified-implementation-specialist/trackp_88"
-            description: "These certifications are built on very focused products or skillsets and provide a solid measure of a candidate's level of expertise in a particular area."
+            description: "Designed for individuals who possess a strong foundation and expertise in selling and implementing solutions."
             level: 3
         -
             title: "Oracle Certified Expert"
             link: ""
-            description: "Competencies falling under the umbrella of the Expert program range from foundational skills to mastery of advanced technologies."
+            description: "Competencies in the Expert program range from foundational skills to mastery of advanced technologies."
             level: 4
 -
     title: "Ubuntu LTS"
