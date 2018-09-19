@@ -31,17 +31,17 @@
         -
             title: "Cloud Practitioner"
             link: "https://aws.amazon.com/training/path-cloudpractitioner/"
-            description: "This path is useful for individuals in technical, managerial, sales, purchasing, or financial roles who work with the AWS Cloud."
+            description: "Path for individuals in technical, managerial, sales, purchasing, or financial roles who work with the AWS Cloud."
             level: 2
         -
             title: "Architect"
             link: "https://aws.amazon.com/training/path-architecting/"
-            description: "These paths are designed for solutions architects, solution design engineers, and anyone who wants to learn how to design applications and systems on AWS."
+            description: "Paths are designed for solutions architects, solution design engineers, designing of applications and systems on AWS."
             level: 3
         -
             title: "Developer"
             link: "https://aws.amazon.com/training/path-developing/"
-            description: "These certification paths are designed for software developers who want to learn how to develop cloud applications on AWS."
+            description: "Certification paths designed for software developers who want to learn how to develop cloud applications on AWS."
             level: 3
         -
             title: "Operations"
@@ -51,7 +51,7 @@
         -
             title: "Speciality AWS Certifications"
             link: "https://aws.amazon.com/training/paths-specialty/"
-            description: "Specialty certification paths with focuses on Advanced Networking, Big Data, and Security. These paths are designed to build and validate advanced skills in specific technical areas."
+            description: "Focuses on Advanced Networking, Big Data, and Security, paths are designed to validate advanced skills."
             level: 4
 -
     title: "Microsoft Azure"
@@ -151,30 +151,25 @@
     tags: "Computer Hardware - Mainframe / Servers"
     related:
         -
-            title: "Operation"
+            title: "Foundational - HPE Product Certified"
             link: ""
-            description: "Description"
+            description: "This level validates that you can recommend and demonstrate a specific HPE product or solution."
             level: 2
         -
-            title: "Installation"
+            title: "Professional level - HPE ATP"
             link: ""
-            description: "Description"
-            level: 2
-        -
-            title: "Implementation"
-            link: ""
-            description: "Description"
+            description: "Means you can recognize and recommend appropriate HPE products and solutions at a high level, based on customer needs."
             level: 3
         -
-            title: "Auditing"
+            title: "Expert level - HPE ASE"
             link: ""
-            description: "Description"
-            level: 3
+            description: "You can consult, architect, design, deploy, administer and support HPE solutions across all environments."
+            level: 4
         -
-            title: "Design"
+            title: "Master level - HPE Master ASE"
             link: ""
-            description: "Description"
-            level: 3
+            description: "The Master ASE has rich technical skills in advanced enterprise solutions combined with IT business acumen."
+            level: 4
 -            
     title: "Hitachi"
     link: "https://www.hitachivantara.com/en-us/products/storage/mainframe-storage.html"
@@ -201,12 +196,12 @@
         -
             title: "Installation and Support, Specialist"
             link: "https://www.hitachivantara.com/en-us/services/training-certification.html"
-            description: "Certified specialists have multilayer technical skills, can handle complex solutions, and are usually specialized in one or more areas."
+            description: "Certified specialists have multilayer technical skills that can handle complex solutions."
             level: 3
         -
             title: "Implementation and Integration, Specialist"
             link: "https://www.hitachivantara.com/en-us/pdf/training/hitachi-certified-specialist-hcp-implementation-hce-5420-exam.pdf"
-            description: "Certified specialists have multilayer technical skills, can handle complex solutions, and are usually specialized in one or more areas."
+            description: "Certified specialists have multilayer technical skills that can handle complex solutions."
             level: 3
         -
             title: "Implementation and Integration, Expert"
@@ -216,7 +211,7 @@
         -
             title: "Architect, Specialist"
             link: "https://www.hitachivantara.com/en-us/services/training-certification.html"
-            description: "Certified specialists have multilayer technical skills, can handle complex solutions, and are usually specialized in one or more areas."
+            description: "Certified specialists have multilayer technical skills that can handle complex solutions"
             level: 3
         -
             title: "Architect, Expert"
@@ -265,29 +260,14 @@
     tags: "Computer Hardware - Mainframe / Servers"
     related:
         -
-            title: "Operation"
-            link: ""
-            description: "Description"
-            level: 2
-        -
-            title: "Installation"
-            link: ""
-            description: "Description"
-            level: 2
-        -
-            title: "Implementation"
-            link: ""
-            description: "Description"
+            title: "IBM Certified System Administrator - AIX V1"
+            link: "https://www.ibm.com/certify/cert?id=03005009"
+            description: "The AIX administrator has strong problem determination, networking, storage, and device management skills."
             level: 3
         -
-            title: "Auditing"
-            link: ""
-            description: "Description"
-            level: 3
-        -
-            title: "Design"
-            link: ""
-            description: "Description"
+            title: "IBM Certified System Administrator"
+            link: "https://www.ibm.com/certify/cert?id=14062705"
+            description: "This is an intermediate-level certification."
             level: 3
 -
     title: "SAP HANA"
