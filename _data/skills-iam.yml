@@ -815,6 +815,86 @@
             description: "Essesntial server administration"
             level: 3
 -
+    title: "NGINX Plus"
+    link: "https://www.nginx.com/products/nginx/"
+    description: ""
+    image: "nginx-plus.png"
+    level: 3
+    tags: "Internet Platforms - Web Servers"
+    related:
+        -
+            title: "Admins, architects, and DevOps professionals"
+            link: "https://university.nginx.com/instructor-led-training/nginx-core2"
+            description: "Installation / Administration / Management"
+            level: 2
+        -
+            title: "Advanced: Administation and security"
+            link: "https://university.nginx.com/instructor-led-training/securing-applications-with-nginx"
+            description: "Developers / DevOps / Administrators"
+            level: 3
+-
+    title: "Cisco Open DNS / Cisco Umbrella"
+    link: "https://umbrella.cisco.com/products/features/opendns-cisco-umbrella"
+    description: ""
+    image: "cisco-umbrella.png"
+    level: 3
+    tags: "Internet Platforms - DNS Servers"
+    related:
+        -
+            title: "Administration / Operation"
+            link: "http://store.globalknowledge.net/course-overviews/UK/ADMUMB_1.0_.pdf"
+            description: "Installation / Administration"
+            level: 2
+-
+    title: "PowerDNS"
+    link: "https://www.powerdns.com/"
+    description: ""
+    image: "powerDNS.png"
+    level: 3
+    tags: "Internet Platforms - DNS Servers"
+    related:
+        -
+            title: "Administration / Operation"
+            link: "http://store.globalknowledge.net/course-overviews/UK/ADMUMB_1.0_.pdf"
+            description: "Administration / Deployment / Maintenance"
+            level: 2
+-
+    title: "Infoblox"
+    link: "https://www.powerdns.com/"
+    description: ""
+    image: "infoblox.png"
+    level: 3
+    tags: "Internet Platforms - DNS Servers"
+    related:
+        -
+            title: "Essentials"
+            link: "http://go.infoblox.com/t/courses/Secure_DNS_Config_Admin_SDCA_Super_Course.pdf"
+            description: "Implementation / Administration / Operations"
+            level: 2
+        -
+            title: "Advanced"
+            link: "http://go.infoblox.com/t/courses/Core_DDI_Architecture_and_Design_Workshop_CDAD_Workshop.pdf"
+            description: "Architecture / Design / Solutions"
+            level: 3
+-
+    title: "BIND"
+    link: "https://www.isc.org/downloads/bind/"
+    description: ""
+    image: "bind-dns.png"
+    level: 3
+    tags: "Internet Platforms - DNS Servers"
+    related:
+        -
+            title: "BIND Fundamentals"
+            link: "https://www.menandmice.com/training/dnsb-f/"
+            description: "Implementation / Administration / Operations"
+            level: 2
+        -
+            title: "Advanced"
+            link: "https://www.menandmice.com/training/dnsb-a/"
+            description: "Architecture / Security "
+            level: 3
+-
     title: "Microsoft Server OS"
     link: "https://en.wikipedia.org/wiki/Windows_Server"
     description: ""
