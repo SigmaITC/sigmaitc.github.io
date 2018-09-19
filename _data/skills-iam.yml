@@ -740,7 +740,7 @@
     description: ""
     image: "aws.png"
     level: 3
-    tags: "Internet Platforms - Web Servers Cloud (Web Hosting)"
+    tags: "Internet Platforms - Cloud Web Hosting"
     related:
         -
             title: "Cloud Practitioner"
@@ -768,7 +768,7 @@
     description: ""
     image: "google-cloud.png"
     level: 3
-    tags: "Internet Platforms - Web Servers Cloud (Web Hosting)"
+    tags: "Internet Platforms - Cloud Web Hosting"
     related:
         -
             title: "Architecting"
@@ -791,7 +791,7 @@
     description: ""
     image: "ms-azure.png"
     level: 3
-    tags: "Internet Platforms - Web Servers Cloud (Web Hosting)"
+    tags: "Internet Platforms - Cloud Web Hosting"
     related:
         -
             title: "Intermediate: Introduction to Microsoft Azure"
