@@ -1070,13 +1070,13 @@
         -
             title: "RHCE"
             link: "https://www.redhat.com/en/services/certification/rhce"
-            description: ""
+            description: "Possesses the additional skills, knowledge, and abilities required of a senior system administrator."
             level: 3
         -
             title: "RHCA"
             link: "https://www.redhat.com/en/services/certification/rhca"
-            description: ""
-            level: 
+            description: "Highest level of certification by passing—and keeping current—five additional certifications."
+            level: 4
         -
             title: "RHCVA"
             link: "https://www.redhat.com/en/services/certification/rhcs-virtualization"
