@@ -18,6 +18,99 @@
 # description {String} - A brief description of the resource.
 # level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
 #
+# Markup
+-
+    title: "ITIL"
+    link: "https://www.itil.org.uk/"
+    description: "It is essential to know ITIL® Foundation which is an entry-level ITIL that provides an understanding of the main concepts behind ITIL, including the life cycle stages and the terminology used."
+    required: true
+    image: "ITIL.jpg"
+    level: 1
+    tags: "ITIL, Markup"
+    related:
+        -
+            title: "BEGINNER: ITIL Foundations"
+            link: "https://www.itil.org.uk/training/itil-foundation-level-courses/itil-foundation-training"
+            description: "ITIL® Foundation which is an entry-level ITIL"
+            level: 1
+        -
+            title: "INTERMEDIATE: ITIL Practitioner / ITIL Intermediate"
+            link: "http://html5doctor.com/"
+            description: "IT Service Management concepts / Organisational Change Management / Communication / Measurement and metrics"
+            level: 2
+        -
+            title: "EXPERT: ITIL Service Lifecycle Service Strategy"
+            link: "https://www.itil.org.uk/training/itil-intermediate-level-courses/itil-service-strategy-training"
+            description: "Service Strategy, Defining Services and Market Spaces, Strategic Assessments, Financial Management, Service Portfolio Management, Demand Management, Driving Strategy Through the Lifecycle, Critical Success Factors and Risks"
+            level: 3
+        -
+            title: "ITIL® Master Certificate - Managing Across the Lifecycle"
+            link: "https://www.axelos.com/certifications/itil-certifications/itil-master"
+            description: "How the life cycle stages can be integrated across the service lifecycle, managing services across the service lifecycle"
+            level: 4
+-
+    title: "CompTIA"
+    link: "https://certification.comptia.org/"
+    description: "IT infrastructure, networking and cybersecurity"
+    required: true
+    image: "comptia.png"
+    level: 1
+    tags: "CompTia, Markup"
+    related:
+        -
+            title: "BEGINNER: CompTIA IT Fundamentals, CompTIA A+"
+            link: "https://certification.comptia.org/certifications/a"
+            description: "Technical support and IT operations"
+            level: 1
+        -
+            title: "INTERMEDIATE: CompTIA Server+ / CompTIA Network+ / CompTIA Cloud+"
+            link: "https://certification.comptia.org/certifications/network"
+            description: "IT infrastructure: troubleshooting, configuring, and managing networks"
+            level: 2
+        -
+            title: "ADVANCED: CompTIA CySA+, CompTIA PenTest+"
+            link: "https://certification.comptia.org/certifications/cybersecurity-analyst"
+            description: "Behavioral analytics to networks and devices to prevent, detect and combat cybersecurity threats"
+            level: 3
+        -
+            title: "EXPERT: CASP"
+            link: "https://certification.comptia.org/certifications/comptia-advanced-security-practitioner"
+            description: "Implement solutions within policies and frameworks"
+            level: 4
+-
+    title: "Cisco Certification"
+    link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html"
+    description: "IT infrastructure, networking and cybersecurity"
+    required: true
+    image: "cisco-cert.jpg"
+    level: 1
+    tags: "ciscocert, Markup"
+    related:
+        -
+            title: "Entry: CCENT; Cisco Certified Entry Networking Technician"
+            link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html"
+            description: " Installation and operations"
+            level: 1
+        -
+            title: "Associate: CCDA; Cisco Certified Design Associate / CCNA; Cisco Certified Network Associate"
+            link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccda.html"
+            description: "Network design engineers, system engineers and sales engineers"
+            level: 2
+        -
+            title: "Professional: CCDP; Cisco Certified Design Professional / CCNP; Cisco Certified Network Professional"
+            link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccdp.html"
+            description: "Senior Network Design Engineers, Principle System Engineer, Network/Solution Architects"
+            level: 3
+        -
+            title: "Expert: CCIE; Cisco Certified Internetwork Expert / SCYBER; Securing Cisco Network with Threat Detection and Analysis"
+            link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-routing-switching.html"
+            description: "plan, operate and troubleshoot complex, converged network infrastructures"
+            level: 4
+        -
+            title: "Architect: CCAr; Cisco Certified Architect"
+            link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/architect.html"
+            description: "Architectural expertise, designing complex networks, translate business strategies into technical strategies"
+            level: 4
 # Computer Hardware
 -
     title: "Amazon"
