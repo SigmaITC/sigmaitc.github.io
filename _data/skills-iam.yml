@@ -26,7 +26,7 @@
     required: true
     image: "ITIL.jpg"
     level: 1
-    tags: "ITIL, Markup"
+    tags: "Markup"
     related:
         -
             title: "BEGINNER: ITIL Foundations"
@@ -55,7 +55,7 @@
     required: true
     image: "comptia.png"
     level: 1
-    tags: "CompTia, Markup"
+    tags: "Markup"
     related:
         -
             title: "BEGINNER: CompTIA IT Fundamentals, CompTIA A+"
@@ -84,7 +84,7 @@
     required: true
     image: "cisco-cert.jpg"
     level: 1
-    tags: "ciscocert, Markup"
+    tags: "Markup"
     related:
         -
             title: "Entry: CCENT; Cisco Certified Entry Networking Technician"
