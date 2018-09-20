@@ -814,9 +814,9 @@
     tags: "Networking - Network Management Systems / Monitoring"
     related:
         -
-            title: "Associate"
-            link: ""
-            description: "Network security operators / administrators"
+            title: "Administration"
+            link: "https://www.microsoft.com/en-us/learning/exam-70-703.aspx"
+            description: "Administering Microsoft SCOM and Cloud Services Integration"
             level: 2
 -
     title: "OP5"
@@ -827,9 +827,14 @@
     tags: "Networking - Network Management Systems / Monitoring"
     related:
         -
-            title: "Associate"
-            link: ""
-            description: "Network security operators / administrators"
+            title: "Basic"
+            link: "https://www.op5.com/training/op5-academy/"
+            description: "Administration / Monitoring"
+            level: 2
+       -
+            title: "Advanced"
+            link: "https://www.op5.com/training/op5-academy/"
+            description: "VMware, Windows monitoring, SNMP and Web service administration"
             level: 2
 -
     title: "AWS web hosting"
