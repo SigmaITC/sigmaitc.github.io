@@ -1442,16 +1442,6 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: "Product Management"
-            link: "https://en.wikipedia.org/wiki/Product_management"
-            description: ""
-            level: 3
-        -
-            title: "System Management"
-            link: "https://en.wikipedia.org/wiki/Systems_management"
-            description: ""
-            level: 3
 -
     title: "Managed Services"
     link: "https://searchitchannel.techtarget.com/definition/managed-IT-service"
