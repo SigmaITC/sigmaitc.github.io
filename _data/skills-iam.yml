@@ -1410,3 +1410,23 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
+-
+    title: "Cyber security & IT Security Architect"
+    link: ""
+    description: ""
+    image: "cybersecurity.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: "Cyber security"
+            link: "https://www.itgovernance.co.uk/what-is-cybersecurity"
+            description: ""
+            level: 3
+        -
+            title: "IT Security Architect"
+            link: "https://rightpeoplegroup.com/sv/it-saekerhetsexperter/"
+            description: ""
+            level: 3
+
+
