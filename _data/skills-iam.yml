@@ -18,6 +18,36 @@
 # description {String} - A brief description of the resource.
 # level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
 ##
+# Markup
+-
+    title: "ITIL"
+    link: "https://www.itil.org.uk/"
+    description: "It is essential to know ITIL® Foundation which is an entry-level ITIL that provides an understanding of the main concepts behind ITIL, including the life cycle stages and the terminology used."
+    required: true
+    image: "ITIL.jpg"
+    level: 1
+    tags: "ITIL, Markup"
+    related:
+        -
+            title: "ITIL Foundations"
+            link: "https://www.itil.org.uk/training/itil-foundation-level-courses/itil-foundation-training"
+            description: "ITIL® Foundation which is an entry-level ITIL"
+            level: 1
+        -
+            title: "ITIL Practitioner"
+            link: "http://html5doctor.com/"
+            description: "Useing IT Service Management concepts,Organisational Change Management / Communication / Measurement and metrics"
+            level: 2
+        -
+            title: "ITIL Service Lifecycle Service Strategy"
+            link: "https://www.itil.org.uk/training/itil-intermediate-level-courses/itil-service-strategy-training"
+            description: "Service Strategy, Defining Services and Market Spaces, Strategic Assessments, Financial Management, Service Portfolio Management, Demand Management, Driving Strategy Through the Lifecycle, Critical Success Factors and Risks"
+            level: 3
+        -
+            title: "ITIL® Managing Across the Lifecycle"
+            link: "http://html5doctor.com/avoiding-common-html5-mistakes/"
+            description: "ITIL Expert qualification, how the life cycle stages can be integrated across the service lifecycle, managing services across the service lifecycle"
+            level: 4
 
 # Computer Hardware
 -   
@@ -694,7 +724,7 @@
     description: ""
     image: "ciscoprime.png"
     level: 3
-    tags: "Networking - Network Management Systems"
+    tags: "Networking - Network Management Systems / Monitoring"
     related:
         -
             title: "Associate"
@@ -707,11 +737,37 @@
     description: ""
     image: "Cisco.png"
     level: 3
-    tags: "Networking - Network Management Systems"
+    tags: "Networking - Network Management Systems / Monitoring"
     related:
         -
             title: "Associate"
             link: "https://learninglocator.cloudapps.cisco.com/courseDetails.do?actionType=executeCourseDetail&courseID=5696"
+            description: "Network security operators / administrators"
+            level: 2
+-
+    title: "SCOM"
+    link: "https://docs.microsoft.com/en-us/sql/analytics-platform-system/monitor-the-appliance-by-using-system-center-operations-manager?view=aps-pdw-2016-au7"
+    description: ""
+    image: "SCOM_Logo.jpg"
+    level: 3
+    tags: "Networking - Network Management Systems / Monitoring"
+    related:
+        -
+            title: "Associate"
+            link: ""
+            description: "Network security operators / administrators"
+            level: 2
+-
+    title: "OP5"
+    link: "https://www.op5.com/"
+    description: ""
+    image: "op5.png"
+    level: 3
+    tags: "Networking - Network Management Systems / Monitoring"
+    related:
+        -
+            title: "Associate"
+            link: ""
             description: "Network security operators / administrators"
             level: 2
 -
