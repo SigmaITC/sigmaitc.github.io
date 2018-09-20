@@ -1425,11 +1425,6 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
 -
     title: "IT Operation Management"
     link: "https://searchitoperations.techtarget.com/definition/IT-operations-management-ITOM"
@@ -1438,11 +1433,6 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
 -
     title: "DevOps"
     link: "https://en.wikipedia.org/wiki/DevOps"
@@ -1451,11 +1441,6 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
 -
     title: "Product & System management"
     link: ""
@@ -1478,15 +1463,10 @@
     title: "Project management"
     link: "https://en.wikipedia.org/wiki/Project_management"
     description: ""
-    image: "projectmanagement.jpg"
+    image: "projectmanagement.png"
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
 -
     title: "IT Architect"
     link: "https://www.techopedia.com/definition/629/information-technology-architect-it-architect"
@@ -1495,11 +1475,6 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
 -
     title: "Solution Management"
     link: "https://www.greatsampleresume.com/job-responsibilities/solution-manager-responsibilities/"
@@ -1508,11 +1483,6 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
 -
     title: "IT Quality Assurance"
     link: "https://searchsoftwarequality.techtarget.com/definition/quality-assurance"
@@ -1521,11 +1491,6 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
 -
     title: "IT Strategy and Planing"
     link: ""
@@ -1534,11 +1499,6 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
 -
     title: "IT Program Management"
     link: "https://www.techopedia.com/definition/30726/it-program-management"
@@ -1547,11 +1507,6 @@
     level: ""
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
 -
     title: "IT Process Management"
     link: "https://wiki.en.it-processmaps.com/index.php/Process_Management"
@@ -1560,11 +1515,6 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
 -
     title: "Cyber security and IT Security Architect"
     link: ""
@@ -1591,11 +1541,6 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
 -
     title: "IT Security Auditor"
     link: "https://www.cyberdegrees.org/jobs/security-auditor/"
@@ -1604,8 +1549,11 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
+-
+    title: "Managed Services"
+    link: "https://searchitchannel.techtarget.com/definition/managed-IT-service"
+    description: ""
+    image: "managed.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
