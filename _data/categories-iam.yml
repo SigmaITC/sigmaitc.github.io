@@ -7,7 +7,14 @@
 # description {String} (optional) - The main description for the category. This can be used for categories where skill levels don't apply.
 # levels {Array} - A list of levels for the category.
 ##
-
+-
+    title: "Markup"
+    levels:
+        -
+        -
+            description: "Vid den här nivån bör man förstå grundläggande semantik. Hur man använder <header>, <footer>, <main>, <article>, <section>, <aside> på korrekt sätt. Vad <table> ska användas till och vad man absolut inte ska göra med den. Strukturera rubriknivåer korrekt. Använda <form> och <input> samt alla fälttyper och valideringsegenskaper. Kunna avgöra när man använder <a> eller <button>. Använda <div> och <span> ansvarsfullt."
+        -
+            description: ""
 -
     title: "Computer Hardware - Cloud Computing"
     description: ""
@@ -66,7 +73,7 @@
     title: "Networking - Mobile Broadband Systems"
     description: ""
 -
-    title: "Networking - Network Management Systems"
+    title: "Networking - Network Management Systems / Monitoring"
     description: ""
 -
     title: "Internet Platforms - Cloud Web Hosting"
