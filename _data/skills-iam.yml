@@ -1418,6 +1418,7 @@
     tags: "Software Applications - Various Business Applications"
     related: ""
 -
+    title: "Managed Services"
     link: "https://searchitchannel.techtarget.com/definition/managed-IT-service"
     description: ""
     image: "managed.png"
@@ -1442,7 +1443,7 @@
             link: ""
             description: ""
             level: 3
--   
+-
     title: "IT Operation Management"
     link: "https://searchitoperations.techtarget.com/definition/IT-operations-management-ITOM"
     description: ""
