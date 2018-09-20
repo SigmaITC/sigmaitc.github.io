@@ -1462,8 +1462,8 @@
     description: ""
     image: "devops.png"
     level: 3
-    tags: ""
-    related: "Consulting and Services"
+    tags: "Consulting and Services"
+    related: ""
         -
             title: ""
             link: ""
