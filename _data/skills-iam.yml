@@ -1418,19 +1418,6 @@
     tags: "Software Applications - Various Business Applications"
     related: ""
 -
-    title: "Managed Services"
-    link: "https://searchitchannel.techtarget.com/definition/managed-IT-service"
-    description: ""
-    image: "managed.png"
-    level: 3
-    tags: "Consulting and Services"
-    related: ""
-        -
-            title: ""
-            link: ""
-            description: ""
-            level: 3
--
     title: "Technical / Operation Support"
     link: "https://en.wikipedia.org/wiki/Technical_support"
     description: ""
@@ -1540,7 +1527,7 @@
             description: ""
             level: 3
 -
-    title: "IT Strategy & Planing"
+    title: "IT Strategy and Planing"
     link: ""
     description: ""
     image: "strategy_planing.png"
@@ -1579,7 +1566,7 @@
             description: ""
             level: 3
 -
-    title: "Cyber security & IT Security Architect"
+    title: "Cyber security and IT Security Architect"
     link: ""
     description: ""
     image: "cybersecurity.png"
