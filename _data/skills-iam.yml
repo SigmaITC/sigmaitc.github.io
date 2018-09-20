@@ -1417,3 +1417,208 @@
     level: 3
     tags: "Software Applications - Various Business Applications"
     related: ""
+-
+    title: "Managed Services"
+    link: "https://searchitchannel.techtarget.com/definition/managed-IT-service"
+    description: ""
+    image: "managed.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-
+    title: "Technical / Operation Support"
+    link: "https://en.wikipedia.org/wiki/Technical_support"
+    description: ""
+    image: "technical.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-   
+    title: "IT Operation Management"
+    link: "https://searchitoperations.techtarget.com/definition/IT-operations-management-ITOM"
+    description: ""
+    image: "operation.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-
+    title: "DevOps"
+    link: "https://en.wikipedia.org/wiki/DevOps"
+    description: ""
+    image: "devops.png"
+    level: 3
+    tags: ""
+    related: "Consulting and Services"
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-
+    title: "Product & System management"
+    link: ""
+    description: ""
+    image: "product_system_management.jpg"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: "Product Management"
+            link: "https://en.wikipedia.org/wiki/Product_management"
+            description: ""
+            level: 3
+        -
+            title: "System Management"
+            link: "https://en.wikipedia.org/wiki/Systems_management"
+            description: ""
+            level: 3
+-
+    title: "Project management"
+    link: "https://en.wikipedia.org/wiki/Project_management"
+    description: ""
+    image: "projectmanagement.jpg"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-
+    title: "IT Architect"
+    link: "https://www.techopedia.com/definition/629/information-technology-architect-it-architect"
+    description: ""
+    image: "itarchitect.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -   
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-
+    title: "Solution Management"
+    link: "https://www.greatsampleresume.com/job-responsibilities/solution-manager-responsibilities/"
+    description: ""
+    image: "solutionmagagement.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-   
+    title: "IT Quality Assurance"
+    link: "https://searchsoftwarequality.techtarget.com/definition/quality-assurance"
+    description: ""
+    image: "qaicon.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-
+    title: "IT Strategy & Planing"
+    link: ""
+    description: ""
+    image: "strategy_planing.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-
+    title: "IT Program Management"
+    link: "https://www.techopedia.com/definition/30726/it-program-management"
+    description: ""
+    image: "program_management.png"
+    level: ""
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-
+    title: "IT Process Management"
+    link: "https://wiki.en.it-processmaps.com/index.php/Process_Management"
+    description: ""
+    image: "process_management.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-
+    title: "Cyber security & IT Security Architect"
+    link: ""
+    description: ""
+    image: "cybersecurity.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: "Cyber security"
+            link: "https://www.itgovernance.co.uk/what-is-cybersecurity"
+            description: ""
+            level: 3
+        -
+            title: "IT Security Architect"
+            link: "https://rightpeoplegroup.com/sv/it-saekerhetsexperter/"
+            description: ""
+            level: 3
+-
+    title: "IT Security Analyst"
+    link: "https://digitalguardian.com/blog/what-security-analyst-responsibilities-qualifications-and-more"
+    description: ""
+    image: "security_analyst.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
+-
+    title: "IT Security Auditor"
+    link: "https://www.cyberdegrees.org/jobs/security-auditor/"
+    description: ""
+    image: "it-security-audit.png"
+    level: 3
+    tags: "Consulting and Services"
+    related: ""
+        -
+            title: ""
+            link: ""
+            description: ""
+            level: 3
