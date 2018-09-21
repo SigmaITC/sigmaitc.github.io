@@ -424,12 +424,12 @@
     tags: "Data Management - Storage / Data Center "
     related:
         -
-            title: "HPE Storage solution"
+            title: "HPE Storage Solution"
             link: "https://education.hpe.com/ww/en/training/docs/cds/h9th0s.pdf"
             description: "Data center professionals / Enterprise Architects / Solutions Engineers"
             level: 3
         -
-            title: "HPE Storage networking"
+            title: "HPE Storage Networking"
             link: "https://education.hpe.com/ww/en/training/docs/cds/hk910s.pdf"
             description: "Data center Architecture"
             level: 3
@@ -439,7 +439,7 @@
             description: "Data center Design"
             level: 3
         -
-            title: "HPE Storage integrator"
+            title: "HPE Storage Integrator"
             link: "https://education.hpe.com/ww/en/training/docs/cds/h9th3s.pdf"
             description: "Data center support & sales representatives"
             level: 3
@@ -953,7 +953,7 @@
             description: "High Availability / Alert Management / Monitoring"
             level: 3
 -
-    title: "AWS web hosting"
+    title: "AWS Web Hosting"
     link: "https://aws.amazon.com/websites/?nc1=f_dr"
     description: ""
     image: "aws.png"
@@ -1004,7 +1004,7 @@
             description: "Professional Cloud Architect"
             level: 3
 -
-    title: "Microsoft cloud"
+    title: "Microsoft Cloud"
     link: "https://www.microsoft.com/en-us/cloudandhosting"
     description: ""
     image: "ms-azure.png"
@@ -1022,7 +1022,7 @@
             description: "Cloud Development / Networking / Monitoring"
             level: 3
 -
-    title: "Apache web server"
+    title: "Apache Web Server"
     link: "https://httpd.apache.org/"
     description: ""
     image: "apache.png"
@@ -1578,7 +1578,7 @@
     tags: "Consulting and Services"
     related: ""
 -
-    title: "Project management"
+    title: "Project Management"
     link: "https://en.wikipedia.org/wiki/Project_management"
     description: ""
     image: "projectmanagement.png"
