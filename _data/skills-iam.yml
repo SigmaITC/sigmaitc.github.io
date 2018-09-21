@@ -458,6 +458,136 @@
             description: "Data center support & sales representatives"
             level: 3
 -
+    title: "Oracle DB (Enterprice database)"
+    link: "https://www.oracle.com/database/index.html"
+    description: ""
+    image: "oracle-database.png"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Accociate: Administration and Implementation"
+            link: "https://education.oracle.com/oracle-database-12c-r2-administration-certified-associate/trackp_492"
+            description: "Administering and Cloud / Security Services"
+            level: 2
+            -
+            title: "Professional: Administration and Implementation"
+            link: "https://education.oracle.com/oracle-database-11g-administrator-certified-professional/trackp_289"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+        -
+            title: "Accociate: Database Application Development"
+            link: "https://education.oracle.com/oracle-pl-sql-developer-certified-associate/trackp_162"
+            description: "Database-centric Internet applications"
+            level: 2
+        -
+            title: "Professional: Database Application Development"
+            link: "https://education.oracle.com/oracle-database-pl-sql-developer-certified-professional/trackp_148"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+-
+    title: "Microsoft SQL (Enterprice database)"
+    link: "https://www.oracle.com/database/index.html"
+    description: ""
+    image: "microsoft-sql-server.png"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Accociate: Administration and Implementation"
+            link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20764"
+            description: "Administering and Cloud / Security Services"
+            level: 2
+            -
+            title: "Professional: Administration and Implementation"
+            link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20764"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+        -
+            title: "Accociate: Database Application Development"
+            link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20762"
+            description: "Database-centric Internet applications"
+            level: 2
+        -
+            title: "Professional: Database Application Development"
+            link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20762"
+            description: "Database-centric Internet applications"
+            level: 3
+-
+    title: "IBM DB2 (Enterprice database)"
+    link: "https://www.ibm.com/analytics/us/en/db2/#our-solutions"
+    description: ""
+    image: "IBM-DB2.png"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Intermidiate: Administration and Implementation"
+            link: "https://www.ibm.com/certify/cert?id=08002107"
+            description: "Administering and Cloud / Security Services"
+            level: 2
+            -
+            title: "Advanced: Administration and Implementation"
+            link: "https://www.ibm.com/certify/cert?id=08002107"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+        -
+            title: "Intermidiate: Database Application Development"
+            link: "https://www.ibm.com/certify/cert?id=01002604"
+            description: "Database-centric Internet applications"
+            level: 2
+        -
+            title: "ProAdvanced: Database Application Development"
+            link: "https://www.ibm.com/certify/cert?id=08002107"
+            description: "Database-centric Internet applications"
+            level: 3
+-
+    title: "MariaDB (Enterprice database)"
+    link: "https://mariadb.org/about/"
+    description: ""
+    image: "mariadb.png"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Intermidiate: Administration and Implementation"
+            link: "https://mariadb.learnupon.com/store/403117-mariadb-for-dbas-october-2018-europe-apac"
+            description: "Administering and Cloud / Security Services"
+            level: 2
+            -
+            title: "Advanced: Administration and Clustring"
+            link: "https://mariadb.learnupon.com/store/403107-mariadb-cluster-administration-october-2018-europe-apac"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+-
+    title: "Mysql (Enterprice database)"
+    link: "https://www.mysql.com/products/enterprise/"
+    description: ""
+    image: "mysql.jpg"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Accociate: Administration and Implementation"
+            link: "https://education.oracle.com/oracle-database-12c-r2-administration-certified-associate/trackp_492"
+            description: "Administering and Cloud / Security Services"
+            level: 2
+            -
+            title: "Professional: Administration and Implementation"
+            link: "https://education.oracle.com/oracle-database-11g-administrator-certified-professional/trackp_289"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+        -
+            title: "Accociate: Database Application Development"
+            link: "https://education.oracle.com/oracle-pl-sql-developer-certified-associate/trackp_162"
+            description: "Database-centric Internet applications"
+            level: 2
+        -
+            title: "Professional: Database Application Development"
+            link: "https://education.oracle.com/oracle-database-pl-sql-developer-certified-professional/trackp_148"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+-
     title: "Cisco"
     link: "https://www.cisco.com/"
     description: ""
