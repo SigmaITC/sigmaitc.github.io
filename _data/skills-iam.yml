@@ -586,7 +586,7 @@
             link: "https://www.postgresql.org/about/event/1632/"
             description: "Administering, Backing Up and Restoring, Monitoring the Server"
             level: 2
-            -
+        -
             title: "Advanced: Administration and Implementation"
             link: "https://www.postgresql.org/about/event/2231/"
             description: "Administering and Clustring / Security Services"
