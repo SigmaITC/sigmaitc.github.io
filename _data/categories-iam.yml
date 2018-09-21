@@ -16,19 +16,19 @@
         -
             description: ""
 -
-    title: "Computer Hardware - Cloud Computing"
+    title: "Cloud Computing"
     description: ""
 -
-    title: "Computer Hardware - Mainframe / Servers"
+    title: "Mainframe / Servers"
     description: ""
 -
-    title: "Computer Hardware - Workstations"
+    title: "Workstations"
     description: ""
 -
-    title: "Computer Hardware - Laptops"
+    title: "Laptops"
     description: ""
 -
-    title: "Computer Hardware - Bring your own device (BYOD)"
+    title: "Bring your own device (BYOD)"
     description: ""
 -
     title: "Operative System Platforms - Server Platforms"
@@ -41,15 +41,6 @@
     description: ""
 -
     title: "Software Applications - Mail"
-    description: ""
--
-    title: "Software Applications - Web Application"
-    description: ""
--
-    title: "Software Applications - Mobile Application"
-    description: ""
--
-    title: "Software Applications - Various Business Applications"
     description: ""
 -
     title: "Data Management - Data Management Platforms"
@@ -68,9 +59,6 @@
     description: ""
 -
     title: "Networking - Transport Systems"
-    description: ""
--
-    title: "Networking - Mobile Broadband Systems"
     description: ""
 -
     title: "Networking - Network Management Systems / Monitoring"
