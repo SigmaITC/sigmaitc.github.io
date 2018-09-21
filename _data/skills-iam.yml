@@ -574,6 +574,29 @@
             description: "Administering and Cloud / Security Services"
             level: 3
 -
+    title: "postgreSQL Enterprice database"
+    link: "https://www.postgresql.org/"
+    description: ""
+    image: "postgresql.png"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Intermidiate: Administration, Operation and Implementation"
+            link: "https://www.postgresql.org/about/event/1632/"
+            description: "Administering, Backing Up and Restoring, Monitoring the Server"
+            level: 2
+            -
+            title: "Advanced: Administration and Implementation"
+            link: "https://www.postgresql.org/about/event/2231/"
+            description: "Administering and Clustring / Security Services"
+            level: 3
+        -
+            title: "Intermidiate: Database Application Development"
+            link: "https://www.postgresql.org/about/event/2261/"
+            description: "Database-centric Internet applications"
+            level: 2
+-
     title: "Cisco"
     link: "https://www.cisco.com/"
     description: ""
