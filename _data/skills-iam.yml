@@ -574,7 +574,7 @@
             description: "Administering and Cloud / Security Services"
             level: 3
 -
-    title: "postgreSQL Enterprice database"
+    title: "postgreSQL (Enterprice database)"
     link: "https://www.postgresql.org/"
     description: ""
     image: "postgresql.png"
