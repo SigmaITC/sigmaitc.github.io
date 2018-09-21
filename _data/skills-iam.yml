@@ -115,9 +115,9 @@
     title: "TOGAF"
     link: "http://www.opengroup.org/subjectareas/enterprise/togaf"
     description: "IT/Solution Architecture / Business Architecture / Enterprise Architecture"
-    required: false
+    required: true
     image: "togaf.jpg"
-    level: 1
+    level: 0
     tags: "Markup"
     related:
         -
