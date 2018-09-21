@@ -112,6 +112,25 @@
             description: "Architectural expertise, designing complex networks, translate business strategies into technical strategies"
             level: 4
 -
+    title: "TOGAF"
+    link: "http://www.opengroup.org/subjectareas/enterprise/togaf"
+    description: "IT/Solution Architecture / Business Architecture / Enterprise Architecture"
+    required: false
+    image: "togaf.jpg"
+    level: 1
+    tags: "Markup"
+    related:
+        -
+            title: "Certified: The Open Group Certified Architect"
+            link: "http://www.opengroup.org/certifications/professional/open-ca"
+            description: "Technology, Business, and Enterprise Architect’s skill"
+            level: 2
+        -
+            title: "Master: The Open Group Certified Architect"
+            link: "http://www.opengroup.org/certifications/professional/open-cits"
+            description: "Independent benchmark for validating Technology, peer-reviewed, vendor-neutral"
+            level: 2
+-
     title: "Amazon"
     link: "https://aws.amazon.com"
     description: ""
