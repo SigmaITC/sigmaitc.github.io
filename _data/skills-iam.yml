@@ -1483,6 +1483,19 @@
     tags: "Software Applications - Mail"
     related: ""
 -
+    title: "Enterprise Application Integration"
+    link: "https://en.wikipedia.org/wiki/Enterprise_integration"
+    description: ""
+    image: "product_system_management.png"
+    level: 2
+    tags: "System Integration Services"
+    related:
+        -
+            title: "In-depth enterprise application integration"
+            link: "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.6607&rep=rep1&type=pdf"
+            description: "Complex integrated information system"
+            level: 3
+-
     title: "Technical / Operation Support"
     link: "https://en.wikipedia.org/wiki/Technical_support"
     description: ""
