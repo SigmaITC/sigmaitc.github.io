@@ -961,7 +961,7 @@
             link: "https://www.op5.com/training/op5-academy/"
             description: "Administration / Monitoring"
             level: 2
-       -
+        -
             title: "Advanced"
             link: "https://www.op5.com/training/op5-academy/"
             description: "VMware, Windows monitoring, SNMP and Web service administration"
