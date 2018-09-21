@@ -967,6 +967,24 @@
             description: "VMware, Windows monitoring, SNMP and Web service administration"
             level: 2
 -
+    title: "Squared Up"
+    link: "https://squaredup.com/"
+    description: ""
+    image: "squaredup.jpg"
+    level: 3
+    tags: "Networking - Network Management Systems / Monitoring"
+    related:
+        -
+            title: "Integrations"
+            link: "https://squaredup.com/education/academy/integrations"
+            description: "Service Management / Microsoft OMS / SCOM integration"
+            level: 2
+        -
+            title: "Advanced: Squared Up deep-dive"
+            link: "https://squaredup.com/education/academy/squared-up-deep-dive"
+            description: "High Availability / Alert Management / Monitoring"
+            level: 3
+-
     title: "AWS web hosting"
     link: "https://aws.amazon.com/websites/?nc1=f_dr"
     description: ""
@@ -1084,6 +1102,19 @@
             link: "https://university.nginx.com/instructor-led-training/securing-applications-with-nginx"
             description: "Developers / DevOps / Administrators"
             level: 3
+-
+    title: "Apache TomEE"
+    link: "http://tomee.apache.org/enterprise-tomcat.html"
+    description: ""
+    image: "apache-tomEE.png"
+    level: 3
+    tags: "Internet Platforms - Web Servers"
+    related:
+        -
+            title: "Admins, architects, and delopment professionals"
+            link: "https://www.nobleprog.co.uk/cc/tomee"
+            description: "Installation / Administration / Management"
+            level: 2
 -
     title: "Cisco Open DNS / Cisco Umbrella"
     link: "https://umbrella.cisco.com/products/features/opendns-cisco-umbrella"
