@@ -18,7 +18,99 @@
 # description {String} - A brief description of the resource.
 # level {Number} - The skill level ranging from 1 - 3. Signifies the learning curve, and required previous knowledge.
 #
-# Computer Hardware
+# Markup
+-
+    title: "ITIL"
+    link: "https://www.itil.org.uk/"
+    description: "It is essential to know ITIL® Foundation which is an entry-level ITIL that provides an understanding of the main concepts behind ITIL, including the life cycle stages and the terminology used."
+    required: true
+    image: "ITIL.jpg"
+    level: 1
+    tags: "Markup"
+    related:
+        -
+            title: "BEGINNER: ITIL Foundations"
+            link: "https://www.itil.org.uk/training/itil-foundation-level-courses/itil-foundation-training"
+            description: "ITIL® Foundation which is an entry-level ITIL"
+            level: 1
+        -
+            title: "INTERMEDIATE: ITIL Practitioner / ITIL Intermediate"
+            link: "http://html5doctor.com/"
+            description: "IT Service Management concepts / Organisational Change Management / Communication / Measurement and metrics"
+            level: 2
+        -
+            title: "EXPERT: ITIL Service Lifecycle Service Strategy"
+            link: "https://www.itil.org.uk/training/itil-intermediate-level-courses/itil-service-strategy-training"
+            description: "Service Strategy, Defining Services and Market Spaces, Strategic Assessments, Financial Management, Service Portfolio Management, Demand Management, Driving Strategy Through the Lifecycle, Critical Success Factors and Risks"
+            level: 3
+        -
+            title: "ITIL® Master Certificate - Managing Across the Lifecycle"
+            link: "https://www.axelos.com/certifications/itil-certifications/itil-master"
+            description: "How the life cycle stages can be integrated across the service lifecycle, managing services across the service lifecycle"
+            level: 4
+-
+    title: "CompTIA"
+    link: "https://certification.comptia.org/"
+    description: "IT infrastructure, networking and cybersecurity"
+    required: true
+    image: "comptia.png"
+    level: 1
+    tags: "Markup"
+    related:
+        -
+            title: "BEGINNER: CompTIA IT Fundamentals, CompTIA A+"
+            link: "https://certification.comptia.org/certifications/a"
+            description: "Technical support and IT operations"
+            level: 1
+        -
+            title: "INTERMEDIATE: CompTIA Server+ / CompTIA Network+ / CompTIA Cloud+"
+            link: "https://certification.comptia.org/certifications/network"
+            description: "IT infrastructure: troubleshooting, configuring, and managing networks"
+            level: 2
+        -
+            title: "ADVANCED: CompTIA CySA+, CompTIA PenTest+"
+            link: "https://certification.comptia.org/certifications/cybersecurity-analyst"
+            description: "Behavioral analytics to networks and devices to prevent, detect and combat cybersecurity threats"
+            level: 3
+        -
+            title: "EXPERT: CASP"
+            link: "https://certification.comptia.org/certifications/comptia-advanced-security-practitioner"
+            description: "Implement solutions within policies and frameworks"
+            level: 4
+-
+    title: "Cisco Certification"
+    link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html"
+    description: "IT infrastructure, networking and cybersecurity"
+    required: true
+    image: "cisco-cert.jpg"
+    level: 1
+    tags: "Markup"
+    related:
+        -
+            title: "Entry: CCENT; Cisco Certified Entry Networking Technician"
+            link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html"
+            description: " Installation and operations"
+            level: 1
+        -
+            title: "Associate: CCDA; Cisco Certified Design Associate / CCNA; Cisco Certified Network Associate"
+            link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccda.html"
+            description: "Network design engineers, system engineers and sales engineers"
+            level: 2
+        -
+            title: "Professional: CCDP; Cisco Certified Design Professional / CCNP; Cisco Certified Network Professional"
+            link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccdp.html"
+            description: "Senior Network Design Engineers, Principle System Engineer, Network/Solution Architects"
+            level: 3
+        -
+            title: "Expert: CCIE; Cisco Certified Internetwork Expert / SCYBER; Securing Cisco Network with Threat Detection and Analysis"
+            link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-routing-switching.html"
+            description: "plan, operate and troubleshoot complex, converged network infrastructures"
+            level: 4
+        -
+            title: "Architect: CCAr; Cisco Certified Architect"
+            link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/architect.html"
+            description: "Architectural expertise, designing complex networks, translate business strategies into technical strategies"
+            level: 4
 -
     title: "Amazon"
     link: "https://aws.amazon.com"
@@ -331,6 +423,136 @@
             title: "HPE Storage integrator"
             link: "https://education.hpe.com/ww/en/training/docs/cds/h9th3s.pdf"
             description: "Data center support & sales representatives"
+            level: 3
+-
+    title: "Oracle DB (Enterprice database)"
+    link: "https://www.oracle.com/database/index.html"
+    description: ""
+    image: "oracle-database.png"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Accociate: Administration and Implementation"
+            link: "https://education.oracle.com/oracle-database-12c-r2-administration-certified-associate/trackp_492"
+            description: "Administering and Cloud / Security Services"
+            level: 2
+        -
+            title: "Professional: Administration and Implementation"
+            link: "https://education.oracle.com/oracle-database-11g-administrator-certified-professional/trackp_289"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+        -
+            title: "Accociate: Database Application Development"
+            link: "https://education.oracle.com/oracle-pl-sql-developer-certified-associate/trackp_162"
+            description: "Database-centric Internet applications"
+            level: 2
+        -
+            title: "Professional: Database Application Development"
+            link: "https://education.oracle.com/oracle-database-pl-sql-developer-certified-professional/trackp_148"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+-
+    title: "Microsoft SQL (Enterprice database)"
+    link: "https://www.oracle.com/database/index.html"
+    description: ""
+    image: "microsoft-sql-server.png"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Accociate: Administration and Implementation"
+            link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20764"
+            description: "Administering and Cloud / Security Services"
+            level: 2
+        -
+            title: "Professional: Administration and Implementation"
+            link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20764"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+        -
+            title: "Accociate: Database Application Development"
+            link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20762"
+            description: "Database-centric Internet applications"
+            level: 2
+        -
+            title: "Professional: Database Application Development"
+            link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20762"
+            description: "Database-centric Internet applications"
+            level: 3
+-
+    title: "IBM DB2 (Enterprice database)"
+    link: "https://www.ibm.com/analytics/us/en/db2/#our-solutions"
+    description: ""
+    image: "IBM-DB2.png"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Intermidiate: Administration and Implementation"
+            link: "https://www.ibm.com/certify/cert?id=08002107"
+            description: "Administering and Cloud / Security Services"
+            level: 2
+        -
+            title: "Advanced: Administration and Implementation"
+            link: "https://www.ibm.com/certify/cert?id=08002107"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+        -
+            title: "Intermidiate: Database Application Development"
+            link: "https://www.ibm.com/certify/cert?id=01002604"
+            description: "Database-centric Internet applications"
+            level: 2
+        -
+            title: "ProAdvanced: Database Application Development"
+            link: "https://www.ibm.com/certify/cert?id=08002107"
+            description: "Database-centric Internet applications"
+            level: 3
+-
+    title: "MariaDB (Enterprice database)"
+    link: "https://mariadb.org/about/"
+    description: ""
+    image: "mariadb.png"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Intermidiate: Administration and Implementation"
+            link: "https://mariadb.learnupon.com/store/403117-mariadb-for-dbas-october-2018-europe-apac"
+            description: "Administering and Cloud / Security Services"
+            level: 2
+        -
+            title: "Advanced: Administration and Clustring"
+            link: "https://mariadb.learnupon.com/store/403107-mariadb-cluster-administration-october-2018-europe-apac"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+-
+    title: "Mysql (Enterprice database)"
+    link: "https://www.mysql.com/products/enterprise/"
+    description: ""
+    image: "mysql.jpg"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Accociate: Administration and Implementation"
+            link: "https://education.oracle.com/oracle-database-12c-r2-administration-certified-associate/trackp_492"
+            description: "Administering and Cloud / Security Services"
+            level: 2
+        -
+            title: "Professional: Administration and Implementation"
+            link: "https://education.oracle.com/oracle-database-11g-administrator-certified-professional/trackp_289"
+            description: "Administering and Cloud / Security Services"
+            level: 3
+        -
+            title: "Accociate: Database Application Development"
+            link: "https://education.oracle.com/oracle-pl-sql-developer-certified-associate/trackp_162"
+            description: "Database-centric Internet applications"
+            level: 2
+        -
+            title: "Professional: Database Application Development"
+            link: "https://education.oracle.com/oracle-database-pl-sql-developer-certified-professional/trackp_148"
+            description: "Administering and Cloud / Security Services"
             level: 3
 -
     title: "Cisco"
@@ -648,9 +870,9 @@
     tags: "Networking - Network Management Systems / Monitoring"
     related:
         -
-            title: "Associate"
-            link: ""
-            description: "Network security operators / administrators"
+            title: "Administration"
+            link: "https://www.microsoft.com/en-us/learning/exam-70-703.aspx"
+            description: "Administering Microsoft SCOM and Cloud Services Integration"
             level: 2
 -
     title: "OP5"
@@ -661,10 +883,33 @@
     tags: "Networking - Network Management Systems / Monitoring"
     related:
         -
-            title: "Associate"
-            link: ""
-            description: "Network security operators / administrators"
+            title: "Basic"
+            link: "https://www.op5.com/training/op5-academy/"
+            description: "Administration / Monitoring"
             level: 2
+        -
+            title: "Advanced"
+            link: "https://www.op5.com/training/op5-academy/"
+            description: "VMware, Windows monitoring, SNMP and Web service administration"
+            level: 2
+-
+    title: "Squared Up"
+    link: "https://squaredup.com/"
+    description: ""
+    image: "squaredup.jpg"
+    level: 3
+    tags: "Networking - Network Management Systems / Monitoring"
+    related:
+        -
+            title: "Integrations"
+            link: "https://squaredup.com/education/academy/integrations"
+            description: "Service Management / Microsoft OMS / SCOM integration"
+            level: 2
+        -
+            title: "Advanced: Squared Up deep-dive"
+            link: "https://squaredup.com/education/academy/squared-up-deep-dive"
+            description: "High Availability / Alert Management / Monitoring"
+            level: 3
 -
     title: "AWS web hosting"
     link: "https://aws.amazon.com/websites/?nc1=f_dr"
@@ -783,6 +1028,19 @@
             link: "https://university.nginx.com/instructor-led-training/securing-applications-with-nginx"
             description: "Developers / DevOps / Administrators"
             level: 3
+-
+    title: "Apache TomEE"
+    link: "http://tomee.apache.org/enterprise-tomcat.html"
+    description: ""
+    image: "apache-tomEE.png"
+    level: 3
+    tags: "Internet Platforms - Web Servers"
+    related:
+        -
+            title: "Admins, architects, and delopment professionals"
+            link: "https://www.nobleprog.co.uk/cc/tomee"
+            description: "Installation / Administration / Management"
+            level: 2
 -
     title: "Cisco Open DNS / Cisco Umbrella"
     link: "https://umbrella.cisco.com/products/features/opendns-cisco-umbrella"
