@@ -117,7 +117,7 @@
     description: ""
     image: "aws.png"
     level: 3
-    tags: "Computer Hardware - Cloud Computing"
+    tags: "Cloud Computing"
     related:
         -
             title: "Cloud Practitioner"
@@ -150,7 +150,7 @@
     description: ""
     image: "azure.png"
     level: 3
-    tags: "Computer Hardware - Cloud Computing"
+    tags: "Cloud Computing"
     related:
         -
             title: "Technology Associate"
@@ -178,7 +178,7 @@
     description: ""
     image: "vmware.png"
     level: 3
-    tags: "Computer Hardware - Cloud Computing"
+    tags: "Cloud Computing"
     related:
         -
             title: "Certified Associate"
@@ -206,7 +206,7 @@
     description: ""
     image: "dell.jpg"
     level: 3
-    tags: "Computer Hardware - Mainframe / Servers"
+    tags: "Mainframe / Servers"
     related:
         -
             title: "Technology / Associate"
@@ -239,7 +239,7 @@
     description: ""
     image: "hp.png"
     level: 3
-    tags: "Computer Hardware - Mainframe / Servers"
+    tags: "Mainframe / Servers"
     related:
         -
             title: "Foundational - HPE Product Certified"
@@ -267,7 +267,7 @@
     description: ""
     image: "hitachi.png"
     level: 3
-    tags: "Computer Hardware - Mainframe / Servers"
+    tags: "Mainframe / Servers"
     related:
         -
             title: "Basics and Fundamentals"
@@ -315,7 +315,7 @@
     description: ""
     image: "ibm.png"
     level: 3
-    tags: "Computer Hardware - Mainframe / Servers"
+    tags: "Mainframe / Servers"
     related:
         -
             title: "IBM Certified System Administrator - AIX V1"
@@ -1219,7 +1219,7 @@
     description: ""
     image: "acer.png"
     level: 2
-    tags: "Computer Hardware - Workstations"
+    tags: "Workstations"
     related:
 -
     title: "MacPro"
@@ -1227,7 +1227,7 @@
     description: ""
     image: "apple.png"
     level: 2
-    tags: "Computer Hardware - Workstations"
+    tags: "Workstations"
     related:
 -
     title: "Dell"
@@ -1235,7 +1235,7 @@
     description: ""
     image: "dell.png"
     level: 2
-    tags: "Computer Hardware - Workstations"
+    tags: "Workstations"
     related:
 -
     title: "Lenovo"
@@ -1243,7 +1243,7 @@
     description: ""
     image: "lenovo.png"
     level: 2
-    tags: "Computer Hardware - Workstations"
+    tags: "Workstations"
     related:
 -
     title: "HP"
@@ -1251,7 +1251,7 @@
     description: ""
     image: "hp.png"
     level: 2
-    tags: "Computer Hardware - Workstations"
+    tags: "Workstations"
     related:
 -
     title: "Chromebook"
@@ -1259,7 +1259,7 @@
     description: ""
     image: "chromebook.png"
     level: 2
-    tags: "Computer Hardware - Laptops"
+    tags: "Laptops"
     related:
 -
     title: "MacBook"
@@ -1267,7 +1267,7 @@
     description: ""
     image: "apple.png"
     level: 2
-    tags: "Computer Hardware - Laptops"
+    tags: "Laptops"
     related:
 -
     title: "EliteBook"
@@ -1275,7 +1275,7 @@
     description: ""
     image: "hp.png"
     level: 2
-    tags: "Computer Hardware - Laptops"
+    tags: "Laptops"
     related:
 -
     title: "Smartphones"
@@ -1283,7 +1283,7 @@
     description: ""
     image: "smartphone.png"
     level: 2
-    tags: "Computer Hardware - Bring your own device (BYOD)"
+    tags: "Bring your own device (BYOD)"
     related:
         -
             title: "Apple"
@@ -1316,7 +1316,7 @@
     description: ""
     image: "tablet.png"
     level: 2
-    tags: "Computer Hardware - Bring your own device (BYOD)"
+    tags: "Bring your own device (BYOD)"
     related:
         -
             title: "Apple"
