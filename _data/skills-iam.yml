@@ -81,7 +81,7 @@
     title: "Cisco Certification"
     link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html"
     description: "IT infrastructure, networking and cybersecurity"
-    required: true
+    recommended: true
     image: "cisco-cert.jpg"
     level: 1
     tags: "Markup"
@@ -115,9 +115,9 @@
     title: "TOGAF"
     link: "http://www.opengroup.org/subjectareas/enterprise/togaf"
     description: "IT/Solution Architecture / Business Architecture / Enterprise Architecture"
-    required: true
+    recommended: true
     image: "togaf.jpg"
-    level: 0
+    level: 1
     tags: "Markup"
     related:
         -
@@ -596,6 +596,24 @@
             link: "https://www.postgresql.org/about/event/2261/"
             description: "Database-centric Internet applications"
             level: 2
+-
+    title: "MongoDB (Enterprice database)"
+    link: "https://www.mongodb.com/"
+    description: ""
+    image: "mongodb.png"
+    level: 2
+    tags: "Data Management - Storage / Data Center "
+    related:
+        -
+            title: "Intermidiate: Administration, Operation and Implementation"
+            link: "https://university.mongodb.com/courses/M103/about"
+            description: "Administering, and Clustring, Backing Up and Restoring, Monitoring the Server"
+            level: 2
+        -
+            title: "Advanced: Administration and Implementation"
+            link: "https://university.mongodb.com/courses/M310/about"
+            description: "Administering  / Security Services"
+            level: 3
 -
     title: "Cisco"
     link: "https://www.cisco.com/"
