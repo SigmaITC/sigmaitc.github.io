@@ -646,7 +646,7 @@
     title: "Juniper"
     link: "https://www.juniper.net/us/en/"
     description: ""
-    image: "juniper.png"
+    image: "juniper-logo-blue.png"
     level: 3
     tags: "Networking - Switch / Router / Loadbalancer"
     related:
