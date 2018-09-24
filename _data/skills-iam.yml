@@ -24,7 +24,7 @@
     link: "https://www.itil.org.uk/"
     description: "It is essential to know ITIL® Foundation which is an entry-level ITIL that provides an understanding of the main concepts behind ITIL, including the life cycle stages and the terminology used."
     required: true
-    image: "ITIL.jpg"
+    image: "ITIL1.jpg"
     level: 1
     tags: "Markup"
     related:
@@ -419,7 +419,7 @@
     title: "HPE (Enterprise Storage)"
     link: "https://www.dellemc.com/sv-se/storage/data-storage.htm?CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&VEN1=s[uniq_id]~280572684432~901j8l13531&VEN2=b~+dell%20+san%20+storage&ST=+dell%20+san%20+storage&CMP=knc-emea-se-y19-allflash-is-google-fin-mediacom-brand&dgc=st&dgseg=bsd&cid=234678&lid=2056&acd=2407234678205614&VEN3=411804563872470950#scroll=off"
     description: ""
-    image: "hewlett-packard-enterprise.jpg"
+    image: "hpe.jpg"
     level: 3
     tags: "Data Management - Storage / Data Center "
     related:
@@ -447,7 +447,7 @@
     title: "Oracle DB (Enterprice database)"
     link: "https://www.oracle.com/database/index.html"
     description: ""
-    image: "oracle-database.png"
+    image: kisspng-oracle-db.jpg"
     level: 2
     tags: "Data Management - Storage / Data Center "
     related:
@@ -730,7 +730,7 @@
     title: "Checkpoint"
     link: "https://www.checkpoint.com/"
     description: ""
-    image: "checkpoint.png"
+    image: "CHECK-POINT.png"
     level: 3
     tags: "Networking - Firewall / Security Solutions "
     related:
@@ -776,7 +776,7 @@
     title: "Pulse Secure / Juniper"
     link: "https://www.juniper.net/us/en/pulsesecure/"
     description: ""
-    image: "pulse-secure.jpg"
+    image: "pulse-secure1.jpg"
     level: 3
     tags: "Networking - Firewall / Security Solutions "
     related:
@@ -863,7 +863,7 @@
     title: "Ericsson"
     link: "https://www.ericsson.com/ourportfolio/mobile-transport-1"
     description: ""
-    image: "ericsson.png"
+    image: "Ericsson-logo.png"
     level: 3
     tags: "Networking - Transport Systems"
     related:
@@ -1118,7 +1118,7 @@
     title: "PowerDNS"
     link: "https://www.powerdns.com/"
     description: ""
-    image: "powerDNS.jpg"
+    image: "powerdns1.png"
     level: 3
     tags: "Internet Platforms - DNS Servers"
     related:
@@ -1131,7 +1131,7 @@
     title: "Infoblox"
     link: "https://www.powerdns.com/"
     description: ""
-    image: "infoblox.png"
+    image: "infoblox1.png"
     level: 3
     tags: "Internet Platforms - DNS Servers"
     related:
