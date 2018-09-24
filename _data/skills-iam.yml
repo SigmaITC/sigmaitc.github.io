@@ -24,6 +24,7 @@
     link: "https://www.itil.org.uk/"
     description: "It is essential to know ITIL® Foundation which is an entry-level ITIL that provides an understanding of the main concepts behind ITIL, including the life cycle stages and the terminology used."
     required: true
+    hot: true
     image: "ITIL1.jpg"
     level: 1
     tags: "Markup"
