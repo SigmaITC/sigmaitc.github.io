@@ -848,7 +848,7 @@
             level: 4
 -
     title: "Microsoft AD"
-    link: "https://www.cisco.com/c/en/us/products/security/identity-services-engine/index.html"
+    link: "https://docs.microsoft.com/sv-se/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview"
     description: ""
     image: "microsoft_AD_1.png"
     level: 3
@@ -1105,7 +1105,7 @@
     title: "Cisco Open DNS / Cisco Umbrella"
     link: "https://umbrella.cisco.com/products/features/opendns-cisco-umbrella"
     description: ""
-    image: "cisco-umbrella.png"
+    image: "Cisco-Umbrella1.png"
     level: 3
     tags: "Internet Platforms - DNS Servers"
     related:
