@@ -447,7 +447,7 @@
     title: "Oracle DB (Enterprice database)"
     link: "https://www.oracle.com/database/index.html"
     description: ""
-    image: kisspng-oracle-db.jpg"
+    image: "oracle-logo.jpg"
     level: 2
     tags: "Data Management - Storage / Data Center "
     related:
@@ -730,7 +730,7 @@
     title: "Checkpoint"
     link: "https://www.checkpoint.com/"
     description: ""
-    image: "CHECK-POINT.png"
+    image: "checkpoint1.png"
     level: 3
     tags: "Networking - Firewall / Security Solutions "
     related:
