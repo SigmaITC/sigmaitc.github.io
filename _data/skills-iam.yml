@@ -674,7 +674,7 @@
     title: "AWS"
     link: "https://aws.amazon.com/free/?sc_channel=PS&sc_campaign=acquisition_SWsc_publisher=google&sc_medium=ACQ-P%7CPS-GO%7CBrand%7CDesktop%7CSU%7CCore%7CCore%7CSW%7CEN%7CText&sc_content=Brand_Core_HV_e&sc_detail=aws&sc_category=Core&sc_segment=293650461761&sc_matchtype=e&sc_country=SW&s_kwcid=AL!4422!3!293650461761!e!!g!!aws&ef_id=W4AADQAAAKYuKG3M:20180917064858:s"
     description: ""
-    image: "aws.png"
+    image: "aws1.jpg"
     level: 3
     tags: "Networking - Switch / Router / Loadbalancer"
     related:
@@ -822,7 +822,7 @@
     title: "Juniper NAC / Juniper UAC"
     link: "https://www.juniper.net/documentation/en_US/junos/topics/concept/uac-and-ex-series.html"
     description: ""
-    image: "juniper.png"
+    image: "juniper-logo-blue.png"
     level: 3
     tags: "Networking - Network Access Control / Directory Services"
     related:
@@ -974,7 +974,7 @@
     title: "AWS Web Hosting"
     link: "https://aws.amazon.com/websites/?nc1=f_dr"
     description: ""
-    image: "aws.png"
+    image: "aws1.jpg"
     level: 3
     tags: "Internet Platforms - Cloud Web Hosting"
     related:
