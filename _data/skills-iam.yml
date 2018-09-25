@@ -1567,3 +1567,100 @@
     level: 2
     tags: "Data Management - Data Management Platforms"
     related: ""
+-
+    title: "Internet Assigned Numbers Authority (IANA)"
+    link: "https://www.iana.org/"
+    description: ""
+    image: "iana.png"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "Association for Computing Machinery (ACM)"
+    link: "https://www.acm.org/"
+    description: ""
+    image: "acm.png"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "Association of Information Technology Professionals (AITP)"
+    link: "https://www.aitp.org/"
+    description: ""
+    image: "aitp.jpg"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "Computer Trade Industry Association (CompTIA)"
+    link: "https://www.comptia.org/"
+    description: ""
+    image: "comptia.png"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "Institute for the Certification of Computing Professionals (ICCP)"
+    link: "http://iccp.org/index.html"
+    description: ""
+    image: "iccp.png"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "Information Systems Security Association (ISSA)"
+    link: "https://www.issa.org/"
+    description: ""
+    image: "ISSA.jpg"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "Institute for Electrical and Electronics Engineers (IEEE)"
+    link: "https://www.ieee.org/"
+    description: ""
+    image: "ieee.jpg"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "Network Professional Association (NPA)"
+    link: "http://www.npa.org/"
+    description: ""
+    image: "npa.jpg"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "Information Systems Audit and Control Association (ISACA)"
+    link: "https://www.isaca.org/about-isaca/Pages/default.aspx"
+    description: ""
+    image: "isaca.jpg"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "IT Process Institute (ITPI)"
+    link: "https://itpi.org/"
+    description: ""
+    image: "ITPI.jpg"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "The OWASP Foundation"
+    link: "https://www.owasp.org/index.php/Main_Page"
+    description: ""
+    image: "owasp.jpg"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "ISO/IEC JTC 1"
+    link: "https://www.iso.org/committee/45020/x/catalogue/"
+    description: ""
+    image: "ISO.png"
+    level: 0
+    tags: "Information Technology Standards"
+    related:
+
