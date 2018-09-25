@@ -550,7 +550,7 @@
     title: "Mysql (Enterprice database)"
     link: "https://www.mysql.com/products/enterprise/"
     description: ""
-    image: "mysql.jpg"
+    image: "MySQL1.jpg"
     level: 2
     tags: "Data Management - Storage / Data Center"
     related:
@@ -578,7 +578,7 @@
     title: "postgreSQL (Enterprice database)"
     link: "https://www.postgresql.org/"
     description: ""
-    image: "postgresql.png"
+    image: "postgreSQL1.png"
     level: 2
     tags: "Data Management - Storage / Data Center"
     related:
@@ -703,7 +703,7 @@
     title: "Microsoft Azure"
     link: "https://aws.amazon.com/free/?sc_channel=PS&sc_campaign=acquisition_SWsc_publisher=google&sc_medium=ACQ-P%7CPS-GO%7CBrand%7CDesktop%7CSU%7CCore%7CCore%7CSW%7CEN%7CText&sc_content=Brand_Core_HV_e&sc_detail=aws&sc_category=Core&sc_segment=293650461761&sc_matchtype=e&sc_country=SW&s_kwcid=AL!4422!3!293650461761!e!!g!!aws&ef_id=W4AADQAAAKYuKG3M:20180917064858:s"
     description: ""
-    image: "ms-azure.png"
+    image: "Azur1.png"
     level: 3
     tags: "Networking - Switch / Router / Loadbalancer"
     related:
@@ -1663,6 +1663,14 @@
     link: "https://www.owasp.org/index.php/Main_Page"
     description: ""
     image: "owasp.jpg"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "The Internet of Things Consortium (IoTC)"
+    link: "https://iofthings.org/about/"
+    description: ""
+    image: "internet-of-things.png"
     level: 0
     tags: "IT-organizations och institutes"
     related:
