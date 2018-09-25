@@ -1666,6 +1666,14 @@
     tags: "IT-organizations och institutes"
     related:
 -
+    title: "Internet of Things Association (IoTC)"
+    link: "https://www.iota.org/"
+    description: ""
+    image: "IoTA.png"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
     title: "The Internet of Things Consortium (IoTC)"
     link: "https://iofthings.org/about/"
     description: ""
