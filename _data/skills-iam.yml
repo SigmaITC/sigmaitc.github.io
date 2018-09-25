@@ -856,6 +856,11 @@
     tags: "Networking - Network Access Control / Directory Services"
     related:
         -
+            title: "Identity with Windows Server"
+            link: "https://www.microsoft.com/en-us/learning/exam-70-742.aspx"
+            description: "Implement / deploy / maintain / group policy handling "
+            level: 3
+        -
             title: "Configuring Advanced Windows Server"
             link: "https://www.microsoft.com/en-us/learning/exam-70-412.aspx"
             description: "Implement / deploy / Replication"
