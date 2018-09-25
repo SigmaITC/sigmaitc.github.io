@@ -32,27 +32,27 @@
         -
             title: "BEGINNER: ITIL Foundations"
             link: "https://www.itil.org.uk/training/itil-foundation-level-courses/itil-foundation-training"
-            description: "ITIL® Foundation which is an entry-level ITIL"
+            description: "ITIL® Foundation which is an entry-level ITIL."
             level: 1
         -
             title: "INTERMEDIATE: ITIL Practitioner / ITIL Intermediate"
             link: "http://html5doctor.com/"
-            description: "IT Service Management concepts / Organisational Change Management / Communication / Measurement and metrics"
+            description: "IT Service Management concepts / Organisational Change Management / Communication / Measurement and metrics."
             level: 2
         -
             title: "EXPERT: ITIL Service Lifecycle Service Strategy"
             link: "https://www.itil.org.uk/training/itil-intermediate-level-courses/itil-service-strategy-training"
-            description: "Service Strategy, Defining Services and Market Spaces, Strategic Assessments, Financial Management, Service Portfolio Management, Demand Management, Driving Strategy Through the Lifecycle, Critical Success Factors and Risks"
+            description: "Service Strategy, Defining Services and Market Spaces, Strategic Assessments, Financial Management, Service Portfolio Management, Demand Management, Driving Strategy Through the Lifecycle, Critical Success Factors and Risks."
             level: 3
         -
             title: "ITIL® Master Certificate - Managing Across the Lifecycle"
             link: "https://www.axelos.com/certifications/itil-certifications/itil-master"
-            description: "How the life cycle stages can be integrated across the service lifecycle, managing services across the service lifecycle"
+            description: "How the life cycle stages can be integrated across the service lifecycle, managing services across the service lifecycle."
             level: 4
 -
     title: "CompTIA"
     link: "https://certification.comptia.org/"
-    description: "IT infrastructure, networking and cybersecurity"
+    description: "IT infrastructure, networking and cybersecurity."
     required: true
     image: "comptia.png"
     level: 1
@@ -61,27 +61,27 @@
         -
             title: "BEGINNER: CompTIA IT Fundamentals, CompTIA A+"
             link: "https://certification.comptia.org/certifications/a"
-            description: "Technical support and IT operations"
+            description: "Technical support and IT operations."
             level: 1
         -
             title: "INTERMEDIATE: CompTIA Server+ / CompTIA Network+ / CompTIA Cloud+"
             link: "https://certification.comptia.org/certifications/network"
-            description: "IT infrastructure: troubleshooting, configuring, and managing networks"
+            description: "IT infrastructure: troubleshooting, configuring, and managing networks."
             level: 2
         -
             title: "ADVANCED: CompTIA CySA+, CompTIA PenTest+"
             link: "https://certification.comptia.org/certifications/cybersecurity-analyst"
-            description: "Behavioral analytics to networks and devices to prevent, detect and combat cybersecurity threats"
+            description: "Behavioral analytics to networks and devices to prevent, detect and combat cybersecurity threats."
             level: 3
         -
             title: "EXPERT: CASP"
             link: "https://certification.comptia.org/certifications/comptia-advanced-security-practitioner"
-            description: "Implement solutions within policies and frameworks"
+            description: "Implement solutions within policies and frameworks."
             level: 4
 -
     title: "Cisco Certification"
     link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html"
-    description: "IT infrastructure, networking and cybersecurity"
+    description: "IT infrastructure, networking and cybersecurity."
     recommended: true
     image: "cisco-cert.jpg"
     level: 1
@@ -90,27 +90,27 @@
         -
             title: "Entry: CCENT; Cisco Certified Entry Networking Technician"
             link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html"
-            description: " Installation and operations"
+            description: " Installation and operations."
             level: 1
         -
             title: "Associate: CCDA; Cisco Certified Design Associate / CCNA; Cisco Certified Network Associate"
             link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccda.html"
-            description: "Network design engineers, system engineers and sales engineers"
+            description: "Network Design Engineers, System Engineers and Sales Engineers."
             level: 2
         -
             title: "Professional: CCDP; Cisco Certified Design Professional / CCNP; Cisco Certified Network Professional"
             link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccdp.html"
-            description: "Senior Network Design Engineers, Principle System Engineer, Network/Solution Architects"
+            description: "Senior Network Design Engineers, Principle System Engineer, Network/Solution Architects."
             level: 3
         -
             title: "Expert: CCIE; Cisco Certified Internetwork Expert / SCYBER; Securing Cisco Network with Threat Detection and Analysis"
             link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-routing-switching.html"
-            description: "plan, operate and troubleshoot complex, converged network infrastructures"
+            description: "Plan, Operate and Troubleshoot complex, converged network infrastructures."
             level: 4
         -
             title: "Architect: CCAr; Cisco Certified Architect"
             link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/architect.html"
-            description: "Architectural expertise, designing complex networks, translate business strategies into technical strategies"
+            description: "Architectural expertise, designing complex networks, translate business strategies into technical strategies."
             level: 4
 -
     title: "TOGAF"
@@ -124,12 +124,12 @@
         -
             title: "Certified: The Open Group Certified Architect"
             link: "http://www.opengroup.org/certifications/professional/open-ca"
-            description: "Technology, Business, and Enterprise Architect’s skill"
+            description: "Technology, Business, and Enterprise Architect’s skill."
             level: 2
         -
             title: "Master: The Open Group Certified Architect"
             link: "http://www.opengroup.org/certifications/professional/open-cits"
-            description: "Independent benchmark for validating Technology, peer-reviewed, vendor-neutral"
+            description: "Independent benchmark for validating technology, peer-reviewed, vendor-neutral."
             level: 2
 -
     title: "Amazon"
@@ -175,22 +175,22 @@
         -
             title: "Technology Associate"
             link: "https://www.microsoft.com/en-ph/learning/mta-summary-certification.aspx"
-            description: "MTA Certification: Database, Developer, IT Infrastructure"
+            description: "MTA Certification: Database, Developer, IT Infrastructure."
             level: 2
         -
             title: "Design and Administrator"
             link: "https://www.microsoft.com/en-ph/learning/mcsa-cloud-platform-certification.aspx"
-            description: "MCSA Cloud Platform: Microsoft Azure"
+            description: "MCSA Cloud Platform: Microsoft Azure."
             level: 3
         -
             title: "Design, Architect, Implement"
             link: "https://www.microsoft.com/en-ph/learning/mcsa-linux-azure-certification.aspx"
-            description: "MCSA Linux on Azure"
+            description: "MCSA Linux on Azure."
             level: 3
         -
             title: "Solutions Expert, Cloud Platform and Infrastructure"
             link: "https://www.microsoft.com/en-ph/learning/mcse-cloud-platform-infrastructure.aspx"
-            description: "MCSE Cloud Platform and Infrastructure: Microsoft Azure, Windows Server Virtualization"
+            description: "MCSE Cloud Platform and Infrastructure: Microsoft Azure, Windows Server Virtualization."
             level: 4
 -
     title: "VmWare"
@@ -203,22 +203,22 @@
         -
             title: "Certified Associate"
             link: "https://www.vmware.com/education-services/certification/vcp6-dcv.html"
-            description: "VCA: For Administrators, Architects & Executives"
+            description: "VCA: For Administrators, Architects & Executives."
             level: 2
         -
             title: "Certified Professional"
             link: "https://www.vmware.com/education-services/certification/vcp6-dcv-exam.html"
-            description: "VCP: For Administrators & Engineers"
+            description: "VCP: For Administrators & Engineers."
             level: 3
         -
             title: "Certified Advanced Professional"
             link: "https://mylearn.vmware.com/mgrreg/plan.cfm?plan=89133&ui=www_cert"
-            description: "VCAP: Administrators. Architects & Engineers"
+            description: "VCAP: Administrators. Architects & Engineers."
             level: 3
         -
             title: "Certified Design Expert"
             link: "https://www.vmware.com/education-services/certification/vcdx6-dcv.html"
-            description: "VCDX: For Architects"
+            description: "VCDX: For Architects."
             level: 4
 -
     title: "Dell"
@@ -231,27 +231,27 @@
         -
             title: "Technology / Associate"
             link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#technology"
-            description: "Associate, Data Scientist"
+            description: "Associate, Data Scientist."
             level: 2
         -
             title: "Design"
             link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#design"
-            description: "Cloud Architect, Enterprise Architect, Technology Architect"
+            description: "Cloud Architect, Enterprise Architect, Technology Architect."
             level: 3
         -
             title: "Deployment"
             link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#deploy"
-            description: "Implementation Engineer, Product / Technology, Dell EMC Certified Professional"
+            description: "Implementation Engineer, Product / Technology, Dell EMC Certified Professional."
             level: 3
         -
             title: "Manage"
             link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#manage"
-            description: "Enterprise Architect, System Administrator, Product / Technology, Dell EMC Certified Professional"
+            description: "Enterprise Architect, System Administrator, Product / Technology, Dell EMC Certified Professional."
             level: 3
         -
             title: "Support"
             link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#support"
-            description: "Platform Engineer, Dell EMC Certified Professional"
+            description: "Platform Engineer, Dell EMC Certified Professional."
             level: 3
 -
     title: "HP"
@@ -292,7 +292,7 @@
         -
             title: "Basics and Fundamentals"
             link: "https://www.hitachivantara.com/en-us/pdf/training/hitachi-qualified-associate-storage-concepts-hqt-0050-exam.pdf"
-            description: "Entry-Level, Storage Concepts (HQT-0050)"
+            description: "Entry-Level, Storage Concepts (HQT-0050)."
             level: 1
         -
             title: "Installation and Support, Professional"
@@ -358,17 +358,17 @@
         -
             title: "Business Professionals"
             link: "https://open.sap.com/courses/hanaintro1"
-            description: "Big Data Management / Business intelligence"
+            description: "Big Data Management / Business intelligence."
             level: 2
         -
             title: "IT Experts"
             link: "https://training.sap.com/course/ha200-sap-hana---operations--administration-remoteclassroom-098-se-en/"
-            description: "Installation / Operation / Data Management"
+            description: "Installation / Operation / Data Management."
             level: 3
         -
             title: "Developers"
             link: "https://open.sap.com/course/hana1"
-            description: "Software Development"
+            description: "Software Development."
             level: 3
 -
     title: "IBM MDM"
@@ -381,17 +381,17 @@
         -
             title: "Data Science & Business Analytics"
             link: "https://www.ibm.com/uk-en/analytics/business-intelligence?S_PKG=AW&cm_mmc=Search_Google-_-Hybrid+Cloud_Business+Analytics-_-EP_SE-_-+data++analytics_Broad_AW&cm_mmca1=000026DO&cm_mmca2=10000844&cm_mmca7=1012442&cm_mmca8=kwd-296230124120&cm_mmca9=2c7daf02-eccb-4008-9d0b-0d6a37fdce81&cm_mmca10=275525123195&cm_mmca11=b&mkwid=2c7daf02-eccb-4008-9d0b-0d6a37fdce81|542|156302&cvosrc=ppc.google.%2Bdata%20%2Banalytics&cvo_campaign=000026DO&cvo_crid=275525123195&Matchtype=b&gclid=EAIaIQobChMIvcPhupe63QIVCc-yCh0k2A2YEAAYASAAEgJEBvD_BwE"
-            description: "Big Data Management / BI"
+            description: "Big Data Management / BI."
             level: 2
         -
             title: "Architecture"
             link: "https://www-03.ibm.com/services/learning/ites.wss/zz/en?pageType=page&c=H714101D04079V43"
-            description: "MDM Architecture / Operation / Data Management"
+            description: "MDM Architecture / Operation / Data Management."
             level: 3
         -
             title: "Data Steward"
             link: "https://www-03.ibm.com/services/learning/ites.wss/zz/en?pageType=page&c=Q739957H58634L90"
-            description: "Software Development"
+            description: "Software Development."
             level: 2
 -
     title: "DELL EMC (Enterprise Storage)"
@@ -399,22 +399,22 @@
     description: ""
     image: "DELL-EMC1.png"
     level: 3
-    tags: "Data Management - Storage / Data Center "
+    tags: "Data Management - Storage / Data Center"
     related:
         -
             title: "Storage Networking Design"
             link: "https://www.koenig-solutions.com/emc-networking-designing-training-course.aspx"
-            description: "Data center Architecture"
+            description: "Data center Architecture."
             level: 2
         -
             title: "Cloud Storage"
             link: "https://education.emc.com/content/emc/en-us/store/home/search/course-details.html?courseID=MR-1WN-ECSDDCT&l=ALL"
-            description: "Configuration of Cloud Storage and Data Domain"
+            description: "Configuration of Cloud Storage and Data Domain."
             level: 2
         -
             title: "Implementation"
             link: "https://education.emc.com/content/emc/en-us/store/home/search/course-details.html?courseID=MR-1LP-SRM4IM&l=ALL"
-            description: "Installation / Integration / Administration"
+            description: "Installation / Integration / Administration."
             level: 2
 -
     title: "HPE (Enterprise Storage)"
@@ -422,27 +422,27 @@
     description: ""
     image: "hpe.jpg"
     level: 3
-    tags: "Data Management - Storage / Data Center "
+    tags: "Data Management - Storage / Data Center"
     related:
         -
             title: "HPE Storage Solution"
             link: "https://education.hpe.com/ww/en/training/docs/cds/h9th0s.pdf"
-            description: "Data center professionals / Enterprise Architects / Solutions Engineers"
+            description: "Data Center Professionals / Enterprise Architects / Solutions Engineers."
             level: 3
         -
             title: "HPE Storage Networking"
             link: "https://education.hpe.com/ww/en/training/docs/cds/hk910s.pdf"
-            description: "Data center Architecture"
+            description: "Data Center Architecture."
             level: 3
         -
             title: "HPE Storage Architect"
             link: "https://education.hpe.com/ww/en/training/docs/cds/h9th3s.pdf"
-            description: "Data center Design"
+            description: "Data Center Design."
             level: 3
         -
             title: "HPE Storage Integrator"
             link: "https://education.hpe.com/ww/en/training/docs/cds/h9th3s.pdf"
-            description: "Data center support & sales representatives"
+            description: "Data Center Support & Sales representatives."
             level: 3
 -
     title: "Oracle DB (Enterprice database)"
@@ -450,22 +450,22 @@
     description: ""
     image: "oracle-logo.jpg"
     level: 2
-    tags: "Data Management - Storage / Data Center "
+    tags: "Data Management - Storage / Data Center"
     related:
         -
             title: "Accociate: Administration and Implementation"
             link: "https://education.oracle.com/oracle-database-12c-r2-administration-certified-associate/trackp_492"
-            description: "Administering and Cloud / Security Services"
+            description: "Administering and Cloud / Security Services."
             level: 2
         -
             title: "Professional: Administration and Implementation"
             link: "https://education.oracle.com/oracle-database-11g-administrator-certified-professional/trackp_289"
-            description: "Administering and Cloud / Security Services"
+            description: "Administering and Cloud / Security Services."
             level: 3
         -
             title: "Accociate: Database Application Development"
             link: "https://education.oracle.com/oracle-pl-sql-developer-certified-associate/trackp_162"
-            description: "Database-centric Internet applications"
+            description: "Database-Centric Internet Applications."
             level: 2
         -
             title: "Professional: Database Application Development"
@@ -478,27 +478,27 @@
     description: ""
     image: "microsoft-sql-server.png"
     level: 2
-    tags: "Data Management - Storage / Data Center "
+    tags: "Data Management - Storage / Data Center"
     related:
         -
             title: "Accociate: Administration and Implementation"
             link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20764"
-            description: "Administering and Cloud / Security Services"
+            description: "Administering and Cloud / Security Services."
             level: 2
         -
             title: "Professional: Administration and Implementation"
             link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20764"
-            description: "Administering and Cloud / Security Services"
+            description: "Administering and Cloud / Security Services."
             level: 3
         -
             title: "Accociate: Database Application Development"
             link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20762"
-            description: "Database-centric Internet applications"
+            description: "Database-Centric Internet Applications."
             level: 2
         -
             title: "Professional: Database Application Development"
             link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=20762"
-            description: "Database-centric Internet applications"
+            description: "Database-Centric Internet Applications."
             level: 3
 -
     title: "IBM DB2 (Enterprice database)"
@@ -506,12 +506,12 @@
     description: ""
     image: "IBM-DB2.png"
     level: 2
-    tags: "Data Management - Storage / Data Center "
+    tags: "Data Management - Storage / Data Center"
     related:
         -
             title: "Intermidiate: Administration and Implementation"
             link: "https://www.ibm.com/certify/cert?id=08002107"
-            description: "Administering and Cloud / Security Services"
+            description: "Administering and Cloud / Security Services."
             level: 2
         -
             title: "Advanced: Administration and Implementation"
@@ -521,12 +521,12 @@
         -
             title: "Intermidiate: Database Application Development"
             link: "https://www.ibm.com/certify/cert?id=01002604"
-            description: "Database-centric Internet applications"
+            description: "Database-Centric Internet Applications."
             level: 2
         -
             title: "ProAdvanced: Database Application Development"
             link: "https://www.ibm.com/certify/cert?id=08002107"
-            description: "Database-centric Internet applications"
+            description: "Database-Centric Internet Applications."
             level: 3
 -
     title: "MariaDB (Enterprice database)"
@@ -534,17 +534,17 @@
     description: ""
     image: "mariadb.png"
     level: 2
-    tags: "Data Management - Storage / Data Center "
+    tags: "Data Management - Storage / Data Center"
     related:
         -
             title: "Intermidiate: Administration and Implementation"
             link: "https://mariadb.learnupon.com/store/403117-mariadb-for-dbas-october-2018-europe-apac"
-            description: "Administering and Cloud / Security Services"
+            description: "Administering and Cloud / Security Services."
             level: 2
         -
             title: "Advanced: Administration and Clustring"
             link: "https://mariadb.learnupon.com/store/403107-mariadb-cluster-administration-october-2018-europe-apac"
-            description: "Administering and Cloud / Security Services"
+            description: "Administering and Cloud / Security Services."
             level: 3
 -
     title: "Mysql (Enterprice database)"
@@ -552,27 +552,27 @@
     description: ""
     image: "mysql.jpg"
     level: 2
-    tags: "Data Management - Storage / Data Center "
+    tags: "Data Management - Storage / Data Center"
     related:
         -
             title: "Accociate: Administration and Implementation"
             link: "https://education.oracle.com/oracle-database-12c-r2-administration-certified-associate/trackp_492"
-            description: "Administering and Cloud / Security Services"
+            description: "Administering and Cloud / Security Services."
             level: 2
         -
             title: "Professional: Administration and Implementation"
             link: "https://education.oracle.com/oracle-database-11g-administrator-certified-professional/trackp_289"
-            description: "Administering and Cloud / Security Services"
+            description: "Administering and Cloud / Security Services."
             level: 3
         -
             title: "Accociate: Database Application Development"
             link: "https://education.oracle.com/oracle-pl-sql-developer-certified-associate/trackp_162"
-            description: "Database-centric Internet applications"
+            description: "Database-Centric Internet Applications."
             level: 2
         -
             title: "Professional: Database Application Development"
             link: "https://education.oracle.com/oracle-database-pl-sql-developer-certified-professional/trackp_148"
-            description: "Administering and Cloud / Security Services"
+            description: "Administering and Cloud / Security Services."
             level: 3
 -
     title: "postgreSQL (Enterprice database)"
@@ -580,22 +580,22 @@
     description: ""
     image: "postgresql.png"
     level: 2
-    tags: "Data Management - Storage / Data Center "
+    tags: "Data Management - Storage / Data Center"
     related:
         -
             title: "Intermidiate: Administration, Operation and Implementation"
             link: "https://www.postgresql.org/about/event/1632/"
-            description: "Administering, Backing Up and Restoring, Monitoring the Server"
+            description: "Administering, Backing Up and Restoring, Monitoring the Server."
             level: 2
         -
             title: "Advanced: Administration and Implementation"
             link: "https://www.postgresql.org/about/event/2231/"
-            description: "Administering and Clustring / Security Services"
+            description: "Administering and Clustring / Security Services."
             level: 3
         -
             title: "Intermidiate: Database Application Development"
             link: "https://www.postgresql.org/about/event/2261/"
-            description: "Database-centric Internet applications"
+            description: "Database-Centric Internet Applications."
             level: 2
 -
     title: "MongoDB (Enterprice database)"
@@ -603,17 +603,17 @@
     description: ""
     image: "mongodb.png"
     level: 2
-    tags: "Data Management - Storage / Data Center "
+    tags: "Data Management - Storage / Data Center"
     related:
         -
             title: "Intermidiate: Administration, Operation and Implementation"
             link: "https://university.mongodb.com/courses/M103/about"
-            description: "Administering, and Clustring, Backing Up and Restoring, Monitoring the Server"
+            description: "Administering, and Clustring, Backing Up and Restoring, Monitoring the Server."
             level: 2
         -
             title: "Advanced: Administration and Implementation"
             link: "https://university.mongodb.com/courses/M310/about"
-            description: "Administering  / Security Services"
+            description: "Administering  / Security Services."
             level: 3
 -
     title: "Cisco"
@@ -626,22 +626,22 @@
         -
             title: "Networking Associate"
             link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccda.html"
-            description: "Installation / operations / troubleshooting / sales engineers"
+            description: "Installation / Operations / Troubleshooting / Sales engineers."
             level: 2
         -
             title: "Networking Professionals"
             link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccdp.html#~stickynav=1"
-            description: "Senior Network Design Engineers, Principle System Engineer, Network/Solution Architects"
+            description: "Senior Network Design Engineers, Principle System Engineer, Network/Solution Architects."
             level: 3
         -
             title: "Networking experts"
             link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert.html"
-            description: "Expert-level infrastructure network design"
+            description: "Expert-Level Infrastructure Network Design."
             level: 3
         -
             title: "Networking Architect"
             link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/architect.html"
-            description: "Infrastructure Architecture"
+            description: "Infrastructure Architecture."
             level: 4
 -
     title: "Juniper"
@@ -654,22 +654,22 @@
         -
             title: "Associate"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/ent-routing-switching-track?tab=jnciajunos"
-            description: "Installation / operations / troubleshooting / sales engineers"
+            description: "Installation / Operations / Troubleshooting / Sales engineers"
             level: 2
         -
             title: "Specialist"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/ent-routing-switching-track?tab=jncis-enterprise"
-            description: "implementations / configuration / troubleshooting"
+            description: "Implementations / Configuration / Troubleshooting."
             level: 3
         -
             title: "Professional"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/ent-routing-switching-track?tab=jncip-ent"
-            description: "Infrastructure expert"
+            description: "Infrastructure Expert."
             level: 3
         -
             title: "Expert"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/ent-routing-switching-track?tab=jncieent"
-            description: "Infrastructure Architecture"
+            description: "Infrastructure Architecture."
             level: 4
 -
     title: "AWS"
@@ -682,22 +682,22 @@
         -
             title: "Cloud Practitioner"
             link: "https://aws.amazon.com/certification/certified-cloud-practitioner/"
-            description: "overall understanding of the AWS Cloud"
+            description: "overall understanding of the AWS Cloud."
             level: 2
         -
             title: "Developer"
             link: "https://aws.amazon.com/certification/certified-developer-associate/"
-            description: "Developing / deploying / debugging cloud-based applications"
+            description: "Developing / Deploying / Debugging Cloud-based Applications."
             level: 3
         -
             title: "Solution Architecture"
             link: "https://aws.amazon.com/certification/certified-solutions-architect-professional/"
-            description: "Designing distributed applications and systems on the AWS platform"
+            description: "Designing distributed applications and systems on the AWS platform."
             level: 3
         -
             title: "DevOps"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/ent-routing-switching-track?tab=jncieent"
-            description: "Design / implementation of infrastructure / Fine-tuning of applications"
+            description: "Design / Implementation of Infrastructure / Fine-Tuning of Applications."
             level: 3
 -
     title: "Microsoft Azure"
@@ -710,22 +710,22 @@
         -
             title: "Solutions Associate"
             link: "https://www.microsoft.com/en-us/learning/mcsa-cloud-platform-certification.aspx"
-            description: "Cloud administrator / architect"
+            description: "Cloud Administrator / Architect."
             level: 2
         -
             title: "Solutions Expert"
             link: "https://www.microsoft.com/en-us/learning/mcse-cloud-platform-infrastructure.aspx"
-            description: "Identity management / systems management /virtualization /storage and networking"
+            description: "Identity management / Systems management /Virtualization /Storage and Networking."
             level: 3
         -
             title: "Solutions Developer"
             link: "https://www.microsoft.com/en-us/learning/mcsd-certification.aspx"
-            description: "Designing distributed applications and systems on the AWS platform"
+            description: "Designing distributed applications and systems on the AWS platform."
             level: 3
         -
             title: "Productivity Solutions Expert"
             link: "https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx#cp-section3-head"
-            description: "Moving to Cloud / reduction of data loss / improve data security"
+            description: "Moving to Cloud / Reduction of Data loss / Improve Data security."
             level: 3
 -
     title: "Checkpoint"
@@ -738,17 +738,17 @@
         -
             title: "Security Administrator"
             link: "https://store.checkpoint.com/training-certification/#/courses/Check-Point-Certified-Admin-(CCSA)-R80.10"
-            description: "Installation / configuration / operations"
+            description: "Installation / Configuration / Operations."
             level: 2
         -
             title: "Security Expert"
             link: "https://store.checkpoint.com/training-certification/#/courses/Check-Point-Certified-Expert-(CCSE)-R80.10"
-            description: "build / modify / deploy / troubleshoot"
+            description: "Build / Modify / Deploy / Troubleshoot."
             level: 3
         -
             title: "Security Master"
             link: "https://community.checkpoint.com/thread/7986-check-point-certified-security-master-ccsm-r80-exam-available-now"
-            description: "managing virtualized security in high-end networks / advanced security optimization"
+            description: "Managing virtualized security in high-end networks / Advanced Security Optimization."
             level: 3
 -
     title: "Cisco NGFW"
@@ -761,7 +761,7 @@
         -
             title: "Network Associate Security"
             link: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-security.html?dtid=osscdc000283"
-            description: "Security Specialist /Administrator/ Security Support Engineer"
+            description: "Security Specialist /Administrator/ Security Support Engineer."
             level: 2
         -
             title: "Network Professional Security"
@@ -771,7 +771,7 @@
         -
             title: "Internetwork Expert Security"
             link: "https://community.checkpoint.com/thread/7986-check-point-certified-security-master-ccsm-r80-exam-available-now"
-            description: "Design / implement / operate / troubleshoot complex security technologies"
+            description: "Design / Implement / Operate / Troubleshoot Complex Security Technologies."
             level: 3
 -
     title: "Pulse Secure / Juniper"
@@ -784,22 +784,22 @@
         -
             title: "Associate"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jnciajunos"
-            description: "Installation / operations / troubleshooting / sales engineers"
+            description: "Installation / Operations / Troubleshooting / Sales engineers."
             level: 2
         -
             title: "Security Specialist"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jncisec"
-            description: "Deploying / Operations / troubleshooting"
+            description: "Deploying / Operations / Troubleshooting."
             level: 3
         -
             title: "Security Professional"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jncip-sec"
-            description: "Infrastructure security expert"
+            description: "Infrastructure Security Expert."
             level: 3
         -
             title: "Security Expert"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jnciesec"
-            description: "Install complex policies / attack prevention / HA / IPS"
+            description: "Install Complex Policies / Attack Prevention / HA / IPS."
             level: 3
 -
     title: "Cisco ISE"
@@ -812,12 +812,12 @@
         -
             title: "Implementing and Configuring"
             link: "https://www.cisco.com/c/en/us/training-events/resources/training-services/course-overviews/implementing-and-configuring-cisco-identity-services-engine.html"
-            description: "Installation / operations / troubleshooting / sales engineers"
+            description: "Installation / Operations / Troubleshooting / Sales Engineers."
             level: 2
         -
             title: "Identity management / Access control"
             link: "https://www.ciscolive.com/global/on-demand-library/?search.event=ciscoliveus2018&search=ISE#/session/1509501633570001PwRS"
-            description: "Deploying / Operations / troubleshooting"
+            description: "Deploying / Operations / Troubleshooting."
             level: 3
 -
     title: "Juniper NAC / Juniper UAC"
@@ -830,22 +830,22 @@
         -
             title: "Associate"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jnciajunos"
-            description: "Installation / operations / troubleshooting / sales engineers"
+            description: "Installation / Operations / Troubleshooting / Sales Engineers."
             level: 2
         -
             title: "Security Specialist"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jncisec"
-            description: "Deploying / Operations / troubleshooting"
+            description: "Deploying / Operations / Troubleshooting."
             level: 3
         -
             title: "Security Professional"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jncip-sec"
-            description: "Infrastructure security expert"
+            description: "Infrastructure Security Expert."
             level: 3
         -
             title: "Security Expert"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jnciesec"
-            description: "Install complex policies / attack prevention / HA / IPS"
+            description: "Install Complex Policies / Attack Prevention / HA / IPS."
             level: 4
 -
     title: "Microsoft AD"
@@ -858,14 +858,14 @@
         -
             title: "Identity with Windows Server"
             link: "https://www.microsoft.com/en-us/learning/exam-70-742.aspx"
-            description: "Implement / deploy / maintain / group policy handling "
+            description: "Implement / Deploy / Maintain / Group policy handling."
             level: 3
         -
             title: "Configuring Advanced Windows Server"
             link: "https://www.microsoft.com/en-us/learning/exam-70-412.aspx"
-            description: "Implement / deploy / Replication"
+            description: "Implement / Deploy / Replication."
             level: 3
--
+
     title: "Ericsson"
     link: "https://www.ericsson.com/ourportfolio/mobile-transport-1"
     description: ""
@@ -876,12 +876,12 @@
         -
             title: "Optical Transport"
             link: "https://archive.ericsson.net/service/internet/picov/get?DocNo=493/03819-FAP130506&Lang=AE&HighestFree=Y"
-            description: "Operations / Administration / Maintenance"
+            description: "Operations / Administration / Maintenance."
             level: 2
         -
             title: "Microwave Transport"
             link: "https://archive.ericsson.net/service/internet/picov/get?DocNo=467/03819-FAP130506&Lang=AE&HighestFree=Y"
-            description: "Operations / Administration / Maintenance"
+            description: "Operations / Administration / Maintenance."
             level: 3
 -
     title: "Huawei"
@@ -894,12 +894,12 @@
         -
             title: "Optical Transport Associate"
             link: "http://e-learning.huawei.com/zone/pub/lsportal/en/HuaweiCertifiedNetworkAssociateTransmissionCertificationTraining.html"
-            description: "Operations / Administration / Maintenance"
+            description: "Operations / Administration / Maintenance."
             level: 2
         -
             title: "Microwave Transport Associate"
             link: "http://e-learning.huawei.com/zone/pub/lsportal/en/HuaweiCertifiedNetworkAssociateMicrowaveProductCertificationTraining.html"
-            description: "Operations / Administration / Maintenance"
+            description: "Operations / Administration / Maintenance."
             level: 3
 -
     title: "Cisco Prime Infrastructure"
@@ -951,12 +951,12 @@
         -
             title: "Basic"
             link: "https://www.op5.com/training/op5-academy/"
-            description: "Administration / Monitoring"
+            description: "Administration / Monitoring."
             level: 2
         -
             title: "Advanced"
             link: "https://www.op5.com/training/op5-academy/"
-            description: "VMware, Windows monitoring, SNMP and Web service administration"
+            description: "VMware, Windows monitoring, SNMP and Web Service Administration."
             level: 2
 -
     title: "Squared Up"
@@ -969,12 +969,12 @@
         -
             title: "Integrations"
             link: "https://squaredup.com/education/academy/integrations"
-            description: "Service Management / Microsoft OMS / SCOM integration"
+            description: "Service Management / Microsoft OMS / SCOM integration."
             level: 2
         -
             title: "Advanced: Squared Up deep-dive"
             link: "https://squaredup.com/education/academy/squared-up-deep-dive"
-            description: "High Availability / Alert Management / Monitoring"
+            description: "High Availability / Alert Management / Monitoring."
             level: 3
 -
     title: "AWS Web Hosting"
@@ -987,22 +987,22 @@
         -
             title: "Cloud Practitioner"
             link: "https://aws.amazon.com/certification/certified-cloud-practitioner/"
-            description: "overall understanding of the AWS Cloud"
+            description: "Overall understanding of the AWS Cloud."
             level: 2
         -
             title: "Developer"
             link: "https://aws.amazon.com/certification/certified-developer-associate/"
-            description: "Developing / deploying / debugging cloud-based applications"
+            description: "Developing / Deploying / Debugging Cloud-Based Applications."
             level: 3
         -
             title: "Solution Architecture"
             link: "https://aws.amazon.com/certification/certified-solutions-architect-professional/"
-            description: "Designing distributed applications and systems"
+            description: "Designing distributed applications and systems."
             level: 3
         -
             title: "DevOps"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/ent-routing-switching-track?tab=jncieent"
-            description: "Design / implementation of infrastructure / Fine-tuning of applications"
+            description: "Design / Implementation of infrastructure / Fine-tuning of applications."
             level: 3
 -
     title: "Google Cloud"
@@ -1015,17 +1015,17 @@
         -
             title: "Architecting"
             link: "https://cloud.google.com/training/courses/architecting-infrastructure"
-            description: "Cloud Solutions Architects, DevOps Engineers"
+            description: "Cloud Solutions Architects, DevOps Engineers."
             level: 2
         -
             title: "Application Development"
             link: "https://cloud.google.com/training/courses/developing-applications"
-            description: "Application developers"
+            description: "Application Developers."
             level: 3
         -
             title: "Professional Cloud Architect"
             link: "https://cloud.google.com/training/courses/preparing-pro-cloud-architect-exam"
-            description: "Professional Cloud Architect"
+            description: "Professional Cloud Architect."
             level: 3
 -
     title: "Microsoft Cloud"
@@ -1038,12 +1038,12 @@
         -
             title: "Intermediate: Introduction to Microsoft Azure"
             link: "https://mva.microsoft.com/en-US/training-courses/microsoft-azure-for-it-pros-content-series-introduction-to-microsoft-azure-16744?l=1WUlKXSwC_3006218965"
-            description: "Application developers"
+            description: "Application Developers."
             level: 2
         -
             title: "Advanced: Architecting"
             link: "https://cloud.google.com/training/courses/architecting-infrastructure"
-            description: "Cloud Development / Networking / Monitoring"
+            description: "Cloud Development / Networking / Monitoring."
             level: 3
 -
     title: "Apache Web Server"
@@ -1056,12 +1056,12 @@
         -
             title: "Intermediate: Apache HTTP Server"
             link: "https://www.udemy.com/apache-web-server-administration/"
-            description: "Installation / Administration / Troubleshooting"
+            description: "Installation / Administration / Troubleshooting."
             level: 2
         -
             title: "Advanced: Administation / security"
             link: "https://www.udemy.com/apache-web-server-administration-hands-on-training/"
-            description: "Essesntial server administration"
+            description: "Essesntial Server Administration."
             level: 3
 -
     title: "Microsoft IIS"
@@ -1074,7 +1074,7 @@
         -
             title: "Advanced: Administation"
             link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=10972"
-            description: "Essesntial server administration"
+            description: "Essesntial Server Administration."
             level: 3
 -
     title: "NGINX Plus"
@@ -1087,12 +1087,12 @@
         -
             title: "Admins, architects, and DevOps professionals"
             link: "https://university.nginx.com/instructor-led-training/nginx-core2"
-            description: "Installation / Administration / Management"
+            description: "Installation / Administration / Management."
             level: 2
         -
             title: "Advanced: Administation and security"
             link: "https://university.nginx.com/instructor-led-training/securing-applications-with-nginx"
-            description: "Developers / DevOps / Administrators"
+            description: "Developers / DevOps / Administrators."
             level: 3
 -
     title: "Apache TomEE"
@@ -1105,7 +1105,7 @@
         -
             title: "Admins, architects, and delopment professionals"
             link: "https://www.nobleprog.co.uk/cc/tomee"
-            description: "Installation / Administration / Management"
+            description: "Installation / Administration / Management."
             level: 2
 -
     title: "Cisco Open DNS / Cisco Umbrella"
@@ -1118,7 +1118,7 @@
         -
             title: "Administration / Operation"
             link: "http://store.globalknowledge.net/course-overviews/UK/ADMUMB_1.0_.pdf"
-            description: "Installation / Administration"
+            description: "Installation / Administration."
             level: 2
 -
     title: "PowerDNS"
@@ -1131,7 +1131,7 @@
         -
             title: "Administration / Operation"
             link: "http://store.globalknowledge.net/course-overviews/UK/ADMUMB_1.0_.pdf"
-            description: "Administration / Deployment / Maintenance"
+            description: "Administration / Deployment / Maintenance."
             level: 2
 -
     title: "Infoblox"
@@ -1144,12 +1144,12 @@
         -
             title: "Essentials"
             link: "http://go.infoblox.com/t/courses/Secure_DNS_Config_Admin_SDCA_Super_Course.pdf"
-            description: "Implementation / Administration / Operations"
+            description: "Implementation / Administration / Operations."
             level: 2
         -
             title: "Advanced"
             link: "http://go.infoblox.com/t/courses/Core_DDI_Architecture_and_Design_Workshop_CDAD_Workshop.pdf"
-            description: "Architecture / Design / Solutions"
+            description: "Architecture / Design / Solutions."
             level: 3
 -
     title: "BIND"
@@ -1162,12 +1162,12 @@
         -
             title: "BIND Fundamentals"
             link: "https://www.menandmice.com/training/dnsb-f/"
-            description: "Implementation / Administration / Operations"
+            description: "Implementation / Administration / Operations."
             level: 2
         -
             title: "Advanced"
             link: "https://www.menandmice.com/training/dnsb-a/"
-            description: "Architecture / Security "
+            description: "Architecture / Security."
             level: 3
 -
     title: "Microsoft Server OS"
@@ -1195,7 +1195,7 @@
         -
             title: "MCSE Certifications"
             link: "https://www.microsoft.com/en-us/learning/mcse-certification.aspx"
-            description: "Microsoft Certified Solutions Expert"
+            description: "Microsoft Certified Solutions Expert."
             level: 4
 -
     title: "Microsoft Client OS"
@@ -1323,17 +1323,17 @@
         -
             title: "Administrator"
             link: "https://training.suse.com/certification/sca-linux/"
-            description: "SUSE Certified Administrator, SCA & SCA+"
+            description: "SUSE Certified Administrator, SCA & SCA+."
             level: 2
         -
             title: "Engineer"
             link: "https://training.suse.com/certification/sce-linux/"
-            description: "SUSE Certified Engineer SCE"
+            description: "SUSE Certified Engineer SCE."
             level: 3
         -
             title: "Architect"
             link: "https://training.suse.com/certification/sea/"
-            description: "SUSE Enterprise Architect SEA"
+            description: "SUSE Enterprise Architect SEA."
             level: 4
 -
     title: "Oracle Linux"
@@ -1390,17 +1390,17 @@
         -
             title: "Microsoft Outlook 2016"
             link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
-            description: "MOS Certification, Required exam 731"
+            description: "MOS Certification, Required exam 731."
             level: 3
         -
             title: "Microsoft Outlook 2013"
             link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
-            description: "MOS Certification, Required exam 423"
+            description: "MOS Certification, Required exam 423."
             level: 3
         -
             title: "Microsoft Outlook 2010"
             link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
-            description: "MOS Certification, Required exam 884"
+            description: "MOS Certification, Required exam 884."
             level: 3
 -
     title: "Zimbra"
@@ -1429,7 +1429,7 @@
         -
             title: "In-depth enterprise application integration"
             link: "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.6607&rep=rep1&type=pdf"
-            description: "Complex integrated information system"
+            description: "Complex integrated information system."
             level: 3
 -
     title: "Technical / Operation Support"
