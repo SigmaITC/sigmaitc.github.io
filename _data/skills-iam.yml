@@ -1434,7 +1434,7 @@
 -
     title: "Technical / Operation Support"
     link: "https://en.wikipedia.org/wiki/Technical_support"
-    description: ""
+    description: "Tasks can include installing and configuring computer systems, diagnosing hardware/software faults and solving technical problems, either over the phone or face to face."
     image: "technical.png"
     level: 3
     tags: "Consulting and Services"
@@ -1442,7 +1442,7 @@
 -
     title: "IT Operation Management"
     link: "https://searchitoperations.techtarget.com/definition/IT-operations-management-ITOM"
-    description: ""
+    description: "An operations manager is a senior role which involves overseeing the production of goods and/or provision of services."
     image: "operation.png"
     level: 3
     tags: "Consulting and Services"
@@ -1450,15 +1450,15 @@
 -
     title: "DevOps"
     link: "https://en.wikipedia.org/wiki/DevOps"
-    description: ""
+    description: "Devops Engineers are IT professionals who collaborate with software developers, system operators and other IT staff members to manage code releases."
     image: "devops.png"
     level: 3
     tags: "Consulting and Services"
     related: ""
 -
     title: "Cyber Security and IT Security Architect"
-    link: ""
-    description: ""
+    link: "https://searchsecurity.techtarget.com/definition/cybersecurity"
+    description: "The IT security engineer is on the front line of protecting a company's assets from threats."
     image: "cybersecurity.png"
     level: 3
     tags: Consulting and Services"
@@ -1466,7 +1466,7 @@
 -
     title: "Solution Management"
     link: "https://www.greatsampleresume.com/job-responsibilities/solution-manager-responsibilities/"
-    description: ""
+    description: "The core function of a solution manager is to oversee all aspects of a project. They may be involved with overhauling procedures and operations or they may oversee the development of specific products or strategies."
     image: "solutionmagagement.png"
     level: 3
     tags: "Consulting and Services"
@@ -1474,15 +1474,15 @@
 -
     title: "Project Management"
     link: "https://en.wikipedia.org/wiki/Project_management"
-    description: ""
+    description: "Project management responsibilities include the coordination and completion of projects on time within budget and within scope."
     image: "projectmanagement.png"
     level: 3
     tags: "Consulting and Services"
     related: ""
 -
     title: "Product and System management"
-    link: ""
-    description: ""
+    link: "https://targetjobs.co.uk/careers-advice/job-descriptions/279831-information-systems-manager-job-description"
+    description: "Information systems managers, or IT managers, are responsible for the secure and effective operation of all computer systems, related applications, hardware and software that is used within a wide range of public and private sector organisations."
     image: "product_system_management.png"
     level: 3
     tags: "Consulting and Services"
@@ -1490,15 +1490,15 @@
 -
     title: "Managed Services"
     link: "https://searchitchannel.techtarget.com/definition/managed-IT-service"
-    description: ""
+    description: "Design, implement, troubleshoot, analyze and maintain the IT Infrastructure of internal and external customer environments; including network connectivity and utilization, Windows server administration,virtualization, performance tuning, backup and restore."
     image: "managed.png"
     level: 3
     tags: "Consulting and Services"
     related: ""
 -
     title: "IT Architect"
-    link: "https://www.techopedia.com/definition/629/information-technology-architect-it-architect"
-    description: ""
+    link: "https://www.ics.ie/news/the-it-architect-job-description"
+    description: "An IT architect is an individual that architects and designs information technology solutions and services for organizations."
     image: "itarchitect.png"
     level: 3
     tags: "Consulting and Services"
@@ -1506,7 +1506,7 @@
 -
     title: "IT Process Management"
     link: "https://wiki.en.it-processmaps.com/index.php/Process_Management"
-    description: ""
+    description: "The primary role of Process Managers, also referred to as a business Process Managers, is to evaluate and make improvements to business processes."
     image: "process_management.png"
     level: 3
     tags: "Consulting and Services"
@@ -1514,7 +1514,7 @@
 -
     title: "IT Program Management"
     link: "https://www.techopedia.com/definition/30726/it-program-management"
-    description: ""
+    description: "A program manager acts as a coordinator between multiple projects at a business or organization to be sure their benefiting each other and aligning with overall business goals."
     image: "program_management.png"
     level: "3"
     tags: "Consulting and Services"
@@ -1522,7 +1522,7 @@
 -
     title: "IT Security Analyst"
     link: "https://digitalguardian.com/blog/what-security-analyst-responsibilities-qualifications-and-more"
-    description: ""
+    description: "Information security analysts design and implement security systems to protect a company or organization’s computer networks from cyber attacks, and help set and maintain security standards."
     image: "security_analyst.png"
     level: 3
     tags: "Consulting and Services"
@@ -1530,15 +1530,15 @@
 -
     title: "IT Security Auditor"
     link: "https://www.cyberdegrees.org/jobs/security-auditor/"
-    description: ""
+    description: "A Security Auditor probes the safety and effectiveness of computer systems and their related security components."
     image: "it-security-audit.png"
     level: 3
     tags: "Consulting and Services"
     related: ""
 -
     title: "IT Strategy and Planing"
-    link: ""
-    description: ""
+    link: "http://careers-in-business.com/sp.htm"
+    description: "Strategic planning involves helping a corporation design a path to growth and profitability amidst competition and constant change. The strategic planner's role consists of helping the organization to gather, analyze and organize information."
     image: "strategy_planing.png"
     level: 3
     tags: "Consulting and Services"
@@ -1546,7 +1546,7 @@
 -
     title: "IT Quality Assurance"
     link: "https://searchsoftwarequality.techtarget.com/definition/quality-assurance"
-    description: ""
+    description: "Quality assurance managers work with other staff to establish procedures and quality standards and to monitor these against agreed targets."
     image: "qaicon.png"
     level: 3
     tags: "Consulting and Services"
