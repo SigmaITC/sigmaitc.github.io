@@ -1587,7 +1587,7 @@
     title: "Association of Information Technology Professionals (AITP)"
     link: "https://www.aitp.org/"
     description: ""
-    image: "aitp.png"
+    image: "aitp.jpg"
     level: 0
     tags: "IT-organizations och institutes"
     related:
@@ -1611,7 +1611,7 @@
     title: "Information Systems Security Association (ISSA)"
     link: "https://www.issa.org/"
     description: ""
-    image: "ISSA.png"
+    image: "ISSA.jpg"
     level: 0
     tags: "IT-organizations och institutes"
     related:
@@ -1635,7 +1635,7 @@
     title: "Information Systems Audit and Control Association (ISACA)"
     link: "https://www.isaca.org/about-isaca/Pages/default.aspx"
     description: ""
-    image: "npa.jpg"
+    image: "isaca.jpg"
     level: 0
     tags: "IT-organizations och institutes"
     related:
