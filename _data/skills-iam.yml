@@ -1670,6 +1670,7 @@
     link: "https://www.iota.org/"
     description: ""
     image: "IoTA.png"
+    hot: true
     level: 0
     tags: "IT-organizations och institutes"
     related:
@@ -1678,6 +1679,15 @@
     link: "https://iofthings.org/about/"
     description: ""
     image: "internet-of-things.png"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "Association for the Advancement of Artificial Intelligence (AAAI)"
+    link: "https://www.aaai.org/"
+    description: ""
+    image: "aaai.jpg"
+    hot: true
     level: 0
     tags: "IT-organizations och institutes"
     related:
