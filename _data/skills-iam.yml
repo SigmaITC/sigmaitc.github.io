@@ -766,7 +766,7 @@
         -
             title: "Network Professional Security"
             link: "https://learningnetwork.cisco.com/community/certifications/ccnpsecurity"
-            description: "Deploying / Operations / troubleshooting"
+            description: "Deploying / Operations / Troubleshooting."
             level: 3
         -
             title: "Internetwork Expert Security"
@@ -784,7 +784,7 @@
         -
             title: "Associate"
             link: "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track?tab=jnciajunos"
-            description: "Installation / Operations / Troubleshooting / Sales engineers."
+            description: "Installation / Operations / Troubleshooting / Sales Engineers."
             level: 2
         -
             title: "Security Specialist"
@@ -912,7 +912,7 @@
         -
             title: "Associate"
             link: "http://e-learning.huawei.com/zone/pub/lsportal/en/HuaweiCertifiedNetworkAssociateLTECertificationTraining.html"
-            description: "Network operators / administrators"
+            description: "Network Operators / Administrators."
             level: 2
 -
     title: "Cisco Security Manager"
@@ -925,7 +925,7 @@
         -
             title: "Associate"
             link: "https://learninglocator.cloudapps.cisco.com/courseDetails.do?actionType=executeCourseDetail&courseID=5696"
-            description: "Network security operators / administrators"
+            description: "Network Security Operators / Administrators"
             level: 2
 -
     title: "SCOM"
@@ -1300,7 +1300,7 @@
         -
             title: "RHCA"
             link: "https://www.redhat.com/en/services/certification/rhca"
-            description: "Highest level of certification by passing—and keeping current—five additional certifications."
+            description: "Highest level of certification by passing and keeping current five additional certifications."
             level: 4
         -
             title: "RHCVA"
@@ -1346,7 +1346,7 @@
         -
             title: "Oracle Certified Associate"
             link: "https://education.oracle.com/oracle-certified-associate-oracle-linux-5-and-6-system-administrator/trackp_251"
-            description: "OCA credential is the first step toward achieving an Oracle Certified Professional certification."
+            description: "OCA credential is the first step toward achieving an Oracle Certified Professional Certification."
             level: 2
         -
             title: "Oracle Certified Professional"
