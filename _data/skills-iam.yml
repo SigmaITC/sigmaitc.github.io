@@ -1183,19 +1183,18 @@
             description: "Validate the fundamental knowledge needed to begin building a career in technology."
             level: 2
         -
-            title: "MCSA: Windows Server 2012"
-            link: "https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx"
-            description: "Qualifies you for a position as a network of computer systems administrator or computer network specialist."
-            level: 3
-        -
             title: "MCSA: Windows Server 2003"
             link: "https://www.petri.com/windows_2003_mcsa_certification_requirements"
             description: "Qualifies you for a position as a network of computer systems administrator or computer network specialist."
-            cold: true
             level: 3
         -
             title: "MCSA: Windows Server 2008 R2"
             link: "https://www.microsoft.com/en-us/learning/mcsa-windows-server-2008-certification.aspx"
+            description: "Qualifies you for a position as a network of computer systems administrator or computer network specialist."
+            level: 3
+        -
+            title: "MCSA: Windows Server 2012"
+            link: "https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx"
             description: "Qualifies you for a position as a network of computer systems administrator or computer network specialist."
             level: 3
         -
