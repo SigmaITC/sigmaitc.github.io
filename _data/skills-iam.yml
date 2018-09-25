@@ -136,7 +136,7 @@
     link: "https://aws.amazon.com"
     description: ""
     image: "aws.png"
-    level: 3
+    level: 2
     tags: "Cloud Computing"
     related:
         -
@@ -169,14 +169,14 @@
     link: "https://azure.microsoft.com/en-us/overview/types-of-cloud-computing/"
     description: ""
     image: "azure.png"
-    level: 3
+    level: 2
     tags: "Cloud Computing"
     related:
         -
             title: "Technology Associate"
             link: "https://www.microsoft.com/en-ph/learning/mta-summary-certification.aspx"
             description: "MTA Certification: Database, Developer, IT Infrastructure"
-            level: 3
+            level: 2
         -
             title: "Design and Administrator"
             link: "https://www.microsoft.com/en-ph/learning/mcsa-cloud-platform-certification.aspx"
@@ -191,13 +191,13 @@
             title: "Solutions Expert, Cloud Platform and Infrastructure"
             link: "https://www.microsoft.com/en-ph/learning/mcse-cloud-platform-infrastructure.aspx"
             description: "MCSE Cloud Platform and Infrastructure: Microsoft Azure, Windows Server Virtualization"
-            level: 3
+            level: 4
 -
     title: "VmWare"
     link: "https://cloud.vmware.com/"
     description: ""
     image: "vmware.png"
-    level: 3
+    level: 2
     tags: "Cloud Computing"
     related:
         -
@@ -219,20 +219,20 @@
             title: "Certified Design Expert"
             link: "https://www.vmware.com/education-services/certification/vcdx6-dcv.html"
             description: "VCDX: For Architects"
-            level: 3
+            level: 4
 -
     title: "Dell"
     link: "https://www.dellemc.com/sr-me/storage/mainframe.htm#scroll=off"
     description: ""
     image: "dell.jpg"
-    level: 3
+    level: 2
     tags: "Mainframe / Servers"
     related:
         -
             title: "Technology / Associate"
             link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#technology"
             description: "Associate, Data Scientist"
-            level: 3
+            level: 2
         -
             title: "Design"
             link: "https://education.emc.com/content/emc/en-us/home/certification-overview.html#design"
@@ -258,7 +258,7 @@
     link: "https://www.hpe.com/us/en/servers.html#"
     description: ""
     image: "hp.png"
-    level: 3
+    level: 2
     tags: "Mainframe / Servers"
     related:
         -
@@ -275,7 +275,7 @@
             title: "Expert level - HPE ASE"
             link: ""
             description: "You can consult, architect, design, deploy, administer and support HPE solutions across all environments."
-            level: 4
+            level: 3
         -
             title: "Master level - HPE Master ASE"
             link: ""
@@ -286,7 +286,7 @@
     link: "https://www.hitachivantara.com/en-us/products/storage/mainframe-storage.html"
     description: ""
     image: "hitachi.png"
-    level: 3
+    level: 2
     tags: "Mainframe / Servers"
     related:
         -
@@ -334,7 +334,7 @@
     link: "https://www.ibm.com/se-sv/it-infrastructure/z"
     description: ""
     image: "ibm.png"
-    level: 3
+    level: 2
     tags: "Mainframe / Servers"
     related:
         -
@@ -346,7 +346,7 @@
             title: "IBM Certified System Administrator"
             link: "https://www.ibm.com/certify/cert?id=14062705"
             description: "This is an intermediate-level certification."
-            level: 3
+            level: 2
 -
     title: "SAP HANA"
     link: "https://www.sap.com/products/hana.html"
@@ -1174,7 +1174,7 @@
     link: "https://en.wikipedia.org/wiki/Windows_Server"
     description: ""
     image: "microsoft.png"
-    level: 3
+    level: 2
     tags: "Operative System Platforms - Server Platforms"
     related:
         -
@@ -1202,7 +1202,7 @@
     link: "https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions#Personal_computer_versions"
     description: ""
     image: "microsoft.png"
-    level: 3
+    level: 2
     tags: "Operative System Platforms - Client Platforms"
     related:
         -
@@ -1225,7 +1225,7 @@
     link: "https://products.office.com/sv-SE/?ms.url=office365com"
     description: ""
     image: "office365.png"
-    level: 3
+    level: 2
     tags: "Software Applications - MS Office"
     related:
         -
@@ -1248,7 +1248,7 @@
     link: "https://products.office.com/sv-se/professional"
     description: ""
     image: "office2013.png"
-    level: 3
+    level: 2
     tags: "Software Applications - MS Office"
     related:
         -
@@ -1266,7 +1266,7 @@
     link: "https://products.office.com/sv-se/professional"
     description: ""
     image: "office2016.png"
-    level: 3
+    level: 2
     tags: "Software Applications - MS Office"
     related:
         -
@@ -1284,7 +1284,7 @@
     link: "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"
     description: ""
     image: "redhat.png"
-    level: 3
+    level: 2
     tags: "Operative System Platforms - Server Platforms"
     related:
         -
@@ -1317,7 +1317,7 @@
     link: "https://www.suse.com/"
     description: ""
     image: "suse.png"
-    level: 3
+    level: 2
     tags: "Operative System Platforms - Server Platforms"
     related:
         -
@@ -1340,7 +1340,7 @@
     link: "https://www.oracle.com/linux/"
     description: ""
     image: "oraclelinux.png"
-    level: 3
+    level: 2
     tags: "Operative System Platforms - Server Platforms"
     related:
         -
@@ -1368,7 +1368,7 @@
     link: "https://training.linuxfoundation.org/certification/"
     description: ""
     image: "ubuntu.png"
-    level: 3
+    level: 2
     tags: "Operative System Platforms - Server Platforms"
     related:
 -
@@ -1376,7 +1376,7 @@
     link: "https://training.linuxfoundation.org/certification/"
     description: ""
     image: "debian.png"
-    level: 3
+    level: 2
     tags: "Operative System Platforms - Server Platforms"
     related:
 -
@@ -1384,24 +1384,24 @@
     link: "https://products.office.com/sv-se/outlook/email-and-calendar-software-microsoft-outlook?tab=tabs-1"
     description: ""
     image: "outlook.png"
-    level: 2
+    level: 3
     tags: "Software Applications - Mail"
     related:
         -
             title: "Microsoft Outlook 2016"
             link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
             description: "MOS Certification, Required exam 731"
-            level: 2
+            level: 3
         -
             title: "Microsoft Outlook 2013"
             link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
             description: "MOS Certification, Required exam 423"
-            level: 2
+            level: 3
         -
             title: "Microsoft Outlook 2010"
             link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
             description: "MOS Certification, Required exam 884"
-            level: 2
+            level: 3
 -
     title: "Zimbra"
     link: "https://www.zimbra.com/"
