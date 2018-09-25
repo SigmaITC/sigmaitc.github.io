@@ -1174,6 +1174,7 @@
     title: "Microsoft Server OS"
     link: "https://en.wikipedia.org/wiki/Windows_Server"
     description: ""
+    hot: true
     image: "microsoft.png"
     level: 2
     tags: "Operative System Platforms - Server Platforms"
@@ -1294,6 +1295,7 @@
     title: "Red Hat Enterprise Linux"
     link: "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"
     description: ""
+    hot: true
     image: "redhat.png"
     level: 2
     tags: "Operative System Platforms - Server Platforms"
