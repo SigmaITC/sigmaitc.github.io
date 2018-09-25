@@ -135,6 +135,7 @@
     title: "Amazon"
     link: "https://aws.amazon.com"
     description: ""
+    hot: true
     image: "aws.png"
     level: 2
     tags: "Cloud Computing"
@@ -1461,6 +1462,7 @@
     title: "DevOps"
     link: "https://en.wikipedia.org/wiki/DevOps"
     description: "Devops Engineers are IT professionals who collaborate with software developers, system operators and other IT staff members to manage code releases."
+    hot: true
     image: "devops.png"
     level: 3
     tags: "Consulting and Services"
@@ -1469,6 +1471,7 @@
     title: "Cyber Security and IT Security Architect"
     link: "https://searchsecurity.techtarget.com/definition/cybersecurity"
     description: "The IT security engineer is on the front line of protecting a company's assets from threats."
+    hot: true
     image: "cybersecurity.png"
     level: 3
     tags: Consulting and Services"
