@@ -1494,6 +1494,11 @@
     level: 3
     tags: "Consulting and Services"
     related: ""
+        -
+            title: "IPMA Certified Project Management Associate"
+            link: "https://www.ipma.world/individuals/certification/certified-project-management-associate-level-d/"
+            description: "Requires no experience in project management."
+            level: 1
 -
     title: "Product and System management"
     link: "https://targetjobs.co.uk/careers-advice/job-descriptions/279831-information-systems-manager-job-description"
