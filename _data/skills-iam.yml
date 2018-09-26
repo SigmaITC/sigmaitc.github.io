@@ -1769,6 +1769,78 @@
     tags: "Annual International IT events"
     related:
 -
+    title: "DEF CON"
+    link: "https://www.defcon.org/"
+    description: "World's largest annual hacker conventions."
+    image: "defcon.png"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "Oracle® CloudWorld"
+    link: "https://www.oracle.com/cloudworld/index.html"
+    description: "Cloud, mobile, social, analytics, and artificial intelligence"
+    image: "Oraclecloud.png"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "VMUG (VMware User Group)"
+    link: "https://www.vmug.com/"
+    description: "For IT pros about ways to make better decisions in virtual environment"
+    image: "vgum.png"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "Cisco® Live"
+    link: "https://ciscolive.cisco.com/"
+    description: "Focuse on Cisco products, solutions and services"
+    image: "ciscolive.png"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "AWS re:Invent"
+    link: "https://reinvent.awsevents.com/"
+    description: "Annual AWS re:Invent conference"
+    image: "aws1.jpg"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "Microsoft ignite"
+    link: "https://www.microsoft.com/en-us/ignite"
+    description: "Microsoft Tech Community"
+    image: "microsoft.png"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "Atea Bootcamp"
+    link: "https://www.atea.se/event/2018/atea-bootcamp/"
+    description: "IT strategy, trends and future reconnaissance"
+    image: "atea-events.jpg"
+    level: 0
+    tags: "Annual Swedish IT events"
+    related:
+-
+    title: "Microsoft Tech days"
+    link: "https://tdswe.se/"
+    description: "Microsofts leading IT conference in Sweden"
+    image: "microsoft.png"
+    level: 0
+    tags: "Annual Swedish IT events"
+    related:
+-
+    title: "IDG Events"
+    link: "https://idgsverige.se/2.38505/event"
+    description: "IT events in Sweden"
+    image: "idg.jpg"
+    level: 0
+    tags: "Annual Swedish IT events"
+    related:
+-
     title: "Project Management"
     link: "https://en.wikipedia.org/wiki/Project_management"
     description: "Project management responsibilities include the coordination and completion of projects on time within budget and within scope."
@@ -1861,3 +1933,4 @@
             link: "https://semcon.com/sv/erbjudanden/darfor-lyckas-bara-3-av-10-projekt/utbildningar/grundutbildning-for-projektledare/"
             description: "Grundutbildning för projektledare"
             level: 1
+
