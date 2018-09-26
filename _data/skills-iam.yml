@@ -1828,7 +1828,7 @@
     title: "Microsoft Tech days"
     link: "https://tdswe.se/"
     description: "Microsofts leading IT conference in Sweden"
-    image: "microsoft.jpg"
+    image: "microsoft.png"
     level: 0
     tags: "Annual Swedish IT events"
     related:
@@ -1836,7 +1836,7 @@
     title: "IDG Events"
     link: "https://idgsverige.se/2.38505/event"
     description: "IT events in Sweden"
-    image: "microsoft.jpg"
+    image: "idg.jpg"
     level: 0
     tags: "Annual Swedish IT events"
     related:
