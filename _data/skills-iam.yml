@@ -1495,6 +1495,91 @@
     tags: "Consulting and Services"
     related: ""
 -
+            title: "IPMA Certified Project Management Associate"
+            link: "https://www.ipma.world/individuals/certification/certified-project-management-associate-level-d/"
+            description: "Requires no experience in project management."
+            level: 1
+        -
+            title: "IPMA Certified Project Manager"
+            link: "https://www.ipma.world/individuals/certification/certified-project-manager-level-c/"
+            description: "Requires 5 years of experience in project management/ program management/ portfolio management in complex project environment."
+            level: 2
+        -
+            title: "IPMA Certified Senior Project Manager"
+            link: "https://www.ipma.world/individuals/certification/certified-senior-project-manager-level-b/"
+            description: "Requires at least 3 years of experience as manager of less complex projects."
+            level: 3
+        -
+            title: IPMA Certified Projects Director"
+            link: "https://www.ipma.world/individuals/certification/certified-projects-director-level-a/"
+            description: "Requires 5 years of experience in project management/ program management and/or portfolio management with very complex environments with strategic relevance."
+            level: 4
+        -
+            title: "Prince2 Foundation"
+            link: ""
+            description: "https://www.axelos.com/certifications/prince2/prince2-foundation-certification"
+            level: 3
+        -
+            title: "Prince2 Practitioner"
+            link: ""
+            description: "https://www.axelos.com/certifications/prince2/prince2-practitioner-certification"
+            level: 4
+        -
+            title: "Prince2 Agile Foundation"
+            link: "https://www.axelos.com/certifications/prince2-agile/prince2-agile-foundation-certification"
+            description: "Combine agile concepts with the world's most popular approach to project management."
+            level: 3
+        -
+            title: "Prince2 Agile Practitioner"
+            link: "https://www.axelos.com/certifications/prince2-agile/prince2-agile-practitioner-certification"
+            description: ""
+            level: 4
+        -
+            title: "CAPM Certified in Project Management"
+            link: ""
+            description: "The CAPM demonstrates your understanding of the fundamental knowledge, terminology and processes of effective project management."
+            level: 2
+        -
+            title: "PMP Project Management Professional"
+            link: "https://www.pmi.org/certifications/types/project-management-pmp"
+            description: "Recognized and demanded by organizations worldwide, the PMP validates your competence to perform in the role of a project manager, leading and directing projects and teams."
+            level: 3
+        -
+            title: "PgMP Program Management Professional"
+            link: "https://www.pmi.org/certifications/types/program-management-pgmp"
+            description: "Designed for those who manage multiple, complex projects to achieve strategic and organizational results."
+            level: 4
+        -
+            title: "PfMP Portfolio Management Professional"
+            link: "https://www.pmi.org/certifications/types/portfolio-management-pfmp"
+            description: "Our portfolio management certification recognizes the advanced experience and skill of portfolio managers. "
+            level: 4
+        -
+            title: "PMI-PBA Professional in Business Analysis"
+            link: "https://www.pmi.org/certifications/types/business-analysis-pba"
+            description: "The PMI-PBA highlights your expertise in business analysis. It spotlights your ability to work effectively with stakeholders to define their business requirements, shape the output of projects and drive successful business outcomes."
+            level: 4
+        -
+            title: "PMI-ACP Agile Certified Practitioner"
+            link: "https://www.pmi.org/certifications/types/agile-acp"
+            description. "Created for those who believe in and apply agile principles and practices on projects. It requires a combination of training, experience and an exam. It also bridges agile approaches such as SCRUM, XP, LEAN and Kanban."
+            level: 4
+        -
+            title: "PMI-RMP Risk Management Professional"
+            link: "https://www.pmi.org/certifications/types/risk-management-rmp"
+            description: "The PMI-RMP certification recognizes demonstrated knowledge and expertise in the specialized area of assessing and identifying project risks along with plans to mitigate threats and capitalize on opportunities."
+            level: 4
+        -
+            title: "PMI-SP Scheduling Professional"
+            link: "https://www.pmi.org/certifications/types/scheduling-sp"
+            description: "The PMI-SP certification recognizes demonstrated knowledge and advanced experience in the specialized area of developing and maintaining project schedules."
+            level: 4
+        -
+            title: XLPM (PROPS)
+            link: "https://semcon.com/sv/erbjudanden/darfor-lyckas-bara-3-av-10-projekt/utbildningar/grundutbildning-for-projektledare/"
+            description: "Grundutbildning för projektledare"
+            level: 1
+-
     title: "Product and System management"
     link: "https://targetjobs.co.uk/careers-advice/job-descriptions/279831-information-systems-manager-job-description"
     description: "Information systems managers, or IT managers, are responsible for the secure and effective operation of all computer systems, related applications, hardware and software that is used within a wide range of public and private sector organisations."
