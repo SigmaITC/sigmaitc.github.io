@@ -1487,19 +1487,6 @@
     tags: "Consulting and Services"
     related: ""
 -
-    title: "Project Management"
-    link: "https://en.wikipedia.org/wiki/Project_management"
-    description: "Project management responsibilities include the coordination and completion of projects on time within budget and within scope."
-    image: "projectmanagement.png"
-    level: 3
-    tags: "Consulting and Services"
-    related: ""
-        -
-            title: "IPMA Certified Project Management Associate"
-            link: "https://www.ipma.world/individuals/certification/certified-project-management-associate-level-d/"
-            description: "Requires no experience in project management."
-            level: 1
--
     title: "Product and System management"
     link: "https://targetjobs.co.uk/careers-advice/job-descriptions/279831-information-systems-manager-job-description"
     description: "Information systems managers, or IT managers, are responsible for the secure and effective operation of all computer systems, related applications, hardware and software that is used within a wide range of public and private sector organisations."
