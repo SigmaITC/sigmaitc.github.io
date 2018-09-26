@@ -1713,37 +1713,67 @@
     tags: "Information Technology Standards"
     related:
 -
-    title: "International IT Summit and Events"
-    link: ""
-    description: ""
-    image: "it-world.png"
+    title: "IT Arena"
+    link: "https://itarena.ua/"
+    description: "progressive ideas from global changemakers and the most inspiring thinkers"
+    image: "it-arena-round.png"
     level: 0
     tags: "Annual International IT events"
     related:
-        -
-            title: "IT Arena"
-            link: "https://itarena.ua/"
-            description: "three-day event jam-packed with progressive ideas from global changemakers and the most inspiring thinkers."
-            image: "it-arena-round.png"
-            level: 0
-        -
-            title: "IP EXPO Europe"
-            link: "https://www.ipexpoeurope.com/"
-            description: "Cyber Security X, Developer X, AI-Analytics X, Internet of Things X and Blockchain X"
-            image: "IP-EXPO-Europe.png"
-            level: 0
-        -
-            title: "All Day DevOps"
-            link: "https://www.alldaydevops.com/"
-            description: "CI/CD, Cloud-Native Infrastructure, DevSecOps, Cultural Transformations, and Site Reliability Engineering"
-            image: "AllDayDevops.png"
-            level: 0
-        -
-            title: "Open Source Summit Europe (OSSEU)"
-            link: "https://events.linuxfoundation.org/events/open-source-summit-europe-2018/"
-            description: "the leading conference for developers, architects and other technologists – as well as open source community and industry leaders"
-            image: "Open-Source-Summit.png"
-            level: 0
-
-
+-
+    title: "All Day DevOps"
+    link: "https://www.alldaydevops.com/"
+    description: "Cyber Security X, Developer X, AI-Analytics X, Internet of Things X and Blockchain"
+    image: "IP-EXPO-Europe.png"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "IP EXPO Europe"
+    link: "https://www.ipexpoeurope.com/"
+    description: "Cyber Security X, Developer X, AI-Analytics X, Internet of Things X and Blockchain"
+    image: "IP-EXPO-Europe.png"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "Open Source Summit Europe (OSSEU)"
+    link: "https://events.linuxfoundation.org/events/open-source-summit-europe-2018/"
+    description: "the leading conference for developers, architects and other technologists – as well as open source community and industry leaders"
+    image: "Open-Source-Summit.png"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "Big Data Week Conference"
+    link: "http://london.bigdataweek.com/"
+    description: "the leading conference for developers, architects and other technologists – as well as open source community and industry leaders"
+    image: "bigdataweek.png"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "OPEN NETWORKING"
+    link: "https://events.linuxfoundation.org/events/open-networking-summit-europe-2018/"
+    description: "Open Source Networking, including SDN, NFV, orchestration and the automation of cloud, network, & IoT services"
+    image: "ons.png"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "Infosecurity North America"
+    link: "https://www.infosecuritynorthamerica.com/"
+    description: "information security community"
+    image: "Infosecurity-Northamerica.png"
+    level: 0
+    tags: "Annual International IT events"
+    related:
+-
+    title: "ICT, Imagine Digital - Connect Europe"
+    link: "https://ec.europa.eu/digital-single-market/en/events/ict-2018-imagine-digital-connect-europe"
+    description: "European Union’s priorities in the digital transformation of society and industry"
+    image: "ict-eu.jpg"
+    level: 0
+    tags: "Annual International IT events"
+    related:
 
