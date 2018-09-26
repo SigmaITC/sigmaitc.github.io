@@ -1584,6 +1584,14 @@
     related: ""
 -
     title: "Internet Assigned Numbers Authority (IANA)"
+    link: "https://www.icann.org/"
+    description: ""
+    image: "icann.png"
+    level: 0
+    tags: "IT-organizations och institutes"
+    related:
+-
+    title: "Internet Corporation for Assigned Names and Numbers (ICANN)"
     link: "https://www.iana.org/"
     description: ""
     image: "iana.png"
