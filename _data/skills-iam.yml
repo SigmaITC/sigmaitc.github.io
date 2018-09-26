@@ -1517,12 +1517,12 @@
         -
             title: "Prince2 Foundation"
             link: "https://www.axelos.com/certifications/prince2/prince2-foundation-certification"
-            description: ""
+            description: " The Foundation certification aims to confirm that you know and understand the PRINCE2 method well enough to be able to work effectively with, or as a member of, a project management team working within an environment supporting PRINCE2."
             level: 3
         -
             title: "Prince2 Practitioner"
             link: "https://www.axelos.com/certifications/prince2/prince2-practitioner-certification"
-            description: "PRINCE2 Practitioner certification is suitable for anyone managing projects. This could be as part of a formal project management function or a role which involves project management as part of day-to-day work"
+            description: "PRINCE2 Practitioner certification is suitable for anyone managing projects. This could be as part of a formal project management function or a role which involves project management as part of day-to-day work."
             level: 4
         -
             title: "Prince2 Agile Foundation"
@@ -1552,7 +1552,7 @@
         -
             title: "PfMP Portfolio Management Professional"
             link: "https://www.pmi.org/certifications/types/portfolio-management-pfmp"
-            description: "Our portfolio management certification recognizes the advanced experience and skill of portfolio managers. "
+            description: "Our portfolio management certification recognizes the advanced experience and skill of portfolio managers."
             level: 4
         -
             title: "PMI-PBA Professional in Business Analysis"
@@ -1562,7 +1562,7 @@
         -
             title: "PMI-ACP Agile Certified Practitioner"
             link: "https://www.pmi.org/certifications/types/agile-acp"
-            description. "Created for those who believe in and apply agile principles and practices on projects. It requires a combination of training, experience and an exam. It also bridges agile approaches such as SCRUM, XP, LEAN and Kanban."
+            description: "Created for those who believe in and apply agile principles and practices on projects. It requires a combination of training, experience and an exam. It also bridges agile approaches such as SCRUM, XP, LEAN and Kanban."
             level: 4
         -
             title: "PMI-RMP Risk Management Professional"
@@ -1575,7 +1575,7 @@
             description: "The PMI-SP certification recognizes demonstrated knowledge and advanced experience in the specialized area of developing and maintaining project schedules."
             level: 4
         -
-            title: XLPM (PROPS)
+            title: "XLPM (PROPS)""
             link: "https://semcon.com/sv/erbjudanden/darfor-lyckas-bara-3-av-10-projekt/utbildningar/grundutbildning-for-projektledare/"
             description: "Grundutbildning för projektledare"
             level: 1
