@@ -1943,11 +1943,23 @@
     related:
         -
             title: "Comodo"
-            link: "https://cheapsslsecurity.com/sslbrands/comodo.html"
+            link: "https://www.comodo.com/"
             description: "Comodo SSL Certificates"
             level: 1
         -
             title: "Symantec"
-            link: "https://cheapsslsecurity.com/sslbrands/symantec.html"
+            link: "http://symantec-norton.com/"
             description: "Symantec SSL Certificates"
             level: 1
+        -
+            title: "GeoTrust"
+            link: "https://www.geotrust.com/"
+            description: "GeoTrust SSL Certificates"
+            level: 1
+        -
+            title: "Thawte"
+            link: "https://www.thawte.com/"
+            description: "Thawte SSL Certificates"
+            level: 1
+
+ 
