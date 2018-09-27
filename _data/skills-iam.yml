@@ -1934,7 +1934,7 @@
             description: "Grundutbildning för projektledare"
             level: 1
 -
-    title: "Authorities"
+    title: "Certificate Authorities"
     link: ""
     description: "Project management responsibilities include the coordination and completion of projects on time within budget and within scope."
     image: "certificate-logo-png.png"
@@ -1947,7 +1947,7 @@
             description: "Comodo SSL Certificates"
             level: 1
         -
-            title: "https://cheapsslsecurity.com/sslbrands/symantec.html"
+            title: "Symantec"
             link: "https://cheapsslsecurity.com/sslbrands/symantec.html"
             description: "Symantec SSL Certificates"
             level: 1
