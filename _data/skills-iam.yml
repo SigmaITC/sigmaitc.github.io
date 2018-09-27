@@ -1933,4 +1933,21 @@
             link: "https://semcon.com/sv/erbjudanden/darfor-lyckas-bara-3-av-10-projekt/utbildningar/grundutbildning-for-projektledare/"
             description: "Grundutbildning för projektledare"
             level: 1
-
+-
+    title: "Authorities"
+    link: ""
+    description: "Project management responsibilities include the coordination and completion of projects on time within budget and within scope."
+    image: "certificate-logo-png.png"
+    level: 0
+    tags: "IT Regulatories and Authorities"
+    related:
+        -
+            title: "Comodo"
+            link: "https://cheapsslsecurity.com/sslbrands/comodo.html"
+            description: "Comodo SSL Certificates"
+            level: 1
+        -
+            title: "https://cheapsslsecurity.com/sslbrands/symantec.html"
+            link: "https://cheapsslsecurity.com/sslbrands/symantec.html"
+            description: "Symantec SSL Certificates"
+            level: 1
