@@ -1936,7 +1936,7 @@
 -
     title: "Certificate Authorities"
     link: ""
-    description: "Project management responsibilities include the coordination and completion of projects on time within budget and within scope."
+    description: "entities that issue digital certificates"
     image: "certificate-logo-png.png"
     level: 0
     tags: "IT Regulatories and Authorities"
@@ -1961,5 +1961,21 @@
             link: "https://www.thawte.com/"
             description: "Thawte SSL Certificates"
             level: 1
-
- 
+-
+    title: "Internet Regulatories"
+    link: ""
+    description: "Project management responsibilities include the coordination and completion of projects on time within budget and within scope."
+    image: "certificate-logo-png.png"
+    level: 0
+    tags: "IT Regulatories and Authorities"
+    related:
+        -
+            title: "ICANN"
+            link: "https://www.icann.org/"
+            description: "Internet Corporation for Assigned Names and Numbers"
+            level: 1
+        -
+            title: "IANA"
+            link: "https://www.iana.org/"
+            description: "Internet Assigned Numbers Authority"
+            level: 1
