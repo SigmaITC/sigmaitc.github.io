@@ -867,6 +867,29 @@
             description: "Implement / Deploy / Replication."
             level: 3
 -
+    title: "RSA SecureID"
+    link: "https://www.rsa.com/en-us/products/rsa-securid-suite"
+    description: ""
+    image: "rsasecureID.jpg"
+    level: 3
+    tags: "Networking - Network Access Control / Directory Services"
+    related:
+        -
+            title: "RSA Archer Suite Administrator Training"
+            link: "https://community.rsa.com/community/training/archer/administrator"
+            description: "Implement / Deploy / Maintain"
+            level: 2
+        -
+            title: "RSA NetWitness Logs & Network Administrator Training"
+            link: "https://community.rsa.com/community/training/netwitness/nwlp-administrator"
+            description: "Logs & Network Administrator"
+            level: 3
+        -
+            title: "RSA® Identity Governance & Lifecycle Administrator"
+            link: "https://community.rsa.com/community/training/certification"
+            description: "Identity Governance & Lifecycle Administrator"
+            level: 3
+-
     title: "Ericsson"
     link: "https://www.ericsson.com/ourportfolio/mobile-transport-1"
     description: ""
