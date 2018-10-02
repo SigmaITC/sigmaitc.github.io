@@ -630,6 +630,19 @@
             description: ""
             level: 1
 -
+    title: "Server Platforms & Web Servers"
+    link: ""
+    description: ""
+    image: "server.jpg"
+    level: 2
+    tags: "Data Management - Storage / Data Center"
+    related:
+        -
+            title: "Proceed to sections: Server Platforms & Web Servers"
+            link: ""
+            description: ""
+            level: 1
+-
     title: "Cisco"
     link: "https://www.cisco.com/"
     description: ""
