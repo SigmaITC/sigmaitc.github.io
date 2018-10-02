@@ -1377,6 +1377,29 @@
             description: "This certification demonstrates that you have the deepest level of skills needed to proficiently use Office programs."
             level: 4
 -
+    title: "Citrix"
+    link: "https://www.citrix.se/"
+    description: ""
+    image: "citrix.jpg"
+    level: 2
+    tags: "Software Applications - App virtualization"
+    related:
+        -
+            title: "Associate"
+            link: "http://training.citrix.com/mod/ctxcatalog/course.php?id=1784"
+            description: "Administration, Virtual Apps and Desktop"
+            level: 2
+        -
+            title: "Professional"
+            link: "http://training.citrix.com/mod/ctxcatalog/course.php?id=1784"
+            description: "Advanced Administration, Virtual Apps and Desktop"
+            level: 3
+        -
+            title: "Expert"
+            link: "http://training.citrix.com/mod/ctxcatalog/course.php?id=1877"
+            description: "Design principle"
+            level: 4
+-
     title: "Red Hat Enterprise Linux"
     link: "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"
     description: ""
