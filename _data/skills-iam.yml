@@ -940,7 +940,7 @@
             title: "IBM Identity Manager Foundations"
             link: "https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=course_description&cc=&courseCode=TW254G"
             description: "Implement / Deploy / Maintain / Configure services and policies"
-            level: 3
+            level: 2
         -
             title: "IBM Security Privileged Identity Manager V2.0.2 Deployment"
             link: "https://www.ibm.com/certify/exam?id=C2150-618"
