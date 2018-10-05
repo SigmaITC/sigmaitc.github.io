@@ -929,6 +929,24 @@
             description: "Implement / Deploy / Replication."
             level: 3
 -
+    title: "ISIM"
+    link: "https://www.ibm.com/support/knowledgecenter/SSRMWJ_7.0.1.8/com.ibm.isim.doc/overview/cpt/vaoverview.htm"
+    description: ""
+    image: "isim.png"
+    level: 3
+    tags: "Networking - Network Access Control / Directory Services"
+    related:
+        -
+            title: "IBM Identity Manager Foundations"
+            link: "https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=course_description&cc=&courseCode=TW254G"
+            description: "Implement / Deploy / Maintain / Configure services and policies"
+            level: 3
+        -
+            title: "IBM Security Privileged Identity Manager V2.0.2 Deployment"
+            link: "https://www.ibm.com/certify/exam?id=C2150-618"
+            description: "Implement / Deploy / Maintain / Troubleshooting and Tuning"
+            level: 3
+-
     title: "RSA SecureID"
     link: "https://www.rsa.com/en-us/products/rsa-securid-suite"
     description: ""
