@@ -865,6 +865,80 @@
             description: "Install Complex Policies / Attack Prevention / HA / IPS."
             level: 3
 -
+    title: "VMVare EXSi / VCenter / VSphare / NSX"
+    link: "https://pubs.vmware.com/vsphere-51/index.jsp?topic=%2Fcom.vmware.vsphere.solutions.doc%2FGUID-4DB6A316-4A70-49A1-926A-851C5F160378.html"
+    description: ""
+    image: "vmware.png"
+    level: 3
+    tags: "Networking - Virtualization"
+    related:
+        -
+            title: "VCA / VMware Certified Associate"
+            link: "https://www.vmware.com/education-services/certification.html"
+            description: "For Administrators, Architects & Executives"
+            level: 2
+        -
+            title: "VCP VMware Certified Professional"
+            link: "https://www.vmware.com/education-services/certification.html"
+            description: "For Administrators & Engineers"
+            level: 3
+        -
+            title: "VCAP VMware Certified Advanced Professional"
+            link: "https://www.vmware.com/education-services/certification.html"
+            description: "For Administrators, Architects & Engineers"
+            level: 3
+        -
+            title: "VCDX VMware Certified Design Expert"
+            link: "https://www.vmware.com/education-services/certification.html"
+            description: "For Architects"
+            level: 4
+-
+    title: "Hyper-V / SCVMM"
+    link: "https://msdn.microsoft.com/sv-se/library/mt169373(v=ws.11).aspx"
+    description: ""
+    image: "microsoft-hyper-v.jpg"
+    level: 3
+    tags: "Networking - Virtualization"
+    related:
+        -
+            title: "Beginner: Virtualization (Windows Server 2016)"
+            link: "https://www.edx.org/course/windows-server-2016-virtualization-microsoft-inf215x-1"
+            description: "Administration"
+            level: 2
+        -
+            title: "Intermediate: Virtualization (Windows Server 2016)"
+            link: "https://www.edx.org/course/windows-server-2016-virtualization-microsoft-inf215x-1"
+            description: "Administration"
+            level: 3
+        -
+            title: "Advanced: Windows Server 2016 Deep Dive: Virtualization"
+            link: "https://mva.microsoft.com/en-US/training-courses/windows-server-2016-virtualization-deep-dive-14094?l=pRC7oEaeB_7905484357"
+            description: "Administration, Architects & Engineers"
+            level: 3
+-
+    title: "Cisco ACI / ACM / SDN"
+    link: "https://www.cisco.com/c/en/us/td/docs/routers/nfvis/user_guide/b-api-reference-for-cisco-enterprise-nfvis.html"
+    description: ""
+    image: "cisco-aci.jpg"
+    level: 3
+    tags: "Networking - Virtualization"
+    related:
+        -
+            title: "Entry: CCENT"
+            link: "https://learningnetwork.cisco.com/community/certifications/ccent"
+            description: "Networking Administration"
+            level: 1
+        -
+            title: "Associate: CCNA Cloud"
+            link: "https://learningnetwork.cisco.com/community/certifications/ccna-cloud/overview"
+            description: "Cloud engineers, Cloud Administrators and Network Engineers"
+            level: 3
+        -
+            title: "Professional: CCNP Cloud"
+            link: "https://learningnetwork.cisco.com/community/certifications/ccnp-cloud/overview"
+            description: "Cloud engineers, Cloud Administrators, Cloud Designers, and Architects"
+            level: 3
+-
     title: "Cisco ISE"
     link: "https://www.cisco.com/c/en/us/products/security/identity-services-engine/index.html"
     description: ""
