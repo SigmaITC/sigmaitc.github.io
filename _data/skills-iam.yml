@@ -1137,7 +1137,7 @@
     title: "SC"
     link: "https://www.microsoft.com/en-sa/cloud-platform/system-center"
     description: ""
-    image: "Microsoft-System-Center.png"
+    image: "SCOM_Logo.jpg"
     level: 3
     tags: "Networking - Network Management Systems / Monitoring"
     related:
