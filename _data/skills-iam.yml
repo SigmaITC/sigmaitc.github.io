@@ -893,7 +893,7 @@
             description: "For Architects"
             level: 4
 -
-    title: "Hyper-V / SCVMM"
+    title: "Hyper-V"
     link: "https://msdn.microsoft.com/sv-se/library/mt169373(v=ws.11).aspx"
     description: ""
     image: "microsoft-hyper-v.jpg"
