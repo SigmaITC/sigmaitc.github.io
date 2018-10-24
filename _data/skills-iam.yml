@@ -865,7 +865,7 @@
             description: "Install Complex Policies / Attack Prevention / HA / IPS."
             level: 3
 -
-    title: "VMVare EXSi / VCenter / VSphare / NSX"
+    title: "VMVare EXSi / NSX / VCenter"
     link: "https://pubs.vmware.com/vsphere-51/index.jsp?topic=%2Fcom.vmware.vsphere.solutions.doc%2FGUID-4DB6A316-4A70-49A1-926A-851C5F160378.html"
     description: ""
     image: "vmware.png"
@@ -1104,6 +1104,47 @@
             title: "Associate"
             link: "https://learninglocator.cloudapps.cisco.com/courseDetails.do?actionType=executeCourseDetail&courseID=5696"
             description: "Network Security Operators / Administrators"
+            level: 2
+-
+    title: "vCloud / vRealize / vSphare"
+    link: "https://www.cisco.com/c/en/us/products/security/security-manager/index.html"
+    description: ""
+    image: "vcloud.jpg"
+    level: 3
+    tags: "Networking - Network Management Systems / Monitoring"
+    related:
+        -
+            title: "VCA / VMware Certified Associate"
+            link: "https://www.vmware.com/education-services/certification.html"
+            description: "For Administrators, Architects & Executives"
+            level: 2
+        -
+            title: "VCP VMware Certified Professional"
+            link: "https://www.vmware.com/education-services/certification.html"
+            description: "For Administrators & Engineers"
+            level: 3
+        -
+            title: "VCAP VMware Certified Advanced Professional"
+            link: "https://www.vmware.com/education-services/certification.html"
+            description: "For Administrators, Architects & Engineers"
+            level: 3
+        -
+            title: "VCDX VMware Certified Design Expert"
+            link: "https://www.vmware.com/education-services/certification.html"
+            description: "For Architects"
+            level: 4
+-
+    title: "SC"
+    link: "https://www.microsoft.com/en-sa/cloud-platform/system-center"
+    description: ""
+    image: "Microsoft-System-Center.png"
+    level: 3
+    tags: "Networking - Network Management Systems / Monitoring"
+    related:
+        -
+            title: "Administration"
+            link: "https://www.microsoft.com/en-us/learning/course.aspx?cid=10748"
+            description: "Planning, Deploying, Configuration"
             level: 2
 -
     title: "SCOM"
