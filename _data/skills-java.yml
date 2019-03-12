@@ -85,7 +85,7 @@
     title: "XML Schema"
     link: "http://www.w3schools.com/schema/"
     description: ""
-    image: ""
+    image: "source-code.png"
     level: 3
     tags: "Languages"
 
@@ -340,7 +340,7 @@
     title: "Enterprise Integration Patterns"
     link: "http://www.enterpriseintegrationpatterns.com/"
     description: ""
-    image: ""
+    image: "patterns.png"
     level: 3
     tags: "Integration"
 -
@@ -460,7 +460,7 @@
     title: "TestNG"
     link: "http://testng.org/doc/"
     description: ""
-    image: ""
+    image: "github.png"
     level: 1
     tags: "Quality & Test"
 -
@@ -753,7 +753,7 @@
     link: "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=la_B000APG87E_1_2?s=books&ie=UTF8&qid=1427103529&sr=1-2"
     description: ""
     recommended: true
-    image: ""
+    image: "book.png"
     level: 1
     tags: "Books"
 -
@@ -761,7 +761,7 @@
     link: "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8"
     description: ""
     recommended: true
-    image: ""
+    image: "book.png"
     level: 2
     tags: "Books"
 -
@@ -769,7 +769,7 @@
     link: "https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997"
     description: ""
     recommended: true
-    image: ""
+    image: "book.png"
     level: 2
     tags: "Books"
 
@@ -778,7 +778,7 @@
     title: "Android"
     link: "https://developer.android.com/training/index.html"
     description: ""
-    image: ""
+    image: "android.png"
     level: 2
     tags: "Mobile"
 
@@ -787,7 +787,7 @@
     title: "MVC-pattern"
     link: "http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller"
     description: ""
-    image: ""
+    image: "patterns.png"
     level: 1
     tags: "Patterns"
 
@@ -796,7 +796,7 @@
     title: "UML"
     link: "http://www.uml.org/#Links-Tutorials"
     description: ""
-    image: ""
+    image: "diagram.png"
     level: 2
     tags: "Modelling"
 # Twitter

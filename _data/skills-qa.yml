@@ -25,7 +25,7 @@
     link: "https://en.wikipedia.org/wiki/Functional_testing/"
     description: "Functional testing is a type of black box testing, where functionality of the system is verified and validated against functional requirements. Functional testing is conducted to verify how well the system executes its functions."
     required: true
-    image: ""
+    image: "analysis.png"
     level: 1
     tags: "Test Techniques - Functional Testing"
 
@@ -35,56 +35,56 @@
     link: "https://en.wikipedia.org/wiki/Non-functional_testing/"
     description: "Tests are conducted to see how well the system works, rather than what it does. The tests verify that the non-functional requirements are met, e.g. requirements regarding response times and load."
     required: true
-    image: ""
+    image: "analysis.png"
     level: 1
     tags: "Test Techniques - Non-Functional Testing"
 -
     title: "Unit testing (conducted by the programmer)"
     link: ""
     description: ""
-    image: ""
+    image: "analysis.png"
     level: 1
     tags: "Test Techniques - Non-Functional Testing"
 -
     title: "Smoke Testing"
     link: ""
     description: ""
-    image: ""
+    image: "analysis.png"
     level: 1
     tags: "Test Techniques - Non-Functional Testing"
 -
     title: "Integration Testing"
     link: ""
     description: ""
-    image: ""
+    image: "analysis.png"
     level: 1
     tags: "Test Techniques - Non-Functional Testing"
 -
     title: "Interface Testing"
     link: ""
     description: ""
-    image: ""
+    image: "analysis.png"
     level: 1
     tags: "Test Techniques - Non-Functional Testing"
 -
     title: "System Testing"
     link: ""
     description: ""
-    image: ""
+    image: "analysis.png"
     level: 1
     tags: "Test Techniques - Non-Functional Testing"
 -
     title: "Regression Testing"
     link: ""
     description: ""
-    image: ""
+    image: "analysis.png"
     level: 1
     tags: "Test Techniques - Non-Functional Testing"
 -
     title: "User Acceptance Testing"
     link: ""
     description: ""
-    image: ""
+    image: "analysis.png"
     level: 1
     tags: "Test Techniques - Non-Functional Testing"
 
@@ -175,14 +175,14 @@
     title: "Database"
     link: ""
     description: "SQL: Common database technology that is useful to have knowledge of in many situations, e.g. when creating test data or verifying changes and integrations. <a href='https://www.pluralsight.com/courses/introduction-to-sql'>Course on Pluralsight</a>, <a href='https://www.codecademy.com/learn/learn-sql'>Interactive course on Codeacademy</a>"
-    image: ""
+    image: "database.png"
     level: 1
     tags: "Programming for Testers"
 -
     title: "Formats"
     link: ""
     description: "There are mainly three popular data formats - JSON, YAML and XML. XML used to be the most widely used, but has succumbed in favor of the lighter and less verbose formats. You are likely to see these data formats being used in varying situations e.g. configuration, data transactions and persistence."
-    image: ""
+    image: "source-code.png"
     level: 1
     tags: "Programming for Testers"
     related:
