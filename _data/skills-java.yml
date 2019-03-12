@@ -33,10 +33,6 @@
             title: "Lambda"
             link: "http://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html"
             level: 2
-        -
-            title: "What's wrong with Java 8"
-            link: "https://binkley.blogspot.se/2015/10/pierre-yves-saumont-wrote-series-of.html"
-            level: 2
 -
     title: "Java Enterprise Edition"
     link: "http://www.oracle.com/technetwork/java/javaee/overview/"
@@ -63,14 +59,6 @@
             link: "http://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html"
             level: 2
         -
-            title: "JPA"
-            link: "http://en.wikipedia.org/wiki/Java_Persistence_API"
-            level: 2
-        -
-            title: "Hibernate"
-            link: "http://hibernate.org/"
-            level: 2
-        -
             title: "Webservices (SOAP)"
             link: "http://docs.oracle.com/javaee/7/tutorial/jaxws.htm#BNAYL"
             level: 2
@@ -78,6 +66,14 @@
             title: "Webservices (REST)"
             link: "http://docs.oracle.com/javaee/7/tutorial/jaxrs.htm#GIEPU"
             level: 2
+-
+    title: "Kotlin"
+    link: "https://kotlinlang.org"
+    description: ""
+    hot: true
+    image: "kotlin.png"
+    level: 2
+    tags: "Languages"
 -
     title: "Scala"
     link: "https://www.scala-lang.org/"
@@ -98,78 +94,119 @@
     title: "Functional Programming In Java"
     link: "#"
     description: ""
+    recommended: true
     image: "java.png"
     level: 3
     tags: "Functional Programming"
     related:
         -
-            title: "What's Wrong with Java 8: Currying vs Closures"
+            title: "What's Wrong with Java 8: Currying vs Closures - Pierre-Yves Saumont"
             link: "https://dzone.com/articles/whats-wrong-java-8-currying-vs"
             description: ""
             level: 3
         -
-            title: "What's Wrong in Java 8, Part II: Functions & Primitives"
+            title: "What's Wrong in Java 8, Part II: Functions & Primitives - Pierre-Yves Saumont"
             link: "https://dzone.com/articles/whats-wrong-java-8-part-ii"
             description: ""
             level: 3
         -
-            title: "What's Wrong in Java 8, Part III: Streams and Parallel Streams"
+            title: "What's Wrong in Java 8, Part III: Streams and Parallel Streams - Pierre-Yves Saumont"
             link: "https://dzone.com/articles/whats-wrong-java-8-part-iii"
             description: ""
             level: 3
         -
-            title: "What's Wrong in Java 8, Part IV: Monads"
+            title: "What's Wrong in Java 8, Part IV: Monads - Pierre-Yves Saumont"
             link: "https://dzone.com/articles/whats-wrong-java-8-part-iv"
             description: ""
             level: 3
         -
-            title: "What's Wrong in Java 8, Part V: Tuples"
+            title: "What's Wrong in Java 8, Part V: Tuples - Pierre-Yves Saumont"
             link: "https://dzone.com/articles/whats-wrong-java-8-part-v"
             description: ""
             level: 3
         -
-            title: "What's wrong in Java 8, part VI: Strictness"
+            title: "What's wrong in Java 8, part VI: Strictness - Pierre-Yves Saumont"
             link: "https://dzone.com/articles/whats-wrong-java-8-part-vi"
             description: ""
             level: 3
         -
-            title: "What's wrong in Java 8, part VII: Streams again"
+            title: "What's wrong in Java 8, part VII: Streams again - Pierre-Yves Saumont"
             link: "https://dzone.com/articles/whats-wrong-java-8-part-vii"
             description: ""
             level: 3
         -
-            title: "Do it in Java 8: Automatic memoization"
+            title: "Do it in Java 8: Automatic memoization - Pierre-Yves Saumont"
             link: "https://dzone.com/articles/java-8-automatic-memoization"
             description: ""
             level: 3
         -
-            title: "Folding the Universe Part I: Functional Java"
+            title: "Folding the Universe Part I: Functional Java - Pierre-Yves Saumont"
             link: "https://dzone.com/articles/folding-the-universe-part-i"
             description: ""
             level: 3
         -
-            title: "Folding the Universe, Part II: Abstracting Recursion"
+            title: "Folding the Universe, Part II: Abstracting Recursion - Pierre-Yves Saumont"
             link: "https://dzone.com/articles/folding-the-universe-part-ii-abstracting-recursion"
             description: ""
             level: 3
         -
-            title: "Folding the Universe, Part III: Java 8 List and Stream"
+            title: "Folding the Universe, Part III: Java 8 List and Stream - Pierre-Yves Saumont"
             link: "https://dzone.com/articles/folding-the-universe-part-iii-java-8-list-and-stre"
             description: ""
             level: 3
         -
-            title: "Functional Programming with Java 8 by Venkat Subramaniam"
+            title: "Functional Programming with Java 8 - Venkat Subramaniam"
             link: "https://www.youtube.com/watch?v=15X0qFtBqiQ&feature=youtu.be"
             description: ""
             level: 3
         -
-            title: "Design Patterns in the Light of Lambda Expressions by Subramaniam"
+            title: "Design Patterns in the Light of Lambda Expressions - Venkat Subramaniam"
             link: "https://www.youtube.com/watch?v=e4MT_OguDKg&feature=youtu.be"
             description: ""
             level: 3
         -
             title: "Functional architecture - The pits of success - Mark Seemann"
             link: "https://www.youtube.com/watch?v=US8QG9I1XW0"
+            description: ""
+            level: 3
+        -
+            title: "Dysfunctional programming in Java I : Laziness functional examples - John McClean"
+            link: "https://medium.com/@johnmcclean/dysfunctional-programming-in-java-i-laziness-cc9c6981de39"
+            description: ""
+            level: 3
+        -
+            title: "Dysfunctional programming in Java 2 : Immutability - John McClean"
+            link: "https://medium.com/@johnmcclean/dysfunctional-programming-in-java-2-immutability-a2cff487c224"
+            description: ""
+            level: 3
+        -
+            title: "Dysfunctional programming in Java 3 : Functional Composition - John McClean"
+            link: "https://medium.com/@johnmcclean/dysfunctional-programming-in-java-3-functional-composition-16828f0609c2"
+            description: ""
+            level: 3
+        -
+            title: "Dysfunctional programming in Java 4 : No nulls allowed - John McClean"
+            link: "https://blog.usejournal.com/dysfunctional-programming-in-java-4-no-nulls-allowed-88e8735475a"
+            description: ""
+            level: 3
+        -
+            title: "Dysfunctional programming in Java 5 : No Exceptions - John McClean"
+            link: "https://medium.com/@johnmcclean/dysfunctional-programming-in-java-5-no-exceptions-5f37ac594323"
+            description: ""
+            level: 3
+        -
+            title: "Dysfunctional programming in Java 6 : No Locks or Synchronized Blocks - John McClean"
+            link: "https://medium.com/@johnmcclean/dysfunctional-programming-in-java-6-no-locks-or-synchronized-blocks-ea5a47644689"
+            description: ""
+            level: 3
+        -
+            title: "Dysfunctional programming in Java 7 : Immutable Collections - John McClean"
+            link: "https://medium.com/@johnmcclean/dysfunctional-programming-in-java-7-immutable-collections-83ba78aaf4dd"
+            description: ""
+            level: 3
+        -
+            title: "Powerful, extensible code with Tagless Final in … Java! - John McClean"
+            link: "https://medium.com/@johnmcclean/powerful-extensible-code-with-tagless-final-in-java-4094f923cdea"
             description: ""
             level: 3
 -
@@ -180,41 +217,82 @@
     level: 3
     tags: "Functional Programming"
 -
+    title: "Immutables"
+    link: "https://immutables.github.io/"
+    description: "Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most comprehensive tool in this field!"
+    recommended: true
+    image: "github.png"
+    level: 3
+    tags: "Functional Programming"
+-
+    title: "Lombok"
+    link: "https://projectlombok.org/"
+    description: "Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java. Never write another getter or equals method again, with one annotation your class has a fully featured builder, Automate your logging variables, and much more."
+    recommended: true
+    image: "github.png"
+    level: 3
+    tags: "Functional Programming"
+-
     title: "vavr"
     link: "http://www.vavr.io/"
     description: "Vavr core is a functional library for Java 8+. It helps to reduce the amount of code and to increase the robustness."
+    recommended: true
     image: "vavr.png"
     level: 3
     tags: "Functional Programming"
+-
+    title: "Arrow (Kotlin)"
+    link: "https://arrow-kt.io"
+    description: "Functional companion to Kotlin's Standard Library."
+    hot: true
+    image: "kotlin-arrow.png"
+    level: 3
+    tags: "Functional Programming"
+
+# Reactive Programming
+-
+    title: "Akka"
+    link: "http://akka.io/"
+    description: "Akka is a toolkit for building highly concurrent, distributed, and resilient message-driven applications for Java and Scala"
+    image: "akka.png"
+    level: 3
+    tags: "Reactive Programming"
+-
+    title: "Kafka"
+    link: "https://kafka.apache.org"
+    description: "A distributed streaming platform."
+    image: "kafka.png"
+    level: 3
+    tags: "Reactive Programming"
+-
+    title: "Project Reactor"
+    link: "https://projectreactor.io"
+    description: "Reactor is a fourth-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification."
+    image: "project-reactor.png"
+    level: 3
+    tags: "Reactive Programming"
+-
+    title: "ReactiveX"
+    link: "http://reactivex.io/"
+    description: "An API for asynchronous programming with observable streams."
+    image: "rx.png"
+    level: 3
+    tags: "Reactive Programming"
+-
+    title: "Spring Webflux"
+    link: "https://docs.spring.io/spring-framework/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/web-reactive.html"
+    description: ""
+    image: "spring.png"
+    level: 3
+    tags: "Reactive Programming"
 
 # Application Servers
--
-    title: "WildFly"
-    link: "http://wildfly.org/"
-    description: ""
-    image: "wildfly.png"
-    level: 2
-    tags: "Application Servers"
--
-    title: "Weblogic"
-    link: "http://www.oracle.com/technetwork/middleware/weblogic/overview/index.html"
-    description: ""
-    image: "weblogic.gif"
-    level: 2
-    tags: "Application Servers"
 -
     title: "JBoss EAP"
     link: "https://developers.redhat.com/products/eap/overview/"
     description: ""
     recommended: true
     image: "jboss.jpg"
-    level: 2
-    tags: "Application Servers"
--
-    title: "WebSphere"
-    link: "http://www-03.ibm.com/software/products/en/appserv-was"
-    description: ""
-    image: "websphere.png"
     level: 2
     tags: "Application Servers"
 -
@@ -225,15 +303,28 @@
     image: "tomcat.jpg"
     level: 2
     tags: "Application Servers"
-
-# Big Data
 -
-    title: "Hadoop"
-    link: "https://hadoop.apache.org/"
+    title: "Weblogic"
+    link: "http://www.oracle.com/technetwork/middleware/weblogic/overview/index.html"
     description: ""
-    image: "hadoop.jpeg"
-    level: 3
-    tags: "Big Data"
+    image: "weblogic.gif"
+    level: 2
+    tags: "Application Servers"
+-
+    title: "WebSphere"
+    link: "http://www-03.ibm.com/software/products/en/appserv-was"
+    description: ""
+    image: "websphere.png"
+    level: 2
+    tags: "Application Servers"
+-
+    title: "WildFly"
+    link: "http://wildfly.org/"
+    description: ""
+    image: "wildfly.png"
+    level: 2
+    tags: "Application Servers"
+
 
 # CMS
 -
@@ -285,25 +376,86 @@
 
 # Quality & Test
 -
+    title: "AssertJ"
+    link: "https://joel-costigliola.github.io/assertj/"
+    description: "Fluent assertions for Java."
+    recommended: true
+    image: "github.png"
+    level: 2
+    tags: "Quality & Test"
+-
+    title: "Cucumber"
+    link: "https://docs.cucumber.io"
+    description: ""
+    image: "cucumber.png"
+    level: 2
+    tags: "Quality & Test"
+-
+    title: "Hoverfly"
+    link: "https://hoverfly.readthedocs.io/projects/hoverfly-java/en/latest/"
+    description: "Hoverfly is a lightweight service virtualisation tool which allows you to stub / simulate HTTP(S) services. It is a proxy written in Go which responds to HTTP(S) requests with stored responses, pretending to be it’s real counterpart."
+    image: "hoverfly.png"
+    level: 2
+    tags: "Quality & Test"
+-
+    title: "JML (Java Modeling Language)"
+    link: "http://www.eecs.ucf.edu/~leavens/JML/index.shtml"
+    description: "The Java Modeling Language (JML) is a behavioral interface specification language that can be used to specify the behavior of Java modules. It combines the design by contract approach of Eiffel and the model-based specification approach of the Larch family of interface specification languages, with some elements of the refinement calculus."
+    image: "jml.png"
+    level: 2
+    tags: "Quality & Test"
+-
     title: "jUnit"
     link: "http://junit.org/"
-    description: ""
+    description: "JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM. This includes focusing on Java 8 and above, as well as enabling many different styles of testing."
     required: true
     image: "junit.png"
     level: 1
     tags: "Quality & Test"
 -
-    title: "Cucumber"
-    link: "https://cucumber.io/"
-    description: ""
-    image: "cucumber.png"
+    title: "Mockito"
+    link: "http://mockito.org/"
+    description: "Mocking framework for unit tests in Java."
+    recommended: true
+    image: "mockito.jpg"
     level: 1
     tags: "Quality & Test"
-    related:
-        -
-            title: "Cucumber (Java)"
-            link: "https://cucumber.io/docs/reference/jvm#java"
-            level: 1
+-
+    title: "Pact"
+    link: "https://docs.pact.io"
+    description: "Pact is a contract testing tool. Contract testing is a way to ensure that services (such as an API provider and a client) can communicate with each other. Without contract testing, the only way to know that services can communicate is by using expensive and brittle integration tests."
+    image: "pact.png"
+    level: 2
+    tags: "Quality & Test"
+-
+    title: "PIT Mutation Testing"
+    link: "http://pitest.org"
+    description: "PIT is a state of the art mutation testing system, providing gold standard test coverage for Java and the jvm. It's fast, scalable and integrates with modern test and build tooling."
+    recommended: true
+    image: "pitest.png"
+    level: 1
+    tags: "Quality & Test"
+-
+    title: "REST-assured"
+    link: "http://rest-assured.io"
+    description: ""
+    image: "restassured.png"
+    level: 1
+    tags: "Quality & Test"
+-
+    title: "Spock"
+    link: "http://spockframework.org"
+    description: "Spock is a testing and specification framework for Java and Groovy applications. What makes it stand out from the crowd is its beautiful and highly expressive specification language. Thanks to its JUnit runner, Spock is compatible with most IDEs, build tools, and continuous integration servers. Spock is inspired from JUnit, RSpec, jMock, Mockito, Groovy, Scala, Vulcans, and other fascinating life forms."
+    image: "github.png"
+    level: 1
+    tags: "Quality & Test"
+-
+    title: "Spotbugs"
+    link: "https://spotbugs.github.io"
+    description: "SpotBugs is a program which uses static analysis to look for bugs in Java code."
+    image: "spotbugs.png"
+    level: 1
+    tags: "Quality & Test"
 -
     title: "TestNG"
     link: "http://testng.org/doc/"
@@ -312,12 +464,25 @@
     level: 1
     tags: "Quality & Test"
 -
-    title: "Mockito"
-    link: "http://mockito.org/"
+    title: "TLA+"
+    link: "https://lamport.azurewebsites.net/tla/tla.html"
+    description: "TLA+ is a high-level language for modeling programs and systems--especially concurrent and distributed ones.  It's based on the idea that the best way to describe things precisely is with simple mathematics.  TLA+ and its tools are useful for eliminating fundamental design errors, which are hard to find and expensive to correct in code."
+    image: "tla.png"
+    level: 2
+    tags: "Quality & Test"
+-
+    title: "vavr - Property Based Testing"
+    link: "http://www.vavr.io/vavr-docs/#_property_checking"
     description: ""
-    recommended: true
-    image: "mockito.jpg"
-    level: 1
+    image: "vavr.png"
+    level: 2
+    tags: "Quality & Test"
+-
+    title: "Wiremock"
+    link: "http://wiremock.org"
+    description: "WireMock is a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server."
+    image: "wiremock.png"
+    level: 2
     tags: "Quality & Test"
 
 # Threading, Concurrency
@@ -326,20 +491,6 @@
     link: "http://docs.oracle.com/javase/tutorial/essential/concurrency/"
     description: ""
     image: "java.png"
-    level: 3
-    tags: "Threading, Concurrency"
--
-    title: "ReactiveX"
-    link: "http://reactivex.io/"
-    description: ""
-    image: "rx.png"
-    level: 3
-    tags: "Threading, Concurrency"
--
-    title: "Akka"
-    link: "http://akka.io/"
-    description: ""
-    image: "akka.png"
     level: 3
     tags: "Threading, Concurrency"
 
@@ -461,6 +612,7 @@
     title: "Guava"
     link: "https://github.com/google/guava"
     description: "Google Core Libraries for Java."
+    cold: true
     image: "google-guava.jpg"
     level: 2
     tags: "Frameworks"
@@ -469,6 +621,7 @@
     link: "https://projects.spring.io/spring-boot/"
     description: "Takes an opinionated view of building production-ready Spring applications. Spring Boot favors convention over configuration and is designed to get you up and running as quickly as possible."
     recommended: true
+    hot: true
     image: "spring-boot.jpg"
     level: 1
     tags: "Frameworks"
@@ -491,6 +644,7 @@
     title: "OSGi"
     link: "https://www.osgi.org/"
     description: ""
+    cold: true
     image: "osgi.png"
     level: 3
     tags: "Frameworks"
@@ -511,6 +665,87 @@
     image: "mongodb.png"
     level: 3
     tags: "Databases"
+-
+    title: "neo4j"
+    link: "https://neo4j.com/"
+    description: ""
+    image: "neo4j.jpg"
+    level: 3
+    tags: "Databases"
+-
+    title: "Oracle Database"
+    link: "https://www.oracle.com/database/"
+    description: ""
+    recommended: true
+    image: "oracle-database.png"
+    level: 1
+    tags: "Databases"
+-
+    title: "PostgreSQL"
+    link: "https://www.postgresql.org"
+    description: ""
+    recommended: true
+    image: "postgreSQL1.png"
+    level: 1
+    tags: "Databases"
+
+# Database Integration
+-
+    title: "JPA"
+    link: "http://en.wikipedia.org/wiki/Java_Persistence_API"
+    description: ""
+    recommended: true
+    image: "java.png"
+    level: 2
+    tags: "Database Integration"
+-
+    title: "Hibernate"
+    link: "https://hibernate.org/"
+    description: ""
+    image: "hibernate.png"
+    level: 2
+    tags: "Database Integration"
+-
+    title: "Speedment"
+    link: "https://www.speedment.com"
+    description: "Java Stream ORM"
+    image: "speedment.jpg"
+    level: 2
+    tags: "Database Integration"
+
+# In Memory Data
+-
+    title: "hazelcast"
+    link: "https://hazelcast.com"
+    description: ""
+    recommended: true
+    image: "hazelcast.jpg"
+    level: 2
+    tags: "In Memory Data"
+-
+    title: "redis"
+    link: "https://redis.io"
+    description: "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster"
+    recommended: true
+    image: "redis.png"
+    level: 2
+    tags: "In Memory Data"
+
+# Big Data
+-
+    title: "Cassandra"
+    link: "https://cassandra.apache.org"
+    description: "Manage massive amounts of data, fast, without losing sleep"
+    image: "cassandra.jpeg"
+    level: 3
+    tags: "Big Data"
+-
+    title: "Hadoop"
+    link: "https://hadoop.apache.org/"
+    description: ""
+    image: "hadoop.jpeg"
+    level: 3
+    tags: "Big Data"
 
 # Books
 -
@@ -524,6 +759,14 @@
 -
     title: "Design Patterns (GOF)"
     link: "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8"
+    description: ""
+    recommended: true
+    image: ""
+    level: 2
+    tags: "Books"
+-
+    title: "Effective Java Third Edition"
+    link: "https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997"
     description: ""
     recommended: true
     image: ""

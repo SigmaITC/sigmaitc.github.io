@@ -15,6 +15,9 @@
     title: "Functional Programming"
     description: ""
 -
+    title: "Reactive Programming"
+    description: ""
+-
     title: "Architecture"
     description: ""
 -
@@ -24,10 +27,16 @@
     title: "Application Servers"
     description: ""
 -
-    title: "Big Data"
+    title: "Databases"
     description: ""
 -
-    title: "Databases"
+    title: "Database Integration"
+    description: ""
+-
+    title: "In Memory Data"
+    description: ""
+-
+    title: "Big Data"
     description: ""
 -
     title: "CMS"
