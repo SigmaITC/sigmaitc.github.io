@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.b0a634d7deb970e057fc6c9146699d86.js"
+  "precache-manifest.36c4489a64648f99afb561be119b7c35.js"
 );
 
 /**
@@ -37,7 +37,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5152e09980d4e209bf950624ba945119"
+    "revision": "cf8a9715d6426fdb1da5a537b0b54119"
   },
   {
     "url": "java-by-sigma.html",
@@ -65,7 +65,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/main.css",
-    "revision": "cc610859709bc9b34954baf63776c765"
+    "revision": "2125f7f67dbf39f871d82459b474354d"
   },
   {
     "url": "images/aaai.jpg",
@@ -100,6 +100,14 @@ self.__precacheManifest = [
     "revision": "d1e51868f4013f15c28c3ac5c96f7997"
   },
   {
+    "url": "images/analysis.png",
+    "revision": "1452d217d7033fd98364eef00aef12f8"
+  },
+  {
+    "url": "images/android.png",
+    "revision": "da72eb03a52da0f7679fb72969f665e4"
+  },
+  {
     "url": "images/angularjs.png",
     "revision": "a3280e10d3673fd858091d5268c681eb"
   },
@@ -122,6 +130,10 @@ self.__precacheManifest = [
   {
     "url": "images/application-integration.gif",
     "revision": "7d52ab684c82d8139d89aa0995dda1e2"
+  },
+  {
+    "url": "images/application.png",
+    "revision": "f453a68dadaad9ad4dafebdf2c4c8685"
   },
   {
     "url": "images/appveyor.png",
@@ -154,6 +166,10 @@ self.__precacheManifest = [
   {
     "url": "images/ava.png",
     "revision": "23d9402833cbd54e6ed90ff0bc46cbd6"
+  },
+  {
+    "url": "images/awesome-list.svg",
+    "revision": "a8c2f3c22867ef651c25c85d391ab2e6"
   },
   {
     "url": "images/aws.jpg",
@@ -208,6 +224,10 @@ self.__precacheManifest = [
     "revision": "186753f7f55b6ff337462177e1b35811"
   },
   {
+    "url": "images/book.png",
+    "revision": "52f2a397139879799cf81933ad87a3ff"
+  },
+  {
     "url": "images/bootstrap.png",
     "revision": "db9a43c4a5f1d64a886504ea49810ffb"
   },
@@ -250,6 +270,14 @@ self.__precacheManifest = [
   {
     "url": "images/casperjs.png",
     "revision": "f3df6e123cb5fbd0204738ab67e1ac77"
+  },
+  {
+    "url": "images/cassandra.jpeg",
+    "revision": "5ded704dad9677c609712b9f55a7347f"
+  },
+  {
+    "url": "images/cassandra.jpg",
+    "revision": "f0f738535bb9a8ce3d9db8c661fe9e26"
   },
   {
     "url": "images/certificate-logo-png.png",
@@ -368,6 +396,10 @@ self.__precacheManifest = [
     "revision": "0e707aa91c88195a628c71c87c04c213"
   },
   {
+    "url": "images/content.png",
+    "revision": "69d7a8e9c456fc6c3d9d9d4360821752"
+  },
+  {
     "url": "images/contentful.png",
     "revision": "7ef22d81a0f3815489872888d3d469d2"
   },
@@ -417,7 +449,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/cucumber.png",
-    "revision": "8e41057e7445afcb937594e16eb62e16"
+    "revision": "271370ed5a7f025bfbadbadaf001eebb"
   },
   {
     "url": "images/cybersecurity.png",
@@ -434,6 +466,10 @@ self.__precacheManifest = [
   {
     "url": "images/dabblet.png",
     "revision": "6f0901f70e5de251723000dbd30f3c64"
+  },
+  {
+    "url": "images/database.png",
+    "revision": "15edbc5325232498f296c296f27c0520"
   },
   {
     "url": "images/david-dm.png",
@@ -470,6 +506,10 @@ self.__precacheManifest = [
   {
     "url": "images/devops.png",
     "revision": "bfb73b441c005538f604c2611f42d248"
+  },
+  {
+    "url": "images/diagram.png",
+    "revision": "27a27a9c73bd6d4d0d47dea8c28c0c55"
   },
   {
     "url": "images/docker.png",
@@ -696,8 +736,16 @@ self.__precacheManifest = [
     "revision": "ee6a67d5a0e578f9476c4f1a9008bb10"
   },
   {
+    "url": "images/hazelcast.jpg",
+    "revision": "6137af3f044a27619ebbdd875a8a36b2"
+  },
+  {
     "url": "images/hewlett-packard-enterprise.jpg",
     "revision": "1dfb753ec885f9f1ac15f1fb50f706d7"
+  },
+  {
+    "url": "images/hibernate.png",
+    "revision": "b63f8eb86abd5395df32892de9de11a2"
   },
   {
     "url": "images/hibernate.svg",
@@ -706,6 +754,10 @@ self.__precacheManifest = [
   {
     "url": "images/hitachi.png",
     "revision": "443798ac9e1c8bcd5e81f8805c6361de"
+  },
+  {
+    "url": "images/hoverfly.png",
+    "revision": "939783b80602cc61e928babef23e955c"
   },
   {
     "url": "images/hp.png",
@@ -908,6 +960,10 @@ self.__precacheManifest = [
     "revision": "058af8ed82bbc4fdc5559e9ddb9c4890"
   },
   {
+    "url": "images/jml.png",
+    "revision": "1c5d7df0fde4b40e8a524cc4ea675702"
+  },
+  {
     "url": "images/jquery.gif",
     "revision": "53e1ec3e00e57fbe1ed305480db19175"
   },
@@ -941,7 +997,11 @@ self.__precacheManifest = [
   },
   {
     "url": "images/junit.png",
-    "revision": "04858c6aecfbfab41a3aa110f770223f"
+    "revision": "7ecc0fdfbd4b829f542ba8e15f498805"
+  },
+  {
+    "url": "images/kafka.png",
+    "revision": "0051dfacb1551ea7806d9f67d76226f7"
   },
   {
     "url": "images/kanban.jpg",
@@ -958,6 +1018,14 @@ self.__precacheManifest = [
   {
     "url": "images/kisspng-oracle-db.jpg",
     "revision": "8a05cec7c74c9a47539c01e6c29a340f"
+  },
+  {
+    "url": "images/kotlin-arrow.png",
+    "revision": "d650200f35df3245d548215732e7aa7f"
+  },
+  {
+    "url": "images/kotlin.png",
+    "revision": "66515ba77435e6d506e113879b782477"
   },
   {
     "url": "images/kss.png",
@@ -1100,6 +1168,10 @@ self.__precacheManifest = [
     "revision": "6062b41c9b339fc4bddc56fd53799a2d"
   },
   {
+    "url": "images/neo4j.jpg",
+    "revision": "cb599f01e37dcbaba0cafc1b3ae20e89"
+  },
+  {
     "url": "images/nexorone.png",
     "revision": "fd3a5f39d06187a36be17df2bd3064ae"
   },
@@ -1154,6 +1226,10 @@ self.__precacheManifest = [
   {
     "url": "images/offline-first.png",
     "revision": "45d7b9608cb604a2d75cd2d0a1b40fd0"
+  },
+  {
+    "url": "images/offline.png",
+    "revision": "551d73022395652cff27a9d1d3cd7ab6"
   },
   {
     "url": "images/ons.png",
@@ -1212,6 +1288,14 @@ self.__precacheManifest = [
     "revision": "8acdb53386674b13dc4f3115c75940f8"
   },
   {
+    "url": "images/pact.png",
+    "revision": "d0062455ebc982c5c3271f6b1211cbfb"
+  },
+  {
+    "url": "images/patterns.png",
+    "revision": "7a89db22923453f04530a4f7d62711a0"
+  },
+  {
     "url": "images/phantomcss.png",
     "revision": "4d6a090110a6bd078a05a0467b0b7829"
   },
@@ -1220,12 +1304,20 @@ self.__precacheManifest = [
     "revision": "5414bc04ccc2f336a0fa8b9761eabd70"
   },
   {
+    "url": "images/phone.png",
+    "revision": "9c4eed3f7e639c5105464934538d6d03"
+  },
+  {
     "url": "images/phonegap.png",
     "revision": "de1a3fec70e3582e7ce094ca13b693ff"
   },
   {
     "url": "images/pipedrive.jpg",
     "revision": "16b16e92bc75acd5d65b735abca02118"
+  },
+  {
+    "url": "images/pitest.png",
+    "revision": "40eaa35ca82dcdf47da65582d0e99a98"
   },
   {
     "url": "images/piwik.png",
@@ -1282,6 +1374,14 @@ self.__precacheManifest = [
   {
     "url": "images/program_management.png",
     "revision": "cc038efa26d09f1985f7b9556fa3c5cc"
+  },
+  {
+    "url": "images/progressive.png",
+    "revision": "06a2e092e6fe6503ad27ddce070bb0ce"
+  },
+  {
+    "url": "images/project-reactor.png",
+    "revision": "5ca5eae38502a890233a7acafdf4ab10"
   },
   {
     "url": "images/projectmanagement.jpg",
@@ -1360,6 +1460,10 @@ self.__precacheManifest = [
     "revision": "4dd01e8517854cb5bda2dc9e19448412"
   },
   {
+    "url": "images/redis.png",
+    "revision": "107069d84c7d772502f9e3a27efc8496"
+  },
+  {
     "url": "images/redux-observable.png",
     "revision": "4481bc0bb98072d9e13413e556b2d210"
   },
@@ -1378,6 +1482,10 @@ self.__precacheManifest = [
   {
     "url": "images/requirejs.png",
     "revision": "cb015d5dbde0458434b04ddcb448ec93"
+  },
+  {
+    "url": "images/restassured.png",
+    "revision": "6b66614866b024a1588dcae19045de39"
   },
   {
     "url": "images/retire.png",
@@ -1504,8 +1612,20 @@ self.__precacheManifest = [
     "revision": "07c27de28a6378598ae5cad56d641efe"
   },
   {
+    "url": "images/source-code.png",
+    "revision": "2a1550c4d63ed2af8c6671c47d781e82"
+  },
+  {
     "url": "images/source-tree.png",
     "revision": "4c6936c242e2bbc5510f499001f0ae6f"
+  },
+  {
+    "url": "images/speedment.jpg",
+    "revision": "74105c7fd909b47e77eaea3daf1817a7"
+  },
+  {
+    "url": "images/spotbugs.png",
+    "revision": "94fa5ff4fb67a7a5301de84270a5cb4c"
   },
   {
     "url": "images/spring-boot.jpg",
@@ -1594,6 +1714,10 @@ self.__precacheManifest = [
   {
     "url": "images/tipalti.png",
     "revision": "3d589d784b1af34f5c3fa37131ead65a"
+  },
+  {
+    "url": "images/tla.png",
+    "revision": "7527e860afdbdc35b66fb1fe47b1371d"
   },
   {
     "url": "images/togaf.jpg",
@@ -1738,6 +1862,10 @@ self.__precacheManifest = [
   {
     "url": "images/windows.png",
     "revision": "0b7d293ac47b4bf89693aed7dabd48e9"
+  },
+  {
+    "url": "images/wiremock.png",
+    "revision": "c562ade5ea8f65e173a5a7353e5c43c2"
   },
   {
     "url": "images/wordpress.png",

@@ -3,6 +3,12 @@
 }
 
 .contributors-list__item {
+    display: inline-block;
     line-height: 3;
-    padding: 0.6rem 0;
+    padding: 0.6rem 0.6rem 0.6rem 0;
+    text-align: center;
+}
+
+.contributors-list__link {
+    display: block;
 }
