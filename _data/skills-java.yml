@@ -67,6 +67,13 @@
             link: "http://docs.oracle.com/javaee/7/tutorial/jaxrs.htm#GIEPU"
             level: 2
 -
+    title: "Awesome Java"
+    link: "https://github.com/akullpp/awesome-java"
+    description: ""
+    image: "awesome-list.svg"
+    level: 1
+    tags: "Languages"
+-
     title: "Kotlin"
     link: "https://kotlinlang.org"
     description: ""
@@ -75,11 +82,25 @@
     level: 2
     tags: "Languages"
 -
+    title: "Awesome Kotlin"
+    link: "https://github.com/KotlinBy/awesome-kotlin"
+    description: ""
+    image: "awesome-list.svg"
+    level: 1
+    tags: "Languages"
+-
     title: "Scala"
     link: "https://www.scala-lang.org/"
     description: ""
     image: "scala.png"
     level: 3
+    tags: "Languages"
+-
+    title: "Awesome Scala"
+    link: "https://github.com/lauris/awesome-scala"
+    description: ""
+    image: "awesome-list.svg"
+    level: 1
     tags: "Languages"
 -
     title: "XML Schema"

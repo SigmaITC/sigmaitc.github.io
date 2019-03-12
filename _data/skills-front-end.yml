@@ -378,6 +378,13 @@
             description: "A collection of awesome TypeScript resources for client-side and server-side development."
             level: 1
 -
+    title: "Awesome TypeScript"
+    link: "https://github.com/dzharii/awesome-typescript"
+    description: ""
+    image: "awesome-list.svg"
+    level: 1
+    tags: "Programming - General"
+-
     title: "Babel"
     link: "https://babeljs.io/"
     description: "Babel is a JavaScript compiler that let's you use the next generation of JavaScript, today."
