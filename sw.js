@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.36c4489a64648f99afb561be119b7c35.js"
+  "precache-manifest.ad34bb2246d08a0f922d56b61cccf697.js"
 );
 
 /**
@@ -632,6 +632,10 @@ self.__precacheManifest = [
     "revision": "6e4c76e9f40287ad2d9cf4b17026d1ec"
   },
   {
+    "url": "images/flyway.png",
+    "revision": "08e00a7c637054c888f1896af147c0bd"
+  },
+  {
     "url": "images/folktale.png",
     "revision": "1f12f8b83660461ca72abc2b1b28a39a"
   },
@@ -1046,6 +1050,10 @@ self.__precacheManifest = [
   {
     "url": "images/linux.png",
     "revision": "2e7aef33e54aa1b05047fa6c2c66f73a"
+  },
+  {
+    "url": "images/liquibase.png",
+    "revision": "138465fe8889d704744e4ebd75b348c5"
   },
   {
     "url": "images/loadbalancer.jpg",
