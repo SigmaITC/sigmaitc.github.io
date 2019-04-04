@@ -445,6 +445,7 @@
     title: "Pact"
     link: "https://docs.pact.io"
     description: "Pact is a contract testing tool. Contract testing is a way to ensure that services (such as an API provider and a client) can communicate with each other. Without contract testing, the only way to know that services can communicate is by using expensive and brittle integration tests."
+    recommended: true
     image: "pact.png"
     level: 2
     tags: "Quality & Test"
@@ -467,6 +468,7 @@
     title: "Spock"
     link: "http://spockframework.org"
     description: "Spock is a testing and specification framework for Java and Groovy applications. What makes it stand out from the crowd is its beautiful and highly expressive specification language. Thanks to its JUnit runner, Spock is compatible with most IDEs, build tools, and continuous integration servers. Spock is inspired from JUnit, RSpec, jMock, Mockito, Groovy, Scala, Vulcans, and other fascinating life forms."
+    hot: true
     image: "github.png"
     level: 1
     tags: "Quality & Test"
@@ -474,6 +476,7 @@
     title: "Spotbugs"
     link: "https://spotbugs.github.io"
     description: "SpotBugs is a program which uses static analysis to look for bugs in Java code."
+    required: true
     image: "spotbugs.png"
     level: 1
     tags: "Quality & Test"
@@ -495,6 +498,7 @@
     title: "vavr - Property Based Testing"
     link: "http://www.vavr.io/vavr-docs/#_property_checking"
     description: ""
+    recommended: true
     image: "vavr.png"
     level: 2
     tags: "Quality & Test"
@@ -577,6 +581,10 @@
             title: "Understanding Maven Version Numbers"
             link: "https://docs.oracle.com/middleware/1212/core/MAVEN/maven_version.htm#MAVEN8855"
             level: 1
+        -
+            title: "Maven Wrapper"
+            link: "https://github.com/takari/maven-wrapper"
+            level: 1
 -
     title: "Gradle"
     link: "https://gradle.org/"
@@ -589,6 +597,10 @@
         -
             title: "Gradle - Getting started"
             link: "http://gradle.org/getting-started-gradle-java/"
+            level: 1
+        -
+            title: "The Gradle Wrapper"
+            link: "https://docs.gradle.org/current/userguide/gradle_wrapper.html"
             level: 1
 -
     title: "Jenkins"
@@ -715,7 +727,7 @@
     title: "JPA"
     link: "http://en.wikipedia.org/wiki/Java_Persistence_API"
     description: ""
-    recommended: true
+    required: true
     image: "java.png"
     level: 2
     tags: "Database Integration"
@@ -723,6 +735,7 @@
     title: "Hibernate"
     link: "https://hibernate.org/"
     description: ""
+    recommended: true
     image: "hibernate.png"
     level: 2
     tags: "Database Integration"
@@ -730,9 +743,28 @@
     title: "Speedment"
     link: "https://www.speedment.com"
     description: "Java Stream ORM"
+    hot: true
     image: "speedment.jpg"
     level: 2
     tags: "Database Integration"
+
+# Database Migration
+-
+    title: "Flyway"
+    link: "https://flywaydb.org/getstarted/"
+    description: ""
+    recommended: true
+    image: "flyway.png"
+    level: 2
+    tags: "Database Migration"
+-
+    title: "Liquibase"
+    link: "https://www.liquibase.org"
+    description: ""
+    recommended: true
+    image: "liquibase.png"
+    level: 2
+    tags: "Database Migration"
 
 # In Memory Data
 -
