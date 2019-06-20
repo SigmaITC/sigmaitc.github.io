@@ -1707,6 +1707,13 @@
     level: 1
     tags: "Tools - Version Control"
 -
+    title: "Rush"
+    link: "https://rushjs.io/"
+    description: "Rush: a scalable monorepo manager for the web"
+    image: "rushjs.svg"
+    level: 2
+    tags: "Tools - Version Control"
+-
     title: "SourceTree"
     link: "https://www.sourcetreeapp.com/"
     description: ""
