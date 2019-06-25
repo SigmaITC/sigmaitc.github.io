@@ -11,11 +11,17 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.ad34bb2246d08a0f922d56b61cccf697.js"
+  "precache-manifest.5789525042fe23e8e5ee213c4e4e33cc.js"
 );
+
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -65,7 +71,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/main.css",
-    "revision": "2125f7f67dbf39f871d82459b474354d"
+    "revision": "9f4c46d19d85be4674ccf65e4673a1a7"
   },
   {
     "url": "images/aaai.jpg",
@@ -101,7 +107,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/analysis.png",
-    "revision": "1452d217d7033fd98364eef00aef12f8"
+    "revision": "eb692265958ad3fb4758eac8d98d9781"
   },
   {
     "url": "images/android.png",
@@ -133,7 +139,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/application.png",
-    "revision": "f453a68dadaad9ad4dafebdf2c4c8685"
+    "revision": "97c82f210c94090d4972c1650de6e8a4"
   },
   {
     "url": "images/appveyor.png",
@@ -225,7 +231,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/book.png",
-    "revision": "52f2a397139879799cf81933ad87a3ff"
+    "revision": "48aa3b4b0ee782b5859712eddf38dd32"
   },
   {
     "url": "images/bootstrap.png",
@@ -237,7 +243,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/brad-frost.jpg",
-    "revision": "0036ead4f08e2a7cde40b1582981a9ea"
+    "revision": "d5db9b0ed1871e60e1be8268b18f5767"
   },
   {
     "url": "images/browserify.png",
@@ -277,7 +283,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/cassandra.jpg",
-    "revision": "f0f738535bb9a8ce3d9db8c661fe9e26"
+    "revision": "e051c52178cbea9876039d070d02ea9c"
   },
   {
     "url": "images/certificate-logo-png.png",
@@ -349,7 +355,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/citrix.jpg",
-    "revision": "2dd86b565094184b5c0f929ad8060514"
+    "revision": "641160383fa140e2e31689e0c29bc890"
   },
   {
     "url": "images/cleancode.png",
@@ -397,7 +403,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/content.png",
-    "revision": "69d7a8e9c456fc6c3d9d9d4360821752"
+    "revision": "33ca2701af11c5eecd47e86aeff04bba"
   },
   {
     "url": "images/contentful.png",
@@ -469,7 +475,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/database.png",
-    "revision": "15edbc5325232498f296c296f27c0520"
+    "revision": "f0f5309ff7b75b1c528341dcb899b9bf"
   },
   {
     "url": "images/david-dm.png",
@@ -493,7 +499,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/dell.jpg",
-    "revision": "49f58953c203b2a02d91c5e389bf41c7"
+    "revision": "39b5635bd3561b01b1df750849d57233"
   },
   {
     "url": "images/dell.png",
@@ -509,7 +515,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/diagram.png",
-    "revision": "27a27a9c73bd6d4d0d47dea8c28c0c55"
+    "revision": "933bf6f8b9888d1d1047eb4dc4faa5a7"
   },
   {
     "url": "images/docker.png",
@@ -593,7 +599,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/ericsson1.jpg",
-    "revision": "2aa19a3cd588a058ab469ffed7d3becb"
+    "revision": "c37cbdf9424f121cf5c42139218bc6de"
   },
   {
     "url": "images/esdoc.png",
@@ -617,7 +623,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/f5.jpg",
-    "revision": "270848a4e972f99dfa99fe18b9fb28e6"
+    "revision": "5269cb6625edb2ab04f53f774fb8a5ae"
   },
   {
     "url": "images/fe-news.png",
@@ -633,7 +639,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/flyway.png",
-    "revision": "08e00a7c637054c888f1896af147c0bd"
+    "revision": "f87acbf69c774cb5e4827b1531701b10"
   },
   {
     "url": "images/folktale.png",
@@ -733,7 +739,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/hadoop.jpeg",
-    "revision": "a4b2dd1ad45d3ee8b282d9f26c5b06c1"
+    "revision": "5224f58bb793e1b020cb4b711398d5c9"
   },
   {
     "url": "images/handlebars.png",
@@ -769,11 +775,11 @@ self.__precacheManifest = [
   },
   {
     "url": "images/hpe.jpg",
-    "revision": "a5ba9461f311dd9fdc9d36cd57dc50d6"
+    "revision": "cfe822003b29d44b623016c077422141"
   },
   {
     "url": "images/html5.jpg",
-    "revision": "bf0f65f32d84555a80034f62be62dacd"
+    "revision": "ea116d606926eb959d94f3f5d3a0ca10"
   },
   {
     "url": "images/huawei.png",
@@ -805,11 +811,11 @@ self.__precacheManifest = [
   },
   {
     "url": "images/ict-eu.jpg",
-    "revision": "ad4de564cb847b35dc4be8bbbf2f75b1"
+    "revision": "6e30274c101e2283c0bf1f9869f90e09"
   },
   {
     "url": "images/idg.jpg",
-    "revision": "1a9088b6bc0be118a5981405a3a0d371"
+    "revision": "d48f447fe77071852a362ec847b28ef9"
   },
   {
     "url": "images/ieee.jpg",
@@ -869,7 +875,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/isaca.jpg",
-    "revision": "a49a469093eaac6c8c4951e79e197594"
+    "revision": "a19d64ad63fbcfb20703f20b0b3d487d"
   },
   {
     "url": "images/isim.png",
@@ -881,7 +887,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/ISSA.jpg",
-    "revision": "c28d8f608b2ea2f17b806a3f4c569324"
+    "revision": "96033ad4f6efcaaf2c5a2f14413e6dd7"
   },
   {
     "url": "images/it-arena-round.png",
@@ -909,11 +915,11 @@ self.__precacheManifest = [
   },
   {
     "url": "images/ITIL1.jpg",
-    "revision": "279a28eb31c3fc8432706044b74d6259"
+    "revision": "e6cceedf501c2bc022556d29b91cc326"
   },
   {
     "url": "images/ITPI.jpg",
-    "revision": "b0d452118d78037bd05a8c019fdd1a1d"
+    "revision": "2e68f00ab8a77dba77968919650b858a"
   },
   {
     "url": "images/jade.png",
@@ -1036,6 +1042,10 @@ self.__precacheManifest = [
     "revision": "0f608e61a9c5041b37fa7772a1fc95e4"
   },
   {
+    "url": "images/kubernetes.png",
+    "revision": "34d9a48d6ea6c7b5d6a7a543e7ccc24e"
+  },
+  {
     "url": "images/lenovo.png",
     "revision": "ef874a5983f9a161e9f841b48475b0a5"
   },
@@ -1057,7 +1067,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/loadbalancer.jpg",
-    "revision": "e35c0a72e0a492a892bf6d303d86b70a"
+    "revision": "55fe918f025bc7bccea64eb536d7a314"
   },
   {
     "url": "images/lodash.png",
@@ -1109,7 +1119,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/microsoft-hyper-v.jpg",
-    "revision": "baf47e03aa495e6f565a7a2eb5d37dc2"
+    "revision": "00d9be4e832722c82a54f2b4c781883c"
   },
   {
     "url": "images/microsoft-sql-server.png",
@@ -1169,11 +1179,11 @@ self.__precacheManifest = [
   },
   {
     "url": "images/MySQL1.jpg",
-    "revision": "e1f9f451cda8363b6f2c66d2d2a5cbf8"
+    "revision": "1e00a109223fa5edc7a17eae2aefbd58"
   },
   {
     "url": "images/nac.jpg",
-    "revision": "6062b41c9b339fc4bddc56fd53799a2d"
+    "revision": "27fec461ad3502584bfc61f965dc3cf1"
   },
   {
     "url": "images/neo4j.jpg",
@@ -1237,7 +1247,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/offline.png",
-    "revision": "551d73022395652cff27a9d1d3cd7ab6"
+    "revision": "ff54ff76ba3a42e95f1243720eefc8d8"
   },
   {
     "url": "images/ons.png",
@@ -1301,7 +1311,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/patterns.png",
-    "revision": "7a89db22923453f04530a4f7d62711a0"
+    "revision": "99a29e93004c8503aae9172ce1cb37d9"
   },
   {
     "url": "images/phantomcss.png",
@@ -1313,7 +1323,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/phone.png",
-    "revision": "9c4eed3f7e639c5105464934538d6d03"
+    "revision": "2616c7789a203b1bfd14d14f2c4c4f5c"
   },
   {
     "url": "images/phonegap.png",
@@ -1385,7 +1395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/progressive.png",
-    "revision": "06a2e092e6fe6503ad27ddce070bb0ce"
+    "revision": "cb417a1d31b00409f962370ead5012ca"
   },
   {
     "url": "images/project-reactor.png",
@@ -1409,7 +1419,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/pulse-secure.jpg",
-    "revision": "c0c6a617d8cd5ad0c962a1d7d91fa0c2"
+    "revision": "519e2e731a3ab73e931867d9d6e6b396"
   },
   {
     "url": "images/pulse-secure1.jpg",
@@ -1440,6 +1450,10 @@ self.__precacheManifest = [
     "revision": "9e78a16b22741ae59a5b286fa82639bb"
   },
   {
+    "url": "images/quarkus.png",
+    "revision": "3b276d17e92053c60907eae87891401b"
+  },
+  {
     "url": "images/qunit.png",
     "revision": "380d7ef64f93b3b12743780b2989e9cd"
   },
@@ -1457,7 +1471,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/react.jpg",
-    "revision": "41b3e60ece96a75cb641358ce1f2538d"
+    "revision": "2fcf708715341158688a737446268167"
   },
   {
     "url": "images/realtimeprogramming.jpg",
@@ -1512,6 +1526,10 @@ self.__precacheManifest = [
     "revision": "e4cbcabb0e8a615d04d1887409ec2239"
   },
   {
+    "url": "images/rushjs.svg",
+    "revision": "4b1e8bde37fc3e819aaeaede60d77452"
+  },
+  {
     "url": "images/rx.png",
     "revision": "a581c6cf6800844ca3eadbfbbdfcab02"
   },
@@ -1521,7 +1539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/sap_bbd.jpg",
-    "revision": "2e5394b7a8d8822d8343b24b22214c70"
+    "revision": "fa222a3757978d21efd4893820c801b7"
   },
   {
     "url": "images/SAP-HANA.png",
@@ -1529,7 +1547,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/sass.jpg",
-    "revision": "5c20ef7106cbccfc0516d7d5a496a67b"
+    "revision": "b23cc52f42383561f9d0b99b44cbd7b6"
   },
   {
     "url": "images/sassmeister.jpg",
@@ -1621,7 +1639,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/source-code.png",
-    "revision": "2a1550c4d63ed2af8c6671c47d781e82"
+    "revision": "2ef52293f6ac7eeff32ac2468416232f"
   },
   {
     "url": "images/source-tree.png",
@@ -1689,7 +1707,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/swedishauthorities.jpg",
-    "revision": "4d82add2b43402d1604a30ae7caf0b06"
+    "revision": "231668bfbbc3a3b1343a8a1af0476e10"
   },
   {
     "url": "images/tablet.png",
@@ -1710,6 +1728,10 @@ self.__precacheManifest = [
   {
     "url": "images/testcafe.jpg",
     "revision": "d00ea1c4a207b726e3c0a88f05ff67eb"
+  },
+  {
+    "url": "images/testcontainers.svg",
+    "revision": "f7e5f9766f731736c7d51bfd58891673"
   },
   {
     "url": "images/testdrivendevelopment.jpg",
@@ -1924,5 +1946,4 @@ self.__precacheManifest = [
     "revision": "3161b7f99b242a7b9a012a51705a9c3c"
   }
 ].concat(self.__precacheManifest || []);
-workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
