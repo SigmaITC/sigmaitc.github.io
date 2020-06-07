@@ -39,7 +39,7 @@
   "homepage": "https://github.com/SigmaITM/sigmaitm.github.io#readme",
   "dependencies": {
     "jquery": "3.5.0",
-    "materialize-css": "1.0.0"
+    "materialize-css": "1.0.0",
     "snyk": "^1.336.0"
   },
   "devDependencies": {
