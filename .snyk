@@ -570,3 +570,5 @@ patch:
         patched: '2020-06-07T12:49:43.686Z'
     - stylelint > postcss-jsx > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
         patched: '2020-06-07T12:49:43.686Z'
+    - stylelint > postcss-jsx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2020-06-07T13:02:32.694Z'
